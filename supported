@@ -278,6 +278,7 @@ Ubuntu artwork:
  * python-pygresql         # JamesTroup, from hoglet
  * python-psycopg          # To be used in launchpad
  * python-nevow
+ * python-elementtree
 
 = Console Tools =
 
