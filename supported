@@ -258,10 +258,6 @@ Other:
  * dict-jargon
  * dict-vera
  * kino
- * ttf-alee
- * ttf-unfonts
- * nabi
- * imhangul
  
 GNOME Office:
 
@@ -808,6 +804,10 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * openoffice.org-hyphenation-da
  * openoffice.org-hyphenation-de
  * openoffice.org-hyphenation-it
+ * ttf-alee
+ * ttf-unfonts
+ * nabi
+ * imhangul
 
 = Transitional packages =
 
