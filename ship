@@ -57,12 +57,16 @@
 
  * pptp-linux             # client for Microsoft-compatible VPN's, needed for some ISPs
  * eagle-usb-utils        # needed for some ADSL modems
- * isdnutils
  * pcmcia-cs
  * bpalogin
  * ndiswrapper-utils
 
  * nvidia-glx    # nvidia drivers, for multiseat, but also easy access
+
+ * isdnutils
+ * ipppd
+ * capiutils
+ * pppdcapiplugin
 
 == Common language packs ==
 
