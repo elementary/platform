@@ -214,9 +214,7 @@ We include 2.6 kernel module udebs only.
 
 == powerpc ==
 
- * Kernel-Version: 2.6.9-1-power3
- * Kernel-Version: 2.6.9-1-power4
- * Kernel-Version: 2.6.9-1-powerpc
+ * Kernel-Version: 2.6.9-1-power3 2.6.9-1-power4 2.6.9-1-powerpc
 
  * affs-modules-${Kernel-Version}-di
  * cdrom-core-modules-${Kernel-Version}-di
