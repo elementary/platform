@@ -6,12 +6,6 @@ libcapplet
 gnome-bin
 gnome-libs
 
-# blacklist: kde
-# KDE is big and interdependent; avoid shipping it at all if we can
-
-# Currently, only vim pulls this in
-kdelibs
-
 # blacklist: misc
 # Packages which are pulled in incidentally (typically by build-dependencies)
 # and could be trivially replaced with something that we ship
