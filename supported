@@ -740,6 +740,16 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * util-linux-locales
  * gimpprint-locales
  * gettext-el
+ * mozilla-locale-ca
+ * mozilla-locale-cy
+ * mozilla-locale-da
+ * mozilla-locale-el
+ * mozilla-locale-es-es
+ * mozilla-locale-it
+ * mozilla-locale-no-nb
+ * mozilla-locale-pl
+ * mozilla-locale-ptbr
+ * mozilla-locale-sl
  * mozilla-firefox-locale-ca
  * mozilla-firefox-locale-de
  * mozilla-firefox-locale-el
