@@ -846,7 +846,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-pack-da
  * language-pack-de
  * language-pack-el
- * language-pack-en
  * language-pack-eo
  * language-pack-es
  * language-pack-et
@@ -928,7 +927,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-pack-da-update
  * language-pack-de-update
  * language-pack-el-update
- * language-pack-en-update
  * language-pack-eo-update
  * language-pack-es-update
  * language-pack-et-update
@@ -1010,7 +1008,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-support-da
  * language-support-de
  * language-support-el
- * language-support-en
  * language-support-eo
  * language-support-es
  * language-support-et
