@@ -702,9 +702,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
 === sparc ===
 
- * linux-sparc64
  * linux-sparc64-smp
- * linux-headers-sparc64
  * linux-headers-sparc64-smp
 
 === Source ===

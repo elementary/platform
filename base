@@ -36,8 +36,7 @@
 == sparc ==
 
  * silo [sparc]
- * linux-sparc64        # sparc64 kernel
- * linux-sparc64-smp    # sparc64 kernel SMP
+ * linux-sparc64        # sparc64 UP kernel, works on all machines
 
 = UNIX =
 
