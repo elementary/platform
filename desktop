@@ -114,6 +114,7 @@ We've chosen GNOME as our desktop user interface of choice, and GNOME 2.8 is a F
  * gimp
  * gnome-about
  * gnome-applets
+ * gnome-btdownload       # simple GNOME frontend for bittorrent downloads
  * gnome-control-center
  * gnome-cups-manager
  * gnome-games
