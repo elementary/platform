@@ -233,7 +233,9 @@ Other:
  * dict-vera
  * kino
  * graphviz
- 
+
+ * polypaudio-clients
+
 GNOME Office:
 
  * abiword-gnome
