@@ -177,6 +177,8 @@ Download:
  * apt-listchanges
  * dput
  * pkgstriptranslations # for removing gettext data on the buildds
+ * hello
+ * hello-debhelper
 
 = Shells =
 
