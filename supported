@@ -54,6 +54,7 @@ Web:
  * libapache2-mod-auth-plain     # FabioMassimoDiNitto
  * libapache2-mod-auth-sys-group # FabioMassimoDiNitto
  * libapache2-mod-security       # FabioMassimoDiNitto
+ * php4-pgsql			 # MartinPitt
 
 Email:
 
