@@ -232,7 +232,6 @@ Other:
  * mozilla-thunderbird-offline  # offline use of thunderbird
  * mozilla-thunderbird-typeaheadfind # neat usability enhancement for thunderbird
  * mozilla-thunderbird-inspector     # used for extension development and debugging
- * openoffice.org-help
  * pan
  * workrave            # RSI-avoidance
  * xnest
@@ -718,6 +717,19 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 = Localisation =
 
  * aspell-de
+ * openoffice.org-help-de
+ * openoffice.org-help-el
+ * openoffice.org-help-en
+ * openoffice.org-help-es
+ * openoffice.org-help-fr
+ * openoffice.org-help-it
+ * openoffice.org-help-ja
+ * openoffice.org-help-ko
+ * openoffice.org-help-pt-br
+ * openoffice.org-help-sv
+ * openoffice.org-help-tr
+ * openoffice.org-help-zh-cn
+ * openoffice.org-help-zh-tw
  * openoffice.org-l10n-af
  * openoffice.org-l10n-ar
  * openoffice.org-l10n-ca
