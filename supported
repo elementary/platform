@@ -805,15 +805,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * amd64-libs [i386]
  * ia32-libs [amd64 ia64]
 
-= OpenOffice.org 2.x =
-
- * openoffice.org2
- * openoffice.org2-gnome
- * openoffice.org2-kde
- * openoffice.org2-evolution
- * openoffice.org2-java
- * openoffice.org2-l10n-en-us
-
 = Germinate workarounds =
 
  * libaltlinuxhyph-dev # build-dep of oo.o, not found by germinate
