@@ -762,6 +762,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 = Germinate workarounds =
 
  * libaltlinuxhyph-dev # build-dep of oo.o, not found by germinate
+ * libstdc++6-dev # g++-3.4 is pulled in as a build-dep of mozilla only on amd64 but on amd64 the libstdc++ package is called libstdc++6-0, so germinate doesn't know to pull in the '-0'-less packages in for !amd64 arches. [phew.]
 
 = Not quite ready for base yet =
 
