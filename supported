@@ -13,6 +13,7 @@
 
  * xfsdump # only useful when machine is setup and working, and only for xfs people
  * cloop-utils # for LiveCD
+ * ntfsprogs
 
 = Servers and Daemons =
 
