@@ -31,6 +31,7 @@
 
  * elilo
  * linux-itanium-smp    # ia64 kernel, works on all machines
+ * linux-mckinley-smp   # ia64 kernel, all Itanium II machines
 
 = UNIX =
 
