@@ -106,9 +106,9 @@ We've chosen GNOME as our desktop user interface of choice, and GNOME 2.8 is a F
  * evolution # experimental
  * evolution-exchange # experimental
  * evolution-webcal # experimental
- * fam
  * file-roller           # SebastienBacher
  * gaim
+ * gamin
  * gcalctool             # SebastienBacher
  * gconf-editor          # SebastienBacher
  * gdm
