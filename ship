@@ -19,11 +19,11 @@
  * apache2-mpm-worker
  * samba
  * bpalogin
- * linux-headers-2.6-386
- * linux-headers-2.6-powerpc
- * linux-headers-2.6-power3
- * linux-headers-2.6-power4
- * linux-headers-2.6-amd64-generic
+ * linux-headers-386
+ * linux-headers-powerpc
+ * linux-headers-power3
+ * linux-headers-power4
+ * linux-headers-amd64-generic
  * pptp-linux # needed for some ISPs
  * eagle-usb-utils # needed for some ISPs
  * isdnutils
