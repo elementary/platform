@@ -10,5 +10,32 @@
  * language-pack-ja
  * language-pack-de
  * language-pack-fr
+ * language-pack-sr [powerpc ia64]
+ * language-pack-sv [powerpc ia64]
+ * language-pack-da [powerpc ia64]
+ * language-pack-cs [powerpc ia64]
+ * language-pack-ca [powerpc ia64]
+ * language-pack-nl [powerpc ia64]
+ * language-pack-tr [powerpc ia64]
+ * language-pack-pl [powerpc ia64]
+ * language-pack-it [powerpc ia64]
+ * language-pack-fi [powerpc ia64]
+ * language-pack-sk [powerpc ia64]
+ * language-pack-hu [powerpc ia64]
+ * language-pack-uk [powerpc ia64]
+ * language-pack-ko [powerpc ia64]
+ * language-pack-no [powerpc ia64]
+ * language-pack-el [powerpc ia64]
+ * language-pack-nb [powerpc ia64]
+ * language-pack-hr [ia64]
+ * language-pack-ro [ia64]
+ * language-pack-lt [ia64]
+ * language-pack-bg [ia64]
+ * language-pack-eu [ia64]
+ * language-pack-sq [ia64]
+ * language-pack-sl [ia64]
+ * language-pack-ms [ia64]
+ * language-pack-vi [ia64]
+ * language-pack-xh [ia64]
  * ubuntu-live
  * pcmcia-cs
