@@ -1,0 +1,163 @@
+This seed is used to construct the first stage of the live CD.
+
+= Common Packages =
+
+ * anna
+ * archdetect
+ * bogl-bterm-udeb
+ * bterm-unifont
+ * busybox-cvs-udeb
+ * casper-check
+ * casper-udeb
+ * cdebconf-newt-udeb
+ * cdebconf-priority
+ * cdebconf-text-udeb
+ * cdebconf-udeb
+ * cdrom-checker
+ * cdrom-detect
+ * cdrom-retriever
+ * console-keymaps-at
+ * console-keymaps-dec
+ * console-keymaps-mac
+ * console-keymaps-sun
+ * console-keymaps-usb
+ * dhcp-client-udeb
+ * di-utils
+ * di-utils-mapdevfs
+ * di-utils-reboot
+ * di-utils-shell
+ * di-utils-terminfo
+ * dmsetup-udeb
+ * e2fsprogs-udeb
+ * ethdetect
+ * file-preseed
+ * grepmap-udeb # speeds up hotplug
+ * hotplug-udeb
+ * hw-detect
+ * hw-detect-full
+ * initrd-preseed
+ * iso-3166-udeb
+ * kbd-chooser
+ * libfribidi0-udeb
+ * load-cdrom
+ * localechooser
+ * lowmem
+ * lowmemcheck
+ * main-menu
+ * mii-diag-udeb
+ * module-init-tools-udeb
+ * nano-udeb
+ * netcfg
+ * network-preseed
+ * pciutils-udeb # for lspci, so we can show descriptive names for devices
+ * pcmcia-cs-udeb
+ * prebaseconfig
+ * preseed-common
+ * rootskel
+ * rootskel-locale
+ * udev-udeb
+ * udpkg
+ * usb-discover
+ * usbutils-udeb # for lsusb, so we can show descriptive names for devices
+ * wireless-tools-udeb
+
+== amd64 ==
+
+ * Kernel-Version: 2.6.10-1-amd64-generic
+
+ * acpi-modules-${Kernel-Version}-di
+ * cdrom-core-modules-${Kernel-Version}-di
+ * fb-modules-${Kernel-Version}-di
+ * ide-core-modules-${Kernel-Version}-di
+ * ide-modules-${Kernel-Version}-di
+ * input-modules-${Kernel-Version}-di
+ * ipv6-modules-${Kernel-Version}-di
+ * nic-extra-modules-${Kernel-Version}-di
+ * nic-firmware-${Kernel-Version}-di
+ * nic-modules-${Kernel-Version}-di
+ * nic-pcmcia-modules-${Kernel-Version}-di
+ * nic-restricted-firmware-${Kernel-Version}-di
+ * nic-restricted-modules-${Kernel-Version}-di
+ * nic-shared-modules-${Kernel-Version}-di
+ * nic-usb-modules-${Kernel-Version}-di
+ * pcmcia-modules-${Kernel-Version}-di
+ * pcmcia-storage-modules-${Kernel-Version}-di
+ * sata-modules-${Kernel-Version}-di
+ * scsi-common-modules-${Kernel-Version}-di
+ * scsi-extra-modules-${Kernel-Version}-di
+ * scsi-modules-${Kernel-Version}-di
+ * socket-modules-${Kernel-Version}-di
+
+== i386 ==
+
+ * Kernel-Version: 2.6.10-1-386
+
+ * acpi-modules-${Kernel-Version}-di
+ * cdrom-core-modules-${Kernel-Version}-di
+ * cdrom-modules-${Kernel-Version}-di
+ * fb-modules-${Kernel-Version}-di
+ * ide-core-modules-${Kernel-Version}-di
+ * ide-modules-${Kernel-Version}-di
+ * input-modules-${Kernel-Version}-di
+ * ipv6-modules-${Kernel-Version}-di
+ * nic-extra-modules-${Kernel-Version}-di
+ * nic-firmware-${Kernel-Version}-di
+ * nic-modules-${Kernel-Version}-di
+ * nic-pcmcia-modules-${Kernel-Version}-di
+ * nic-restricted-firmware-${Kernel-Version}-di
+ * nic-restricted-modules-${Kernel-Version}-di
+ * nic-shared-modules-${Kernel-Version}-di
+ * nic-usb-modules-${Kernel-Version}-di
+ * pcmcia-modules-${Kernel-Version}-di
+ * pcmcia-storage-modules-${Kernel-Version}-di
+ * sata-modules-${Kernel-Version}-di
+ * scsi-common-modules-${Kernel-Version}-di
+ * scsi-extra-modules-${Kernel-Version}-di
+ * scsi-modules-${Kernel-Version}-di
+ * socket-modules-${Kernel-Version}-di
+
+== ia64 ==
+
+ * Kernel-Version: 2.6.10-1-itanium-smp
+
+ * cdrom-core-modules-${Kernel-Version}-di
+ * fb-modules-${Kernel-Version}-di
+ * ide-core-modules-${Kernel-Version}-di
+ * ide-modules-${Kernel-Version}-di
+ * input-modules-${Kernel-Version}-di
+ * ipv6-modules-${Kernel-Version}-di
+ * nic-modules-${Kernel-Version}-di
+ * nic-shared-modules-${Kernel-Version}-di
+ * nic-usb-modules-${Kernel-Version}-di
+ * pcmcia-modules-${Kernel-Version}-di
+ * sata-modules-${Kernel-Version}-di
+ * scsi-core-modules-${Kernel-Version}-di
+ * scsi-modules-${Kernel-Version}-di
+
+== powerpc ==
+
+ * Kernel-Version: 2.6.10-1-power3 2.6.10-1-power4 2.6.10-1-powerpc
+
+ * cdrom-core-modules-${Kernel-Version}-di
+ * fb-modules-${Kernel-Version}-di
+ * ide-modules-${Kernel-Version}-di
+ * input-modules-${Kernel-Version}-di
+ * ipv6-modules-${Kernel-Version}-di
+ * nic-extra-modules-${Kernel-Version}-di
+ * nic-firmware-${Kernel-Version}-di
+ * nic-modules-${Kernel-Version}-di
+ * nic-pcmcia-modules-${Kernel-Version}-di
+ * nic-restricted-firmware-${Kernel-Version}-di
+ * nic-restricted-modules-${Kernel-Version}-di
+ * nic-shared-modules-${Kernel-Version}-di
+ * nic-usb-modules-${Kernel-Version}-di
+ * pcmcia-modules-${Kernel-Version}-di
+ * pcmcia-storage-modules-${Kernel-Version}-di
+ * sata-modules-${Kernel-Version}-di
+ * scsi-common-modules-${Kernel-Version}-di
+ * scsi-core-modules-${Kernel-Version}-di
+ * scsi-extra-modules-${Kernel-Version}-di
+ * scsi-modules-${Kernel-Version}-di
+ * socket-modules-${Kernel-Version}-di
+ * usb-modules-${Kernel-Version}-di
+ * usb-storage-modules-${Kernel-Version}-di
