@@ -128,83 +128,83 @@ We include 2.6 kernel module udebs only.
 
  * Kernel-Version: 2.6.8.1-3-amd64-generic
 
- * acpi-modules-2.6.8.1-3-amd64-generic-di
- * cdrom-core-modules-2.6.8.1-3-amd64-generic-di
- * fb-modules-2.6.8.1-3-amd64-generic-di
+ * acpi-modules-${Kernel-Version}-di
+ * cdrom-core-modules-${Kernel-Version}-di
+ * fb-modules-${Kernel-Version}-di
  * fdisk-udeb
- * firewire-core-modules-2.6.8.1-3-amd64-generic-di
- * floppy-modules-2.6.8.1-3-amd64-generic-di # for the "save logs to floppy" feature
+ * firewire-core-modules-${Kernel-Version}-di
+ * floppy-modules-${Kernel-Version}-di # for the "save logs to floppy" feature
  * grub-installer
- * ide-core-modules-2.6.8.1-3-amd64-generic-di
- * ide-modules-2.6.8.1-3-amd64-generic-di
- * input-modules-2.6.8.1-3-amd64-generic-di
- * ipv6-modules-2.6.8.1-3-amd64-generic-di
- * irda-modules-2.6.8.1-3-amd64-generic-di
+ * ide-core-modules-${Kernel-Version}-di
+ * ide-modules-${Kernel-Version}-di
+ * input-modules-${Kernel-Version}-di
+ * ipv6-modules-${Kernel-Version}-di
+ * irda-modules-${Kernel-Version}-di
  * libc6-udeb
  * lilo-installer
- * loop-modules-2.6.8.1-3-amd64-generic-di
- * nic-extra-modules-2.6.8.1-3-amd64-generic-di
- * nic-firmware-2.6.8.1-3-amd64-generic-di
- * nic-modules-2.6.8.1-3-amd64-generic-di
- * nic-pcmcia-modules-2.6.8.1-3-amd64-generic-di
- * nic-shared-modules-2.6.8.1-3-amd64-generic-di
- * nic-usb-modules-2.6.8.1-3-amd64-generic-di
- * ntfs-modules-2.6.8.1-3-amd64-generic-di
- * parport-modules-2.6.8.1-3-amd64-generic-di
- * pcmcia-modules-2.6.8.1-3-amd64-generic-di
- * pcmcia-storage-modules-2.6.8.1-3-amd64-generic-di
- * plip-modules-2.6.8.1-3-amd64-generic-di
- * ppp-modules-2.6.8.1-3-amd64-generic-di
- * sata-modules-2.6.8.1-3-amd64-generic-di
- * scsi-common-modules-2.6.8.1-3-amd64-generic-di
- * scsi-extra-modules-2.6.8.1-3-amd64-generic-di
- * scsi-modules-2.6.8.1-3-amd64-generic-di
- * serial-modules-2.6.8.1-3-amd64-generic-di
- * socket-modules-2.6.8.1-3-amd64-generic-di
- * usb-modules-2.6.8.1-3-amd64-generic-di
- * usb-storage-modules-2.6.8.1-3-amd64-generic-di
+ * loop-modules-${Kernel-Version}-di
+ * nic-extra-modules-${Kernel-Version}-di
+ * nic-firmware-${Kernel-Version}-di
+ * nic-modules-${Kernel-Version}-di
+ * nic-pcmcia-modules-${Kernel-Version}-di
+ * nic-shared-modules-${Kernel-Version}-di
+ * nic-usb-modules-${Kernel-Version}-di
+ * ntfs-modules-${Kernel-Version}-di
+ * parport-modules-${Kernel-Version}-di
+ * pcmcia-modules-${Kernel-Version}-di
+ * pcmcia-storage-modules-${Kernel-Version}-di
+ * plip-modules-${Kernel-Version}-di
+ * ppp-modules-${Kernel-Version}-di
+ * sata-modules-${Kernel-Version}-di
+ * scsi-common-modules-${Kernel-Version}-di
+ * scsi-extra-modules-${Kernel-Version}-di
+ * scsi-modules-${Kernel-Version}-di
+ * serial-modules-${Kernel-Version}-di
+ * socket-modules-${Kernel-Version}-di
+ * usb-modules-${Kernel-Version}-di
+ * usb-storage-modules-${Kernel-Version}-di
 
 == i386 ==
 
  * Kernel-Version: 2.6.8.1-3-386
 
- * acpi-modules-2.6.8.1-3-386-di
- * cdrom-core-modules-2.6.8.1-3-386-di
- * cdrom-modules-2.6.8.1-3-386-di
- * fb-modules-2.6.8.1-3-386-di
+ * acpi-modules-${Kernel-Version}-di
+ * cdrom-core-modules-${Kernel-Version}-di
+ * cdrom-modules-${Kernel-Version}-di
+ * fb-modules-${Kernel-Version}-di
  * fdisk-udeb
- * firewire-core-modules-2.6.8.1-3-386-di
- * floppy-modules-2.6.8.1-3-386-di # for the "save logs to floppy" feature
+ * firewire-core-modules-${Kernel-Version}-di
+ * floppy-modules-${Kernel-Version}-di # for the "save logs to floppy" feature
  * grub-installer
- * ide-core-modules-2.6.8.1-3-386-di
- * ide-modules-2.6.8.1-3-386-di
- * input-modules-2.6.8.1-3-386-di
- * ipv6-modules-2.6.8.1-3-386-di
- * irda-modules-2.6.8.1-3-386-di
+ * ide-core-modules-${Kernel-Version}-di
+ * ide-modules-${Kernel-Version}-di
+ * input-modules-${Kernel-Version}-di
+ * ipv6-modules-${Kernel-Version}-di
+ * irda-modules-${Kernel-Version}-di
  * libc6-udeb
  * lilo-installer
- * loop-modules-2.6.8.1-3-386-di
- * nic-extra-modules-2.6.8.1-3-386-di
- * nic-firmware-2.6.8.1-3-386-di
- * nic-modules-2.6.8.1-3-386-di
- * nic-pcmcia-modules-2.6.8.1-3-386-di
- * nic-restricted-firmware-2.6.8.1-3-386-di
- * nic-shared-modules-2.6.8.1-3-386-di
- * nic-usb-modules-2.6.8.1-3-386-di
- * ntfs-modules-2.6.8.1-3-386-di
- * parport-modules-2.6.8.1-3-386-di
- * pcmcia-modules-2.6.8.1-3-386-di
- * pcmcia-storage-modules-2.6.8.1-3-386-di
- * plip-modules-2.6.8.1-3-386-di
- * ppp-modules-2.6.8.1-3-386-di
- * sata-modules-2.6.8.1-3-386-di
- * scsi-common-modules-2.6.8.1-3-386-di
- * scsi-extra-modules-2.6.8.1-3-386-di
- * scsi-modules-2.6.8.1-3-386-di
- * serial-modules-2.6.8.1-3-386-di
- * socket-modules-2.6.8.1-3-386-di
- * usb-modules-2.6.8.1-3-386-di
- * usb-storage-modules-2.6.8.1-3-386-di
+ * loop-modules-${Kernel-Version}-di
+ * nic-extra-modules-${Kernel-Version}-di
+ * nic-firmware-${Kernel-Version}-di
+ * nic-modules-${Kernel-Version}-di
+ * nic-pcmcia-modules-${Kernel-Version}-di
+ * nic-restricted-firmware-${Kernel-Version}-di
+ * nic-shared-modules-${Kernel-Version}-di
+ * nic-usb-modules-${Kernel-Version}-di
+ * ntfs-modules-${Kernel-Version}-di
+ * parport-modules-${Kernel-Version}-di
+ * pcmcia-modules-${Kernel-Version}-di
+ * pcmcia-storage-modules-${Kernel-Version}-di
+ * plip-modules-${Kernel-Version}-di
+ * ppp-modules-${Kernel-Version}-di
+ * sata-modules-${Kernel-Version}-di
+ * scsi-common-modules-${Kernel-Version}-di
+ * scsi-extra-modules-${Kernel-Version}-di
+ * scsi-modules-${Kernel-Version}-di
+ * serial-modules-${Kernel-Version}-di
+ * socket-modules-${Kernel-Version}-di
+ * usb-modules-${Kernel-Version}-di
+ * usb-storage-modules-${Kernel-Version}-di
 
 == ia64 ==
 
@@ -218,96 +218,38 @@ We include 2.6 kernel module udebs only.
  * Kernel-Version: 2.6.8.1-3-power4
  * Kernel-Version: 2.6.8.1-3-powerpc
 
- * affs-modules-2.6.8.1-3-power3-di
- * affs-modules-2.6.8.1-3-power4-di
- * affs-modules-2.6.8.1-3-powerpc-di
- * cdrom-core-modules-2.6.8.1-3-power3-di
- * cdrom-core-modules-2.6.8.1-3-power4-di
- * cdrom-core-modules-2.6.8.1-3-powerpc-di
- * fb-modules-2.6.8.1-3-power3-di
- * fb-modules-2.6.8.1-3-power4-di
- * fb-modules-2.6.8.1-3-powerpc-di
+ * affs-modules-${Kernel-Version}-di
+ * cdrom-core-modules-${Kernel-Version}-di
+ * fb-modules-${Kernel-Version}-di
  * fdisk-udeb
- * firewire-core-modules-2.6.8.1-3-power3-di
- * firewire-core-modules-2.6.8.1-3-power4-di
- * firewire-core-modules-2.6.8.1-3-powerpc-di
- * floppy-modules-2.6.8.1-3-power3-di
- * floppy-modules-2.6.8.1-3-power4-di
- * floppy-modules-2.6.8.1-3-powerpc-di
- * fs-common-modules-2.6.8.1-3-power3-di
- * fs-common-modules-2.6.8.1-3-power4-di
- * fs-common-modules-2.6.8.1-3-powerpc-di
- * ide-modules-2.6.8.1-3-power3-di
- * ide-modules-2.6.8.1-3-power4-di
- * ide-modules-2.6.8.1-3-powerpc-di
- * input-modules-2.6.8.1-3-power3-di
- * input-modules-2.6.8.1-3-power4-di
- * input-modules-2.6.8.1-3-powerpc-di
- * ipv6-modules-2.6.8.1-3-power3-di
- * ipv6-modules-2.6.8.1-3-power4-di
- * ipv6-modules-2.6.8.1-3-powerpc-di
- * irda-modules-2.6.8.1-3-power3-di
- * irda-modules-2.6.8.1-3-power4-di
- * irda-modules-2.6.8.1-3-powerpc-di
+ * firewire-core-modules-${Kernel-Version}-di
+ * floppy-modules-${Kernel-Version}-di
+ * fs-common-modules-${Kernel-Version}-di
+ * ide-modules-${Kernel-Version}-di
+ * input-modules-${Kernel-Version}-di
+ * ipv6-modules-${Kernel-Version}-di
+ * irda-modules-${Kernel-Version}-di
  * libc6-udeb
- * loop-modules-2.6.8.1-3-power3-di
- * loop-modules-2.6.8.1-3-power4-di
- * loop-modules-2.6.8.1-3-powerpc-di
+ * loop-modules-${Kernel-Version}-di
  * mac-fdisk-udeb
- * nic-extra-modules-2.6.8.1-3-power3-di
- * nic-extra-modules-2.6.8.1-3-power4-di
- * nic-extra-modules-2.6.8.1-3-powerpc-di
- * nic-firmware-2.6.8.1-3-power3-di
- * nic-firmware-2.6.8.1-3-power4-di
- * nic-firmware-2.6.8.1-3-powerpc-di
- * nic-modules-2.6.8.1-3-power3-di
- * nic-modules-2.6.8.1-3-power4-di
- * nic-modules-2.6.8.1-3-powerpc-di
- * nic-pcmcia-modules-2.6.8.1-3-power3-di
- * nic-pcmcia-modules-2.6.8.1-3-power4-di
- * nic-pcmcia-modules-2.6.8.1-3-powerpc-di
- * nic-shared-modules-2.6.8.1-3-power3-di
- * nic-shared-modules-2.6.8.1-3-power4-di
- * nic-shared-modules-2.6.8.1-3-powerpc-di
- * nic-usb-modules-2.6.8.1-3-power3-di
- * nic-usb-modules-2.6.8.1-3-power4-di
- * nic-usb-modules-2.6.8.1-3-powerpc-di
+ * nic-extra-modules-${Kernel-Version}-di
+ * nic-firmware-${Kernel-Version}-di
+ * nic-modules-${Kernel-Version}-di
+ * nic-pcmcia-modules-${Kernel-Version}-di
+ * nic-shared-modules-${Kernel-Version}-di
+ * nic-usb-modules-${Kernel-Version}-di
  * partman-newworld
- * pcmcia-modules-2.6.8.1-3-power3-di
- * pcmcia-modules-2.6.8.1-3-power4-di
- * pcmcia-modules-2.6.8.1-3-powerpc-di
- * pcmcia-storage-modules-2.6.8.1-3-power3-di
- * pcmcia-storage-modules-2.6.8.1-3-power4-di
- * pcmcia-storage-modules-2.6.8.1-3-powerpc-di
+ * pcmcia-modules-${Kernel-Version}-di
+ * pcmcia-storage-modules-${Kernel-Version}-di
  * pmac-fdisk-udeb
- * ppp-modules-2.6.8.1-3-power3-di
- * ppp-modules-2.6.8.1-3-power4-di
- * ppp-modules-2.6.8.1-3-powerpc-di
- * sata-modules-2.6.8.1-3-power3-di
- * sata-modules-2.6.8.1-3-power4-di
- * sata-modules-2.6.8.1-3-powerpc-di
- * scsi-common-modules-2.6.8.1-3-power3-di
- * scsi-common-modules-2.6.8.1-3-power4-di
- * scsi-common-modules-2.6.8.1-3-powerpc-di
- * scsi-core-modules-2.6.8.1-3-power3-di
- * scsi-core-modules-2.6.8.1-3-power4-di
- * scsi-core-modules-2.6.8.1-3-powerpc-di
- * scsi-extra-modules-2.6.8.1-3-power3-di
- * scsi-extra-modules-2.6.8.1-3-power4-di
- * scsi-extra-modules-2.6.8.1-3-powerpc-di
- * scsi-modules-2.6.8.1-3-power3-di
- * scsi-modules-2.6.8.1-3-power4-di
- * scsi-modules-2.6.8.1-3-powerpc-di
- * serial-modules-2.6.8.1-3-power3-di
- * serial-modules-2.6.8.1-3-power4-di
- * serial-modules-2.6.8.1-3-powerpc-di
- * socket-modules-2.6.8.1-3-power3-di
- * socket-modules-2.6.8.1-3-power4-di
- * socket-modules-2.6.8.1-3-powerpc-di
- * usb-modules-2.6.8.1-3-power3-di
- * usb-modules-2.6.8.1-3-power4-di
- * usb-modules-2.6.8.1-3-powerpc-di
- * usb-storage-modules-2.6.8.1-3-power3-di
- * usb-storage-modules-2.6.8.1-3-power4-di
- * usb-storage-modules-2.6.8.1-3-powerpc-di
+ * ppp-modules-${Kernel-Version}-di
+ * sata-modules-${Kernel-Version}-di
+ * scsi-common-modules-${Kernel-Version}-di
+ * scsi-core-modules-${Kernel-Version}-di
+ * scsi-extra-modules-${Kernel-Version}-di
+ * scsi-modules-${Kernel-Version}-di
+ * serial-modules-${Kernel-Version}-di
+ * socket-modules-${Kernel-Version}-di
+ * usb-modules-${Kernel-Version}-di
+ * usb-storage-modules-${Kernel-Version}-di
  * yaboot-installer
