@@ -36,7 +36,6 @@
 == sparc ==
 
  * silo [sparc]
- * sparc-utils [sparc]  # no buildd without this one
  * linux-sparc64        # sparc64 kernel
  * linux-sparc64-smp    # sparc64 kernel SMP
 
