@@ -6,7 +6,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * apt-setup-udeb # first-stage apt configuration question
  * archdetect
  * archive-copier
- * autopartkit
  * base-installer
  * baseconfig-udeb
  * bogl-bterm-udeb
