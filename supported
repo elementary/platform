@@ -864,6 +864,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-pack-no
  * language-pack-or
  * language-pack-pa
+ * language-pack-rm
  * language-pack-ro
  * language-pack-rw
  * language-pack-se
@@ -1034,6 +1035,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-support-pl
  * language-support-pt
  * language-support-ro
+ * language-support-rm
  * language-support-ru
  * language-support-rw
  * language-support-se
