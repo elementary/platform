@@ -49,6 +49,7 @@ This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ li
  * hw-detect
  * hw-detect-full
  * iso-3166-udeb
+ * iso-scan # for USB boot
  * jfsutils-udeb
  * kbd-chooser
  * languagechooser
@@ -58,6 +59,7 @@ This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ li
  * libreiserfs0.3-udeb
  * load-cdrom
  * load-installer # for netboot
+ * load-iso # for USB boot
  * lowmem
  * lowmemcheck
  * lvm10-udeb  # TODO: which of lvm10/lvm2 do we need?
