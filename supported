@@ -8,6 +8,7 @@
  * smartmontools   # hard disk diagnostics
  * i855-crt        # crack to enable video out on i855 chipsets
  * ndiswrapper-utils     # Ick.
+ * hpoj		   # HP OfficeJet driver
 
 == Filesystems ==
 
