@@ -637,33 +637,28 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * linux-686-smp
  * linux-k7
  * linux-k7-smp
- * linux-headers-2.6-386
- * linux-headers-2.6-686
- * linux-headers-2.6-686-smp
- * linux-headers-2.6-k7
- * linux-headers-2.6-k7-smp
+ * linux-headers-686
+ * linux-headers-686-smp
+ * linux-headers-k7
+ * linux-headers-k7-smp
 
 === powerpc ===
 
  * linux-powerpc-smp
  * linux-power3-smp
  * linux-power4-smp
- * linux-headers-2.6-powerpc
- * linux-headers-2.6-power3
- * linux-headers-2.6-power4
- * linux-headers-2.6-powerpc-smp
- * linux-headers-2.6-power3-smp
- * linux-headers-2.6-power4-smp
+ * linux-headers-powerpc-smp
+ * linux-headers-power3-smp
+ * linux-headers-power4-smp
 
 === amd64 ===
 
  * linux-amd64-k8
  * linux-amd64-k8-smp
  * linux-amd64-xeon
- * linux-headers-2.6-amd64-generic
- * linux-headers-2.6-amd64-k8
- * linux-headers-2.6-amd64-k8-smp
- * linux-headers-2.6-amd64-xeon
+ * linux-headers-amd64-k8
+ * linux-headers-amd64-k8-smp
+ * linux-headers-amd64-xeon
 
 === Source ===
 
