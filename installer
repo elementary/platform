@@ -36,8 +36,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * di-utils-reboot
  * di-utils-shell
  * di-utils-terminfo
- * discover1-data-udeb
- * discover1-udeb
  * download-installer
  * e2fsprogs-udeb
  * eject-udeb
