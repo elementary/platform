@@ -210,9 +210,36 @@ We include 2.6 kernel module udebs only.
 
 == ia64 ==
 
+ * Kernel-Version: 2.6.9-1-itanium-smp
+
+ * cdrom-core-modules-${Kernel-Version}-di
  * efi-reader
  * elilo-installer
+ * fb-modules-${Kernel-Version}-di
+ * fdisk-udeb
+ * firewire-core-modules-${Kernel-Version}-di
+ * ide-core-modules-${Kernel-Version}-di
+ * ide-modules-${Kernel-Version}-di
+ * input-modules-${Kernel-Version}-di
+ * ipv6-modules-${Kernel-Version}-di
+ * irda-modules-${Kernel-Version}-di
  * libc6.1-udeb
+ * loop-modules-${Kernel-Version}-di
+ * nic-modules-${Kernel-Version}-di
+ * nic-shared-modules-${Kernel-Version}-di
+ * nic-usb-modules-${Kernel-Version}-di
+ * ntfs-modules-${Kernel-Version}-di
+ * parport-modules-${Kernel-Version}-di
+ * partman-efi
+ * pcmcia-modules-${Kernel-Version}-di
+ * plip-modules-${Kernel-Version}-di
+ * ppp-modules-${Kernel-Version}-di
+ * sata-modules-${Kernel-Version}-di
+ * scsi-core-modules-${Kernel-Version}-di
+ * scsi-modules-${Kernel-Version}-di
+ * serial-modules-${Kernel-Version}-di
+ * usb-modules-${Kernel-Version}-di
+ * usb-storage-modules-${Kernel-Version}-di
 
 == powerpc ==
 
