@@ -419,6 +419,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libxxf86rush-dev
  * libxxf86vm-dev
  * freeglut3-dbg
+ * gnome-panel-dbg
  * libatk1.0-dbg
  * libatspi-dbg
  * libc6-dbg [amd64 i386 powerpc sparc]
