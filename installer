@@ -163,158 +163,158 @@ We include 2.6 kernel module udebs only.
 
  * Kernel-Version: 2.6.10-3-amd64-generic
 
- * acpi-modules-${Kernel-Version}-di
- * cdrom-core-modules-${Kernel-Version}-di
- * fb-modules-${Kernel-Version}-di
- * firewire-core-modules-${Kernel-Version}-di
- * floppy-modules-${Kernel-Version}-di # for the "save logs to floppy" feature
- * ide-core-modules-${Kernel-Version}-di
- * ide-modules-${Kernel-Version}-di
- * input-modules-${Kernel-Version}-di
- * ipv6-modules-${Kernel-Version}-di
- * irda-modules-${Kernel-Version}-di
- * loop-modules-${Kernel-Version}-di
- * nic-extra-modules-${Kernel-Version}-di
- * nic-firmware-${Kernel-Version}-di
- * nic-modules-${Kernel-Version}-di
- * nic-pcmcia-modules-${Kernel-Version}-di
- * nic-restricted-firmware-${Kernel-Version}-di
- * nic-restricted-modules-${Kernel-Version}-di
- * nic-shared-modules-${Kernel-Version}-di
- * nic-usb-modules-${Kernel-Version}-di
- * ntfs-modules-${Kernel-Version}-di
- * parport-modules-${Kernel-Version}-di
- * pcmcia-modules-${Kernel-Version}-di
- * pcmcia-storage-modules-${Kernel-Version}-di
- * plip-modules-${Kernel-Version}-di
- * ppp-modules-${Kernel-Version}-di
- * sata-modules-${Kernel-Version}-di
- * scsi-common-modules-${Kernel-Version}-di
- * scsi-extra-modules-${Kernel-Version}-di
- * scsi-modules-${Kernel-Version}-di
- * serial-modules-${Kernel-Version}-di
- * socket-modules-${Kernel-Version}-di
- * usb-modules-${Kernel-Version}-di
- * usb-storage-modules-${Kernel-Version}-di
+ * acpi-modules-${Kernel-Version}-di [amd64]
+ * cdrom-core-modules-${Kernel-Version}-di [amd64]
+ * fb-modules-${Kernel-Version}-di [amd64]
+ * firewire-core-modules-${Kernel-Version}-di [amd64]
+ * floppy-modules-${Kernel-Version}-di [amd64] # for the "save logs to floppy" feature
+ * ide-core-modules-${Kernel-Version}-di [amd64]
+ * ide-modules-${Kernel-Version}-di [amd64]
+ * input-modules-${Kernel-Version}-di [amd64]
+ * ipv6-modules-${Kernel-Version}-di [amd64]
+ * irda-modules-${Kernel-Version}-di [amd64]
+ * loop-modules-${Kernel-Version}-di [amd64]
+ * nic-extra-modules-${Kernel-Version}-di [amd64]
+ * nic-firmware-${Kernel-Version}-di [amd64]
+ * nic-modules-${Kernel-Version}-di [amd64]
+ * nic-pcmcia-modules-${Kernel-Version}-di [amd64]
+ * nic-restricted-firmware-${Kernel-Version}-di [amd64]
+ * nic-restricted-modules-${Kernel-Version}-di [amd64]
+ * nic-shared-modules-${Kernel-Version}-di [amd64]
+ * nic-usb-modules-${Kernel-Version}-di [amd64]
+ * ntfs-modules-${Kernel-Version}-di [amd64]
+ * parport-modules-${Kernel-Version}-di [amd64]
+ * pcmcia-modules-${Kernel-Version}-di [amd64]
+ * pcmcia-storage-modules-${Kernel-Version}-di [amd64]
+ * plip-modules-${Kernel-Version}-di [amd64]
+ * ppp-modules-${Kernel-Version}-di [amd64]
+ * sata-modules-${Kernel-Version}-di [amd64]
+ * scsi-common-modules-${Kernel-Version}-di [amd64]
+ * scsi-extra-modules-${Kernel-Version}-di [amd64]
+ * scsi-modules-${Kernel-Version}-di [amd64]
+ * serial-modules-${Kernel-Version}-di [amd64]
+ * socket-modules-${Kernel-Version}-di [amd64]
+ * usb-modules-${Kernel-Version}-di [amd64]
+ * usb-storage-modules-${Kernel-Version}-di [amd64]
 
 == i386 ==
 
  * Kernel-Version: 2.6.10-3-386
 
- * acpi-modules-${Kernel-Version}-di
- * cdrom-core-modules-${Kernel-Version}-di
- * cdrom-modules-${Kernel-Version}-di
- * fb-modules-${Kernel-Version}-di
- * firewire-core-modules-${Kernel-Version}-di
- * floppy-modules-${Kernel-Version}-di # for the "save logs to floppy" feature
- * ide-core-modules-${Kernel-Version}-di
- * ide-modules-${Kernel-Version}-di
- * input-modules-${Kernel-Version}-di
- * ipv6-modules-${Kernel-Version}-di
- * irda-modules-${Kernel-Version}-di
- * loop-modules-${Kernel-Version}-di
- * nic-extra-modules-${Kernel-Version}-di
- * nic-firmware-${Kernel-Version}-di
- * nic-modules-${Kernel-Version}-di
- * nic-pcmcia-modules-${Kernel-Version}-di
- * nic-restricted-firmware-${Kernel-Version}-di
- * nic-restricted-modules-${Kernel-Version}-di
- * nic-shared-modules-${Kernel-Version}-di
- * nic-usb-modules-${Kernel-Version}-di
- * ntfs-modules-${Kernel-Version}-di
- * parport-modules-${Kernel-Version}-di
- * pcmcia-modules-${Kernel-Version}-di
- * pcmcia-storage-modules-${Kernel-Version}-di
- * plip-modules-${Kernel-Version}-di
- * ppp-modules-${Kernel-Version}-di
- * sata-modules-${Kernel-Version}-di
- * scsi-common-modules-${Kernel-Version}-di
- * scsi-extra-modules-${Kernel-Version}-di
- * scsi-modules-${Kernel-Version}-di
- * serial-modules-${Kernel-Version}-di
- * socket-modules-${Kernel-Version}-di
- * usb-modules-${Kernel-Version}-di
- * usb-storage-modules-${Kernel-Version}-di
+ * acpi-modules-${Kernel-Version}-di [i386]
+ * cdrom-core-modules-${Kernel-Version}-di [i386]
+ * cdrom-modules-${Kernel-Version}-di [i386]
+ * fb-modules-${Kernel-Version}-di [i386]
+ * firewire-core-modules-${Kernel-Version}-di [i386]
+ * floppy-modules-${Kernel-Version}-di [i386] # for the "save logs to floppy" feature
+ * ide-core-modules-${Kernel-Version}-di [i386]
+ * ide-modules-${Kernel-Version}-di [i386]
+ * input-modules-${Kernel-Version}-di [i386]
+ * ipv6-modules-${Kernel-Version}-di [i386]
+ * irda-modules-${Kernel-Version}-di [i386]
+ * loop-modules-${Kernel-Version}-di [i386]
+ * nic-extra-modules-${Kernel-Version}-di [i386]
+ * nic-firmware-${Kernel-Version}-di [i386]
+ * nic-modules-${Kernel-Version}-di [i386]
+ * nic-pcmcia-modules-${Kernel-Version}-di [i386]
+ * nic-restricted-firmware-${Kernel-Version}-di [i386]
+ * nic-restricted-modules-${Kernel-Version}-di [i386]
+ * nic-shared-modules-${Kernel-Version}-di [i386]
+ * nic-usb-modules-${Kernel-Version}-di [i386]
+ * ntfs-modules-${Kernel-Version}-di [i386]
+ * parport-modules-${Kernel-Version}-di [i386]
+ * pcmcia-modules-${Kernel-Version}-di [i386]
+ * pcmcia-storage-modules-${Kernel-Version}-di [i386]
+ * plip-modules-${Kernel-Version}-di [i386]
+ * ppp-modules-${Kernel-Version}-di [i386]
+ * sata-modules-${Kernel-Version}-di [i386]
+ * scsi-common-modules-${Kernel-Version}-di [i386]
+ * scsi-extra-modules-${Kernel-Version}-di [i386]
+ * scsi-modules-${Kernel-Version}-di [i386]
+ * serial-modules-${Kernel-Version}-di [i386]
+ * socket-modules-${Kernel-Version}-di [i386]
+ * usb-modules-${Kernel-Version}-di [i386]
+ * usb-storage-modules-${Kernel-Version}-di [i386]
 
 == ia64 ==
 
  * Kernel-Version: 2.6.10-3-itanium-smp
 
- * cdrom-core-modules-${Kernel-Version}-di
- * fb-modules-${Kernel-Version}-di
- * firewire-core-modules-${Kernel-Version}-di
- * ide-core-modules-${Kernel-Version}-di
- * ide-modules-${Kernel-Version}-di
- * input-modules-${Kernel-Version}-di
- * ipv6-modules-${Kernel-Version}-di
- * irda-modules-${Kernel-Version}-di
- * loop-modules-${Kernel-Version}-di
- * nic-modules-${Kernel-Version}-di
- * nic-shared-modules-${Kernel-Version}-di
- * nic-usb-modules-${Kernel-Version}-di
- * ntfs-modules-${Kernel-Version}-di
- * parport-modules-${Kernel-Version}-di
- * pcmcia-modules-${Kernel-Version}-di
- * plip-modules-${Kernel-Version}-di
- * ppp-modules-${Kernel-Version}-di
- * sata-modules-${Kernel-Version}-di
- * scsi-core-modules-${Kernel-Version}-di
- * scsi-modules-${Kernel-Version}-di
- * serial-modules-${Kernel-Version}-di
- * usb-modules-${Kernel-Version}-di
- * usb-storage-modules-${Kernel-Version}-di
+ * cdrom-core-modules-${Kernel-Version}-di [ia64]
+ * fb-modules-${Kernel-Version}-di [ia64]
+ * firewire-core-modules-${Kernel-Version}-di [ia64]
+ * ide-core-modules-${Kernel-Version}-di [ia64]
+ * ide-modules-${Kernel-Version}-di [ia64]
+ * input-modules-${Kernel-Version}-di [ia64]
+ * ipv6-modules-${Kernel-Version}-di [ia64]
+ * irda-modules-${Kernel-Version}-di [ia64]
+ * loop-modules-${Kernel-Version}-di [ia64]
+ * nic-modules-${Kernel-Version}-di [ia64]
+ * nic-shared-modules-${Kernel-Version}-di [ia64]
+ * nic-usb-modules-${Kernel-Version}-di [ia64]
+ * ntfs-modules-${Kernel-Version}-di [ia64]
+ * parport-modules-${Kernel-Version}-di [ia64]
+ * pcmcia-modules-${Kernel-Version}-di [ia64]
+ * plip-modules-${Kernel-Version}-di [ia64]
+ * ppp-modules-${Kernel-Version}-di [ia64]
+ * sata-modules-${Kernel-Version}-di [ia64]
+ * scsi-core-modules-${Kernel-Version}-di [ia64]
+ * scsi-modules-${Kernel-Version}-di [ia64]
+ * serial-modules-${Kernel-Version}-di [ia64]
+ * usb-modules-${Kernel-Version}-di [ia64]
+ * usb-storage-modules-${Kernel-Version}-di [ia64]
 
 == powerpc ==
 
  * Kernel-Version: 2.6.10-3-power3 2.6.10-3-power4 2.6.10-3-powerpc
 
- * affs-modules-${Kernel-Version}-di
- * cdrom-core-modules-${Kernel-Version}-di
- * fb-modules-${Kernel-Version}-di
- * firewire-core-modules-${Kernel-Version}-di
- * floppy-modules-${Kernel-Version}-di
- * fs-common-modules-${Kernel-Version}-di
- * ide-modules-${Kernel-Version}-di
- * input-modules-${Kernel-Version}-di
- * ipv6-modules-${Kernel-Version}-di
- * irda-modules-${Kernel-Version}-di
- * loop-modules-${Kernel-Version}-di
- * nic-extra-modules-${Kernel-Version}-di
- * nic-firmware-${Kernel-Version}-di
- * nic-modules-${Kernel-Version}-di
- * nic-pcmcia-modules-${Kernel-Version}-di
- * nic-restricted-firmware-${Kernel-Version}-di
- * nic-restricted-modules-${Kernel-Version}-di
- * nic-shared-modules-${Kernel-Version}-di
- * nic-usb-modules-${Kernel-Version}-di
- * pcmcia-modules-${Kernel-Version}-di
- * pcmcia-storage-modules-${Kernel-Version}-di
- * ppp-modules-${Kernel-Version}-di
- * sata-modules-${Kernel-Version}-di
- * scsi-common-modules-${Kernel-Version}-di
- * scsi-core-modules-${Kernel-Version}-di
- * scsi-extra-modules-${Kernel-Version}-di
- * scsi-modules-${Kernel-Version}-di
- * serial-modules-${Kernel-Version}-di
- * socket-modules-${Kernel-Version}-di
- * usb-modules-${Kernel-Version}-di
- * usb-storage-modules-${Kernel-Version}-di
+ * affs-modules-${Kernel-Version}-di [powerpc]
+ * cdrom-core-modules-${Kernel-Version}-di [powerpc]
+ * fb-modules-${Kernel-Version}-di [powerpc]
+ * firewire-core-modules-${Kernel-Version}-di [powerpc]
+ * floppy-modules-${Kernel-Version}-di [powerpc]
+ * fs-common-modules-${Kernel-Version}-di [powerpc]
+ * ide-modules-${Kernel-Version}-di [powerpc]
+ * input-modules-${Kernel-Version}-di [powerpc]
+ * ipv6-modules-${Kernel-Version}-di [powerpc]
+ * irda-modules-${Kernel-Version}-di [powerpc]
+ * loop-modules-${Kernel-Version}-di [powerpc]
+ * nic-extra-modules-${Kernel-Version}-di [powerpc]
+ * nic-firmware-${Kernel-Version}-di [powerpc]
+ * nic-modules-${Kernel-Version}-di [powerpc]
+ * nic-pcmcia-modules-${Kernel-Version}-di [powerpc]
+ * nic-restricted-firmware-${Kernel-Version}-di [powerpc]
+ * nic-restricted-modules-${Kernel-Version}-di [powerpc]
+ * nic-shared-modules-${Kernel-Version}-di [powerpc]
+ * nic-usb-modules-${Kernel-Version}-di [powerpc]
+ * pcmcia-modules-${Kernel-Version}-di [powerpc]
+ * pcmcia-storage-modules-${Kernel-Version}-di [powerpc]
+ * ppp-modules-${Kernel-Version}-di [powerpc]
+ * sata-modules-${Kernel-Version}-di [powerpc]
+ * scsi-common-modules-${Kernel-Version}-di [powerpc]
+ * scsi-core-modules-${Kernel-Version}-di [powerpc]
+ * scsi-extra-modules-${Kernel-Version}-di [powerpc]
+ * scsi-modules-${Kernel-Version}-di [powerpc]
+ * serial-modules-${Kernel-Version}-di [powerpc]
+ * socket-modules-${Kernel-Version}-di [powerpc]
+ * usb-modules-${Kernel-Version}-di [powerpc]
+ * usb-storage-modules-${Kernel-Version}-di [powerpc]
 
 == sparc ==
 
  * Kernel-Version: 2.6.10-3-sparc64
 
- * cdrom-core-modules-${Kernel-Version}-di
- * ext3-modules-${Kernel-Version}-di
- * fat-modules-${Kernel-Version}-di
- * ide-modules-${Kernel-Version}-di
- * ipv6-modules-${Kernel-Version}-di
- * loop-modules-${Kernel-Version}-di
- * md-modules-${Kernel-Version}-di
- * nic-modules-${Kernel-Version}-di
- * plip-modules-${Kernel-Version}-di
- * ppp-modules-${Kernel-Version}-di
- * reiserfs-modules-${Kernel-Version}-di
- * scsi-common-modules-${Kernel-Version}-di
- * scsi-core-modules-${Kernel-Version}-di
- * xfs-modules-${Kernel-Version}-di
+ * cdrom-core-modules-${Kernel-Version}-di [sparc]
+ * ext3-modules-${Kernel-Version}-di [sparc]
+ * fat-modules-${Kernel-Version}-di [sparc]
+ * ide-modules-${Kernel-Version}-di [sparc]
+ * ipv6-modules-${Kernel-Version}-di [sparc]
+ * loop-modules-${Kernel-Version}-di [sparc]
+ * md-modules-${Kernel-Version}-di [sparc]
+ * nic-modules-${Kernel-Version}-di [sparc]
+ * plip-modules-${Kernel-Version}-di [sparc]
+ * ppp-modules-${Kernel-Version}-di [sparc]
+ * reiserfs-modules-${Kernel-Version}-di [sparc]
+ * scsi-common-modules-${Kernel-Version}-di [sparc]
+ * scsi-core-modules-${Kernel-Version}-di [sparc]
+ * xfs-modules-${Kernel-Version}-di [sparc]
