@@ -12,7 +12,7 @@ We need kick-ass desktop hardware support! These are architecture-specific items
 
  * acpi
  * acpid
- * apmd
+ * apmd [i386]
 
 == ppc32, ppc64 ==
 
