@@ -114,6 +114,7 @@ This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ li
  * di-utils-bootfloppy
  * floppy-retriever
  * load-floppy
+ * rootskel-bootfloppy
 
 = Architecture-Specific Packages =
 
