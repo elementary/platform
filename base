@@ -100,7 +100,6 @@ Programs and packages necessary for both the proper functionality of the system 
  * console-tools
  * cpio
  * cron
- * dbus-1
  * debconf
  * eject             # very popular, useful, small
  * ed
