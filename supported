@@ -816,39 +816,32 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
  * language-pack-af
  * language-pack-am
- * language-pack-ar
  * language-pack-as
  * language-pack-az
  * language-pack-be
  * language-pack-bg
- * language-pack-bn
  * language-pack-br
  * language-pack-bs
  * language-pack-ca
  * language-pack-cs
  * language-pack-cy
  * language-pack-da
- * language-pack-de
  * language-pack-el
  * language-pack-eo
- * language-pack-es
  * language-pack-et
  * language-pack-eu
  * language-pack-fa
  * language-pack-fi
- * language-pack-fr
  * language-pack-ga
  * language-pack-gl
  * language-pack-gu
  * language-pack-he
- * language-pack-hi
  * language-pack-hr
  * language-pack-hu
  * language-pack-ia
  * language-pack-id
  * language-pack-is
  * language-pack-it
- * language-pack-ja
  * language-pack-ka
  * language-pack-kn
  * language-pack-ko
@@ -874,9 +867,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-pack-or
  * language-pack-pa
  * language-pack-pl
- * language-pack-pt
  * language-pack-ro
- * language-pack-ru
  * language-pack-rw
  * language-pack-se
  * language-pack-si
@@ -899,7 +890,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-pack-xh
  * language-pack-yi
  * language-pack-yo
- * language-pack-zh
  * language-pack-zu
  * language-pack-af-base
  * language-pack-am-base
