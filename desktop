@@ -157,8 +157,6 @@ We've chosen GNOME as our desktop user interface of choice, and GNOME 2.8 is a F
  * dbus-1-utils # for session dbus, #895
  * myspell-en-us # spell checking (US English)
  * myspell-en-gb # spell checking (GB English)
- * openoffice.org-hyphenation-en-gb
- * openoffice.org-hyphenation-en-us
 
 Themes: we will ship only the very best looking themes. We won't ship everything that Debian ships, just a custom package that includes the themes we want. These packages are included for size guidance until we have Warty-specific packages.
 
@@ -206,6 +204,7 @@ GStreamer stuff which should end up in universe (see supported though, for a few
  * openoffice.org-gtk-gnome
  * openoffice.org-help-en
  * openoffice.org-hyphenation-en-gb
+ * openoffice.org-hyphenation-en-us
  * openoffice.org-thesaurus
  * xsane           # scanner utils
  * xpdf            # until gpdf is really better
