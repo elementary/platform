@@ -827,4 +827,3 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * upgrade-notifier
  * update-manager
  * gnome-app-install
- * ubuntu-keyring
