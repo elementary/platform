@@ -243,6 +243,7 @@ Other:
  * gtranslator             # we want warty users to participate in rosetta!
  * screem                  # MRS, our default html editor
  * vim-gnome
+ * vorbis-tools
  * vorbisgain
  * enscript
  * emacs-goodies-el
