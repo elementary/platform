@@ -1,27 +1,28 @@
 == Desktop ==
 
  * epiphany-extensions # that'll pull in epiphany
- * mozilla-thunderbird
- * mozilla-thunderbird-enigmail
- * mozilla-thunderbird-offline
- * mozilla-thunderbird-typeaheadfind
+ * mozilla-thunderbird # world favourite mail client
+ * mozilla-thunderbird-offline  # offline use of thunderbird
+ * mozilla-thunderbird-typeaheadfind # neat usability enhancement for thunderbird
+ * mozilla-thunderbird-inspector     # used for extension development and debugging
 
 == Server ==
 
  * ssh
- * lilo [i386]
+ * lilo [i386]         # MattZimmerman wants this for server admins
  * ntp-simple
- * nfs-kernel-server
- * apache2-mpm-worker
- * samba
+ * nfs-kernel-server      # need an NFS server
+ * apache2-mpm-worker  # ThomMay; for simple file/web serving -> add zeroconf and we have swish mac os x style :-)
+ * samba               # for Windows filesharing and integration
 
 == Development ==
 
  * build-essential
  * fakeroot
- * devscripts
- * cvs
- * tla
+ * devscripts		  # Debian package development
+ * cvs                    #RobertCollins
+ * tla			  #RobertCollins
+ * bazaar
  * linux-headers-386
  * linux-headers-powerpc
  * linux-headers-power3
@@ -38,7 +39,7 @@
 
 == Common UNIX stuff ==
 
- * nfs-common
+ * nfs-common		  # allows people to access NFS filesystems
 
 == For X preconfiguration ==
 
@@ -53,8 +54,8 @@
 
 == Network Access ==
 
- * pptp-linux # needed for some ISPs
- * eagle-usb-utils # needed for some ISPs
+ * pptp-linux             # client for Microsoft-compatible VPN's, needed for some ISPs
+ * eagle-usb-utils        # needed for some ADSL modems
  * isdnutils
  * pcmcia-cs
  * bpalogin

@@ -5,7 +5,6 @@
  * bluez-pcmcia-support # bluetooth pcmcia support
  * bluez-hcidump   # bluetooth traffic disassembly
  * bluez-cups             # allow connecting to bluetooth printers from CUPS
- * isdnutils
  * smartmontools   # hard disk diagnostics
  * i855-crt        # crack to enable video out on i855 chipsets
  * ndiswrapper-utils     # Ick.
@@ -13,14 +12,12 @@
 == Filesystems ==
 
  * xfsdump # only useful when machine is setup and working, and only for xfs people
- * nfs-common # allows people to access NFS filesystems
  * cloop-utils # for LiveCD
 
 = Servers and Daemons =
 
 Samba:
 
- * samba               # for Windows filesharing and integration
  * smbfs               # allows mounting Windows shares
 
 Database:
@@ -42,7 +39,6 @@ LDAP:
 Web:
 
  * apache2
- * apache2-mpm-worker  # ThomMay; for simple file/web serving -> add zeroconf and we have swish mac os x style :-)
  * apache2-mpm-perchild      # ThomMay
  * apache2-mpm-prefork       # ThomMay
  * apache2-mpm-threadpool    # ThomMay (although this will probably disappear from debian fairly soon)
@@ -64,7 +60,7 @@ Email:
  * exim4-base
  * exim4-daemon-light
  * exim4-daemon-heavy
- * exim4-doc
+ * exim4-doc-html
  * cyrus21-admin
  * cyrus21-clients
  * cyrus21-murder
@@ -88,11 +84,9 @@ FTP/TFTP:
 Other:
 
  * dhcp3-server
- * nfs-kernel-server      # need an NFS server
  * bind9                  # LaMontJones, will look silly without it :-)
  * snmp
  * snmpd
- * ntp-simple
  * nis
  * sensord
  * lm-sensors
@@ -113,13 +107,10 @@ Utilities:
  * iptraf                 # sysadmin's toy, may be a candidate for removal
  * traceroute             # we have iputils-tracepath in base, this is only for real traceroute lovers
  * pptpd                  # server that allows setup of Microsoft-compatible VPN
- * pptp-linux             # client for Microsoft-compatible VPN's, may be needed in base
  * ifenslave-2.6          # interface bonding/trunking/etherchannel
  * ipsec-tools            # IPsec configuration
  * vlan                   # userland tools to config 8021q support
  * bridge-utils           # userland tools to config kernel bridging feature
- * bpalogin               # .au ISP authentication
- * eagle-usb-utils        # needed for some ADSL modems
 
 IPv6 tools:
 
@@ -151,50 +142,38 @@ Download:
 
 == Development Tools ==
 
- * build-essential
  * bison
  * flex
  * patchutils
+ * gdb
  * valgrind
  * autoconf
- * autoconf2.13
- * automake1.4
- * automake1.7
- * automake1.8
+ * automake1.9
  * autotools-dev
  * libtool
- * gcc               # core compiler platform, version 3.3 for Warty
  * ccache            # C/C++ development, package development
  * kernel-package
  * pychecker
- * gnome-common
  * exuberant-ctags   # ColinWatson
- * gdb
  * libstdc++5-3.3-dev    # hint to germinate
  * dpkg-dev-el
 
 == Revision Control ==
 
- * cvs                    #RobertCollins
  * subversion
  * subversion-tools
  * python2.4-subversion
- * tla                    #RobertCollins
  * tla-tools              #RobertCollins
- * bazaar
 
 == Package Maintainance ==
 
- * build-essential
  * debhelper         # ColinWatson
  * dh-make
  * dupload           # ColinWatson
- * fakeroot
  * linda             # python-based replacement for lintian
  * lintian
  * pbuilder          # ColinWatson
  * apt-listchanges
- * devscripts        # Debian package development
  * dput
  * pkgstriptranslations # for removing gettext data on the buildds
 
@@ -219,7 +198,6 @@ Other:
  * devhelp
  * dia-gnome           # useful but a bit specialist
  * epiphany-browser
- * epiphany-extensions
  * finger
  * gftp-gtk
  * glade-gnome-2
@@ -227,7 +205,6 @@ Other:
  * libgnome2-perl      # used by debconf GNOME frontend
  * memprof
  * mozilla-psm
- * mozilla-thunderbird # world favourite mail client
  * mozilla-thunderbird-enigmail # gpg integration for thunderbird
  * mozilla-thunderbird-offline  # offline use of thunderbird
  * mozilla-thunderbird-typeaheadfind # neat usability enhancement for thunderbird
@@ -313,7 +290,6 @@ Ubuntu artwork:
 
 = System Administration Tools =
 
- * lilo                 # MattZimmerman wants this for server admins
  * attr                 # will move to base if we go to selinux
  * quota
  * backuppc             # RobertCollins
@@ -350,7 +326,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * cyrus21-dev
  * dhcp3-dev
  * dictionaries-common-dev
- * evolution1.5-dev
+ * evolution-dev
  * expect-dev
  * glutg3-dev
  * gnome-applets-dev
@@ -361,7 +337,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libbind-dev
  * libblkid-dev
  * libdb4.3++-dev
- * libdc1394-10-dev
+ * libdc1394-11-dev
  * libdevhelp-1-dev
  * libdirectfb-dev
  * libdirectfb-udeb-dev
@@ -373,7 +349,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libgd-dev
  * libgd-xpm-dev
  * libgdchart-gd1-xpm-dev
- * libgdkcardimage-dev
  * libggi2-dev
  * libgii0-dev
  * libglide2-dev # xorg build-dep
@@ -384,7 +359,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libmagic-dev
  * libmagick++6-dev
  * libmp3hip-dev
- * libmysqlclient-dev
+ * libmysqlclient12-dev
  * libneon23-dev
  * libnetpbm10-dev
  * libnetpbm9-dev
@@ -423,7 +398,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libxfixes-dev
  * libxcomposite-dev
  * libxdamage-dev
- * libxfixes-dev
  * libfs-dev
  * libxau-dev
  * libxdmcp-dev
@@ -443,25 +417,25 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libatspi-dbg
  * libc6-dbg
  * libc6.1-dbg
- * libcurl2-dbg
+ * libcurl3-dbg
  * libdps1-dbg
  * libfontconfig1-dbg
  * libgail-dbg
  * libgail-gnome-dbg
  * libgda2-dbg
  * libglib1.2-dbg
- * libglib2.0-dbg
+ * libglib2.0-0-dbg
  * libgnomedb2-dbg
- * libgnomeui-dbg
+ * libgnomeui-0-dbg
  * libgsf-1-dbg
  * libgsf-gnome-1-dbg
  * libgtk1.2-dbg
- * libgtk2.0-dbg
+ * libgtk2.0-0-dbg
  * libice6-dbg
  * libncurses5-dbg
  * libncursesw5-dbg
  * libopenh323-dbg
- * libpanel-applet2-dbg
+ * libpanel-applet2-0-dbg
  * libpango1.0-dbg
  * libparted1.6-dbg
  * libpth-dbg
@@ -548,7 +522,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * diff-doc
  * doxygen-doc
  * dpkg-doc
- * dpsyco-doc
  * epydoc-doc
  * flex-doc
  * fontforge-doc
@@ -588,7 +561,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libgnomeprint2.2-doc
  * libgnomeprintui2.2-doc
  * libgnomeui-doc
- * libgnutls-doc
  * libgtk2.0-doc
  * libgtkmm2.0-doc
  * libmpeg-doc
@@ -650,7 +622,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * opie-server
  * sasl-bin
  * autofs
- * lmsensors                    # Has to have sensors-detect disabled.
  * awstats
  * acct
  * nagios                       # SECURITAH REVIEW
@@ -720,7 +691,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * aspell-de
  * openoffice.org-help-de
  * openoffice.org-help-el
- * openoffice.org-help-en
  * openoffice.org-help-es
  * openoffice.org-help-fr
  * openoffice.org-help-it
@@ -820,8 +790,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 = Transitional packages =
 
  * xlibmesa3 # upgrades from woody
- * evolution1.5 # upgrades from Warty pre-releases
- * evolution1.5-dev # upgrades from Warty pre-releases
 
 = Miscellaneous =
 
