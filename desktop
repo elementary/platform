@@ -5,6 +5,7 @@ We need kick-ass desktop hardware support! These are architecture-specific items
  * acpi-support
  * libesd0 # so that esd actually works (as opposed to libesd-alsa0)
  * powernowd
+ * readahead
 
 == i386, i686, amd64 ==
 
@@ -138,6 +139,7 @@ We've chosen GNOME as our desktop user interface of choice, and GNOME 2.8 is a F
  * libglib2.0-data
  * metacity                # SebastienBacher
  * mozilla-firefox
+ * mozilla-firefox-gnome-support
  * nautilus                # SebastienBacher
  * nautilus-cd-burner      # SebastienBacher
  * rhythmbox               # SebastienBacher
@@ -199,6 +201,7 @@ GStreamer stuff which should end up in universe (see supported though, for a few
 = Other Desktop GUI Apps =
 
  * openoffice.org            # this is not a gnome app, but we'll use the debian gtk-ified version to get closer
+ * openoffice.org-gtk-gnome
  * openoffice.org-help-en
  * openoffice.org-hyphenation-en-gb
  * openoffice.org-thesaurus
@@ -243,6 +246,7 @@ Libraries and Modules:
  * python-glade2
  * python-gnome2            # SebastienBacher
  * python-gnupginterface
+ * python-gst
  * python-gtk2              # SebastienBacher
  * python-hip
  * python-htmlgen
