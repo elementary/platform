@@ -1,0 +1,7 @@
+base:
+desktop: base
+ship: base desktop
+live: base desktop
+installer:
+casper:
+supported: base desktop ship live
