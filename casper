@@ -49,6 +49,7 @@ This seed is used to construct the first stage of the live CD.
  * preseed-common
  * rootskel
  * rootskel-locale
+ * tzsetup-udeb
  * udev-udeb
  * udpkg
  * usb-discover
