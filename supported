@@ -1,0 +1,755 @@
+'''Editing:''' Please do not edit this page without prior discussion and consensus on ubuntu-devel
+
+[[TableOfContents()]]
+
+= Hardware =
+
+ * setserial       # old, we might just remove it if it doesn't get downloaded a lot
+ * bluez-utils          # base for bluetooth support
+ * bluez-pcmcia-support # bluetooth pcmcia support
+ * bluez-hcidump   # bluetooth traffic disassembly
+ * bluez-cups             # allow connecting to bluetooth printers from CUPS
+ * isdnutils
+ * smartmontools   # hard disk diagnostics
+ * i855-crt        # crack to enable video out on i855 chipsets
+ * ndiswrapper-utils     # Ick.
+
+== Filesystems ==
+
+ * xfsdump # only useful when machine is setup and working, and only for xfs people
+ * nfs-common # allows people to access NFS filesystems
+
+= Servers and Daemons =
+
+Samba:
+
+ * samba               # for Windows filesharing and integration
+ * smbfs               # allows mounting Windows shares
+
+Database:
+
+ * mysql-client
+ * mysql-server
+ * postgresql
+ * postgresql-client
+
+Proxy:
+
+ * squid # RobertCollins
+
+LDAP:
+
+ * slapd
+ * ldap-utils
+
+Web:
+
+ * apache2
+ * apache2-mpm-worker  # ThomMay; for simple file/web serving -> add zeroconf and we have swish mac os x style :-)
+ * apache2-mpm-perchild      # ThomMay
+ * apache2-mpm-prefork       # ThomMay
+ * apache2-mpm-threadpool    # ThomMay (although this will probably disappear from debian fairly soon)
+ * libapache2-mod-auth-mysql # FabioMassimoDiNitto
+ * libapache2-mod-auth-pgsql # FabioMassimoDiNitto
+ * libapache2-mod-macro      # FabioMassimoDiNitto
+ * libapache2-mod-perl2 # python is in supported
+ * libapache2-mod-php4
+ * libapache2-mod-python        #ThomMay
+ * libapache2-mod-python-doc    #ThomMay
+ * libapache2-mod-auth-pam       # FabioMassimoDiNitto
+ * libapache2-mod-auth-plain     # FabioMassimoDiNitto
+ * libapache2-mod-auth-sys-group # FabioMassimoDiNitto
+ * libapache2-mod-security       # FabioMassimoDiNitto
+
+Email:
+
+ * dovecot                   # ThomMay
+ * exim4-base
+ * exim4-daemon-light
+ * exim4-daemon-heavy
+ * exim4-doc
+ * cyrus21-admin
+ * cyrus21-clients
+ * cyrus21-murder
+ * cyrus21-pop3d
+ * cyrus21-imapd
+ * courier-pop-ssl
+ * courier-imap-ssl
+ * postfix-mysql
+ * postfix-pgsql
+ * postfix-ldap
+ * postfix-pcre
+
+Must also consider webmail and so on...
+
+FTP/TFTP:
+
+ * vsftpd # a secure ftpd
+ * tftpd-hpa # The one from OpenBSD which supports PXE
+ * tftp-hpa # client
+
+Other:
+
+ * dhcp3-server
+ * nfs-kernel-server      # need an NFS server
+ * bind9                  # LaMontJones, will look silly without it :-)
+ * snmp
+ * snmpd
+ * ntp-simple
+ * nis
+
+Application Servers:
+
+ * moin                   # ThomMay, from hoglet
+ * mailman
+
+Utilities:
+
+ * analog                 # essential for any web server, possible candidate for desktop integration
+
+= Network =
+
+ * nmap                   # network diagnostics
+ * dnstracer              # dns network diagnostics
+ * iptraf                 # sysadmin's toy, may be a candidate for removal
+ * traceroute             # we have iputils-tracepath in base, this is only for real traceroute lovers
+ * pptpd                  # server that allows setup of Microsoft-compatible VPN
+ * pptp-linux             # client for Microsoft-compatible VPN's, may be needed in base
+ * ifenslave-2.6          # interface bonding/trunking/etherchannel
+ * ipsec-tools            # IPsec configuration
+ * vlan                   # userland tools to config 8021q support
+ * bridge-utils           # userland tools to config kernel bridging feature
+ * bpalogin               # .au ISP authentication
+ * eagle-usb-utils        # needed for some ADSL modems
+
+IPv6 tools:
+
+ * freenet6               # FabioMassimoDiNitto
+ * radvd                  # FabioMassimoDiNitto
+ * quagga                 # RobertCollins
+
+Firewall:
+
+ * shorewall
+
+Security:
+
+ * nessus                 # client for nessus security testing and monitoring framework
+ * nessus-plugins         # plugins for the extension of nessus security monitoring framework
+ * nessusd                # server to coordinate nessus network security monitoring 
+ * cricket                # JamesTroup, from Hoglet
+ * checksecurity          # JamesTroup, from Hoglet
+ * aide                   # JamesTroup, from Hoglet
+
+Download:
+
+ * bittorrent             # rapid p2p download, for efficient large file distribution, perhaps for desktop
+ * jigit                  # specialised Debian/Ubuntu CD image download
+
+
+= Development =
+
+== Development Tools ==
+
+ * build-essential
+ * bison
+ * flex
+ * patchutils
+ * valgrind
+ * autoconf
+ * autoconf2.13
+ * automake1.4
+ * automake1.7
+ * automake1.8
+ * autotools-dev
+ * libtool
+ * gcc               # core compiler platform, version 3.3 for Warty
+ * ccache            # C/C++ development, package development
+ * kernel-package
+ * pychecker
+ * gnome-common
+ * exuberant-ctags   # ColinWatson
+ * gdb
+ * libstdc++5-3.3-dev    # hint to germinate
+ * dpkg-dev-el
+
+== Revision Control ==
+
+ * cvs                    #RobertCollins
+ * subversion
+ * python2.3-subversion
+ * tla                    #RobertCollins
+ * tla-tools              #RobertCollins
+
+== Package Maintainance ==
+
+ * build-essential
+ * debhelper         # ColinWatson
+ * dh-make
+ * dupload           # ColinWatson
+ * fakeroot
+ * linda             # python-based replacement for lintian
+ * pbuilder          # ColinWatson
+ * apt-listchanges
+ * devscripts        # Debian package development
+ * dput
+
+= Shells =
+
+ * zsh
+ * zsh-doc
+
+= Desktop =
+
+Accessibility tools:
+
+ * dasher
+ * gnome-accessibility-themes
+ * gnome-mag
+ * gnopernicus
+ * gok
+ * brltty
+
+Other:
+
+ * devhelp
+ * dia-gnome           # useful but a bit specialist
+ * epiphany-browser
+ * epiphany-extensions
+ * finger
+ * gftp-gtk
+ * glade-gnome-2
+ * gossip              # very slick jabber client, alternative to gaim
+ * memprof
+ * mozilla-psm
+ * mozilla-thunderbird # world favourite mail client
+ * mozilla-thunderbird-enigmail # gpg integration for thunderbird
+ * mozilla-thunderbird-offline  # offline use of thunderbird
+ * mozilla-thunderbird-typeaheadfind # neat usability enhancement for thunderbird
+ * mozilla-thunderbird-inspector     # used for extension development and debugging
+ * openoffice.org-help
+ * workrave            # RSI-avoidance
+ * xnest
+ * xrestop
+ * unclutter           # super useful for anti-mouse freaks
+ * emacs21-el
+ * evms-gui            # gui tools for storage drive volume management
+ * inkscape            # SVG drawing application
+ * gtranslator             # we want warty users to participate in rosetta!
+ * screem                  # MRS, our default html editor
+ * vim-gnome
+
+GNOME Office:
+
+ * abiword-gnome
+ * abiword-help
+ * abiword-plugins
+ * abiword-plugins-gnome
+ * gnumeric
+ * gnumeric-plugins-extra
+ * planner
+
+GStreamer:
+
+ * gstreamer0.8-aa
+ * gstreamer0.8-artsd
+ * gstreamer0.8-caca
+ * gstreamer0.8-festival
+ * gstreamer0.8-jack
+ * gstreamer0.8-mikmod
+ * gstreamer0.8-sid
+
+Ubuntu artwork:
+
+ * ubuntu-calendar
+ * ubuntu-calendar-october
+ * ubuntu-calendar-november
+ * ubuntu-calendar-december
+ * ubuntu-calendar-january
+ * ubuntu-calendar-february
+ * ubuntu-calendar-march
+
+= Python =
+
+ * python-pygresql         # JamesTroup, from hoglet
+ * python-psycopg          # To be used in launchpad
+
+= Console Tools =
+
+ * freecdb
+ * dict
+
+= Libraries =
+
+ * libcrypt-blowfish-perl
+ * libdate-manip-perl
+ * libnet-ldap-perl
+ * libchart-perl
+ * libgd-graph-perl
+ * libtemplate-perl
+ * libnss-db
+
+= System Administration Tools =
+
+ * lilo                 # MattZimmerman wants this for server admins
+ * attr                 # will move to base if we go to selinux
+ * quota
+ * backuppc             # RobertCollins
+ * kernel-image-2.4-386 # luddites-r-us
+ * debian-goodies
+ * whois                # FabioMassimoDiNitto
+ * minicom              # useful for serial access to anything
+ * cu                   # super-basic serial access
+ * john                 # detects weak passwords, might be needed in desktop
+ * libpam-cracklib      # enables weak password checking during password change, should it be in desktop?
+ * chkrootkit           # forensic detection of rootkit
+ * xinetd               # JamesTroup, from hoglet
+
+= Documentation =
+
+We need a consistent policy for -doc. At the least, any -doc package produced by a source package that also generates a binary package in one of our seed lists should absolutely go into supported.
+
+ * tla-doc # duh           # RobertCollins
+ * doc-linux-html          # ColinWatson; basic HOWTOs and stuff from LDP
+ * manpages-dev            # ColinWatson
+ * apache2-doc             # docs for apache2
+ * gnupg-doc               # docs for gnupg
+ * grub-doc                # docs for grub
+ * ntp-doc                 # docs for ntp
+
+= Rescued from Extra =
+
+== Development ==
+
+ * python-mode
+ * libc6-prof
+ * console-tools-dev
+ * cyrus21-dev
+ * dhcp3-dev
+ * dictionaries-common-dev
+ * evolution1.5-dev
+ * expect-dev
+ * glutg3-dev
+ * gnome-applets-dev
+ * gtkglarea5-dev
+ * imlib1-dev
+ * iptables-dev
+ * lesstif-dev
+ * libbind-dev
+ * libblkid-dev
+ * libdb3++-dev
+ * libdb4.1++-dev
+ * libdb4.2++-dev
+ * libdc1394-10-dev
+ * libdevhelp-1-dev
+ * libdirectfb-dev
+ * libdirectfb-udeb-dev
+ * libdiscover1-dev
+ * libecpg-dev
+ * libevms-dev
+ * libflac++-dev
+ * libgconf-dev
+ * libgd-dev
+ * libgd-xpm-dev
+ * libgdchart-gd1-xpm-dev
+ * libgdkcardimage-dev
+ * libggi2-dev
+ * libgii0-dev
+ * libglide2-dev # xfree86 build-dep
+ * libglide3-dev # xfree86 build-dep
+ * libgnomecupsui1.0-dev
+ * libhfsp-dev
+ * liblinc-dev
+ * libmagic-dev
+ * libmagick++6-dev
+ * libmp3hip-dev
+ * libmysqlclient-dev
+ * libneon23-dev
+ * libnetpbm10-dev
+ * libnetpbm9-dev
+ * liboggflac++-dev
+ * libostyle-dev
+ * libpaperg-dev
+ * libpgtcl-dev
+ * libpils-dev
+ * libproc-dev
+ * libqt3-dev
+ * librdf0-dev
+ * libreiser4-dev
+ * librpm-dev
+ * librrd0-dev
+ * libsablevm1-dev
+ * libscrollkeeper-dev
+ * libslapd2-dev
+ * libsp1-dev
+ * libstlport4.6-dev
+ * libsvn0-dev
+ * libsyck0-dev
+ * libvncauth-dev
+ * libwww-ssl-dev
+ * libzvt-dev
+ * pciutils-dev
+ * postfix-dev
+ * ppp-dev
+ * python-egenix-mx-base-dev
+ * python-gnome2-dev
+ * qt3-apps-dev
+ * x-window-system-dev
+ * xlibosmesa-dev
+ * freeglut3-dbg
+ * libatk1.0-dbg
+ * libatspi-dbg
+ * libc6-dbg
+ * libcurl2-dbg
+ * libdps1-dbg
+ * libfontconfig1-dbg
+ * libgail-dbg
+ * libgail-gnome-dbg
+ * libgda2-dbg
+ * libglib1.2-dbg
+ * libglib2.0-dbg
+ * libgnomedb2-dbg
+ * libgnomeui-dbg
+ * libgsf-1-dbg
+ * libgsf-gnome-1-dbg
+ * libgtk1.2-dbg
+ * libgtk2.0-dbg
+ * libice6-dbg
+ * libncurses5-dbg
+ * libncursesw5-dbg
+ * libopenh323-dbg
+ * libpanel-applet2-dbg
+ * libpango1.0-dbg
+ * libparted1.6-dbg
+ * libpth-dbg
+ * libreadline4-dbg
+ * libreiserfs0.3-dbg
+ * libruby1.8-dbg
+ * libsm6-dbg
+ * libstdc++5-3.3-dbg
+ * libx11-6-dbg
+ * libxaw6-dbg
+ * libxaw7-dbg
+ * libxcursor1-dbg
+ * libxext6-dbg
+ * libxft1-dbg
+ * libxft2-dbg
+ * libxi6-dbg
+ * libxmu6-dbg
+ * libxmuu1-dbg
+ * libxp6-dbg
+ * libxpm4-dbg
+ * libxrandr2-dbg
+ * libxrender1-dbg
+ * libxt6-dbg
+ * libxtrap6-dbg
+ * libxtst6-dbg
+ * libxv1-dbg
+ * xlibmesa-dri-dbg
+ * xlibmesa-gl-dbg
+ * xlibmesa-glu-dbg
+ * xlibmesa3-dbg
+ * xlibosmesa4-dbg
+ * xlibs-dbg
+ * xserver-xfree86-dbg
+
+== Documentation ==
+
+ * gimp-manual
+ * gimp-help-en
+ * gimp-help-de
+ * gimp-help-sv
+ * gimp-help-fr
+ * doc-linux-text
+ * linux-doc
+ * gimp-helpbrowser
+ * glade-doc-2
+ * eximdoc4-html
+ * abiword-doc
+ * alcovebook-sgml-doc
+ * apt-doc
+ * aspell-doc
+ * at-spi-doc
+ * bash-doc
+ * bind9-doc
+ * binutils-doc
+ * cdrtools-doc
+ * cfengine-doc
+ * courier-doc
+ * cpp-3.3-doc
+ * cpp-doc
+ * cyrus21-doc
+ * db4.2-doc
+ * dbus-1-doc
+ * debconf-doc
+ * defoma-doc
+ * diff-doc
+ * doxygen-doc
+ * dpkg-doc
+ * dpsyco-doc
+ * epydoc-doc
+ * flex-doc
+ * fontforge-doc
+ * g77-doc
+ * gcc-doc
+ * gettext-doc
+ * gimpprint-doc
+ * gle-doc
+ * glibc-doc
+ * glut-doc
+ * gnat-3.3-doc
+ * gnome-dev-doc
+ * gnumeric-doc
+ * gok-doc
+ * gstreamer0.8-doc
+ * guile-1.6-doc
+ * hal-doc
+ * indent-doc
+ * krb5-doc
+ * lapack3-doc
+ * lesstif-doc
+ * libapt-pkg-doc
+ * libasound2-doc
+ * libatk1.0-doc
+ * libgail-doc
+ * libgcrypt-doc
+ * libgcrypt7-doc
+ * libgda2-doc
+ * libgimp2.0-doc
+ * libgimpprint1-doc
+ * libgle-doc
+ * libglib2.0-doc
+ * libgmp3-doc
+ * libgnome2-doc
+ * libgnomecanvas2-doc
+ * libgnomedb2-doc
+ * libgnomeprint2.2-doc
+ * libgnomeprintui2.2-doc
+ * libgnomeui-doc
+ * libgnutls-doc
+ * libgtk2.0-doc
+ * libgtkmm2.0-doc
+ * libmpeg-doc
+ * libopenh323-doc
+ * libpam-doc
+ * libpanel-applet2-doc
+ * libpango1.0-doc
+ * libpt-doc
+ * libstdc++5-3.3-doc
+ * libt1-doc
+ * libtemplate-perl-doc
+ * libtool-doc
+ * libwmf-doc
+ * libxml2-doc
+ * lilo-doc
+ * lua50-doc
+ * m4-doc
+ * make-doc
+ * mpi-doc
+ * nas-doc
+ * openslp-doc
+ * parted-doc
+ * pike7.4-doc
+ * postfix-doc
+ * postgresql-doc
+ * pyopenssl-doc
+ * python-doc
+ * python-gtk2-doc
+ * python-gtk2-tutorial
+ * python-imaging-doc
+ * python-ldap-doc
+ * python-numarray-doc
+ * python-reportlab-doc
+ * python-scientific-doc
+ * quagga-doc
+ * recode-doc
+ * refblas3-doc
+ * samba-doc
+ * sdf-doc
+ * sgmls-doc
+ * sharutils-doc
+ * speex-doc
+ * sqlite-doc
+ * swig1.3-doc
+ * tcl8.4-doc
+ * tetex-doc
+ * tk8.4-doc
+ * twisted-doc
+ * vim-doc
+ * yada-doc
+
+== System Administration ==
+
+ * evms-cli
+ * fbset
+ * libcap-bin
+ * libpam-opie
+ * opie-client
+ * opie-server
+
+== Multimedia ==
+
+ * flac
+ * libggi-target-x
+
+== Kernel ==
+
+=== Generic ===
+
+ * ksymoops # 2.4 kernel crash debugging
+
+=== i386 ===
+ * kernel-image-2.4-586tsc
+ * kernel-image-2.4-686
+ * kernel-image-2.4-686-smp
+ * kernel-image-2.4-k6
+ * kernel-image-2.4-k7
+ * kernel-image-2.4-k7-smp
+ * linux-686
+ * linux-686-smp
+ * linux-k7
+ * linux-k7-smp
+ * linux-headers-2.6-386
+ * linux-headers-2.6-686
+ * linux-headers-2.6-686-smp
+ * linux-headers-2.6-k7
+ * linux-headers-2.6-k7-smp
+ * kernel-pcmcia-modules-2.4-386
+ * kernel-pcmcia-modules-2.4-586tsc
+ * kernel-pcmcia-modules-2.4-686
+ * kernel-pcmcia-modules-2.4-k6
+ * kernel-pcmcia-modules-2.4-k7
+
+=== powerpc ===
+
+ * linux-powerpc-smp
+ * linux-power3-smp
+ * linux-power4-smp
+ * linux-headers-2.6-powerpc
+ * linux-headers-2.6-power3
+ * linux-headers-2.6-power4
+ * linux-headers-2.6-powerpc-smp
+ * linux-headers-2.6-power3-smp
+ * linux-headers-2.6-power4-smp
+
+=== amd64 ===
+
+ * linux-amd64-k8
+ * linux-amd64-k8-smp
+ * linux-amd64-xeon
+ * linux-headers-2.6-amd64-generic
+ * linux-headers-2.6-amd64-k8
+ * linux-headers-2.6-amd64-k8-smp
+ * linux-headers-2.6-amd64-xeon
+
+=== Source ===
+
+ * linux-tree-2.6.8.1 # would be nice if there were a metapackage
+
+= Database =
+
+ * libqt3c102-mt-mysql
+ * libqt3c102-mt-psql
+
+= Localisation =
+
+ * aspell-de
+ * openoffice.org-l10n-af
+ * openoffice.org-l10n-ar
+ * openoffice.org-l10n-ca
+ * openoffice.org-l10n-cs
+ * openoffice.org-l10n-cy
+ * openoffice.org-l10n-da
+ * openoffice.org-l10n-de
+ * openoffice.org-l10n-el
+ * openoffice.org-l10n-es
+ * openoffice.org-l10n-et
+ * openoffice.org-l10n-fi
+ * openoffice.org-l10n-fr
+ * openoffice.org-l10n-he
+ * openoffice.org-l10n-hi
+ * openoffice.org-l10n-hu
+ * openoffice.org-l10n-it
+ * openoffice.org-l10n-ja
+ * openoffice.org-l10n-ko
+ * openoffice.org-l10n-nb
+ * openoffice.org-l10n-nl
+ * openoffice.org-l10n-nn
+ * openoffice.org-l10n-ns
+ * openoffice.org-l10n-pl
+ * openoffice.org-l10n-pt-br
+ * openoffice.org-l10n-ru
+ * openoffice.org-l10n-sk
+ * openoffice.org-l10n-sl
+ * openoffice.org-l10n-sv
+ * openoffice.org-l10n-th
+ * openoffice.org-l10n-tr
+ * openoffice.org-l10n-zh-cn
+ * openoffice.org-l10n-zh-tw
+ * openoffice.org-l10n-zu
+ * util-linux-locales
+ * gimpprint-locales
+ * gettext-el
+ * mozilla-firefox-locale-ca
+ * mozilla-firefox-locale-de
+ * mozilla-firefox-locale-es
+ * mozilla-firefox-locale-fr
+ - mozilla-firefox-locale-gl # not up to date
+ * mozilla-firefox-locale-it
+ * mozilla-firefox-locale-ja
+ * mozilla-firefox-locale-nb
+ * mozilla-firefox-locale-pl
+ * mozilla-firefox-locale-tr
+ * mozilla-firefox-locale-uk
+ * myspell-bg
+ * myspell-ca
+ * myspell-de-at
+ * myspell-de-ch
+ * myspell-de-de
+ * myspell-eo
+ * myspell-fi
+ * myspell-fr
+ * myspell-ga
+ * myspell-gd
+ * myspell-gl-es
+ * myspell-gv
+ * myspell-hu
+ * myspell-lt
+ * myspell-lv
+ * myspell-nb
+ * myspell-nn
+ * myspell-pl
+ * myspell-pt-br
+ * myspell-sl
+ * myspell-sv-se
+ * openoffice.org-hyphenation-ru
+ * openoffice.org-hyphenation-da
+ * openoffice.org-hyphenation-de
+ * openoffice.org-hyphenation-it
+
+= Transitional packages =
+
+ * xlibmesa3 # upgrades from woody
+ * evolution1.5 # upgrades from Warty pre-releases
+ * evolution1.5-dev # upgrades from Warty pre-releases
+
+= Miscellaneous =
+
+ * amd64-libs
+ * ia32-libs
+
+= Germinate workarounds =
+
+ * libaltlinuxhyph-dev # build-dep of oo.o, not found by germinate
+
+= PROPOSED =
+
+The package list has now frozen. Please move future package proposals to HoaryHedgehog/SupportedSeed, unless it's really urgent for Warty. If it is really urgent, put it below and please also send a mail to the list with a rationale for the late package inclusion to Warty.
+
+Please use the a. bullet to avoid germinate.py package list contamination.
+
+ a. racoon        # userland daemon to config ipsec
+  MattZimmerman: I don't have much first-hand experience, but two sources I trust say that they prefer isakmpd over racoon 100%.[[BR]]
+  FabioMassimoDiNitto: I have never used isakmpd but i will give it a shot asap.
+Comments?
+ a. autofs # required by a sounder, under consideration

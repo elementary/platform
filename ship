@@ -1,0 +1,40 @@
+'''Editing:''' Please do not edit this page without prior discussion and consensus on ubuntu-devel.
+
+ * epiphany-extensions # that'll pull in epiphany
+ * mozilla-psm # that'll pull in mozilla-browser
+ * openssh-server
+ * mozilla-thunderbird
+ * mozilla-thunderbird-enigmail
+ * mozilla-thunderbird-offline
+ * mozilla-thunderbird-typeaheadfind
+ * lilo
+ * build-essential
+ * fakeroot
+ * devscripts
+ * ntp-simple
+ * cvs
+ * tla
+ * nfs-common
+ * nfs-kernel-server
+ * apache2-mpm-worker
+ * samba
+ * bpalogin
+ * linux-headers-2.6-386
+ * linux-headers-2.6-powerpc
+ * linux-headers-2.6-power3
+ * linux-headers-2.6-power4
+ * linux-headers-2.6-amd64-generic
+ * pptp-linux # needed for some ISPs
+ * eagle-usb-utils # needed for some ISPs
+ * isdnutils
+ * pcmcia-cs
+
+== For X preconfiguration ==
+
+ * mdetect
+ * xresprobe
+ * laptop-detect
+
+Include plone, zope and friends for Steve:
+
+ a. plone2

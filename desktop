@@ -1,0 +1,335 @@
+'''Editing:''' Please do not edit this page without prior discussion and consensus on ubuntu-devel.
+
+[[TableOfContents()]]
+
+= Hardware and Architecture Support =
+
+We need kick-ass desktop hardware support! These are architecture-specific items that will be installed in a desktop configuration.
+
+ * acpi-support
+ * libesd0 # so that esd actually works (as opposed to libesd-alsa0)
+ * powernowd
+
+== i386, i686, amd64 ==
+
+ * acpi
+ * acpid
+ * apmd
+
+== ppc32, ppc64 ==
+
+ * pbbuttonsd #ThomMay
+
+= Console-Based Tools =
+
+These tools are very commonly used by people who drop into a console shell to do some work.
+
+ * bc
+ * dc
+ * emacs21
+ * irssi-text
+ * procmail          # for mail system integration
+ * bogofilter        # spam filter, can spamassassin for evo based on Matt's input
+ * lsb               # a small first step to comprehensive certification
+ * mkisofs
+ * cdrecord
+ * cdparanoia
+ * dvd+rw-tools
+ * fetchmail
+ * screen
+ * lftp
+ * slocate              # tool to index user files
+ * doc-debian           # move to Desktop since people doing a Base install probably won't need it
+ * zip
+ * unzip                # also used for .zip support in file-roller
+
+= Network Services =
+
+Basic network services and Windows integration.
+
+ * smbclient           # to access files on other SAMBA and Windows servers
+ * wvdial              # for automatic dialup configuration via g-s-t
+
+These packages help with system integration
+
+ * libsasl2-modules    # allows integration with MTA and login system
+
+= Printing =
+
+Printing and printer configuration is a real weak spot in Debian, and in Linux in general. We will need to stay at the front of the curve here.
+
+ * cupsys                 # our preferred printer management infrastructure
+ * cupsys-bsd             # gives us lpc, lpq, lpr, lprm
+ * cupsys-client          # gives us cancel, cupstestppd, lp, lpoptions, lppasswd, lpstat, cupsaddsmb, accept, lpadmin, lpinfo, lpmove
+ * foomatic-db-engine     # integrate the foomatic printer driver engine
+ * foomatic-db            # the foomatic printer driver database
+ * foomatic-filters       # converter from postscript to printer-specific formats
+ * foomatic-db-gimp-print # printer drivers from the gimp-print project
+ * foomatic-db-hpijs      # printer drivers from the hp inkjet project
+ * foomatic-filters-ppds  # a ton of ppds, large but gives us very comprehensive printer support
+ * pnm2ppa                # several ppds require this
+
+= GUI infrastructure =
+
+There's no way we can ship a desktop without a GUI, and X.Org packages are too big an undertaking for Warty; this has been bumped to Hoary. Warty will ship with the requisite 4.3 plus LOTS AND LOTS OF PATCHES (234k lines of patch before the conference even started). The future may involve debrix (http://debrix.freedesktop.org), but that's closer to RandomBlueskyIdeas.
+
+ * x-window-system-core   # FabioMassimoDiNitto .. i guess this is mine ;)
+ * xterm                  # FabioMassimoDiNitto
+ * xfree86-driver-synaptics  # for enhanced touchpad features
+
+
+Fonts:
+
+ * x-ttcidfont-conf
+ * ttf-bitstream-vera
+ * ttf-freefont
+ * ttf-kochi-gothic
+ * ttf-kochi-mincho
+ * ttf-arphic-bkai00mp
+ * ttf-arphic-bsmi00lp
+ * ttf-arphic-gbsn00lp
+ * ttf-arphic-gkai00mp
+ * ttf-arabeyes
+ * ttf-baekmuk
+ * ttf-indic-fonts
+ * ttf-malayalam-fonts
+
+= Desktop GNOME Apps =
+
+We've chosen GNOME as our desktop user interface of choice, and GNOME 2.8 is a FeatureGoal for Warty.  Rather than using the meta-packages they are deliberately expanded so that we can select things a bit better.
+
+ * bug-buddy             # potentially replaced with reportbug + b-b-like pygtk gui
+ * contact-lookup-applet # experimental
+ * desktop-file-utils
+ * eog
+ * esound
+ * evolution # experimental
+ * evolution-exchange # experimental
+ * evolution-webcal # experimental
+ * fam
+ * file-roller           # SebastienBacher
+ * gaim
+ * gcalctool             # SebastienBacher
+ * gconf-editor          # SebastienBacher
+ * gdm
+ * gedit
+ * gimp
+ * gnome-about
+ * gnome-applets
+ * gnome-control-center
+ * gnome-cpufreq-applet
+ * gnome-cups-manager
+ * gnome-games
+ * gnome-gv
+ * gnome-icon-theme
+ * gnome-media
+ * gnome-netstatus-applet
+ * gnome-nettool            # part of 2.8
+ * gnome-panel
+ * gnome-pilot-conduits
+ * gnome-session
+ * gnome-spell
+ * gnome-system-monitor     # SebastienBacher
+ * gnome-volume-manager     # JeffWaugh, gives us an efficient autoplay framework
+ * gnome-system-tools
+ * gnome-terminal
+ * gnome-utils
+ * gnome2-user-guide
+ * gnomemeeting
+ * gthumb                  # efficient thumbnailing tool
+ * gucharmap               # SebastienBacher
+ * hal                     # it's not very polished but it's the future
+ * hal-device-manager
+ * libglib2.0-data
+ * metacity                # SebastienBacher
+ * mozilla-firefox
+ * nautilus                # SebastienBacher
+ * nautilus-cd-burner      # SebastienBacher
+ * rhythmbox               # SebastienBacher
+ * scrollkeeper
+ * sound-juicer
+ * ssh-askpass-gnome
+ * synaptic                # will this be our default package manager?
+ * totem-gstreamer         # SebastienBacher
+ * trashapplet
+ * vino # vnc server
+ * yelp
+ * zenity
+
+ * dbus-1-utils # for session dbus, #895
+ * myspell-en-us # spell checking (US English)
+ * myspell-en-gb # spell checking (GB English)
+ * openoffice.org-hyphenation-en-gb
+ * openoffice.org-hyphenation-en-us
+
+Themes: we will ship only the very best looking themes. We won't ship everything that Debian ships, just a custom package that includes the themes we want. These packages are included for size guidance until we have Warty-specific packages.
+
+ * gnome-themes              # we will ship the best-looking and most robust subset
+ * gtk2-engines-mist         # 
+ * gtk2-engines-industrial   # our theme may be a derivation of industrial
+ * ubuntu-sounds             # default sounds for audio theme
+
+We don't want all the gstreamer0.8-plugins dependencies, so we call out specific ones that are sane:
+
+ * libgstreamer0.8-0
+ * libgstreamer-plugins0.8-0
+ * libgstreamer-gconf0.8-0
+ * gstreamer0.8-plugin-apps
+ * gstreamer0.8-alsa
+ * gstreamer0.8-audiofile
+ * gstreamer0.8-cdparanoia
+ * gstreamer0.8-dv
+ * gstreamer0.8-dvd
+ * gstreamer0.8-esd
+ * gstreamer0.8-flac
+ * gstreamer0.8-gnomevfs
+ * gstreamer0.8-gsm
+ * gstreamer0.8-hermes
+ * gstreamer0.8-jpeg
+ * gstreamer0.8-misc
+ * gstreamer0.8-oss
+ * gstreamer0.8-sdl
+ * gstreamer0.8-speex
+ * gstreamer0.8-swfdec
+ * gstreamer0.8-theora
+ * gstreamer0.8-vorbis
+ * gstreamer0.8-x
+
+GStreamer stuff which should end up in universe (see supported though, for a few others we do include):
+
+ - gstreamer0.8-a52dec
+ - gstreamer0.8-mad
+ - gstreamer0.8-mpeg2dec
+
+= Other Desktop GUI Apps =
+
+ * openoffice.org            # this is not a gnome app, but we'll use the debian gtk-ified version to get closer
+ * openoffice.org-help-en
+ * openoffice.org-hyphenation-en-gb
+ * openoffice.org-thesaurus
+ * openoffice.org-mimelnk
+ * xsane           # scanner utils
+ * xpdf            # until gpdf is really better
+ * xchat
+ * xscreensaver    # MRS, see attachment:.xscreensaver.ksh sample config. we will not ship all the actual screensavers, just the best. Thom: some are buggy on amd64 - ["WartyWarthog/XScreenSaver"] has a blacklist.
+ * rss-glx         # MRS, very slick screensavers
+ * xscreensaver-gl # MRS, we will only ship a subset of the screensavers from rss-glx and xscreensaver
+ * x3270           # telnet for IBM mainframes
+ * pr3287          # printer support for 3270 emulation
+ * tsclient        # rdesktop/vnc/xdmcp client gui
+ * xvncviewer      # needed by tsclient
+
+= Games =
+ * fortune-mod
+
+= Python =
+
+Python is a significant commitment, we will present Python wherever we can.
+
+Libraries and Modules:
+
+ * python-adns              # MRS, stable and useful
+ * python-apt               # MRS, we need to be able to interact with APT
+ * python-cddb              # MRS, great for desktop users to be able to manage CD's in Python
+ * python-clientcookie      # MRS, unless a better cgi-style framework is below
+ * python-crypto            # MRS, very useful even though it's very specific
+ * python-egenix-mxproxy    # MRS, 
+ * python-egenix-mxstack    # MRS, 
+ * python-egenix-mxtexttools # MRS, 
+ * python-egenix-mxtools    # MRS, 
+ * python-epydoc            # MRS, 
+ * python-eunuchs           # MRS, 
+ * python-examples          # MRS, 
+ * python-fixedpoint        # MRS,
+ * python-gadfly            # MRS, 
+ * python-gd                # MRS, 
+ * python-gdbm
+ * python-gdchart
+ * python-genetic
+ * python-geoip
+ * python-glade2
+ * python-gnome2            # SebastienBacher
+ * python-gnupginterface
+ * python-gtk2              # SebastienBacher
+ * python-hip
+ * python-htmlgen
+ * python-htmltmpl
+ * python-id3lib
+ * python-imaging
+ * python-imaging-sane # pulls in big packages, can cut it if needed
+ * python-jabber
+ * python2.3-dbus
+ * python2.3-dictclient
+ * python2.3-iconvcodec
+ * python2.3-librdf
+ * python2.3-pycurl
+ * python2.3-samba
+ * python-kjbuckets
+ * python-ldap
+ * python-mpz
+ * python-musicbrainz
+ * python-mysqldb
+ * python-netcdf
+ * python-newt
+ * python-numarray
+ * python-numeric
+ * python-opengl
+ * python-osd
+ * python-pam
+ * python-parted
+ * python-pexpect
+ * python-pgsql
+ * python-pisock
+ * python-pqueue
+ * python-pyao
+ * python-pylibacl
+ * python-pyopenssl
+ * python-pyorbit               # SebastienBacher
+ * python-pyvorbis
+ * python-pyxattr
+ * python-reportlab
+ * python-simpletal
+ * python-soappy
+ * python-sqlite
+ * python-stats
+ * python-syck
+ * python-twisted
+ * python-unit
+ * python-xdg                   # SebastienBacher
+ * python-xmpp
+
+Python Integrated Applications:
+
+ * gimp-python
+ * libxml2-python2.3
+ * libxslt1-python2.3
+ * bicyclerepair          # python refactoring tool for vim & emacs
+ * pymacs                 # makes bicyclerepair work 
+
+Documentation:
+
+ * diveintopython
+ * doc-base
+
+= Other =
+
+ * ubuntu-desktop # metapackage for everything here
+
+= Germinate workarounds =
+
+ * libglut3 # depended upon by freeglut3
+ * xlibmesa-gl # depended upon by xlibmesa-dri, but lsb dep on virtual libgl1 makes it ordering-dependent
+
+= PROPOSED =
+
+The package list has frozen. We might move some items from supported down to desktop. If you want to propose a new package at this stage please put it in WartyWarthog/SupportedSeed under PROPOSED, and send a mail to the list. If your proposal is not a major priority, please put it in HoaryHedgehog/SupportedSeed under PROPOSED, from whence it can migrate to supported, and then on down to Desktop.
+
+Please use the a. bullet to avoid germinate.py pulling in these packages till they are confirmed.
+
+System:
+
+ a. bittorrent           # already in supported, would be useful to integrate with desktop for large file distrib
+
+Desktop:
+ 
+ a. gsfonts-x11 
