@@ -1,0 +1,295 @@
+'''Editing:''' Please do not edit this page without prior discussion and consensus on ubuntu-devel
+
+Packages in the Installer seed are used in our version of debian-installer. They will not necessarily be installed in any live system.
+
+This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ list of packages in the current d-i netinst images], and from initrd.list files in d-i daily builds.
+
+= Common Packages =
+
+ * anna
+ * archdetect
+ * archive-copier
+ * autopartkit
+ * base-installer
+ * baseconfig-udeb
+ * bogl-bterm-udeb
+ * brltty-udeb
+ * bterm-unifont
+ * bugreporter-udeb
+ * busybox-cvs-udeb
+ * cdebconf-newt-udeb
+ * cdebconf-priority
+ * cdebconf-text-udeb
+ * cdebconf-udeb
+ * cdrom-checker
+ * cdrom-detect
+ * cdrom-retriever
+ * choose-mirror
+ * console-keymaps-at
+ * console-keymaps-dec
+ * console-keymaps-mac
+ * console-keymaps-sun
+ * console-keymaps-usb
+ * countrychooser
+ * debootstrap-udeb
+ * dhcp-client-udeb
+ * di-utils
+ * di-utils-reboot
+ * di-utils-mapdevfs
+ * di-utils-shell
+ * di-utils-terminfo
+ * discover1-data-udeb
+ * discover1-udeb
+ * e2fsprogs-udeb
+ * eject-udeb
+ * ethdetect
+ * evms-udeb
+ * fbset-udeb
+ * floppy-retriever
+ * hdparm-udeb # not currently used, but may be used by cdrom-detect in the future
+ * hw-detect
+ * hw-detect-full
+ * iso-3166-udeb
+ * jfsutils-udeb
+ * kbd-chooser
+ * languagechooser
+ * libdevmapper1.00-udeb
+ * libfribidi0-udeb
+ * libparted1.6-udeb
+ * libreiserfs0.3-udeb
+ * load-cdrom
+ * load-installer # for netboot
+ * lowmem
+ * lowmemcheck
+ * lvm10-udeb  # TODO: which of lvm10/lvm2 do we need?
+ * lvm2-udeb
+ * lvmcfg
+ * lvmcfg-utils
+ * main-menu
+ * mdadm-udeb
+ * mdcfg
+ * mdcfg-utils
+ * mii-diag-udeb
+ * mkreiserfs-udeb
+ * module-init-tools-udeb
+ * nano-udeb
+ * net-retriever
+ * netcfg
+ * nobootloader
+ * openssh-client-udeb
+ * os-prober
+ * partconf-find-partitions
+ * partconf-mkfstab
+ * parted-udeb
+ * partman
+ * partman-auto
+ * partman-basicfilesystems
+ * partman-basicmethods
+ * partman-ext3
+ * partman-jfs
+ * partman-lvm
+ * partman-md
+ * partman-partitioning
+ * partman-reiserfs
+ * partman-target
+ * partman-xfs
+ * pcmcia-cs-udeb
+ * ppp-udeb
+ * prebaseconfig
+ * raidtools2-udeb
+ * rootskel
+ * rootskel-locale
+ * udpkg
+ * usb-discover
+ * wireless-tools-udeb
+ * xfsprogs-udeb
+
+ * debian-installer-manual # also has side-effect of pulling in CD image build system
+
+= Architecture-Specific Packages =
+
+Things like kernels, bootloader installers, and the like go here. libc6-udeb is also in because its soname differs across architectures.
+
+We include 2.6 kernel module udebs only.
+
+== amd64 ==
+
+ * Kernel-Version: 2.6.8.1-3-amd64-generic
+
+ * acpi-modules-2.6.8.1-3-amd64-generic-di
+ * cdrom-core-modules-2.6.8.1-3-amd64-generic-di
+ * fb-modules-2.6.8.1-3-amd64-generic-di
+ * fdisk-udeb
+ * firewire-core-modules-2.6.8.1-3-amd64-generic-di
+ * floppy-modules-2.6.8.1-3-amd64-generic-di # for the "save logs to floppy" feature
+ * grub-installer
+ * ide-core-modules-2.6.8.1-3-amd64-generic-di
+ * ide-modules-2.6.8.1-3-amd64-generic-di
+ * input-modules-2.6.8.1-3-amd64-generic-di
+ * ipv6-modules-2.6.8.1-3-amd64-generic-di
+ * irda-modules-2.6.8.1-3-amd64-generic-di
+ * libc6-udeb
+ * lilo-installer
+ * loop-modules-2.6.8.1-3-amd64-generic-di
+ * nic-extra-modules-2.6.8.1-3-amd64-generic-di
+ * nic-firmware-2.6.8.1-3-amd64-generic-di
+ * nic-modules-2.6.8.1-3-amd64-generic-di
+ * nic-pcmcia-modules-2.6.8.1-3-amd64-generic-di
+ * nic-shared-modules-2.6.8.1-3-amd64-generic-di
+ * nic-usb-modules-2.6.8.1-3-amd64-generic-di
+ * ntfs-modules-2.6.8.1-3-amd64-generic-di
+ * parport-modules-2.6.8.1-3-amd64-generic-di
+ * pcmcia-modules-2.6.8.1-3-amd64-generic-di
+ * pcmcia-storage-modules-2.6.8.1-3-amd64-generic-di
+ * plip-modules-2.6.8.1-3-amd64-generic-di
+ * ppp-modules-2.6.8.1-3-amd64-generic-di
+ * sata-modules-2.6.8.1-3-amd64-generic-di
+ * scsi-common-modules-2.6.8.1-3-amd64-generic-di
+ * scsi-extra-modules-2.6.8.1-3-amd64-generic-di
+ * scsi-modules-2.6.8.1-3-amd64-generic-di
+ * serial-modules-2.6.8.1-3-amd64-generic-di
+ * socket-modules-2.6.8.1-3-amd64-generic-di
+ * usb-modules-2.6.8.1-3-amd64-generic-di
+ * usb-storage-modules-2.6.8.1-3-amd64-generic-di
+
+== i386 ==
+
+ * Kernel-Version: 2.6.8.1-3-386
+
+ * acpi-modules-2.6.8.1-3-386-di
+ * cdrom-core-modules-2.6.8.1-3-386-di
+ * cdrom-modules-2.6.8.1-3-386-di
+ * fb-modules-2.6.8.1-3-386-di
+ * fdisk-udeb
+ * firewire-core-modules-2.6.8.1-3-386-di
+ * floppy-modules-2.6.8.1-3-386-di # for the "save logs to floppy" feature
+ * grub-installer
+ * ide-core-modules-2.6.8.1-3-386-di
+ * ide-modules-2.6.8.1-3-386-di
+ * input-modules-2.6.8.1-3-386-di
+ * ipv6-modules-2.6.8.1-3-386-di
+ * irda-modules-2.6.8.1-3-386-di
+ * libc6-udeb
+ * lilo-installer
+ * loop-modules-2.6.8.1-3-386-di
+ * nic-extra-modules-2.6.8.1-3-386-di
+ * nic-firmware-2.6.8.1-3-386-di
+ * nic-modules-2.6.8.1-3-386-di
+ * nic-pcmcia-modules-2.6.8.1-3-386-di
+ * nic-restricted-firmware-2.6.8.1-3-386-di
+ * nic-shared-modules-2.6.8.1-3-386-di
+ * nic-usb-modules-2.6.8.1-3-386-di
+ * ntfs-modules-2.6.8.1-3-386-di
+ * parport-modules-2.6.8.1-3-386-di
+ * pcmcia-modules-2.6.8.1-3-386-di
+ * pcmcia-storage-modules-2.6.8.1-3-386-di
+ * plip-modules-2.6.8.1-3-386-di
+ * ppp-modules-2.6.8.1-3-386-di
+ * sata-modules-2.6.8.1-3-386-di
+ * scsi-common-modules-2.6.8.1-3-386-di
+ * scsi-extra-modules-2.6.8.1-3-386-di
+ * scsi-modules-2.6.8.1-3-386-di
+ * serial-modules-2.6.8.1-3-386-di
+ * socket-modules-2.6.8.1-3-386-di
+ * usb-modules-2.6.8.1-3-386-di
+ * usb-storage-modules-2.6.8.1-3-386-di
+
+== powerpc ==
+
+ * Kernel-Version: 2.6.8.1-3-power3
+ * Kernel-Version: 2.6.8.1-3-power4
+ * Kernel-Version: 2.6.8.1-3-powerpc
+
+ * affs-modules-2.6.8.1-3-power3-di
+ * affs-modules-2.6.8.1-3-power4-di
+ * affs-modules-2.6.8.1-3-powerpc-di
+ * cdrom-core-modules-2.6.8.1-3-power3-di
+ * cdrom-core-modules-2.6.8.1-3-power4-di
+ * cdrom-core-modules-2.6.8.1-3-powerpc-di
+ * fb-modules-2.6.8.1-3-power3-di
+ * fb-modules-2.6.8.1-3-power4-di
+ * fb-modules-2.6.8.1-3-powerpc-di
+ * fdisk-udeb
+ * firewire-core-modules-2.6.8.1-3-power3-di
+ * firewire-core-modules-2.6.8.1-3-power4-di
+ * firewire-core-modules-2.6.8.1-3-powerpc-di
+ * floppy-modules-2.6.8.1-3-power3-di
+ * floppy-modules-2.6.8.1-3-power4-di
+ * floppy-modules-2.6.8.1-3-powerpc-di
+ * fs-common-modules-2.6.8.1-3-power3-di
+ * fs-common-modules-2.6.8.1-3-power4-di
+ * fs-common-modules-2.6.8.1-3-powerpc-di
+ * ide-modules-2.6.8.1-3-power3-di
+ * ide-modules-2.6.8.1-3-power4-di
+ * ide-modules-2.6.8.1-3-powerpc-di
+ * input-modules-2.6.8.1-3-power3-di
+ * input-modules-2.6.8.1-3-power4-di
+ * input-modules-2.6.8.1-3-powerpc-di
+ * ipv6-modules-2.6.8.1-3-power3-di
+ * ipv6-modules-2.6.8.1-3-power4-di
+ * ipv6-modules-2.6.8.1-3-powerpc-di
+ * irda-modules-2.6.8.1-3-power3-di
+ * irda-modules-2.6.8.1-3-power4-di
+ * irda-modules-2.6.8.1-3-powerpc-di
+ * libc6-udeb
+ * loop-modules-2.6.8.1-3-power3-di
+ * loop-modules-2.6.8.1-3-power4-di
+ * loop-modules-2.6.8.1-3-powerpc-di
+ * mac-fdisk-udeb
+ * nic-extra-modules-2.6.8.1-3-power3-di
+ * nic-extra-modules-2.6.8.1-3-power4-di
+ * nic-extra-modules-2.6.8.1-3-powerpc-di
+ * nic-firmware-2.6.8.1-3-power3-di
+ * nic-firmware-2.6.8.1-3-power4-di
+ * nic-firmware-2.6.8.1-3-powerpc-di
+ * nic-modules-2.6.8.1-3-power3-di
+ * nic-modules-2.6.8.1-3-power4-di
+ * nic-modules-2.6.8.1-3-powerpc-di
+ * nic-pcmcia-modules-2.6.8.1-3-power3-di
+ * nic-pcmcia-modules-2.6.8.1-3-power4-di
+ * nic-pcmcia-modules-2.6.8.1-3-powerpc-di
+ * nic-shared-modules-2.6.8.1-3-power3-di
+ * nic-shared-modules-2.6.8.1-3-power4-di
+ * nic-shared-modules-2.6.8.1-3-powerpc-di
+ * nic-usb-modules-2.6.8.1-3-power3-di
+ * nic-usb-modules-2.6.8.1-3-power4-di
+ * nic-usb-modules-2.6.8.1-3-powerpc-di
+ * partman-newworld
+ * pcmcia-modules-2.6.8.1-3-power3-di
+ * pcmcia-modules-2.6.8.1-3-power4-di
+ * pcmcia-modules-2.6.8.1-3-powerpc-di
+ * pcmcia-storage-modules-2.6.8.1-3-power3-di
+ * pcmcia-storage-modules-2.6.8.1-3-power4-di
+ * pcmcia-storage-modules-2.6.8.1-3-powerpc-di
+ * pmac-fdisk-udeb
+ * ppp-modules-2.6.8.1-3-power3-di
+ * ppp-modules-2.6.8.1-3-power4-di
+ * ppp-modules-2.6.8.1-3-powerpc-di
+ * sata-modules-2.6.8.1-3-power3-di
+ * sata-modules-2.6.8.1-3-power4-di
+ * sata-modules-2.6.8.1-3-powerpc-di
+ * scsi-common-modules-2.6.8.1-3-power3-di
+ * scsi-common-modules-2.6.8.1-3-power4-di
+ * scsi-common-modules-2.6.8.1-3-powerpc-di
+ * scsi-core-modules-2.6.8.1-3-power3-di
+ * scsi-core-modules-2.6.8.1-3-power4-di
+ * scsi-core-modules-2.6.8.1-3-powerpc-di
+ * scsi-extra-modules-2.6.8.1-3-power3-di
+ * scsi-extra-modules-2.6.8.1-3-power4-di
+ * scsi-extra-modules-2.6.8.1-3-powerpc-di
+ * scsi-modules-2.6.8.1-3-power3-di
+ * scsi-modules-2.6.8.1-3-power4-di
+ * scsi-modules-2.6.8.1-3-powerpc-di
+ * serial-modules-2.6.8.1-3-power3-di
+ * serial-modules-2.6.8.1-3-power4-di
+ * serial-modules-2.6.8.1-3-powerpc-di
+ * socket-modules-2.6.8.1-3-power3-di
+ * socket-modules-2.6.8.1-3-power4-di
+ * socket-modules-2.6.8.1-3-powerpc-di
+ * usb-modules-2.6.8.1-3-power3-di
+ * usb-modules-2.6.8.1-3-power4-di
+ * usb-modules-2.6.8.1-3-powerpc-di
+ * usb-storage-modules-2.6.8.1-3-power3-di
+ * usb-storage-modules-2.6.8.1-3-power4-di
+ * usb-storage-modules-2.6.8.1-3-powerpc-di
+ * yaboot-installer
