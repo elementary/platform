@@ -4,6 +4,7 @@ This seed is used to construct the first stage of the live CD.
 
  * anna
  * archdetect
+ * archive-copier # for its apt-cdrom handling
  * bogl-bterm-udeb
  * bterm-unifont
  * busybox-cvs-udeb
