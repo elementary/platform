@@ -78,6 +78,7 @@ This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ li
  * netcfg
  * network-preseed
  * nobootloader
+ * ntfstools-udeb # for ntfsresize
  * openssh-client-udeb
  * os-prober
  * partconf-find-partitions
