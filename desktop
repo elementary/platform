@@ -200,12 +200,12 @@ GStreamer stuff which should end up in universe (see supported though, for a few
 
 = Other Desktop GUI Apps =
 
- * openoffice.org            # this is not a gnome app, but we'll use the debian gtk-ified version to get closer
- * openoffice.org-gtk-gnome
- * openoffice.org-help-en
- * openoffice.org-hyphenation-en-gb
- * openoffice.org-hyphenation-en-us
- * openoffice.org-thesaurus
+ * openoffice.org [amd64 i386 powerpc sparc]           # this is not a gnome app, but we'll use the debian gtk-ified version to get closer
+ * openoffice.org-gtk-gnome [amd64 i386 powerpc sparc]
+ * openoffice.org-help-en [amd64 i386 powerpc sparc]
+ * openoffice.org-hyphenation-en-gb [amd64 i386 powerpc sparc]
+ * openoffice.org-hyphenation-en-us [amd64 i386 powerpc sparc]
+ * openoffice.org-thesaurus [amd64 i386 powerpc sparc]
  * xsane           # scanner utils
  * xpdf            # until gpdf is really better
  * xchat
