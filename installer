@@ -137,9 +137,24 @@ This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ li
  * gpgv-udeb
  * ubuntu-keyring-udeb
 
-= Architecture-Specific Packages =
+= Partition Management (architecture-specific) =
 
-Things like kernels, bootloader installers, and the like go here. libc6-udeb is also in because its soname differs across architectures.
+ * fdisk-udeb
+ * mac-fdisk-udeb [powerpc]
+ * pmac-fdisk-udeb [powerpc]
+ * partman-efi [ia64]
+ * partman-newworld [powerpc]
+
+= Bootloader Installers =
+
+ * efi-reader [ia64]
+ * elilo-installer [ia64]
+ * grub-installer [amd64 i386]
+ * lilo-installer [amd64 i386]
+ * silo-installer [sparc]
+ * yaboot-installer [powerpc]
+
+= Kernel Modules =
 
 We include 2.6 kernel module udebs only.
 
@@ -150,17 +165,13 @@ We include 2.6 kernel module udebs only.
  * acpi-modules-${Kernel-Version}-di
  * cdrom-core-modules-${Kernel-Version}-di
  * fb-modules-${Kernel-Version}-di
- * fdisk-udeb
  * firewire-core-modules-${Kernel-Version}-di
  * floppy-modules-${Kernel-Version}-di # for the "save logs to floppy" feature
- * grub-installer
  * ide-core-modules-${Kernel-Version}-di
  * ide-modules-${Kernel-Version}-di
  * input-modules-${Kernel-Version}-di
  * ipv6-modules-${Kernel-Version}-di
  * irda-modules-${Kernel-Version}-di
- * libc6-udeb
- * lilo-installer
  * loop-modules-${Kernel-Version}-di
  * nic-extra-modules-${Kernel-Version}-di
  * nic-firmware-${Kernel-Version}-di
@@ -193,17 +204,13 @@ We include 2.6 kernel module udebs only.
  * cdrom-core-modules-${Kernel-Version}-di
  * cdrom-modules-${Kernel-Version}-di
  * fb-modules-${Kernel-Version}-di
- * fdisk-udeb
  * firewire-core-modules-${Kernel-Version}-di
  * floppy-modules-${Kernel-Version}-di # for the "save logs to floppy" feature
- * grub-installer
  * ide-core-modules-${Kernel-Version}-di
  * ide-modules-${Kernel-Version}-di
  * input-modules-${Kernel-Version}-di
  * ipv6-modules-${Kernel-Version}-di
  * irda-modules-${Kernel-Version}-di
- * libc6-udeb
- * lilo-installer
  * loop-modules-${Kernel-Version}-di
  * nic-extra-modules-${Kernel-Version}-di
  * nic-firmware-${Kernel-Version}-di
@@ -233,24 +240,19 @@ We include 2.6 kernel module udebs only.
  * Kernel-Version: 2.6.10-2-itanium-smp
 
  * cdrom-core-modules-${Kernel-Version}-di
- * efi-reader
- * elilo-installer
  * fb-modules-${Kernel-Version}-di
- * fdisk-udeb
  * firewire-core-modules-${Kernel-Version}-di
  * ide-core-modules-${Kernel-Version}-di
  * ide-modules-${Kernel-Version}-di
  * input-modules-${Kernel-Version}-di
  * ipv6-modules-${Kernel-Version}-di
  * irda-modules-${Kernel-Version}-di
- * libc6.1-udeb
  * loop-modules-${Kernel-Version}-di
  * nic-modules-${Kernel-Version}-di
  * nic-shared-modules-${Kernel-Version}-di
  * nic-usb-modules-${Kernel-Version}-di
  * ntfs-modules-${Kernel-Version}-di
  * parport-modules-${Kernel-Version}-di
- * partman-efi
  * pcmcia-modules-${Kernel-Version}-di
  * plip-modules-${Kernel-Version}-di
  * ppp-modules-${Kernel-Version}-di
@@ -268,7 +270,6 @@ We include 2.6 kernel module udebs only.
  * affs-modules-${Kernel-Version}-di
  * cdrom-core-modules-${Kernel-Version}-di
  * fb-modules-${Kernel-Version}-di
- * fdisk-udeb
  * firewire-core-modules-${Kernel-Version}-di
  * floppy-modules-${Kernel-Version}-di
  * fs-common-modules-${Kernel-Version}-di
@@ -276,9 +277,7 @@ We include 2.6 kernel module udebs only.
  * input-modules-${Kernel-Version}-di
  * ipv6-modules-${Kernel-Version}-di
  * irda-modules-${Kernel-Version}-di
- * libc6-udeb
  * loop-modules-${Kernel-Version}-di
- * mac-fdisk-udeb
  * nic-extra-modules-${Kernel-Version}-di
  * nic-firmware-${Kernel-Version}-di
  * nic-modules-${Kernel-Version}-di
@@ -287,10 +286,8 @@ We include 2.6 kernel module udebs only.
  * nic-restricted-modules-${Kernel-Version}-di
  * nic-shared-modules-${Kernel-Version}-di
  * nic-usb-modules-${Kernel-Version}-di
- * partman-newworld
  * pcmcia-modules-${Kernel-Version}-di
  * pcmcia-storage-modules-${Kernel-Version}-di
- * pmac-fdisk-udeb
  * ppp-modules-${Kernel-Version}-di
  * sata-modules-${Kernel-Version}-di
  * scsi-common-modules-${Kernel-Version}-di
@@ -301,7 +298,6 @@ We include 2.6 kernel module udebs only.
  * socket-modules-${Kernel-Version}-di
  * usb-modules-${Kernel-Version}-di
  * usb-storage-modules-${Kernel-Version}-di
- * yaboot-installer
 
 == sparc ==
 
@@ -321,5 +317,3 @@ We include 2.6 kernel module udebs only.
  * scsi-common-modules-${Kernel-Version}-di
  * scsi-core-modules-${Kernel-Version}-di
  * xfs-modules-${Kernel-Version}-di
- * silo-installer
-
