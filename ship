@@ -22,6 +22,7 @@
  * linux-headers-power3
  * linux-headers-power4
  * linux-headers-amd64-generic
+ * linux-headers-itanium-smp
  * pptp-linux # needed for some ISPs
  * eagle-usb-utils # needed for some ISPs
  * isdnutils
