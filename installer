@@ -61,6 +61,7 @@ This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ li
  * load-cdrom
  * load-installer # for netboot
  * load-iso # for USB boot
+ * localechooser # to replace languagechooser and countrychooser
  * lowmem
  * lowmemcheck
  * lvm10-udeb  # TODO: which of lvm10/lvm2 do we need?
