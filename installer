@@ -117,8 +117,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * xfsprogs-udeb
  * zoneinfo-udeb # for first-stage timezone question
 
- * debian-installer-manual # also has side-effect of pulling in CD image build system
-
 = Floppy Support =
 
  * busybox-cvs-floppy-udeb
