@@ -47,7 +47,6 @@ This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ li
  * evms-udeb
  * fbset-udeb
  * file-preseed
- * floppy-retriever
  * hdparm-udeb # not currently used, but may be used by cdrom-detect in the future
  * hw-detect
  * hw-detect-full
@@ -108,6 +107,13 @@ This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ li
  * xfsprogs-udeb
 
  * debian-installer-manual # also has side-effect of pulling in CD image build system
+
+= Floppy Support =
+
+ * busybox-cvs-floppy-udeb
+ * di-utils-bootfloppy
+ * floppy-retriever
+ * load-floppy
 
 = Architecture-Specific Packages =
 
