@@ -1,5 +1,3 @@
-'''Editing:''' Please do not edit this page without prior discussion and consensus on ubuntu-devel.
-
  * epiphany-extensions # that'll pull in epiphany
  * mozilla-psm # that'll pull in mozilla-browser
  * ssh
@@ -39,7 +37,3 @@
 
  * console-terminus
  * unifont
-
-Include plone, zope and friends for Steve:
-
- a. plone2
