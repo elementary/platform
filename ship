@@ -60,3 +60,9 @@
  * isdnutils
  * pcmcia-cs
  * bpalogin
+
+== Common language packs ==
+
+ * language-pack-en
+ * language-pack-en-update
+ * language-support-en
