@@ -582,6 +582,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libwmf-doc
  * libxml2-doc
  * lilo-doc
+ * linux-wlan-ng-doc
  * lua50-doc
  * m4-doc
  * make-doc
