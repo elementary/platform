@@ -23,11 +23,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * cdrom-detect
  * cdrom-retriever
  * choose-mirror
- * console-keymaps-at
- * console-keymaps-dec
- * console-keymaps-mac
- * console-keymaps-sun
- * console-keymaps-usb
  * debootstrap-udeb
  * dhcp-client-udeb
  * di-utils
@@ -137,6 +132,13 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
  * initrd-kickseed
  * file-kickseed
+
+= Keymaps =
+
+ * console-keymaps-at
+ * console-keymaps-mac [powerpc]
+ * console-keymaps-sun [sparc]
+ * console-keymaps-usb
 
 = Partition Management (architecture-specific) =
 
