@@ -206,7 +206,6 @@ GStreamer stuff which should end up in universe (see supported though, for a few
  * openoffice.org-help-en
  * openoffice.org-hyphenation-en-gb
  * openoffice.org-thesaurus
- * openoffice.org-mimelnk
  * xsane           # scanner utils
  * xpdf            # until gpdf is really better
  * xchat
