@@ -49,6 +49,7 @@ This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ li
  * hotplug-udeb
  * hw-detect
  * hw-detect-full
+ * initial-passwd-udeb # first-stage username/password question
  * initrd-preseed
  * iso-3166-udeb
  * iso-scan # for USB boot
