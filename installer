@@ -149,6 +149,7 @@ We include 2.6 kernel module udebs only.
  * nic-firmware-${Kernel-Version}-di
  * nic-modules-${Kernel-Version}-di
  * nic-pcmcia-modules-${Kernel-Version}-di
+ * nic-restricted-firmware-${Kernel-Version}-di
  * nic-shared-modules-${Kernel-Version}-di
  * nic-usb-modules-${Kernel-Version}-di
  * ntfs-modules-${Kernel-Version}-di
@@ -263,6 +264,7 @@ We include 2.6 kernel module udebs only.
  * nic-firmware-${Kernel-Version}-di
  * nic-modules-${Kernel-Version}-di
  * nic-pcmcia-modules-${Kernel-Version}-di
+ * nic-restricted-firmware-${Kernel-Version}-di
  * nic-shared-modules-${Kernel-Version}-di
  * nic-usb-modules-${Kernel-Version}-di
  * partman-newworld
