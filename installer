@@ -26,7 +26,6 @@ This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ li
  * console-keymaps-mac
  * console-keymaps-sun
  * console-keymaps-usb
- * countrychooser
  * debootstrap-udeb
  * dhcp-client-udeb
  * di-utils
@@ -53,7 +52,6 @@ This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ li
  * iso-scan # for USB boot
  * jfsutils-udeb
  * kbd-chooser
- * languagechooser
  * libdevmapper1.00-udeb
  * libfribidi0-udeb
  * libparted1.6-udeb
@@ -61,7 +59,7 @@ This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ li
  * load-cdrom
  * load-installer # for netboot
  * load-iso # for USB boot
- * localechooser # to replace languagechooser and countrychooser
+ * localechooser # replaces languagechooser and countrychooser
  * lowmem
  * lowmemcheck
  * lvm10-udeb  # TODO: which of lvm10/lvm2 do we need?
