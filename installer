@@ -47,6 +47,7 @@ This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ li
  * evms-udeb
  * fbset-udeb
  * file-preseed
+ * grepmap-udeb # will speed up hotplug, when we start using it
  * hdparm-udeb # not currently used, but may be used by cdrom-detect in the future
  * hw-detect
  * hw-detect-full
