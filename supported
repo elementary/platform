@@ -645,6 +645,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
  * flac
  * libggi-target-x
+ * esound-clients
 
 == Kernel ==
 
