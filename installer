@@ -141,6 +141,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 = Kickstart Compatibility =
 
  * initrd-kickseed
+ * file-kickseed
 
 = Partition Management (architecture-specific) =
 
