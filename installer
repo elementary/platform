@@ -138,6 +138,10 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * gpgv-udeb
  * ubuntu-keyring-udeb
 
+= Kickstart Compatibility =
+
+ * initrd-kickseed
+
 = Partition Management (architecture-specific) =
 
  * fdisk-udeb
