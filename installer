@@ -1,8 +1,9 @@
-This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ list of packages in the current d-i netinst images], and from initrd.list files in d-i daily builds.
+This list was originally constructed based on a [http://people.debian.org/~cjwatson/d-i/ list of packages in the current d-i netinst images], and from initrd.list files in d-i daily builds.
 
 = Common Packages =
 
  * anna
+ * apt-setup-udeb # first-stage apt configuration question
  * archdetect
  * archive-copier
  * autopartkit
