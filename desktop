@@ -213,8 +213,6 @@ GStreamer stuff which should end up in universe (see supported though, for a few
  * xscreensaver    # MRS, see attachment:.xscreensaver.ksh sample config. we will not ship all the actual screensavers, just the best. Thom: some are buggy on amd64 - ["WartyWarthog/XScreenSaver"] has a blacklist.
  * rss-glx         # MRS, very slick screensavers
  * xscreensaver-gl # MRS, we will only ship a subset of the screensavers from rss-glx and xscreensaver
- * x3270           # telnet for IBM mainframes
- * pr3287          # printer support for 3270 emulation
  * tsclient        # rdesktop/vnc/xdmcp client gui
  * xvncviewer      # needed by tsclient
 
