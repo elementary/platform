@@ -75,7 +75,7 @@ There's no way we can ship a desktop without a GUI, and X.Org packages are too b
 
  * x-window-system-core   # FabioMassimoDiNitto .. i guess this is mine ;)
  * xterm                  # FabioMassimoDiNitto
- * xfree86-driver-synaptics  # for enhanced touchpad features
+ * xorg-driver-synaptics  # for enhanced touchpad features
 
 
 Fonts:
