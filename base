@@ -115,7 +115,6 @@ Programs and packages necessary for both the proper functionality of the system 
  * mawk
  * mime-support      # establishes framework for dealing with MIME
  * module-init-tools # required for kernel 2.6
- * modutils          # needed for someone who builds a kernel 2.4
  * nano              # we need a text editor less scary than vi
  * netbase
  * passwd

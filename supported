@@ -295,7 +295,6 @@ Ubuntu artwork:
  * attr                 # will move to base if we go to selinux
  * quota
  * backuppc             # RobertCollins
- * kernel-image-2.4-386 # luddites-r-us
  * debian-goodies
  * whois                # FabioMassimoDiNitto
  * minicom              # useful for serial access to anything
@@ -633,17 +632,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
 == Kernel ==
 
-=== Generic ===
-
- * ksymoops # 2.4 kernel crash debugging
-
 === i386 ===
- * kernel-image-2.4-586tsc
- * kernel-image-2.4-686
- * kernel-image-2.4-686-smp
- * kernel-image-2.4-k6
- * kernel-image-2.4-k7
- * kernel-image-2.4-k7-smp
  * linux-686
  * linux-686-smp
  * linux-k7
@@ -653,11 +642,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * linux-headers-2.6-686-smp
  * linux-headers-2.6-k7
  * linux-headers-2.6-k7-smp
- * kernel-pcmcia-modules-2.4-386
- * kernel-pcmcia-modules-2.4-586tsc
- * kernel-pcmcia-modules-2.4-686
- * kernel-pcmcia-modules-2.4-k6
- * kernel-pcmcia-modules-2.4-k7
 
 === powerpc ===
 
