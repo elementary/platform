@@ -326,8 +326,8 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 == Development ==
 
  * python-mode
- * libc6-prof
- * libc6.1-prof
+ * libc6-prof [amd64 i386 powerpc sparc]
+ * libc6.1-prof [ia64]
  * console-tools-dev
  * cyrus21-dev
  * dhcp3-dev
@@ -421,8 +421,8 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * freeglut3-dbg
  * libatk1.0-dbg
  * libatspi-dbg
- * libc6-dbg
- * libc6.1-dbg
+ * libc6-dbg [amd64 i386 powerpc sparc]
+ * libc6.1-dbg [ia64]
  * libcurl3-dbg
  * libdps1-dbg
  * libfontconfig1-dbg
