@@ -634,6 +634,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * authbind                     # BIGGER SECURITAH REVIEW
  * siege
  * bonnie++
+ * ltsp-utils
 
 == Multimedia ==
 
