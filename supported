@@ -337,9 +337,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * lesstif-dev
  * libbind-dev
  * libblkid-dev
- * libdb3++-dev
- * libdb4.1++-dev
- * libdb4.2++-dev
+ * libdb4.3++-dev
  * libdc1394-10-dev
  * libdevhelp-1-dev
  * libdirectfb-dev
@@ -519,7 +517,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * cpp-3.3-doc
  * cpp-doc
  * cyrus21-doc
- * db4.2-doc
+ * db4.3-doc
  * dbus-1-doc
  * debconf-doc
  * defoma-doc
