@@ -234,7 +234,6 @@ Libraries and Modules:
  * python-epydoc            # MRS, 
  * python-eunuchs           # MRS, 
  * python-examples          # MRS, 
- * python-fixedpoint        # MRS,
  * python-gadfly            # MRS, 
  * python-gd                # MRS, 
  * python-gdbm
@@ -254,13 +253,11 @@ Libraries and Modules:
  * python-jabber
  * python2.3-dbus
  * python2.3-dictclient
- * python2.3-iconvcodec
  * python2.3-librdf
  * python2.3-pycurl
  * python2.3-samba
  * python-kjbuckets
  * python-ldap
- * python-mpz
  * python-musicbrainz
  * python-mysqldb
  * python-netcdf
