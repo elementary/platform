@@ -205,10 +205,6 @@ Other:
  * libgnome2-perl      # used by debconf GNOME frontend
  * memprof
  * mozilla-psm
- * mozilla-thunderbird-enigmail # gpg integration for thunderbird
- * mozilla-thunderbird-offline  # offline use of thunderbird
- * mozilla-thunderbird-typeaheadfind # neat usability enhancement for thunderbird
- * mozilla-thunderbird-inspector     # used for extension development and debugging
  * pan
  * workrave            # RSI-avoidance
  * xnest
@@ -236,6 +232,7 @@ Other:
  * dict-jargon
  * dict-vera
  * kino
+ * graphviz
  
 GNOME Office:
 
@@ -260,12 +257,18 @@ GStreamer:
 Ubuntu artwork:
 
  * ubuntu-calendar
- * ubuntu-calendar-october
- * ubuntu-calendar-november
- * ubuntu-calendar-december
  * ubuntu-calendar-january
  * ubuntu-calendar-february
  * ubuntu-calendar-march
+ * ubuntu-calendar-april
+ * ubuntu-calendar-may
+ * ubuntu-calendar-june
+ * ubuntu-calendar-july
+ * ubuntu-calendar-august
+ * ubuntu-calendar-september
+ * ubuntu-calendar-october
+ * ubuntu-calendar-november
+ * ubuntu-calendar-december
 
 = Python =
 
