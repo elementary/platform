@@ -719,6 +719,12 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * mozilla-firefox-locale-pl
  * mozilla-firefox-locale-tr
  * mozilla-firefox-locale-uk
+ * mozilla-thunderbird-locale-ca
+ * mozilla-thunderbird-locale-de
+ * mozilla-thunderbird-locale-fr
+ * mozilla-thunderbird-locale-ko
+ * mozilla-thunderbird-locale-nl
+ * mozilla-thunderbird-locale-pl
  * myspell-bg
  * myspell-ca
  * myspell-de-at
