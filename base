@@ -27,6 +27,10 @@
 
  * linux-amd64-generic  # amd64 kernel, works on all machines though not optimised
 
+== ia64 ==
+
+ * elilo
+
 = UNIX =
 
 == Essential ==
