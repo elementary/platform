@@ -53,13 +53,15 @@
  * console-terminus
  * unifont
 
-== Network Access ==
+== Hardware & Network Access ==
 
  * pptp-linux             # client for Microsoft-compatible VPN's, needed for some ISPs
  * eagle-usb-utils        # needed for some ADSL modems
  * isdnutils
  * pcmcia-cs
  * bpalogin
+
+ * nvidia-glx    # nvidia drivers, for multiseat, but also easy access
 
 == Common language packs ==
 
