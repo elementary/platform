@@ -104,13 +104,14 @@ This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ li
  * raidtools2-udeb
  * rootskel
  * rootskel-locale
+ * tzsetup-udeb # first-stage timezone question
  * udev-udeb
  * udpkg
  * usb-discover
  * usbutils-udeb # for lsusb, so we can show descriptive names for devices
  * wireless-tools-udeb
  * xfsprogs-udeb
- * zoneinfo-udeb # for timezone question
+ * zoneinfo-udeb # for first-stage timezone question
 
  * debian-installer-manual # also has side-effect of pulling in CD image build system
 
