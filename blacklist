@@ -1,4 +1,4 @@
-# ----- blacklist.gnome1 -----
+# blacklist: gnome1
 # We want to avoid shipping GNOME 1.x components if possible
 gconf
 libxml
@@ -6,13 +6,13 @@ libcapplet
 gnome-bin
 gnome-libs
 
-# ----- blacklist.kde -----
+# blacklist: kde
 # KDE is big and interdependent; avoid shipping it at all if we can
 
 # Currently, only vim pulls this in
 kdelibs
 
-# ----- blacklist.misc -----
+# blacklist: misc
 # Packages which are pulled in incidentally (typically by build-dependencies)
 # and could be trivially replaced with something that we ship
 
@@ -29,7 +29,7 @@ tcl8.0
 # mdz, 2004-06-15: only pulled in by vim
 ruby1.8
 
-# ----- blacklist.security -----
+# blacklist: security
 #
 # Packages which are not supportable from a security standpoint
 #
