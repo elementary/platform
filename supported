@@ -365,7 +365,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * liblinc-dev
  * libmagic-dev
  * libmagick++6-dev
- * libmp3hip-dev
  * libmysqlclient12-dev
  * libneon23-dev
  * libnetpbm10-dev
