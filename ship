@@ -9,7 +9,7 @@
 == Server ==
 
  * ssh
- * lilo
+ * lilo [i386]
  * ntp-simple
  * nfs-kernel-server
  * apache2-mpm-worker
