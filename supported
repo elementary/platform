@@ -855,8 +855,10 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-pack-ka
  * language-pack-kn
  * language-pack-ko
+ * language-pack-ku
  * language-pack-lg
  * language-pack-li
+ * language-pack-lo
  * language-pack-lt
  * language-pack-lv
  * language-pack-mg
@@ -880,6 +882,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-pack-ru
  * language-pack-rw
  * language-pack-se
+ * language-pack-si
  * language-pack-sk
  * language-pack-sl
  * language-pack-sq
@@ -889,11 +892,14 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-pack-tg
  * language-pack-th
  * language-pack-tk
+ * language-pack-tl
  * language-pack-tr
  * language-pack-uk
+ * language-pack-ur
  * language-pack-uz
  * language-pack-vi
  * language-pack-wa
+ * language-pack-xh
  * language-pack-yi
  * language-pack-yo
  * language-pack-zh
@@ -936,8 +942,10 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-pack-ka-update
  * language-pack-kn-update
  * language-pack-ko-update
+ * language-pack-ku-update
  * language-pack-lg-update
  * language-pack-li-update
+ * language-pack-lo-update
  * language-pack-lt-update
  * language-pack-lv-update
  * language-pack-mg-update
@@ -961,6 +969,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-pack-ru-update
  * language-pack-rw-update
  * language-pack-se-update
+ * language-pack-si-update
  * language-pack-sk-update
  * language-pack-sl-update
  * language-pack-sq-update
@@ -970,11 +979,14 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-pack-tg-update
  * language-pack-th-update
  * language-pack-tk-update
+ * language-pack-tl-update
  * language-pack-tr-update
  * language-pack-uk-update
+ * language-pack-ur-update
  * language-pack-uz-update
  * language-pack-vi-update
  * language-pack-wa-update
+ * language-pack-xh-update
  * language-pack-yi-update
  * language-pack-yo-update
  * language-pack-zh-update
@@ -1018,8 +1030,10 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-support-ka
  * language-support-kn
  * language-support-ko
+ * language-support-ku
  * language-support-lg
  * language-support-li
+ * language-support-lo
  * language-support-lt
  * language-support-lv
  * language-support-mg
@@ -1043,6 +1057,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-support-ru
  * language-support-rw
  * language-support-se
+ * language-support-si
  * language-support-sk
  * language-support-sl
  * language-support-sq
@@ -1052,11 +1067,14 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-support-tg
  * language-support-th
  * language-support-tk
+ * language-support-tl
  * language-support-tr
  * language-support-uk
+ * language-support-ur
  * language-support-uz
  * language-support-vi
  * language-support-wa
+ * language-support-xh
  * language-support-yi
  * language-support-yo
  * language-support-zh
