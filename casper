@@ -16,11 +16,6 @@ This seed is used to construct the first stage of the live CD.
  * cdrom-checker
  * cdrom-detect
  * cdrom-retriever
- * console-keymaps-at
- * console-keymaps-dec
- * console-keymaps-mac
- * console-keymaps-sun
- * console-keymaps-usb
  * dhcp-client-udeb
  * di-utils
  * di-utils-mapdevfs
@@ -59,6 +54,13 @@ This seed is used to construct the first stage of the live CD.
  * usb-discover
  * usbutils-udeb # for lsusb, so we can show descriptive names for devices
  * wireless-tools-udeb
+
+== Keymaps ==
+
+ * console-keymaps-at
+ * console-keymaps-mac [powerpc]
+ * console-keymaps-sun [sparc]
+ * console-keymaps-usb
 
 == amd64 ==
 
