@@ -341,7 +341,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * gtkglarea5-dev
  * imlib1-dev
  * iptables-dev
- * lesstif-dev
  * libbind-dev
  * libblkid-dev
  * libdb4.3++-dev
@@ -550,7 +549,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * indent-doc
  * krb5-doc
  * lapack3-doc
- * lesstif-doc
  * libapt-pkg-doc
  * libasound2-doc
  * libatk1.0-doc
