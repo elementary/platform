@@ -45,6 +45,7 @@ This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ li
  * ethdetect
  * evms-udeb
  * fbset-udeb
+ * file-preseed
  * floppy-retriever
  * hdparm-udeb # not currently used, but may be used by cdrom-detect in the future
  * hw-detect
@@ -75,6 +76,7 @@ This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ li
  * nano-udeb
  * net-retriever
  * netcfg
+ * network-preseed
  * nobootloader
  * openssh-client-udeb
  * os-prober
