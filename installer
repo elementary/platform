@@ -131,6 +131,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
  * initrd-kickseed
  * file-kickseed
+ * network-kickseed
 
 = Keymaps =
 
