@@ -31,8 +31,8 @@ This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ li
  * debootstrap-udeb
  * dhcp-client-udeb
  * di-utils
- * di-utils-reboot
  * di-utils-mapdevfs
+ * di-utils-reboot
  * di-utils-shell
  * di-utils-terminfo
  * discover1-data-udeb
