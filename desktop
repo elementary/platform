@@ -54,16 +54,17 @@ These packages help with system integration
 
 Printing and printer configuration is a real weak spot in Debian, and in Linux in general. We will need to stay at the front of the curve here.
 
- * cupsys                 # our preferred printer management infrastructure
- * cupsys-bsd             # gives us lpc, lpq, lpr, lprm
- * cupsys-client          # gives us cancel, cupstestppd, lp, lpoptions, lppasswd, lpstat, cupsaddsmb, accept, lpadmin, lpinfo, lpmove
- * foomatic-db-engine     # integrate the foomatic printer driver engine
- * foomatic-db            # the foomatic printer driver database
- * foomatic-filters       # converter from postscript to printer-specific formats
- * foomatic-db-gimp-print # printer drivers from the gimp-print project
- * foomatic-db-hpijs      # printer drivers from the hp inkjet project
- * foomatic-filters-ppds  # a ton of ppds, large but gives us very comprehensive printer support
- * pnm2ppa                # several ppds require this
+ * cupsys                       # our preferred printer management infrastructure
+ * cupsys-bsd                   # gives us lpc, lpq, lpr, lprm
+ * cupsys-client                # gives us cancel, cupstestppd, lp, lpoptions, lppasswd, lpstat, cupsaddsmb, accept, lpadmin, lpinfo, lpmove
+ * foomatic-db-engine           # integrate the foomatic printer driver engine
+ * foomatic-db                  # the foomatic printer driver database
+ * foomatic-filters             # converter from postscript to printer-specific formats
+ * foomatic-db-gimp-print       # printer drivers from the gimp-print project
+ * foomatic-db-hpijs            # printer drivers from the hp inkjet project
+ * foomatic-filters-ppds        # a ton of ppds, large but gives us very comprehensive printer support
+ * cupsys-driver-gimpprint      # a ton of cupsys ppds, for real comprehensive printer support
+ * pnm2ppa                      # several ppds require this
 
 = GUI infrastructure =
 
