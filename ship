@@ -60,6 +60,7 @@
  * isdnutils
  * pcmcia-cs
  * bpalogin
+ * ndiswrapper-utils
 
  * nvidia-glx    # nvidia drivers, for multiseat, but also easy access
 
