@@ -149,6 +149,7 @@ Download:
 
  * build-essential
  * bison
+ * emacs21
  * flex
  * patchutils
  * valgrind
