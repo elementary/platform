@@ -205,8 +205,8 @@ GStreamer stuff which should end up in universe (see supported though, for a few
 
 = Other Desktop GUI Apps =
 
- * openoffice.org [amd64 i386 powerpc sparc]           # this is not a gnome app, but we'll use the debian gtk-ified version to get closer
- * openoffice.org-gtk-gnome [amd64 i386 powerpc sparc]
+ * openoffice.org           # this is not a gnome app, but we'll use the debian gtk-ified version to get closer
+ * openoffice.org-gtk-gnome
  * xsane           # scanner utils
  * xpdf            # until gpdf is really better
  * xchat
