@@ -23,7 +23,6 @@
  * fakeroot
  * devscripts		  # Debian package development
  * cvs                    #RobertCollins
- * tla			  #RobertCollins
  * bazaar
  * linux-headers-386 [i386]
  * linux-headers-powerpc [powerpc]
