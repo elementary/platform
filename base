@@ -3,12 +3,12 @@
 == Generic ==
 
  * alsa-base # needed for proper hardware detection (hotplug/blacklist.d, modprobe.d)
+ * discover1            # needed for xserver-xorg autoconfiguration
+ * hotplug              # getting more important, probable future, but not enough
 
 == i386, i686 ==
 
  * grub                 # lilo will be in supported
- * discover1            # needed for xserver-xorg autoconfiguration
- * hotplug              # getting more important, probable future, but not enough
  * linux-386            # our chosen default install kernel, including restricted modules
  * libc6-i686
 
