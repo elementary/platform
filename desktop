@@ -251,11 +251,11 @@ Libraries and Modules:
  * python-imaging
  * python-imaging-sane # pulls in big packages, can cut it if needed
  * python-jabber
- * python2.3-dbus
- * python2.3-dictclient
- * python2.3-librdf
- * python2.3-pycurl
- * python2.3-samba
+ * python2.4-dbus
+ * python2.4-dictclient
+ * python2.4-librdf
+ * python2.4-pycurl
+ * python2.4-samba
  * python-kjbuckets
  * python-ldap
  * python-musicbrainz
@@ -292,8 +292,8 @@ Libraries and Modules:
 Python Integrated Applications:
 
  * gimp-python
- * libxml2-python2.3
- * libxslt1-python2.3
+ * libxml2-python2.4
+ * libxslt1-python2.4
  * bicyclerepair          # python refactoring tool for vim & emacs
  * pymacs                 # makes bicyclerepair work 
 
