@@ -644,44 +644,44 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
 === i386 ===
 
- * linux-686
- * linux-686-smp
- * linux-k7
- * linux-k7-smp
- * linux-headers-686
- * linux-headers-686-smp
- * linux-headers-k7
- * linux-headers-k7-smp
+ * linux-686 [i386]
+ * linux-686-smp [i386]
+ * linux-k7 [i386]
+ * linux-k7-smp [i386]
+ * linux-headers-686 [i386]
+ * linux-headers-686-smp [i386]
+ * linux-headers-k7 [i386]
+ * linux-headers-k7-smp [i386]
 
 === powerpc ===
 
- * linux-powerpc-smp
- * linux-power3-smp
- * linux-power4-smp
- * linux-headers-powerpc-smp
- * linux-headers-power3-smp
- * linux-headers-power4-smp
+ * linux-powerpc-smp [powerpc]
+ * linux-power3-smp [powerpc]
+ * linux-power4-smp [powerpc]
+ * linux-headers-powerpc-smp [powerpc]
+ * linux-headers-power3-smp [powerpc]
+ * linux-headers-power4-smp [powerpc]
 
 === amd64 ===
 
- * linux-amd64-k8
- * linux-amd64-k8-smp
- * linux-amd64-xeon
- * linux-headers-amd64-k8
- * linux-headers-amd64-k8-smp
- * linux-headers-amd64-xeon
+ * linux-amd64-k8 [amd64]
+ * linux-amd64-k8-smp [amd64]
+ * linux-amd64-xeon [amd64]
+ * linux-headers-amd64-k8 [amd64]
+ * linux-headers-amd64-k8-smp [amd64]
+ * linux-headers-amd64-xeon [amd64]
 
 === ia64 ===
 
- * linux-itanium
- * linux-mckinley
- * linux-headers-itanium
- * linux-headers-mckinley
+ * linux-itanium [ia64]
+ * linux-mckinley [ia64]
+ * linux-headers-itanium [ia64]
+ * linux-headers-mckinley [ia64]
 
 === sparc ===
 
- * linux-sparc64-smp
- * linux-headers-sparc64-smp
+ * linux-sparc64-smp [sparc]
+ * linux-headers-sparc64-smp [sparc]
 
 === Source ===
 
