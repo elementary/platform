@@ -35,6 +35,11 @@
  * xresprobe
  * laptop-detect
 
+== For language support in the installer ==
+
+ * console-terminus
+ * unifont
+
 Include plone, zope and friends for Steve:
 
  a. plone2
