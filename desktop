@@ -118,6 +118,7 @@ We've chosen GNOME as our desktop user interface of choice, and GNOME 2.8 is a F
  * gnome-gv
  * gnome-icon-theme
  * gnome-media
+ * gnome-menus
  * gnome-netstatus-applet
  * gnome-nettool            # part of 2.8
  * gnome-panel
@@ -158,10 +159,11 @@ We've chosen GNOME as our desktop user interface of choice, and GNOME 2.8 is a F
 
 Themes: we will ship only the very best looking themes. We won't ship everything that Debian ships, just a custom package that includes the themes we want. These packages are included for size guidance until we have Warty-specific packages.
 
- * gnome-themes              # we will ship the best-looking and most robust subset
- * gtk2-engines-mist         # 
- * gtk2-engines-industrial   # our theme may be a derivation of industrial
- * ubuntu-sounds             # default sounds for audio theme
+ * gnome-themes
+ * gtk2-engines-mist
+ * gtk2-engines-industrial
+ * gtk2-engines-smooth
+ * ubuntu-sounds
 
 We don't want all the gstreamer0.8-plugins dependencies, so we call out specific ones that are sane:
 
