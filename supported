@@ -781,6 +781,15 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
  * libaltlinuxhyph-dev # build-dep of oo.o, not found by germinate
 
+= Not quite ready for base yet =
+
+ * grepmap
+
+= Not quite ready for desktop yet =
+
+ * upgrade-notifier
+ * update-manager
+
 = PROPOSED =
 
 The package list has now frozen. Please move future package proposals to HoaryHedgehog/SupportedSeed, unless it's really urgent for Warty. If it is really urgent, put it below and please also send a mail to the list with a rationale for the late package inclusion to Warty.
