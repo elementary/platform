@@ -662,7 +662,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
 === Source ===
 
- * linux-tree-2.6.8.1 # would be nice if there were a metapackage
+ * linux-tree
 
 = Database =
 
