@@ -512,6 +512,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libxxf86misc1-dbg
  * libxxf86rush1-dbg
  * libxxf86vm1-dbg
+ * sparc-utils [sparc]  # no buildd without this one
 
 == Documentation ==
 
@@ -698,6 +699,13 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * linux-mckinley
  * linux-headers-itanium
  * linux-headers-mckinley
+
+=== sparc ===
+
+ * linux-sparc64
+ * linux-sparc64-smp
+ * linux-headers-sparc64
+ * linux-headers-sparc64-smp
 
 === Source ===
 
