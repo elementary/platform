@@ -630,6 +630,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 == Kernel ==
 
 === i386 ===
+
  * linux-686
  * linux-686-smp
  * linux-k7
@@ -656,6 +657,50 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * linux-headers-amd64-k8
  * linux-headers-amd64-k8-smp
  * linux-headers-amd64-xeon
+
+=== Non-default versions ===
+
+# Remove when 2.6.9 becomes default
+
+ * linux-tree-2.6.9
+ * linux-headers-2.6.9-1-powerpc-smp
+ * linux-image-2.6.9-1-amd64-k8-smp
+ * linux-headers-2.6.9-1-sparc64
+ * linux-doc-2.6.9
+ * linux-image-2.6.9-1-power3
+ * linux-headers-2.6.9-1-686-smp
+ * linux-image-2.6.9-1-sparc64-smp
+ * linux-image-2.6.9-1-amd64-k8
+ * linux-image-2.6.9-1-powerpc-smp
+ * linux-image-2.6.9-1-power4-smp
+ * linux-image-2.6.9-1-k7
+ * linux-headers-2.6.9-1-power3
+ * linux-image-2.6.9-1-amd64-generic
+ * linux-image-2.6.9-1-power3-smp
+ * linux-headers-2.6.9-1-power3-smp
+ * linux-image-2.6.9-1-686
+ * linux-headers-2.6.9-1-amd64-k8
+ * linux-headers-2.6.9-1-386
+ * linux-patch-debian-2.6.9
+ * linux-headers-2.6.9-1-power4
+ * linux-image-2.6.9-1-k7-smp
+ * linux-image-2.6.9-1-powerpc
+ * linux-headers-2.6.9-1-amd64-k8-smp
+ * linux-image-2.6.9-1-386
+ * linux-image-2.6.9-1-sparc64
+ * linux-headers-2.6.9-1-k7-smp
+ * linux-headers-2.6.9-1
+ * linux-image-2.6.9-1-amd64-xeon
+ * linux-headers-2.6.9-1-powerpc
+ * linux-headers-2.6.9-1-power4-smp
+ * linux-headers-2.6.9-1-amd64-xeon
+ * linux-image-2.6.9-1-power4
+ * linux-headers-2.6.9-1-k7
+ * linux-headers-2.6.9-1-sparc64-smp
+ * linux-headers-2.6.9-1-amd64-generic
+ * linux-image-2.6.9-1-686-smp
+ * linux-headers-2.6.9-1-686
+ * linux-source-2.6.9
 
 === Source ===
 
