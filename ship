@@ -70,6 +70,7 @@
  * linux-wlan-ng
  * avm-fritz-firmware
  * drdsl
+ * libatm1	# suggested by ppp for PPP-over-ATM
 
 == Common language packs ==
 
