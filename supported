@@ -667,10 +667,8 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
  * linux-itanium
  * linux-mckinley
- * linux-mckinley-smp
  * linux-headers-itanium
  * linux-headers-mckinley
- * linux-headers-mckinley-smp
 
 === Non-default versions ===
 
