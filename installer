@@ -302,3 +302,24 @@ We include 2.6 kernel module udebs only.
  * usb-modules-${Kernel-Version}-di
  * usb-storage-modules-${Kernel-Version}-di
  * yaboot-installer
+
+== sparc ==
+
+ * Kernel-Version: 2.6.10-2-sparc64
+
+ * cdrom-core-modules-${Kernel-Version}-di
+ * ext3-modules-${Kernel-Version}-di
+ * fat-modules-${Kernel-Version}-di
+ * ide-modules-${Kernel-Version}-di
+ * ipv6-modules-${Kernel-Version}-di
+ * loop-modules-${Kernel-Version}-di
+ * md-modules-${Kernel-Version}-di
+ * nic-modules-${Kernel-Version}-di
+ * plip-modules-${Kernel-Version}-di
+ * ppp-modules-${Kernel-Version}-di
+ * reiserfs-modules-${Kernel-Version}-di
+ * scsi-common-modules-${Kernel-Version}-di
+ * scsi-core-modules-${Kernel-Version}-di
+ * xfs-modules-${Kernel-Version}-di
+ * silo-installer
+
