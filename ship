@@ -70,3 +70,7 @@
 == Installer documentation ==
 
  * debian-installer-manual # also has side-effect of pulling in CD image build system
+
+== Optional multiseat configuration ==
+
+ * multiseat
