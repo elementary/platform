@@ -143,6 +143,7 @@ Security:
 Download:
 
  * bittorrent             # rapid p2p download, for efficient large file distribution, perhaps for desktop
+ * bittornado             # used on the servers.
  * jigit                  # specialised Debian/Ubuntu CD image download
 
 
@@ -176,6 +177,7 @@ Download:
 
  * cvs                    #RobertCollins
  * subversion
+ * subversion-tools
  * python2.4-subversion
  * tla                    #RobertCollins
  * tla-tools              #RobertCollins
@@ -189,6 +191,7 @@ Download:
  * dupload           # ColinWatson
  * fakeroot
  * linda             # python-based replacement for lintian
+ * lintian
  * pbuilder          # ColinWatson
  * apt-listchanges
  * devscripts        # Debian package development
@@ -230,6 +233,7 @@ Other:
  * mozilla-thunderbird-typeaheadfind # neat usability enhancement for thunderbird
  * mozilla-thunderbird-inspector     # used for extension development and debugging
  * openoffice.org-help
+ * pan
  * workrave            # RSI-avoidance
  * xnest
  * xrestop
@@ -240,7 +244,28 @@ Other:
  * gtranslator             # we want warty users to participate in rosetta!
  * screem                  # MRS, our default html editor
  * vim-gnome
-
+ * vorbisgain
+ * enscript
+ * muine
+ * tomboy
+ * emacs-goodies-el
+ * bbdb
+ * calc
+ * gnus
+ * auctex
+ * lbdb
+ * dictd
+ * dict-gcide
+ * dict-moby-thesaurus
+ * dict-foldoc
+ * dict-jargon
+ * dict-vera
+ * kino
+ * ttf-alee
+ * ttf-unfonts
+ * nabi
+ * imhangul
+ 
 GNOME Office:
 
  * abiword-gnome
@@ -275,6 +300,7 @@ Ubuntu artwork:
 
  * python-pygresql         # JamesTroup, from hoglet
  * python-psycopg          # To be used in launchpad
+ * python-nevow
 
 = Console Tools =
 
@@ -628,6 +654,15 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libpam-opie
  * opie-client
  * opie-server
+ * sasl-bin
+ * autofs
+ * lmsensors                    # Has to have sensors-detect disabled.
+ * awstats
+ * acct
+ * nagios                       # SECURITAH REVIEW
+ * authbind                     # BIGGER SECURITAH REVIEW
+ * siege
+ * bonnie++
 
 == Multimedia ==
 
