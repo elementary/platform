@@ -6,6 +6,7 @@ We need kick-ass desktop hardware support! These are architecture-specific items
  * libesd0 # so that esd actually works (as opposed to libesd-alsa0)
  * powernowd
  * readahead
+ * powermanagement-interface
 
 == i386, i686, amd64 ==
 
