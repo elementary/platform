@@ -185,7 +185,6 @@ We don't want all the gstreamer0.8-plugins dependencies, so we call out specific
  * gstreamer0.8-oss
  * gstreamer0.8-sdl
  * gstreamer0.8-speex
- * gstreamer0.8-swfdec
  * gstreamer0.8-theora
  * gstreamer0.8-vorbis
  * gstreamer0.8-x
@@ -195,6 +194,7 @@ GStreamer stuff which should end up in universe (see supported though, for a few
  - gstreamer0.8-a52dec
  - gstreamer0.8-mad
  - gstreamer0.8-mpeg2dec
+ - gstreamer0.8-swfdec
 
 = Other Desktop GUI Apps =
 
