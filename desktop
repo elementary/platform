@@ -313,6 +313,7 @@ Documentation:
 = Other =
 
  * ubuntu-desktop # metapackage for everything here
+ * anacron # generally appropriate for desktops
 
 = Germinate workarounds =
 
