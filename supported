@@ -191,6 +191,7 @@ Download:
  * apt-listchanges
  * devscripts        # Debian package development
  * dput
+ * pkgstriptranslations # for removing gettext data on the buildds
 
 = Shells =
 
