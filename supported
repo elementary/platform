@@ -662,6 +662,15 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * linux-headers-amd64-k8-smp
  * linux-headers-amd64-xeon
 
+=== ia64 ===
+
+ * linux-itanium
+ * linux-mckinley
+ * linux-mckinley-smp
+ * linux-headers-itanium
+ * linux-headers-mckinley
+ * linux-headers-mckinley-smp
+
 === Non-default versions ===
 
 # Remove when 2.6.9 becomes default

@@ -30,6 +30,7 @@
 == ia64 ==
 
  * elilo
+ * linux-itanium-smp    # ia64 kernel, works on all machines
 
 = UNIX =
 
