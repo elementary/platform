@@ -51,7 +51,6 @@ This seed is used to construct the first stage of the live CD.
  * network-preseed
  * pciutils-udeb # for lspci, so we can show descriptive names for devices
  * pcmcia-cs-udeb
- * prebaseconfig
  * preseed-common
  * rootskel
  * rootskel-locale
