@@ -94,6 +94,8 @@ Other:
  * snmpd
  * ntp-simple
  * nis
+ * sensord
+ * lm-sensors
 
 Application Servers:
 
@@ -379,6 +381,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * librrd0-dev
  * libsablevm1-dev
  * libscrollkeeper-dev
+ * libsensors-dev
  * libslapd2-dev
  * libsp1-dev
  * libstlport4.6-dev
