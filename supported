@@ -811,7 +811,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 = Not quite ready for the default install yet =
 
  * update-manager
- * gnome-app-install
 
 = Language packs =
 
