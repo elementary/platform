@@ -204,6 +204,12 @@ We include 2.6 kernel module udebs only.
  * usb-modules-2.6.8.1-3-386-di
  * usb-storage-modules-2.6.8.1-3-386-di
 
+== ia64 ==
+
+ * efi-reader
+ * elilo-installer
+ * libc6.1-udeb
+
 == powerpc ==
 
  * Kernel-Version: 2.6.8.1-3-power3
