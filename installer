@@ -48,6 +48,7 @@ This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ li
  * hotplug-udeb
  * hw-detect
  * hw-detect-full
+ * initrd-preseed
  * iso-3166-udeb
  * iso-scan # for USB boot
  * jfsutils-udeb
