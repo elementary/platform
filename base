@@ -114,6 +114,7 @@ Programs and packages necessary for both the proper functionality of the system 
  * libfribidi0       # right-to-left text support in base-config
  * locales
  * logrotate
+ * lsb-release
  * mailx
  * makedev
  * man-db            # ColinWatson
