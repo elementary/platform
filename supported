@@ -707,6 +707,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * gettext-el
  * mozilla-firefox-locale-ca
  * mozilla-firefox-locale-de
+ * mozilla-firefox-locale-el
  * mozilla-firefox-locale-es
  * mozilla-firefox-locale-fr
  - mozilla-firefox-locale-gl # not up to date
