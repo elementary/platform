@@ -1,22 +1,27 @@
- * emacs21
+== Desktop ==
+
  * epiphany-extensions # that'll pull in epiphany
- * ssh
  * mozilla-thunderbird
  * mozilla-thunderbird-enigmail
  * mozilla-thunderbird-offline
  * mozilla-thunderbird-typeaheadfind
+
+== Server ==
+
+ * ssh
  * lilo
- * build-essential
- * fakeroot
- * devscripts
  * ntp-simple
- * cvs
- * tla
- * nfs-common
  * nfs-kernel-server
  * apache2-mpm-worker
  * samba
- * bpalogin
+
+== Development ==
+
+ * build-essential
+ * fakeroot
+ * devscripts
+ * cvs
+ * tla
  * linux-headers-386
  * linux-headers-powerpc
  * linux-headers-power3
@@ -24,10 +29,14 @@
  * linux-headers-amd64-generic
  * linux-headers-itanium-smp
  * linux-headers-mckinley-smp
- * pptp-linux # needed for some ISPs
- * eagle-usb-utils # needed for some ISPs
- * isdnutils
- * pcmcia-cs
+
+== Emacs ==
+
+ * emacs21
+
+== Common UNIX stuff ==
+
+ * nfs-common
 
 == For X preconfiguration ==
 
@@ -39,3 +48,11 @@
 
  * console-terminus
  * unifont
+
+== Network Access ==
+
+ * pptp-linux # needed for some ISPs
+ * eagle-usb-utils # needed for some ISPs
+ * isdnutils
+ * pcmcia-cs
+ * bpalogin
