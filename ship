@@ -66,3 +66,7 @@
  * language-pack-en
  * language-pack-en-update
  * language-support-en
+
+== Installer documentation ==
+
+ * debian-installer-manual # also has side-effect of pulling in CD image build system
