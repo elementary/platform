@@ -88,7 +88,6 @@ Other:
  * bind9                  # LaMontJones, will look silly without it :-)
  * snmp
  * snmpd
- * nis
  * sensord
  * lm-sensors
 
