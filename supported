@@ -548,6 +548,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * guile-1.6-doc
  * hal-doc
  * indent-doc
+ * kdebase-doc
  * krb5-doc
  * lapack3-doc
  * libapt-pkg-doc
