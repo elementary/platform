@@ -101,6 +101,7 @@ This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ li
  * pcmcia-cs-udeb
  * ppp-udeb
  * prebaseconfig
+ * preseed-common
  * raidtools2-udeb
  * rootskel
  * rootskel-locale
