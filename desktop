@@ -71,7 +71,7 @@ Printing and printer configuration is a real weak spot in Debian, and in Linux i
 
 = GUI infrastructure =
 
-There's no way we can ship a desktop without a GUI, and X.Org packages are too big an undertaking for Warty; this has been bumped to Hoary. Warty will ship with the requisite 4.3 plus LOTS AND LOTS OF PATCHES (234k lines of patch before the conference even started). The future may involve debrix (http://debrix.freedesktop.org), but that's closer to RandomBlueskyIdeas.
+The future may involve debrix (http://debrix.freedesktop.org), but that's closer to RandomBlueskyIdeas.
 
  * x-window-system-core   # FabioMassimoDiNitto .. i guess this is mine ;)
  * xterm                  # FabioMassimoDiNitto
