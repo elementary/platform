@@ -131,6 +131,11 @@ This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ li
 
  * dmsetup-udeb
 
+= Release File Authentication =
+
+ * gpgv-udeb
+ * ubuntu-keyring-udeb
+
 = Architecture-Specific Packages =
 
 Things like kernels, bootloader installers, and the like go here. libc6-udeb is also in because its soname differs across architectures.
