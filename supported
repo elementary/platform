@@ -47,7 +47,7 @@ Web:
  * libapache2-mod-auth-pgsql # FabioMassimoDiNitto
  * libapache2-mod-macro      # FabioMassimoDiNitto
  * libapache2-mod-perl2 # python is in supported
- * libapache2-mod-php4
+ * php4
  * libapache2-mod-python        #ThomMay
  * libapache2-mod-python-doc    #ThomMay
  * libapache2-mod-auth-pam       # FabioMassimoDiNitto
