@@ -64,99 +64,99 @@ This seed is used to construct the first stage of the live CD.
 
  * Kernel-Version: 2.6.10-3-amd64-generic
 
- * acpi-modules-${Kernel-Version}-di
- * cdrom-core-modules-${Kernel-Version}-di
- * fb-modules-${Kernel-Version}-di
- * ide-core-modules-${Kernel-Version}-di
- * ide-modules-${Kernel-Version}-di
- * input-modules-${Kernel-Version}-di
- * ipv6-modules-${Kernel-Version}-di
- * nic-extra-modules-${Kernel-Version}-di
- * nic-firmware-${Kernel-Version}-di
- * nic-modules-${Kernel-Version}-di
- * nic-pcmcia-modules-${Kernel-Version}-di
- * nic-restricted-firmware-${Kernel-Version}-di
- * nic-restricted-modules-${Kernel-Version}-di
- * nic-shared-modules-${Kernel-Version}-di
- * nic-usb-modules-${Kernel-Version}-di
- * pcmcia-modules-${Kernel-Version}-di
- * pcmcia-storage-modules-${Kernel-Version}-di
- * sata-modules-${Kernel-Version}-di
- * scsi-common-modules-${Kernel-Version}-di
- * scsi-extra-modules-${Kernel-Version}-di
- * scsi-modules-${Kernel-Version}-di
- * socket-modules-${Kernel-Version}-di
+ * acpi-modules-${Kernel-Version}-di [amd64]
+ * cdrom-core-modules-${Kernel-Version}-di [amd64]
+ * fb-modules-${Kernel-Version}-di [amd64]
+ * ide-core-modules-${Kernel-Version}-di [amd64]
+ * ide-modules-${Kernel-Version}-di [amd64]
+ * input-modules-${Kernel-Version}-di [amd64]
+ * ipv6-modules-${Kernel-Version}-di [amd64]
+ * nic-extra-modules-${Kernel-Version}-di [amd64]
+ * nic-firmware-${Kernel-Version}-di [amd64]
+ * nic-modules-${Kernel-Version}-di [amd64]
+ * nic-pcmcia-modules-${Kernel-Version}-di [amd64]
+ * nic-restricted-firmware-${Kernel-Version}-di [amd64]
+ * nic-restricted-modules-${Kernel-Version}-di [amd64]
+ * nic-shared-modules-${Kernel-Version}-di [amd64]
+ * nic-usb-modules-${Kernel-Version}-di [amd64]
+ * pcmcia-modules-${Kernel-Version}-di [amd64]
+ * pcmcia-storage-modules-${Kernel-Version}-di [amd64]
+ * sata-modules-${Kernel-Version}-di [amd64]
+ * scsi-common-modules-${Kernel-Version}-di [amd64]
+ * scsi-extra-modules-${Kernel-Version}-di [amd64]
+ * scsi-modules-${Kernel-Version}-di [amd64]
+ * socket-modules-${Kernel-Version}-di [amd64]
 
 == i386 ==
 
  * Kernel-Version: 2.6.10-3-386
 
- * acpi-modules-${Kernel-Version}-di
- * cdrom-core-modules-${Kernel-Version}-di
- * cdrom-modules-${Kernel-Version}-di
- * fb-modules-${Kernel-Version}-di
- * ide-core-modules-${Kernel-Version}-di
- * ide-modules-${Kernel-Version}-di
- * input-modules-${Kernel-Version}-di
- * ipv6-modules-${Kernel-Version}-di
- * nic-extra-modules-${Kernel-Version}-di
- * nic-firmware-${Kernel-Version}-di
- * nic-modules-${Kernel-Version}-di
- * nic-pcmcia-modules-${Kernel-Version}-di
- * nic-restricted-firmware-${Kernel-Version}-di
- * nic-restricted-modules-${Kernel-Version}-di
- * nic-shared-modules-${Kernel-Version}-di
- * nic-usb-modules-${Kernel-Version}-di
- * pcmcia-modules-${Kernel-Version}-di
- * pcmcia-storage-modules-${Kernel-Version}-di
- * sata-modules-${Kernel-Version}-di
- * scsi-common-modules-${Kernel-Version}-di
- * scsi-extra-modules-${Kernel-Version}-di
- * scsi-modules-${Kernel-Version}-di
- * socket-modules-${Kernel-Version}-di
+ * acpi-modules-${Kernel-Version}-di [i386]
+ * cdrom-core-modules-${Kernel-Version}-di [i386]
+ * cdrom-modules-${Kernel-Version}-di [i386]
+ * fb-modules-${Kernel-Version}-di [i386]
+ * ide-core-modules-${Kernel-Version}-di [i386]
+ * ide-modules-${Kernel-Version}-di [i386]
+ * input-modules-${Kernel-Version}-di [i386]
+ * ipv6-modules-${Kernel-Version}-di [i386]
+ * nic-extra-modules-${Kernel-Version}-di [i386]
+ * nic-firmware-${Kernel-Version}-di [i386]
+ * nic-modules-${Kernel-Version}-di [i386]
+ * nic-pcmcia-modules-${Kernel-Version}-di [i386]
+ * nic-restricted-firmware-${Kernel-Version}-di [i386]
+ * nic-restricted-modules-${Kernel-Version}-di [i386]
+ * nic-shared-modules-${Kernel-Version}-di [i386]
+ * nic-usb-modules-${Kernel-Version}-di [i386]
+ * pcmcia-modules-${Kernel-Version}-di [i386]
+ * pcmcia-storage-modules-${Kernel-Version}-di [i386]
+ * sata-modules-${Kernel-Version}-di [i386]
+ * scsi-common-modules-${Kernel-Version}-di [i386]
+ * scsi-extra-modules-${Kernel-Version}-di [i386]
+ * scsi-modules-${Kernel-Version}-di [i386]
+ * socket-modules-${Kernel-Version}-di [i386]
 
 == ia64 ==
 
  * Kernel-Version: 2.6.10-3-itanium-smp
 
- * cdrom-core-modules-${Kernel-Version}-di
- * fb-modules-${Kernel-Version}-di
- * ide-core-modules-${Kernel-Version}-di
- * ide-modules-${Kernel-Version}-di
- * input-modules-${Kernel-Version}-di
- * ipv6-modules-${Kernel-Version}-di
- * nic-modules-${Kernel-Version}-di
- * nic-shared-modules-${Kernel-Version}-di
- * nic-usb-modules-${Kernel-Version}-di
- * pcmcia-modules-${Kernel-Version}-di
- * sata-modules-${Kernel-Version}-di
- * scsi-core-modules-${Kernel-Version}-di
- * scsi-modules-${Kernel-Version}-di
+ * cdrom-core-modules-${Kernel-Version}-di [ia64]
+ * fb-modules-${Kernel-Version}-di [ia64]
+ * ide-core-modules-${Kernel-Version}-di [ia64]
+ * ide-modules-${Kernel-Version}-di [ia64]
+ * input-modules-${Kernel-Version}-di [ia64]
+ * ipv6-modules-${Kernel-Version}-di [ia64]
+ * nic-modules-${Kernel-Version}-di [ia64]
+ * nic-shared-modules-${Kernel-Version}-di [ia64]
+ * nic-usb-modules-${Kernel-Version}-di [ia64]
+ * pcmcia-modules-${Kernel-Version}-di [ia64]
+ * sata-modules-${Kernel-Version}-di [ia64]
+ * scsi-core-modules-${Kernel-Version}-di [ia64]
+ * scsi-modules-${Kernel-Version}-di [ia64]
 
 == powerpc ==
 
  * Kernel-Version: 2.6.10-3-power3 2.6.10-3-power4 2.6.10-3-powerpc
 
- * cdrom-core-modules-${Kernel-Version}-di
- * fb-modules-${Kernel-Version}-di
- * ide-modules-${Kernel-Version}-di
- * input-modules-${Kernel-Version}-di
- * ipv6-modules-${Kernel-Version}-di
- * nic-extra-modules-${Kernel-Version}-di
- * nic-firmware-${Kernel-Version}-di
- * nic-modules-${Kernel-Version}-di
- * nic-pcmcia-modules-${Kernel-Version}-di
- * nic-restricted-firmware-${Kernel-Version}-di
- * nic-restricted-modules-${Kernel-Version}-di
- * nic-shared-modules-${Kernel-Version}-di
- * nic-usb-modules-${Kernel-Version}-di
- * pcmcia-modules-${Kernel-Version}-di
- * pcmcia-storage-modules-${Kernel-Version}-di
- * sata-modules-${Kernel-Version}-di
- * scsi-common-modules-${Kernel-Version}-di
- * scsi-core-modules-${Kernel-Version}-di
- * scsi-extra-modules-${Kernel-Version}-di
- * scsi-modules-${Kernel-Version}-di
- * socket-modules-${Kernel-Version}-di
- * usb-modules-${Kernel-Version}-di
- * usb-storage-modules-${Kernel-Version}-di
+ * cdrom-core-modules-${Kernel-Version}-di [powerpc]
+ * fb-modules-${Kernel-Version}-di [powerpc]
+ * ide-modules-${Kernel-Version}-di [powerpc]
+ * input-modules-${Kernel-Version}-di [powerpc]
+ * ipv6-modules-${Kernel-Version}-di [powerpc]
+ * nic-extra-modules-${Kernel-Version}-di [powerpc]
+ * nic-firmware-${Kernel-Version}-di [powerpc]
+ * nic-modules-${Kernel-Version}-di [powerpc]
+ * nic-pcmcia-modules-${Kernel-Version}-di [powerpc]
+ * nic-restricted-firmware-${Kernel-Version}-di [powerpc]
+ * nic-restricted-modules-${Kernel-Version}-di [powerpc]
+ * nic-shared-modules-${Kernel-Version}-di [powerpc]
+ * nic-usb-modules-${Kernel-Version}-di [powerpc]
+ * pcmcia-modules-${Kernel-Version}-di [powerpc]
+ * pcmcia-storage-modules-${Kernel-Version}-di [powerpc]
+ * sata-modules-${Kernel-Version}-di [powerpc]
+ * scsi-common-modules-${Kernel-Version}-di [powerpc]
+ * scsi-core-modules-${Kernel-Version}-di [powerpc]
+ * scsi-extra-modules-${Kernel-Version}-di [powerpc]
+ * scsi-modules-${Kernel-Version}-di [powerpc]
+ * socket-modules-${Kernel-Version}-di [powerpc]
+ * usb-modules-${Kernel-Version}-di [powerpc]
+ * usb-storage-modules-${Kernel-Version}-di [powerpc]
