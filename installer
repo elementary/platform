@@ -138,6 +138,8 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * console-keymaps-sun [sparc]
  * console-keymaps-usb
 
+ * console-keymaps-tree
+
 = Optional multiseat configuration =
 
  * multiseat-udeb

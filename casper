@@ -62,6 +62,8 @@ This seed is used to construct the first stage of the live CD.
  * console-keymaps-sun [sparc]
  * console-keymaps-usb
 
+ * console-keymaps-tree
+
 == amd64 ==
 
  * Kernel-Version: 2.6.10-4-amd64-generic
