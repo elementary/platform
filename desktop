@@ -295,7 +295,6 @@ Python Integrated Applications:
  * libxml2-python2.4
  * libxslt1-python2.4
  * bicyclerepair          # python refactoring tool for vim & emacs
- * pymacs                 # makes bicyclerepair work 
 
 Documentation:
 
