@@ -179,6 +179,7 @@ These are used for debugging problems or examining the system.
 
 == Network ==
 
+ * ethtool
  * iputils-ping       # 
  * iputils-arping     # would have made my life easier at debconf
  * iputils-tracepath  # more secure sort of traceroute, will put compatibility symblink in for traceroute users
