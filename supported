@@ -333,6 +333,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libc6.1-prof [ia64]
  * console-tools-dev
  * cyrus21-dev
+ * dbus-qt-1-dev
  * dhcp3-dev
  * dictionaries-common-dev
  * evolution-dev
