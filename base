@@ -1,7 +1,3 @@
-'''Editing''': Please do not edit this page without prior discussion and consensus on ubuntu-devel.
-
-[[TableOfContents()]]
-
 = Hardware and Architecture Support =
 
 == Generic ==
@@ -192,15 +188,3 @@ These are warty key packages.
 = Ubuntu =
 
  * ubuntu-base        # ubuntu-specific bits we want on every ubuntu system
-
-= PROPOSED =
-
-The package list for Warty has frozen. Please only add something here if it is already in Desktop or Supported or Extra. If you want something new in Base, it should probably be added to the Hoary Supported page under PROPOSED, and from there it can migrate into Hoary Supported and then to Hoary Base.
-
-Please use the a. bullet to avoid contamination of the germinate.py package lists. 
-
-MatthiasKlose:
-
- a. isdnutils?
- a. misdn?
- a. CAPI?

@@ -1,7 +1,3 @@
-'''Editing:''' Please do not edit this page without prior discussion and consensus on ubuntu-devel.
-
-[[TableOfContents()]]
-
 = Hardware and Architecture Support =
 
 We need kick-ass desktop hardware support! These are architecture-specific items that will be installed in a desktop configuration.
@@ -318,17 +314,3 @@ Documentation:
 
  * libglut3 # depended upon by freeglut3
  * xlibmesa-gl # depended upon by xlibmesa-dri, but lsb dep on virtual libgl1 makes it ordering-dependent
-
-= PROPOSED =
-
-The package list has frozen. We might move some items from supported down to desktop. If you want to propose a new package at this stage please put it in WartyWarthog/SupportedSeed under PROPOSED, and send a mail to the list. If your proposal is not a major priority, please put it in HoaryHedgehog/SupportedSeed under PROPOSED, from whence it can migrate to supported, and then on down to Desktop.
-
-Please use the a. bullet to avoid germinate.py pulling in these packages till they are confirmed.
-
-System:
-
- a. bittorrent           # already in supported, would be useful to integrate with desktop for large file distrib
-
-Desktop:
- 
- a. gsfonts-x11 

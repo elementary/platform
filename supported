@@ -1,7 +1,3 @@
-'''Editing:''' Please do not edit this page without prior discussion and consensus on ubuntu-devel
-
-[[TableOfContents()]]
-
 = Hardware =
 
  * setserial       # old, we might just remove it if it doesn't get downloaded a lot
@@ -776,15 +772,3 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * upgrade-notifier
  * update-manager
  * gnome-app-install
-
-= PROPOSED =
-
-The package list has now frozen. Please move future package proposals to HoaryHedgehog/SupportedSeed, unless it's really urgent for Warty. If it is really urgent, put it below and please also send a mail to the list with a rationale for the late package inclusion to Warty.
-
-Please use the a. bullet to avoid germinate.py package list contamination.
-
- a. racoon        # userland daemon to config ipsec
-  MattZimmerman: I don't have much first-hand experience, but two sources I trust say that they prefer isakmpd over racoon 100%.[[BR]]
-  FabioMassimoDiNitto: I have never used isakmpd but i will give it a shot asap.
-Comments?
- a. autofs # required by a sounder, under consideration

@@ -1,7 +1,3 @@
-'''Editing:''' Please do not edit this page without prior discussion and consensus on ubuntu-devel
-
-Packages in the Installer seed are used in our version of debian-installer. They will not necessarily be installed in any live system.
-
 This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ list of packages in the current d-i netinst images], and from initrd.list files in d-i daily builds.
 
 = Common Packages =
