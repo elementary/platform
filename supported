@@ -100,6 +100,7 @@ Application Servers:
 Utilities:
 
  * analog                 # essential for any web server, possible candidate for desktop integration
+ * graphviz
 
 = Network =
 
@@ -235,7 +236,6 @@ Other:
  * dict-jargon
  * dict-vera
  * kino
- * graphviz
 
 GNOME Office:
 
