@@ -22,7 +22,6 @@ These tools are very commonly used by people who drop into a console shell to do
 
  * bc
  * dc
- * emacs21
  * irssi-text
  * procmail          # for mail system integration
  * bogofilter        # spam filter, can spamassassin for evo based on Matt's input
