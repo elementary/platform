@@ -996,6 +996,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-support-am
  * language-support-ar
  * language-support-as
+ * language-support-ast
  * language-support-az
  * language-support-be
  * language-support-bg
