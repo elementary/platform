@@ -33,6 +33,7 @@
 == Emacs ==
 
  * emacs21
+ * pymacs                 # makes bicyclerepair work with emacs
 
 == Common UNIX stuff ==
 
