@@ -13,6 +13,7 @@ This list was constructed based on a [http://people.debian.org/~cjwatson/d-i/ li
  * bterm-unifont
  * bugreporter-udeb
  * busybox-cvs-udeb
+ * casper-udeb
  * cdebconf-newt-udeb
  * cdebconf-priority
  * cdebconf-text-udeb
