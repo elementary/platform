@@ -81,20 +81,20 @@
  * language-pack-bn
  * language-pack-hi
  * language-pack-ar
- * language-pack-pt
- * language-pack-ru
- * language-pack-ja
- * language-pack-de
- * language-pack-fr
- * language-pack-sr
- * language-pack-sv
- * language-pack-da
- * language-pack-cs
- * language-pack-ca
- * language-pack-nl
- * language-pack-tr
- * language-pack-pl
- * language-pack-it
+ * language-pack-pt [i386 amd64 powerpc]
+ * language-pack-ru [i386 amd64 powerpc]
+ * language-pack-ja [i386 amd64 powerpc]
+ * language-pack-de [i386 amd64 powerpc]
+ * language-pack-fr [i386 amd64 powerpc]
+ * language-pack-sr [i386 amd64 powerpc]
+ * language-pack-sv [i386 amd64 powerpc]
+ * language-pack-da [i386 amd64 powerpc]
+ * language-pack-cs [i386 amd64 powerpc]
+ * language-pack-ca [i386 amd64 powerpc]
+ * language-pack-nl [i386 amd64 powerpc]
+ * language-pack-tr [i386 amd64 powerpc]
+ * language-pack-pl [i386 amd64 powerpc]
+ * language-pack-it [i386 amd64 powerpc]
  * language-pack-xh
  * language-pack-af [i386 amd64]
  * language-pack-am [i386 amd64]
