@@ -2,7 +2,7 @@
 
  * epiphany-extensions # that'll pull in epiphany
  * mozilla-psm # that'll pull in mozilla-browser
- * openssh-server
+ * ssh
  * mozilla-thunderbird
  * mozilla-thunderbird-enigmail
  * mozilla-thunderbird-offline
