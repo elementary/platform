@@ -481,7 +481,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libxaw7-dbg
  * libxcursor1-dbg
  * libxext6-dbg
- * libxft1-dbg
  * libxft2-dbg
  * libxi6-dbg
  * libxmu6-dbg
