@@ -145,7 +145,7 @@ We include 2.6 kernel module udebs only.
 
 == amd64 ==
 
- * Kernel-Version: 2.6.10-1-amd64-generic
+ * Kernel-Version: 2.6.10-2-amd64-generic
 
  * acpi-modules-${Kernel-Version}-di
  * cdrom-core-modules-${Kernel-Version}-di
@@ -187,7 +187,7 @@ We include 2.6 kernel module udebs only.
 
 == i386 ==
 
- * Kernel-Version: 2.6.10-1-386
+ * Kernel-Version: 2.6.10-2-386
 
  * acpi-modules-${Kernel-Version}-di
  * cdrom-core-modules-${Kernel-Version}-di
@@ -230,7 +230,7 @@ We include 2.6 kernel module udebs only.
 
 == ia64 ==
 
- * Kernel-Version: 2.6.10-1-itanium-smp
+ * Kernel-Version: 2.6.10-2-itanium-smp
 
  * cdrom-core-modules-${Kernel-Version}-di
  * efi-reader
@@ -263,7 +263,7 @@ We include 2.6 kernel module udebs only.
 
 == powerpc ==
 
- * Kernel-Version: 2.6.10-1-power3 2.6.10-1-power4 2.6.10-1-powerpc
+ * Kernel-Version: 2.6.10-2-power3 2.6.10-2-power4 2.6.10-2-powerpc
 
  * affs-modules-${Kernel-Version}-di
  * cdrom-core-modules-${Kernel-Version}-di
