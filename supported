@@ -355,8 +355,8 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libgdkcardimage-dev
  * libggi2-dev
  * libgii0-dev
- * libglide2-dev # xfree86 build-dep
- * libglide3-dev # xfree86 build-dep
+ * libglide2-dev # xorg build-dep
+ * libglide3-dev # xorg build-dep
  * libgnomecupsui1.0-dev
  * libhfsp-dev
  * liblinc-dev
@@ -396,6 +396,26 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * qt3-apps-dev
  * x-window-system-dev
  * xlibosmesa-dev
+ * libdmx-dev
+ * libxevie-dev
+ * libxfixes-dev
+ * libxcomposite-dev
+ * libxdamage-dev
+ * libxfixes-dev
+ * libfs-dev
+ * libxau-dev
+ * libxdmcp-dev
+ * libxinerama-dev
+ * libxres-dev
+ * libxss-dev
+ * libxvmc-dev
+ * libxaw8-dev
+ * libxkbfile-dev
+ * libxkbui-dev
+ * libxxf86dga-dev
+ * libxxf86misc-dev
+ * libxxf86rush-dev
+ * libxxf86vm-dev
  * freeglut3-dbg
  * libatk1.0-dbg
  * libatspi-dbg
@@ -451,7 +471,26 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * xlibmesa3-dbg
  * xlibosmesa4-dbg
  * xlibs-dbg
- * xserver-xfree86-dbg
+ * xserver-xorg-dbg
+ * libdmx1-dbg
+ * libxevie1-dbg
+ * libxfixes3-dbg
+ * libxcomposite1-dbg
+ * libxdamage1-dbg
+ * libfs6-dbg
+ * libxau6-dbg
+ * libxdmcp6-dbg
+ * libxinerama1-dbg
+ * libxres1-dbg
+ * libxss1-dbg
+ * libxvmc1-dbg
+ * libxaw8-dbg
+ * libxkbfile1-dbg
+ * libxkbui1-dbg
+ * libxxf86dga1-dbg
+ * libxxf86misc1-dbg
+ * libxxf86rush1-dbg
+ * libxxf86vm1-dbg
 
 == Documentation ==
 
