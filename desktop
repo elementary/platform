@@ -119,7 +119,6 @@ We've chosen GNOME as our desktop user interface of choice, and GNOME 2.8 is a F
  * gnome-control-center
  * gnome-cups-manager
  * gnome-games
- * gnome-gv
  * gnome-icon-theme
  * gnome-media
  * gnome-menus
@@ -210,7 +209,7 @@ GStreamer stuff which should end up in universe (see supported though, for a few
  * openoffice.org           # this is not a gnome app, but we'll use the debian gtk-ified version to get closer
  * openoffice.org-gtk-gnome
  * xsane           # scanner utils
- * xpdf            # until gpdf is really better
+ * evince
  * xchat
  * xscreensaver    # MRS, see attachment:.xscreensaver.ksh sample config. we will not ship all the actual screensavers, just the best. Thom: some are buggy on amd64 - ["WartyWarthog/XScreenSaver"] has a blacklist.
  * rss-glx         # MRS, very slick screensavers
