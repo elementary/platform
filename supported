@@ -280,6 +280,7 @@ Ubuntu artwork:
  * python-psycopg          # To be used in launchpad
  * python-nevow
  * python-elementtree
+ * python-uno
 
 = Console Tools =
 
