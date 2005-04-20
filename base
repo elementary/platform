@@ -154,7 +154,6 @@ These provide various networking services, all should be configured in a client-
  * ppp
  * pppconfig
  * pppoeconf
- * ntp            # FabioMassimoDiNitto
  * ntpdate        # FabioMassimoDiNitto
  * openssh-client # ColinWatson
  * postfix        # LaMontJones our chosen mail server
