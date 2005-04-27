@@ -75,7 +75,6 @@ These are commonly used filesystem support packages, here because someone settin
  * reiserfsprogs
  * reiser4progs
  * libreiserfs0.3-0 # gives parted the ability to work with reiserfs
- * lvm10
  * lvm2
  * evms
  * evms-ncurses     # need some way to use evms
