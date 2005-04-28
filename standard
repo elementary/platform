@@ -65,3 +65,11 @@ These are warty key packages.
 
  * reportbug          # provide good quality feedback from users to the Warty team
  * popularity-contest # will be disabled by default, user will be able to turn it on when they use package selector
+
+= Other =
+
+ * ubuntu-standard # metapackage for everything here
+
+= Seed Inheritance =
+
+ * ubuntu-base
