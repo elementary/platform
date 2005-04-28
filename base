@@ -75,14 +75,8 @@ These are commonly used filesystem support packages, here because someone settin
  * reiserfsprogs
  * reiser4progs
  * libreiserfs0.3-0 # gives parted the ability to work with reiserfs
- * lvm2
- * evms
- * evms-ncurses     # need some way to use evms
  * xfsprogs         # ThomMay
  * jfsutils
- * mdadm
- * parted
- * dmsetup          # useful for evms and lvm2
  * hfsutils         # ColinWatson; support for apple filesystems
  * hfsplus          # ColinWatson
  * dosfstools
@@ -95,42 +89,27 @@ Programs and packages necessary for both the proper functionality of the system 
  * apt
  * aptitude          # our default package selection for warty base
  * apt-utils         # apt-extracttemplates is required for debconf preconfiguration
- * at
  * bzip2
  * console-tools
- * cpio
- * cron
  * debconf
  * eject             # very popular, useful, small
- * ed
- * fdutils           # needed for debian kernel
- * file
  * gettext-base
  * gnupg             # introduce security from the very base
- * hdparm            # speed up CD-ROM and disk access, used by installer
  * initrd-tools      # needed for a debian kernel
- * info
  * less
  * libfribidi0       # right-to-left text support in base-config
  * locales
- * logrotate
  * lsb-release
  * mailx
  * makedev
- * man-db            # ColinWatson
- * manpages          # ColinWatson
  * mawk
- * mime-support      # establishes framework for dealing with MIME
  * module-init-tools # required for kernel 2.6
- * nano              # we need a text editor less scary than vi
  * netbase
  * passwd
  * pciutils
  * procps
- * psmisc            # utilities for /proc such as killall, pstree, fuser
  * sudo              # LaMontJones
  * sysklogd
- * time
  * udev
  * usbutils
  * vim
@@ -139,27 +118,14 @@ Programs and packages necessary for both the proper functionality of the system 
 
 These provide various networking services, all should be configured in a client-only state with the server de-activated unless the user requires it.
 
- * bind9-host     # LaMontJones
  * dhcp3-client   # LaMontJones
- * dnsutils       # LaMontJones
- * ftp
  * iproute
- * iptables       # FabioMassimoDiNitto
- * mutt           # ThomMay; we need a basic mail client, this is the best-smallest
- * telnet
  * ifupdown
  * net-tools
  * netkit-inetd
- * ppp
- * pppconfig
- * pppoeconf
  * ntpdate        # FabioMassimoDiNitto
- * openssh-client # ColinWatson
  * postfix        # LaMontJones our chosen mail server
  * postfix-tls    # LaMontJones we include both postfix and postfix-tls to ensure the dependencies are correctly met
- * rsync          # would be just client but they are the same binary apparently
- * w3m            # we need some text-based html presenter
- * wget           # FabioMassimoDiNitto
  * wireless-tools
  * ifrename       # support consistent network interface naming
 
@@ -169,10 +135,6 @@ A base system should be a good platform for diagnostics about the hardware and n
 
 These are used for debugging problems or examining the system.
 
- * dmidecode
- * lshw
- * lsof
- * ltrace
  * memtest86+
  * strace
 
@@ -180,21 +142,15 @@ These are used for debugging problems or examining the system.
 
  * ethtool
  * iputils-ping       # 
- * iputils-arping     # would have made my life easier at debconf
- * iputils-tracepath  # more secure sort of traceroute, will put compatibility symblink in for traceroute users
  * mii-diag
- * mtr-tiny           # LaMontJones
  * netcat             # FabioMassimoDiNitto
- * tcpdump
 
 = Feature Goals =
 
 These are warty key packages.
 
  * python             # a core feature goal for Warty
- * reportbug          # provide good quality feedback from users to the Warty team
  * base-config        # until we get a better way to lead the user to base system reconfiguration
- * popularity-contest # will be disabled by default, user will be able to turn it on when they use package selector
 
 = Ubuntu =
 

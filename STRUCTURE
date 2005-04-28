@@ -1,7 +1,8 @@
 base:
-desktop: base
-ship: base desktop
-live: base desktop
+standard: base
+desktop: base standard
+ship: base standard desktop
+live: base standard desktop
 installer:
 casper:
-supported: base desktop ship live
+supported: base standard desktop ship live

@@ -1,0 +1,67 @@
+= UNIX =
+
+== Advanced Filesystem Support ==
+
+ * lvm2
+ * evms
+ * evms-ncurses     # need some way to use evms
+ * mdadm
+ * parted
+ * dmsetup          # useful for evms and lvm2
+
+== Comfortable Unix System ==
+
+ * at
+ * cpio
+ * cron
+ * ed
+ * fdutils           # needed for debian kernel
+ * file
+ * hdparm            # speed up CD-ROM and disk access, used by installer
+ * info
+ * logrotate
+ * man-db            # ColinWatson
+ * manpages          # ColinWatson
+ * mime-support      # establishes framework for dealing with MIME
+ * nano              # we need a text editor less scary than vi
+ * psmisc            # utilities for /proc such as killall, pstree, fuser
+ * time
+
+== Networking ==
+
+These provide various networking services, all should be configured in a client-only state with the server de-activated unless the user requires it.
+
+ * bind9-host     # LaMontJones
+ * dnsutils       # LaMontJones
+ * ftp
+ * iptables       # FabioMassimoDiNitto
+ * mutt           # ThomMay; we need a basic mail client, this is the best-smallest
+ * telnet
+ * ppp
+ * pppconfig
+ * pppoeconf
+ * openssh-client # ColinWatson
+ * rsync          # would be just client but they are the same binary apparently
+ * w3m            # we need some text-based html presenter
+ * wget           # FabioMassimoDiNitto
+
+= Debugging and Diagnostics =
+
+ * dmidecode
+ * lshw
+ * lsof
+ * ltrace
+
+== Network ==
+
+ * iputils-arping     # would have made my life easier at debconf
+ * iputils-tracepath  # more secure sort of traceroute, will put compatibility symblink in for traceroute users
+ * mtr-tiny           # LaMontJones
+ * tcpdump
+
+= Feature Goals =
+
+These are warty key packages.
+
+ * reportbug          # provide good quality feedback from users to the Warty team
+ * popularity-contest # will be disabled by default, user will be able to turn it on when they use package selector
