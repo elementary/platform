@@ -640,7 +640,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * authbind                     # BIGGER SECURITAH REVIEW
  * siege
  * bonnie++
- * ltsp-utils
 
 == Multimedia ==
 
@@ -979,3 +978,10 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-support-yo
  * language-support-zh
  * language-support-zu
+
+= LTSP =
+
+ * ltsp-server
+ * ltsp-server-standalone
+ * ltsp-client
+ * ltsp-utils
