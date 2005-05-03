@@ -53,7 +53,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * libparted1.6-udeb
  * libreiserfs0.3-udeb
  * load-cdrom
- * load-installer # for netboot
  * load-iso # for USB boot
  * localechooser # replaces languagechooser and countrychooser
  * lowmem
