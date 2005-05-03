@@ -151,5 +151,5 @@ These are warty key packages.
 
 = Ubuntu =
 
- * ubuntu-base        # ubuntu-specific bits we want on every ubuntu system
+ * ubuntu-minimal     # Ubuntu-specific bits we want on every Ubuntu system
  * ubuntu-keyring     # for authenticated package downloads
