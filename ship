@@ -55,6 +55,7 @@
  * mdetect
  * xresprobe
  * laptop-detect
+ * discover1
 
 == For language support in the installer ==
 
