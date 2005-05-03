@@ -68,7 +68,3 @@ These are warty key packages.
 = Other =
 
  * ubuntu-standard # metapackage for everything here
-
-= Seed Inheritance =
-
- * ubuntu-base
