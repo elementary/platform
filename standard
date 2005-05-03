@@ -35,7 +35,6 @@ These provide various networking services, all should be configured in a client-
  * dnsutils       # LaMontJones
  * ftp
  * iptables       # FabioMassimoDiNitto
- * mutt           # ThomMay; we need a basic mail client, this is the best-smallest
  * telnet
  * ppp
  * pppconfig

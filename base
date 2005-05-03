@@ -100,7 +100,6 @@ Programs and packages necessary for both the proper functionality of the system 
  * libfribidi0       # right-to-left text support in base-config
  * locales
  * lsb-release
- * mailx
  * makedev
  * mawk
  * module-init-tools # required for kernel 2.6
@@ -124,8 +123,6 @@ These provide various networking services, all should be configured in a client-
  * net-tools
  * netkit-inetd
  * ntpdate        # FabioMassimoDiNitto
- * postfix        # LaMontJones our chosen mail server
- * postfix-tls    # LaMontJones we include both postfix and postfix-tls to ensure the dependencies are correctly met
  * wireless-tools
  * ifrename       # support consistent network interface naming
 

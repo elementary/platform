@@ -6,6 +6,7 @@
  * mozilla-thunderbird-offline  # offline use of thunderbird
  * mozilla-thunderbird-typeaheadfind # neat usability enhancement for thunderbird
  * mozilla-thunderbird-inspector     # used for extension development and debugging
+ * lsb                 # a small first step to comprehensive certification
 
 == Server ==
 
@@ -13,17 +14,23 @@
  * lilo [amd64 i386]   # MattZimmerman wants this for server admins; needed for LVM installs
  * ntp                 # FabioMassimoDiNitto
  * ntp-simple
- * nfs-kernel-server      # need an NFS server
+ * nfs-kernel-server   # need an NFS server
  * apache2-mpm-worker  # ThomMay; for simple file/web serving -> add zeroconf and we have swish mac os x style :-)
  * samba               # for Windows filesharing and integration
  * nis                 # allows Kickstart to configure NIS
+ * postfix             # LaMontJones; our chosen mail server
+
+== Networking ==
+
+ * mailx
+ * mutt                # ThomMay; we need a basic mail client, this is the best-smallest
 
 == Development ==
 
  * build-essential
  * fakeroot
- * devscripts		  # Debian package development
- * cvs                    #RobertCollins
+ * devscripts          # Debian package development
+ * cvs                 # RobertCollins
  * bazaar
  * linux-headers-386 [i386]
  * linux-headers-powerpc [powerpc]
