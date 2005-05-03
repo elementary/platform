@@ -317,7 +317,3 @@ Documentation:
 
  * libglut3 # depended upon by freeglut3
  * xlibmesa-gl # depended upon by xlibmesa-dri, but lsb dep on virtual libgl1 makes it ordering-dependent
-
-= Seed Inheritance =
-
- * ubuntu-standard
