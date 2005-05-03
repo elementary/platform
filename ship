@@ -79,6 +79,7 @@
  * avm-fritz-firmware
  * drdsl
  * libatm1	# suggested by ppp for PPP-over-ATM
+ * setserial	# needed by folks with nonstandard serial ports
 
 == Common language packs ==
 

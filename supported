@@ -1,6 +1,5 @@
 = Hardware =
 
- * setserial       # old, we might just remove it if it doesn't get downloaded a lot
  * bluez-utils          # base for bluetooth support
  * bluez-pcmcia-support # bluetooth pcmcia support
  * bluez-hcidump   # bluetooth traffic disassembly
