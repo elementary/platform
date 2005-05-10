@@ -38,6 +38,7 @@ This seed is used to construct the first stage of the live CD.
  * localechooser
  * lowmem
  * lowmemcheck
+ * lsb-release-udeb
  * main-menu
  * mii-diag-udeb
  * module-init-tools-udeb

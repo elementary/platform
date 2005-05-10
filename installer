@@ -57,6 +57,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * localechooser # replaces languagechooser and countrychooser
  * lowmem
  * lowmemcheck
+ * lsb-release-udeb
  * lvm10-udeb  # TODO: which of lvm10/lvm2 do we need?
  * lvm2-udeb
  * lvmcfg
