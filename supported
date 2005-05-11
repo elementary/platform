@@ -664,9 +664,11 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 === powerpc ===
 
  * linux-powerpc-smp [powerpc]
+ * linux-power3 [powerpc]  # powerpc kernel, IBM Power3 machines
  * linux-power3-smp [powerpc]
  * linux-power4-smp [powerpc]
  * linux-headers-powerpc-smp [powerpc]
+ * linux-headers-power3 [powerpc]
  * linux-headers-power3-smp [powerpc]
  * linux-headers-power4-smp [powerpc]
 
