@@ -697,6 +697,43 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
  * linux-tree
 
+== Non-CD Installer ==
+
+ * Kernel-Version: 2.6.10-5-power3
+
+ * affs-modules-${Kernel-Version}-di [powerpc]
+ * cdrom-core-modules-${Kernel-Version}-di [powerpc]
+ * fb-modules-${Kernel-Version}-di [powerpc]
+ * firewire-core-modules-${Kernel-Version}-di [powerpc]
+ * floppy-modules-${Kernel-Version}-di [powerpc]
+ * fs-common-modules-${Kernel-Version}-di [powerpc]
+ * ide-modules-${Kernel-Version}-di [powerpc]
+ * input-modules-${Kernel-Version}-di [powerpc]
+ * ipv6-modules-${Kernel-Version}-di [powerpc]
+ * irda-modules-${Kernel-Version}-di [powerpc]
+ * loop-modules-${Kernel-Version}-di [powerpc]
+ * nfs-modules-${Kernel-Version}-di [powerpc]
+ * nic-extra-modules-${Kernel-Version}-di [powerpc]
+ * nic-firmware-${Kernel-Version}-di [powerpc]
+ * nic-modules-${Kernel-Version}-di [powerpc]
+ * nic-pcmcia-modules-${Kernel-Version}-di [powerpc]
+ * nic-restricted-firmware-${Kernel-Version}-di [powerpc]
+ * nic-restricted-modules-${Kernel-Version}-di [powerpc]
+ * nic-shared-modules-${Kernel-Version}-di [powerpc]
+ * nic-usb-modules-${Kernel-Version}-di [powerpc]
+ * pcmcia-modules-${Kernel-Version}-di [powerpc]
+ * pcmcia-storage-modules-${Kernel-Version}-di [powerpc]
+ * ppp-modules-${Kernel-Version}-di [powerpc]
+ * sata-modules-${Kernel-Version}-di [powerpc]
+ * scsi-common-modules-${Kernel-Version}-di [powerpc]
+ * scsi-core-modules-${Kernel-Version}-di [powerpc]
+ * scsi-extra-modules-${Kernel-Version}-di [powerpc]
+ * scsi-modules-${Kernel-Version}-di [powerpc]
+ * serial-modules-${Kernel-Version}-di [powerpc]
+ * socket-modules-${Kernel-Version}-di [powerpc]
+ * usb-modules-${Kernel-Version}-di [powerpc]
+ * usb-storage-modules-${Kernel-Version}-di [powerpc]
+
 = Database =
 
  * libqt3c102-mt-mysql
