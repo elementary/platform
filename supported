@@ -734,6 +734,17 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * usb-modules-${Kernel-Version}-di [powerpc]
  * usb-storage-modules-${Kernel-Version}-di [powerpc]
 
+The following should be handled automatically by Germinate, but it doesn't yet know how to demote pruned packages from installer to supported.
+
+ * ext2-modules-${Kernel-Version}-di [powerpc]
+ * ext3-modules-${Kernel-Version}-di [powerpc]
+ * fat-modules-${Kernel-Version}-di [powerpc]
+ * hfs-modules-${Kernel-Version}-di [powerpc]
+ * jfs-modules-${Kernel-Version}-di [powerpc]
+ * md-modules-${Kernel-Version}-di [powerpc]
+ * reiserfs-modules-${Kernel-Version}-di [powerpc]
+ * xfs-modules-${Kernel-Version}-di [powerpc]
+
 = Database =
 
  * libqt3c102-mt-mysql
