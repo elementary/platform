@@ -119,7 +119,6 @@ These provide various networking services, all should be configured in a client-
  * iproute
  * ifupdown
  * net-tools
- * netkit-inetd
  * ntpdate        # FabioMassimoDiNitto
  * wireless-tools
  * ifrename       # support consistent network interface naming
