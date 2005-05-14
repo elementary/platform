@@ -71,8 +71,8 @@
 
  * nvidia-glx    # nvidia drivers, for multiseat, but also easy access
 
- * isdnutils
  * ipppd
+ * isdnutils-xtools
  * capiutils
  * pppdcapiplugin
  * linux-wlan-ng
