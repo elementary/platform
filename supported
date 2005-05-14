@@ -113,6 +113,7 @@ Utilities:
  * ipsec-tools            # IPsec configuration
  * vlan                   # userland tools to config 8021q support
  * bridge-utils           # userland tools to config kernel bridging feature
+ * isdnutils              # various ISDN tools
 
 IPv6 tools:
 
