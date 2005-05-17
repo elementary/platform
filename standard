@@ -14,6 +14,7 @@
  * at
  * cpio
  * cron
+ * dselect           # old-school package management (maybe move further out?)
  * ed
  * fdutils           # needed for debian kernel
  * file
