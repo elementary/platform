@@ -3,7 +3,7 @@
 We need kick-ass desktop hardware support! These are architecture-specific items that will be installed in a desktop configuration.
 
  * acpi-support
- * libesd0 # so that esd actually works (as opposed to libesd-alsa0)
+ * libesd-alsa0 
  * powernowd
  * readahead-list
  * powermanagement-interface
