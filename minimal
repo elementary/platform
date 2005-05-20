@@ -36,6 +36,10 @@
  * silo [sparc]
  * linux-sparc64 [sparc]       # sparc64 UP kernel, works on all machines
 
+== hppa ==
+
+ * palo [hppa]
+
 = UNIX =
 
 == Essential ==
