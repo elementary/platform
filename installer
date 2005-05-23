@@ -11,7 +11,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * bogl-bterm-udeb
  * brltty-udeb
  * bterm-unifont
- * bugreporter-udeb
  * busybox-cvs-udeb
  * casper-check
  * casper-udeb
@@ -44,6 +43,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * hw-detect-full
  * initial-passwd-udeb # first-stage username/password question
  * initrd-preseed
+ * installation-report
  * iso-3166-udeb
  * iso-scan # for USB boot
  * jfsutils-udeb
@@ -102,6 +102,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * rescue-mode  # main part of rescue mode, installed if rescue/enable=true
  * rootskel
  * rootskel-locale
+ * save-logs
  * tzsetup-udeb # first-stage timezone question
  * udev-udeb
  * udpkg
