@@ -153,6 +153,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * pmac-fdisk-udeb [powerpc]
  * partman-efi [ia64]
  * partman-newworld [powerpc]
+ * partman-palo [hppa]
 
 = Bootloader Installers =
 
