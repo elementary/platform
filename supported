@@ -160,6 +160,7 @@ Download:
  * exuberant-ctags   # ColinWatson
  * libstdc++5-3.3-dev    # hint to germinate
  * dpkg-dev-el
+ * monodevelop
 
 == Revision Control ==
 
@@ -239,6 +240,8 @@ Other:
  * kino
  * libpt-plugins-v4l
  * sabayon            # desktop profile management
+ * beagle
+ * tomboy
 
 GNOME Office:
 
