@@ -183,6 +183,10 @@ Download:
  * hello
  * hello-debhelper
 
+== Seed Management ==
+
+ * germinate         # quis custodiet ipsos custodes?
+
 = Shells =
 
  * zsh
