@@ -860,6 +860,7 @@ The following should be handled automatically by Germinate, but it doesn't yet k
  * nabi
  * imhangul
  * culmus
+ * latex-ucs # UTF-8 support for LaTeX
 
 = Transitional packages =
 
