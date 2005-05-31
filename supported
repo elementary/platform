@@ -92,6 +92,7 @@ Other:
  * sensord
  * lm-sensors
  * netkit-inetd
+ * nbd-server
 
 Application Servers:
 
