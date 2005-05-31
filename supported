@@ -26,6 +26,7 @@ Database:
  * mysql-server
  * postgresql
  * postgresql-client
+ * postgresql-contrib
 
 Proxy:
 
