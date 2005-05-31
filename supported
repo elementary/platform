@@ -642,6 +642,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * opie-client
  * opie-server
  * sasl-bin
+ * sasl2-bin
  * autofs
  * awstats
  * acct
