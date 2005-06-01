@@ -337,6 +337,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * gnupg-doc               # docs for gnupg
  * grub-doc                # docs for grub
  * ntp-doc                 # docs for ntp
+ * python-elementtree-doc
  * ubuntu-faqguide
 
 = Rescued from Extra =
