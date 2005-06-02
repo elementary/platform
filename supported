@@ -447,6 +447,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libxxf86misc-dev
  * libxxf86rush-dev
  * libxxf86vm-dev
+ * latex-ucs-dev
  * freeglut3-dbg
  * gnome-panel-dbg
  * libatk1.0-dbg
@@ -647,6 +648,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * twisted-doc
  * vim-doc
  * yada-doc
+ * latex-ucs-doc
 
 == System Administration ==
 
@@ -876,6 +878,7 @@ The following should be handled automatically by Germinate, but it doesn't yet k
  * imhangul
  * culmus
  * latex-ucs # UTF-8 support for LaTeX
+ * latex-ucs-uninames
 
 = Transitional packages =
 
