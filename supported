@@ -162,7 +162,15 @@ Download:
  * exuberant-ctags   # ColinWatson
  * libstdc++5-3.3-dev    # hint to germinate
  * dpkg-dev-el
+
+== Mono ==
+
  * monodevelop
+ * mono
+ * mono-assemblies-arch
+ * mono-devel
+ * mono-jay
+
 
 == Revision Control ==
 
@@ -339,6 +347,9 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * ntp-doc                 # docs for ntp
  * python-elementtree-doc
  * ubuntu-faqguide
+ * monodoc
+ * monodoc-browser
+ * monodoc-http
 
 = Rescued from Extra =
 
