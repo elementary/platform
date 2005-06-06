@@ -26,9 +26,12 @@ Database:
 
  * mysql-client
  * mysql-server
- * postgresql
- * postgresql-client
- * postgresql-contrib
+ * postgresql-7.4
+ * postgresql-client-7.4
+ * postgresql-contrib-7.4
+ * postgresql-8.0
+ * postgresql-client-8.0
+ * postgresql-contrib-8.0
 
 Proxy:
 
@@ -624,7 +627,8 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * parted-doc
  * pike7.6-doc
  * postfix-doc
- * postgresql-doc
+ * postgresql-doc-7.4
+ * postgresql-doc-8.0
  * pyopenssl-doc
  * python-doc
  * python-gtk2-doc
