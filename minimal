@@ -79,8 +79,8 @@ These are commonly used filesystem support packages, here because someone settin
  * libreiserfs0.3-0 # gives parted the ability to work with reiserfs
  * xfsprogs         # ThomMay
  * jfsutils
- * hfsutils         # ColinWatson; support for apple filesystems
- * hfsplus          # ColinWatson
+ * hfsutils [powerpc] # ColinWatson; support for apple filesystems
+ * hfsplus [powerpc]  # ColinWatson
  * dosfstools
 
 == Comfortable Unix System ==
