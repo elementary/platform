@@ -134,6 +134,8 @@ We've chosen GNOME as our desktop user interface of choice, and GNOME 2.8 is a F
  * gnome-utils
  * gnome2-user-guide
  * gnomemeeting
+ * libpt-plugins-v4l       # V4L1 plugins for use with gnomemeeting
+ * libpt-plugins-v4l2      # V4L2 plugins for use with gnomemeeting
  * gthumb                  # efficient thumbnailing tool
  * gucharmap               # SebastienBacher
  * hal                     # it's not very polished but it's the future
