@@ -967,6 +967,7 @@ The following should be handled automatically by Germinate, but it doesn't yet k
  * language-pack-th
  * language-pack-tk
  * language-pack-tl
+ * language-pack-ug
  * language-pack-uk
  * language-pack-ur
  * language-pack-uz
@@ -1054,6 +1055,7 @@ The following should be handled automatically by Germinate, but it doesn't yet k
  * language-support-tk
  * language-support-tl
  * language-support-tr
+ * language-support-ug
  * language-support-uk
  * language-support-ur
  * language-support-uz
