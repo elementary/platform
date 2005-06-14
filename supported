@@ -355,6 +355,18 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * monodoc
  * monodoc-browser
  * monodoc-http
+ * monodoc-gtk2.0-manual
+ * ant-doc
+ * libbcel-java-doc
+ * libgtksourceview-doc
+ * liblog4j1.2-java-doc
+ * libjsch-java-doc
+ * junit-doc
+ * libgnujaxp-java-doc
+ * libxalan2-java-doc
+ * libxml-commons-resolver1.1-java-doc
+ * rhino-doc
+ * libcrimson-java-doc
 
 = Rescued from Extra =
 
