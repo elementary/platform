@@ -32,6 +32,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * download-installer
  * e2fsprogs-udeb
  * eject-udeb
+ * env-preseed
  * ethdetect
  * evms-udeb
  * fbset-udeb

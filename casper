@@ -24,6 +24,7 @@ This seed is used to construct the first stage of the live CD.
  * di-utils-terminfo
  * dmsetup-udeb
  * e2fsprogs-udeb
+ * env-preseed
  * ethdetect
  * file-preseed
  * grepmap-udeb # speeds up hotplug
