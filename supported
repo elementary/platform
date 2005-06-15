@@ -901,7 +901,8 @@ The following should be handled automatically by Germinate, but it doesn't yet k
 = Transitional packages =
 
  * xlibmesa3 # upgrades from woody
- * ubuntu-base # upgrades from warty, hoary
+ * ubuntu-base # upgrades from hoary
+ * postgresql-dev # upgrades from hoary
 
 = Miscellaneous =
 
