@@ -691,6 +691,10 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * flac
  * libggi-target-x
  * esound-clients
+ * polypaudio
+ * polypaudio-alsa
+ * polypaudio-clients
+ * polypaudio-x11
 
 == Kernel ==
 
