@@ -263,6 +263,7 @@ Other:
  * beagle
  * tomboy
  * serpentine         # AudioCDBurning
+ * xterm              # should be in desktop, but currently broken
 
 GNOME Office:
 
