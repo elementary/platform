@@ -308,6 +308,7 @@ Ubuntu artwork:
  * python-nevow
  * python-elementtree
  * python-uno
+ * python-dbg
 
 = Console Tools =
 
