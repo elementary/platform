@@ -144,7 +144,7 @@ This seed is used to construct the first stage of the live CD.
 
 == powerpc ==
 
- * Kernel-Version: 2.6.12-2-powerpc 2.6.12-2-powerpc64
+ * Kernel-Version: 2.6.12-2-powerpc 2.6.12-2-powerpc64-smp
 
  * cdrom-core-modules-${Kernel-Version}-di [powerpc]
  * fb-modules-${Kernel-Version}-di [powerpc]
