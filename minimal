@@ -18,8 +18,8 @@
  * pmac-fdisk [powerpc]
  * yaboot [powerpc]        # ColinWatson
  * powerpc-utils [powerpc] # ColinWatson
- * linux-powerpc [powerpc] # powerpc kernel, most machines
- * linux-power4 [powerpc]  # powerpc kernel, IBM Power4 and Apple G5 machines
+ * linux-powerpc [powerpc] # powerpc kernel, 32-bit machines
+ * linux-powerpc64-smp [powerpc] # powerpc kernel, 64-bit machines
 
 == amd64 ==
 
