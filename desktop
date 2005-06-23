@@ -72,8 +72,7 @@ Printing and printer configuration is a real weak spot in Debian, and in Linux i
 The future may involve debrix (http://debrix.freedesktop.org), but that's closer to RandomBlueskyIdeas.
 
  * x-window-system-core   # FabioMassimoDiNitto .. i guess this is mine ;)
-# temporarily moved to supported while it's broken
-# * xterm                  # FabioMassimoDiNitto
+ * xterm                  # FabioMassimoDiNitto
  * xorg-driver-synaptics  # for enhanced touchpad features
 
 
