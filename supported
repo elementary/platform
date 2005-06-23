@@ -357,7 +357,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * ubuntu-faqguide
  * monodoc
  * monodoc-browser
- * monodoc-http
  * monodoc-gtk2.0-manual
  * ant-doc
  * libbcel-java-doc
