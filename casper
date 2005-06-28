@@ -71,7 +71,7 @@ This seed is used to construct the first stage of the live CD.
 
 == amd64 ==
 
- * Kernel-Version: 2.6.12-2-amd64-generic
+ * Kernel-Version: 2.6.12-3-amd64-generic
 
  * acpi-modules-${Kernel-Version}-di [amd64]
  * cdrom-core-modules-${Kernel-Version}-di [amd64]
@@ -98,7 +98,7 @@ This seed is used to construct the first stage of the live CD.
 
 == i386 ==
 
- * Kernel-Version: 2.6.12-2-386
+ * Kernel-Version: 2.6.12-3-386
 
  * acpi-modules-${Kernel-Version}-di [i386]
  * cdrom-core-modules-${Kernel-Version}-di [i386]
@@ -126,7 +126,7 @@ This seed is used to construct the first stage of the live CD.
 
 == ia64 ==
 
- * Kernel-Version: 2.6.12-2-itanium-smp
+ * Kernel-Version: 2.6.12-3-itanium-smp
 
  * cdrom-core-modules-${Kernel-Version}-di [ia64]
  * fb-modules-${Kernel-Version}-di [ia64]
@@ -144,7 +144,7 @@ This seed is used to construct the first stage of the live CD.
 
 == powerpc ==
 
- * Kernel-Version: 2.6.12-2-powerpc 2.6.12-2-powerpc64-smp
+ * Kernel-Version: 2.6.12-3-powerpc 2.6.12-3-powerpc64-smp
 
  * cdrom-core-modules-${Kernel-Version}-di [powerpc]
  * fb-modules-${Kernel-Version}-di [powerpc]
