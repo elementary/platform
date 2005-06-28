@@ -1,3 +1,7 @@
+== Kernel ==
+
+ * linux [amd64 i386 ia64 sparc]
+
 == Desktop ==
 
  * epiphany-extensions # that'll pull in epiphany
