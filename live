@@ -42,3 +42,4 @@
  * ntfsprogs
  * ubuntu-express
  * grub [i386 amd64]
+ * discover1    # for X autoconfiguration
