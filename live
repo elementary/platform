@@ -44,3 +44,5 @@
  * grub
  * yaboot
  * discover1    # for X autoconfiguration
+ * xresprobe
+ * laptop-detect
