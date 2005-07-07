@@ -23,6 +23,8 @@
  * samba               # for Windows filesharing and integration
  * nis                 # allows Kickstart to configure NIS
  * postfix             # LaMontJones; our chosen mail server
+ * ltsp-server-standalone # for LTSP-on-install
+ * ltsp-client            # for LTSP-on-install
 
 == Networking ==
 
