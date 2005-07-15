@@ -74,6 +74,7 @@ The future may involve debrix (http://debrix.freedesktop.org), but that's closer
  * x-window-system-core   # FabioMassimoDiNitto .. i guess this is mine ;)
  * xterm                  # FabioMassimoDiNitto
  * xorg-driver-synaptics  # for enhanced touchpad features
+ * xkeyboard-config       # XKB data now lives here
 
 
 Fonts:
