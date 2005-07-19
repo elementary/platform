@@ -13,8 +13,26 @@
  * xfsdump # only useful when machine is setup and working, and only for xfs people
  * cloop-utils # for LiveCD
  * ntfsprogs
+
+== Cluster ==
+
  * ocfs2-tools
  * ocfs2console
+ * ccs
+ * cman
+ * fence
+ * fence-gnbd
+ * gfs-tools
+ * gnbd-client
+ * gnbd-server
+ * gulm
+ * libgulm1
+ * libmagma1
+ * magma
+ * magma-plugins
+ * redhat-cluster-suite
+ * rgmanager
+ * system-config-cluster
 
 = Servers and Daemons =
 
