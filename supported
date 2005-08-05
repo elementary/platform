@@ -909,39 +909,45 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
  * language-pack-af
  * language-pack-am
- * language-pack-as
+ * language-pack-ar
  * language-pack-az
  * language-pack-be
  * language-pack-bg
- * language-pack-br
+ * language-pack-bn
  * language-pack-bs
+ * language-pack-ca
+ * language-pack-cs
  * language-pack-cy
+ * language-pack-da
+ * language-pack-de
  * language-pack-el
+ * language-pack-en
  * language-pack-eo
+ * language-pack-es
  * language-pack-et
  * language-pack-eu
  * language-pack-fa
  * language-pack-fi
+ * language-pack-fr
  * language-pack-ga
  * language-pack-gl
  * language-pack-gu
  * language-pack-he
+ * language-pack-hi
  * language-pack-hr
  * language-pack-hu
- * language-pack-ia
  * language-pack-id
  * language-pack-is
+ * language-pack-it
+ * language-pack-ja
  * language-pack-ka
- * language-pack-kn
  * language-pack-ko
  * language-pack-ku
  * language-pack-lg
- * language-pack-li
  * language-pack-lo
  * language-pack-lt
  * language-pack-lv
  * language-pack-mg
- * language-pack-mi
  * language-pack-mk
  * language-pack-ml
  * language-pack-mn
@@ -949,33 +955,179 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-pack-ms
  * language-pack-my
  * language-pack-nb
- * language-pack-ne
+ * language-pack-nl
  * language-pack-nn
  * language-pack-no
- * language-pack-or
  * language-pack-pa
+ * language-pack-pl
+ * language-pack-pt
  * language-pack-rm
  * language-pack-ro
+ * language-pack-ru
  * language-pack-rw
- * language-pack-se
  * language-pack-si
  * language-pack-sk
  * language-pack-sl
  * language-pack-sq
+ * language-pack-sr
+ * language-pack-sv
  * language-pack-ta
  * language-pack-tg
  * language-pack-th
- * language-pack-tk
  * language-pack-tl
- * language-pack-ug
+ * language-pack-tr
  * language-pack-uk
  * language-pack-ur
  * language-pack-uz
  * language-pack-vi
  * language-pack-wa
+ * language-pack-wo
+ * language-pack-xh
  * language-pack-yi
- * language-pack-yo
- * language-pack-zu
+ * language-pack-zh
+
+ * language-pack-gnome-af
+ * language-pack-gnome-am
+ * language-pack-gnome-ar
+ * language-pack-gnome-as
+ * language-pack-gnome-az
+ * language-pack-gnome-be
+ * language-pack-gnome-bg
+ * language-pack-gnome-bn
+ * language-pack-gnome-br
+ * language-pack-gnome-bs
+ * language-pack-gnome-ca
+ * language-pack-gnome-cs
+ * language-pack-gnome-cy
+ * language-pack-gnome-da
+ * language-pack-gnome-de
+ * language-pack-gnome-el
+ * language-pack-gnome-en
+ * language-pack-gnome-eo
+ * language-pack-gnome-es
+ * language-pack-gnome-et
+ * language-pack-gnome-eu
+ * language-pack-gnome-fa
+ * language-pack-gnome-fi
+ * language-pack-gnome-fr
+ * language-pack-gnome-ga
+ * language-pack-gnome-gl
+ * language-pack-gnome-gu
+ * language-pack-gnome-he
+ * language-pack-gnome-hi
+ * language-pack-gnome-hr
+ * language-pack-gnome-hu
+ * language-pack-gnome-hy
+ * language-pack-gnome-ia
+ * language-pack-gnome-id
+ * language-pack-gnome-is
+ * language-pack-gnome-it
+ * language-pack-gnome-ja
+ * language-pack-gnome-ka
+ * language-pack-gnome-kn
+ * language-pack-gnome-ko
+ * language-pack-gnome-li
+ * language-pack-gnome-lt
+ * language-pack-gnome-lv
+ * language-pack-gnome-mi
+ * language-pack-gnome-mk
+ * language-pack-gnome-ml
+ * language-pack-gnome-mn
+ * language-pack-gnome-mr
+ * language-pack-gnome-ms
+ * language-pack-gnome-nb
+ * language-pack-gnome-ne
+ * language-pack-gnome-nl
+ * language-pack-gnome-nn
+ * language-pack-gnome-no
+ * language-pack-gnome-or
+ * language-pack-gnome-pa
+ * language-pack-gnome-pl
+ * language-pack-gnome-pt
+ * language-pack-gnome-rm
+ * language-pack-gnome-ro
+ * language-pack-gnome-ru
+ * language-pack-gnome-rw
+ * language-pack-gnome-se
+ * language-pack-gnome-sk
+ * language-pack-gnome-sl
+ * language-pack-gnome-sq
+ * language-pack-gnome-sr
+ * language-pack-gnome-sv
+ * language-pack-gnome-ta
+ * language-pack-gnome-te
+ * language-pack-gnome-tg
+ * language-pack-gnome-th
+ * language-pack-gnome-tk
+ * language-pack-gnome-tl
+ * language-pack-gnome-tr
+ * language-pack-gnome-ug
+ * language-pack-gnome-uk
+ * language-pack-gnome-uz
+ * language-pack-gnome-vi
+ * language-pack-gnome-wa
+ * language-pack-gnome-xh
+ * language-pack-gnome-yi
+ * language-pack-gnome-yo
+ * language-pack-gnome-zh
+ * language-pack-gnome-zu
+
+ * language-pack-kde-ar
+ * language-pack-kde-az
+ * language-pack-kde-bg
+ * language-pack-kde-bn
+ * language-pack-kde-br
+ * language-pack-kde-bs
+ * language-pack-kde-ca
+ * language-pack-kde-cs
+ * language-pack-kde-cy
+ * language-pack-kde-da
+ * language-pack-kde-de
+ * language-pack-kde-el
+ * language-pack-kde-en
+ * language-pack-kde-eo
+ * language-pack-kde-es
+ * language-pack-kde-et
+ * language-pack-kde-eu
+ * language-pack-kde-fi
+ * language-pack-kde-fo
+ * language-pack-kde-fr
+ * language-pack-kde-fy
+ * language-pack-kde-ga
+ * language-pack-kde-gl
+ * language-pack-kde-he
+ * language-pack-kde-hi
+ * language-pack-kde-hu
+ * language-pack-kde-is
+ * language-pack-kde-it
+ * language-pack-kde-ja
+ * language-pack-kde-ko
+ * language-pack-kde-lt
+ * language-pack-kde-mk
+ * language-pack-kde-mt
+ * language-pack-kde-nb
+ * language-pack-kde-nl
+ * language-pack-kde-nn
+ * language-pack-kde-no
+ * language-pack-kde-pa
+ * language-pack-kde-pl
+ * language-pack-kde-pt
+ * language-pack-kde-ro
+ * language-pack-kde-ru
+ * language-pack-kde-se
+ * language-pack-kde-sk
+ * language-pack-kde-sl
+ * language-pack-kde-sr
+ * language-pack-kde-sv
+ * language-pack-kde-ta
+ * language-pack-kde-tg
+ * language-pack-kde-tr
+ * language-pack-kde-uk
+ * language-pack-kde-uz
+ * language-pack-kde-xh
+ * language-pack-kde-zh
+ * language-pack-kde-zu
+  
  * language-support-af
  * language-support-am
  * language-support-ar
