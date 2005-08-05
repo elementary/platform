@@ -57,7 +57,6 @@
 
 == For X preconfiguration ==
 
- * mdetect
  * xresprobe
  * laptop-detect
  * discover1
