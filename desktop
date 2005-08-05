@@ -319,4 +319,4 @@ Documentation:
 = Germinate workarounds =
 
  * libglut3 # depended upon by freeglut3
- * xlibmesa-gl # depended upon by xlibmesa-dri, but lsb dep on virtual libgl1 makes it ordering-dependent
+ * libgl1-xorg # depended upon by libgl1-xorg-dri, but lsb dep on virtual libgl1 makes it ordering-dependent
