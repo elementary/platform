@@ -1148,10 +1148,13 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-support-eu
  * language-support-fa
  * language-support-fi
+ * language-support-fo
  * language-support-fr
  * language-support-ga
+ * language-support-gd
  * language-support-gl
  * language-support-gu
+ * language-support-gv
  * language-support-he
  * language-support-hi
  * language-support-hr
