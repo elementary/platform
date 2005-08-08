@@ -152,6 +152,7 @@ We've chosen GNOME as our desktop user interface of choice, and GNOME 2.8 is a F
  * nautilus-sendto
  * rhythmbox               # SebastienBacher
  * scrollkeeper
+ * smeg			   # default menu editor
  * sound-juicer
  * ssh-askpass-gnome
  * synaptic                # will this be our default package manager?
