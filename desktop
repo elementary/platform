@@ -1,11 +1,14 @@
 = Hardware and Architecture Support =
 
-We need kick-ass desktop hardware support! These are architecture-specific items that will be installed in a desktop configuration.
+== Architecture-independent ==
+
+ * libesd-alsa0 
+ * readahead-list
+
+Power management:
 
  * acpi-support
- * libesd-alsa0 
  * powernowd
- * readahead-list
  * powermanagement-interface
 
 == i386, i686, amd64 ==
