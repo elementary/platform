@@ -11,6 +11,14 @@ Power management:
  * powernowd
  * powermanagement-interface
 
+Bluetooth:
+
+ * bluez-utils
+ * bluez-pin
+ * bluez-cups
+ * bluez-pcmcia-support
+ * bluez-bcm203x
+
 == i386, i686, amd64 ==
 
  * acpi
