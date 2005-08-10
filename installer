@@ -80,9 +80,9 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * partconf-find-partitions
  * partconf-mkfstab
  * parted-udeb
- * partman
  * partman-auto
  * partman-auto-lvm
+ * partman-base
  * partman-basicfilesystems
  * partman-basicmethods
  * partman-ext3
