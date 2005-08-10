@@ -45,4 +45,5 @@
  * yaboot
  * discover1    # for X autoconfiguration
  * xresprobe
+ * gparted
  * laptop-detect
