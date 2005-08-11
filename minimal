@@ -98,7 +98,7 @@ Programs and packages necessary for both the proper functionality of the system 
  * eject             # very popular, useful, small
  * gettext-base
  * gnupg             # introduce security from the very base
- * initrd-tools      # needed for a debian kernel
+ * initramfs-tools   # needed for the Ubuntu kernel
  * less
  * libfribidi0       # right-to-left text support in base-config
  * locales
