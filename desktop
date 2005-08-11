@@ -330,6 +330,7 @@ Documentation:
 
  * ubuntu-desktop # metapackage for everything here
  * anacron # generally appropriate for desktops
+ * usplash
 
 = Germinate workarounds =
 
