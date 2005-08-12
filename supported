@@ -8,6 +8,8 @@
  * i855-crt        # crack to enable video out on i855 chipsets
  * hpoj		   # HP OfficeJet driver
  * mdetect         # formerly used by X for mouse autodetection
+ * hplip-base
+ * hplip-ppds
 
 == Filesystems ==
 
@@ -447,6 +449,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libglide3-dev # xorg build-dep
  * libgnomecupsui1.0-dev
  * libhfsp-dev
+ * libklibc-dev
  * liblinc-dev
  * libmagic-dev
  * libmagick++6-dev
