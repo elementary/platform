@@ -584,6 +584,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libxxf86rush1-dbg
  * libxxf86vm1-dbg
  * sparc-utils [sparc]  # no buildd without this one
+ * libxsltc-java
 
 == Documentation ==
 
