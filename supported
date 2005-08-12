@@ -481,6 +481,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * ppp-dev
  * python-egenix-mx-base-dev
  * python-gnome2-dev
+ * python-gnome2-extras-dev
  * qt3-apps-dev
  * x-window-system-dev
  * libosmesa4-xorg-dev
