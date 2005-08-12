@@ -542,6 +542,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libruby1.8-dbg
  * libsm6-dbg
  * libstdc++5-3.3-dbg
+ * libtotem-plparser0-dbg
  * libx11-6-dbg
  * libxaw6-dbg
  * libxaw7-dbg
