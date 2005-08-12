@@ -790,52 +790,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 = Localisation =
 
  * aspell-de
- * openoffice.org-help-de
- * openoffice.org-help-el
- * openoffice.org-help-es
- * openoffice.org-help-fr
- * openoffice.org-help-it
- * openoffice.org-help-ja
- * openoffice.org-help-ko
- * openoffice.org-help-pt-br
- * openoffice.org-help-sv
- * openoffice.org-help-tr
- * openoffice.org-help-zh-cn
- * openoffice.org-help-zh-tw
- * openoffice.org-l10n-af
- * openoffice.org-l10n-ar
- * openoffice.org-l10n-ca
- * openoffice.org-l10n-cs
- * openoffice.org-l10n-cy
- * openoffice.org-l10n-da
- * openoffice.org-l10n-de
- * openoffice.org-l10n-el
- * openoffice.org-l10n-es
- * openoffice.org-l10n-et
- * openoffice.org-l10n-fi
- * openoffice.org-l10n-fr
- * openoffice.org-l10n-he
- * openoffice.org-l10n-hi
- * openoffice.org-l10n-hu
- * openoffice.org-l10n-it
- * openoffice.org-l10n-ja
- * openoffice.org-l10n-ko
- * openoffice.org-l10n-nb
- * openoffice.org-l10n-nl
- * openoffice.org-l10n-nn
- * openoffice.org-l10n-ns
- * openoffice.org-l10n-pl
- * openoffice.org-l10n-pt-br
- * openoffice.org-l10n-ru
- * openoffice.org-l10n-sk
- * openoffice.org-l10n-sl
- * openoffice.org-l10n-sv
- * openoffice.org-l10n-th
- * openoffice.org-l10n-tr
- * openoffice.org-l10n-xh
- * openoffice.org-l10n-zh-cn
- * openoffice.org-l10n-zh-tw
- * openoffice.org-l10n-zu
  * util-linux-locales
  * gimpprint-locales
  * gettext-el
@@ -879,10 +833,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * myspell-pt-br
  * myspell-sl
  * myspell-sv-se
- * openoffice.org-hyphenation-ru
- * openoffice.org-hyphenation-da
- * openoffice.org-hyphenation-de
- * openoffice.org-hyphenation-it
  * ttf-alee
  * ttf-unfonts
  * nabi
