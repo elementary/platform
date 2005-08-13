@@ -845,8 +845,10 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
 = Transitional packages =
 
- * ubuntu-base # upgrades from hoary
- * postgresql-dev # upgrades from hoary
+== Upgrades from Hoary ==
+
+ * ubuntu-base
+ * postgresql-dev
 
 = Miscellaneous =
 
