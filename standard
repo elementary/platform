@@ -32,7 +32,6 @@
 
 These provide various networking services, all should be configured in a client-only state with the server de-activated unless the user requires it.
 
- * bind9-host     # LaMontJones
  * dnsutils       # LaMontJones
  * ftp
  * iptables       # FabioMassimoDiNitto
