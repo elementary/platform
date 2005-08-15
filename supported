@@ -1065,6 +1065,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-pack-kde-ko
  * language-pack-kde-lt
  * language-pack-kde-mk
+ * language-pack-kde-ms
  * language-pack-kde-mt
  * language-pack-kde-nb
  * language-pack-kde-nl
@@ -1177,6 +1178,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-support-uz
  * language-support-vi
  * language-support-wa
+ * language-support-wo
  * language-support-xh
  * language-support-yi
  * language-support-yo
