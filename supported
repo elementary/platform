@@ -842,6 +842,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * culmus
  * latex-ucs # UTF-8 support for LaTeX
  * latex-ucs-uninames
+ * latex-ucs-contrib
 
 = Transitional packages =
 
