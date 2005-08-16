@@ -206,6 +206,7 @@ We don't want all the gstreamer0.8-plugins dependencies, so we call out specific
  * gstreamer0.8-hermes
  * gstreamer0.8-jpeg
  * gstreamer0.8-misc
+ * gstreamer0.8-musepack
  * gstreamer0.8-oss
  * gstreamer0.8-sdl
  * gstreamer0.8-speex
