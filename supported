@@ -710,6 +710,10 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * tcl8.4-doc
  * tetex-doc
  * tk8.4-doc
+ * postgresql 
+ * postgresql-client 
+ * postgresql-contrib 
+ * postgresql-doc
  * twisted-doc
  * vim-doc
  * yada-doc
