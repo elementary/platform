@@ -366,6 +366,7 @@ Ubuntu artwork:
  * libtemplate-perl
  * libnss-db
  * tdsodbc
+ * tk8.3-dev
 
 = System Administration Tools =
 
