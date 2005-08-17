@@ -5,29 +5,40 @@
  * language-pack-es
  * language-pack-bn
  * language-pack-hi
- * language-pack-ar
- * language-pack-pt
- * language-pack-ru
- * language-pack-ja
- * language-pack-de
- * language-pack-fr
- * language-pack-ca 
- * language-pack-sr [powerpc ia64]
- * language-pack-sv [powerpc ia64]
- * language-pack-da [powerpc ia64]
- * language-pack-cs [powerpc ia64]
- * language-pack-nl [powerpc ia64]
- * language-pack-tr [powerpc ia64]
- * language-pack-pl [powerpc ia64]
- * language-pack-it [powerpc ia64]
- * language-pack-fi [powerpc ia64]
- * language-pack-sk [powerpc ia64]
- * language-pack-hu [powerpc ia64]
- * language-pack-uk [powerpc ia64]
- * language-pack-ko [powerpc ia64]
- * language-pack-no [powerpc ia64]
- * language-pack-el [powerpc ia64]
- * language-pack-nb [powerpc ia64]
+ * language-pack-ar [powerpc ia64]
+ * language-pack-pt [powerpc ia64]
+ * language-pack-ru [powerpc ia64]
+ * language-pack-ja [powerpc ia64]
+ * language-pack-de [powerpc ia64]
+ * language-pack-fr [powerpc ia64]
+ * language-pack-ca  [powerpc ia64]
+ * language-pack-gnome-zh
+ * language-pack-gnome-es
+ * language-pack-gnome-bn
+ * language-pack-gnome-hi
+ * language-pack-gnome-ar [powerpc ia64]
+ * language-pack-gnome-pt [powerpc ia64]
+ * language-pack-gnome-ru [powerpc ia64]
+ * language-pack-gnome-ja [powerpc ia64]
+ * language-pack-gnome-de [powerpc ia64]
+ * language-pack-gnome-fr [powerpc ia64]
+ * language-pack-gnome-ca  [powerpc ia64]
+ * language-pack-sr [ia64]
+ * language-pack-sv [ia64]
+ * language-pack-da [ia64]
+ * language-pack-cs [ia64]
+ * language-pack-nl [ia64]
+ * language-pack-tr [ia64]
+ * language-pack-pl [ia64]
+ * language-pack-it [ia64]
+ * language-pack-fi [ia64]
+ * language-pack-sk [ia64]
+ * language-pack-hu [ia64]
+ * language-pack-uk [ia64]
+ * language-pack-ko [ia64]
+ * language-pack-no [ia64]
+ * language-pack-el [ia64]
+ * language-pack-nb [ia64]
  * language-pack-hr [ia64]
  * language-pack-ro [ia64]
  * language-pack-lt [ia64]
@@ -38,6 +49,32 @@
  * language-pack-ms [ia64]
  * language-pack-vi [ia64]
  * language-pack-xh [ia64]
+ * language-pack-gnome-sr [ia64]
+ * language-pack-gnome-sv [ia64]
+ * language-pack-gnome-da [ia64]
+ * language-pack-gnome-cs [ia64]
+ * language-pack-gnome-nl [ia64]
+ * language-pack-gnome-tr [ia64]
+ * language-pack-gnome-pl [ia64]
+ * language-pack-gnome-it [ia64]
+ * language-pack-gnome-fi [ia64]
+ * language-pack-gnome-sk [ia64]
+ * language-pack-gnome-hu [ia64]
+ * language-pack-gnome-uk [ia64]
+ * language-pack-gnome-ko [ia64]
+ * language-pack-gnome-no [ia64]
+ * language-pack-gnome-el [ia64]
+ * language-pack-gnome-nb [ia64]
+ * language-pack-gnome-hr [ia64]
+ * language-pack-gnome-ro [ia64]
+ * language-pack-gnome-lt [ia64]
+ * language-pack-gnome-bg [ia64]
+ * language-pack-gnome-eu [ia64]
+ * language-pack-gnome-sq [ia64]
+ * language-pack-gnome-sl [ia64]
+ * language-pack-gnome-ms [ia64]
+ * language-pack-gnome-vi [ia64]
+ * language-pack-gnome-xh [ia64]
  * ubuntu-live
  * pcmcia-cs
  * ntfsprogs
