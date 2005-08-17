@@ -611,6 +611,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * bash-doc
  * bind9-doc
  * binutils-doc
+ * bison-doc
  * cdrtools-doc
  * cfengine-doc
  * courier-doc
