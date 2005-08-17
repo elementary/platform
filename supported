@@ -588,6 +588,9 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libxxf86misc1-dbg
  * libxxf86rush1-dbg
  * libxxf86vm1-dbg
+ * openoffice.org2-dev
+ * openoffice.org2-dev-doc
+ * openoffice.org2-officebean
  * sparc-utils [sparc]  # no buildd without this one
  * libxsltc-java
  * pbbuttonsd-dev
