@@ -433,6 +433,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libbind-dev
  * libblkid-dev
  * libcapi20-dev
+ * libdb4.2-java-dev
  * libdb4.3++-dev
  * libdc1394-11-dev
  * libdevhelp-1-dev
