@@ -53,8 +53,6 @@ Database:
  * postgresql-8.0
  * postgresql-client-8.0
  * postgresql-contrib-8.0
- * libdb3-util
- * tdsodbc
 
 Proxy:
 
@@ -356,6 +354,7 @@ Ubuntu artwork:
  * freecdb
  * dict
  * wdiff
+ * libdb3-util
 
 = Libraries =
 
@@ -366,6 +365,7 @@ Ubuntu artwork:
  * libgd-graph-perl
  * libtemplate-perl
  * libnss-db
+ * tdsodbc
 
 = System Administration Tools =
 
