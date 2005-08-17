@@ -53,6 +53,8 @@ Database:
  * postgresql-8.0
  * postgresql-client-8.0
  * postgresql-contrib-8.0
+ * libdb3-util
+ * tdsodbc
 
 Proxy:
 
