@@ -18,6 +18,8 @@
 
  * ocfs2-tools
  * ocfs2console
+ * libaio1
+ * libaio-dev
  * ccs
  * cman
  * fence
