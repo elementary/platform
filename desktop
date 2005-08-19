@@ -77,6 +77,8 @@ Printing and printer configuration is a real weak spot in Debian, and in Linux i
  * cupsys-driver-gimpprint      # a ton of cupsys ppds, for real comprehensive printer support
  * pnm2ppa                      # several ppds require this
  * gs-esp			# some ppds require this, in place of standard gs
+ * hplip-base			# support for HP all-in-one printers
+ * hplip-ppds			# support for HP all-in-one printers
 
 = GUI infrastructure =
 
