@@ -490,7 +490,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * python-gnome2-extras-dev
  * qt3-apps-dev
  * x-window-system-dev
- * libosmesa4-xorg-dev
+ * libosmesa6-dev
  * libdmx-dev
  * libxevie-dev
  * libxfixes-dev
@@ -563,9 +563,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libxtrap6-dbg
  * libxtst6-dbg
  * libxv1-dbg
- * libgl1-xorg-dri-dbg
- * libgl1-xorg-dbg
- * libosmesa4-xorg-dbg
+ * libgl1-mesa-dbg
  * xlibs-dbg
  * xserver-xorg-dbg
  * libdmx1-dbg
