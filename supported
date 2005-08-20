@@ -472,7 +472,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libreiser4-dev
  * librpm-dev
  * librrd0-dev
- * libsablevm1-dev
  * libscrollkeeper-dev
  * libsensors-dev
  * libslapd2-dev
