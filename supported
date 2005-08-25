@@ -689,6 +689,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * lua50-doc
  * m4-doc
  * make-doc
+ * mesa-doc
  * mpi-doc
  * nas-doc
  * openslp-doc
