@@ -103,13 +103,13 @@
  * language-pack-gnome-hi
  * language-pack-gnome-ar
  * language-pack-gnome-xh
- * language-pack-pt [i386 amd64 powerpc]
- * language-pack-ru [i386 amd64 powerpc]
+ * language-pack-pt [i386 amd64]
+ * language-pack-ru [i386 amd64]
  * language-pack-ja [i386 amd64 powerpc]
  * language-pack-de [i386 amd64 powerpc]
  * language-pack-fr [i386 amd64 powerpc]
- * language-pack-gnome-pt [i386 amd64 powerpc]
- * language-pack-gnome-ru [i386 amd64 powerpc]
+ * language-pack-gnome-pt [i386 amd64]
+ * language-pack-gnome-ru [i386 amd64]
  * language-pack-gnome-ja [i386 amd64 powerpc]
  * language-pack-gnome-de [i386 amd64 powerpc]
  * language-pack-gnome-fr [i386 amd64 powerpc]
