@@ -693,7 +693,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * nas-doc
  * openslp-doc
  * parted-doc
- * pike7.6-doc
  * postfix-doc
  * postgresql-doc-7.4
  * postgresql-doc-8.0
