@@ -466,7 +466,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libmagic-dev
  * libmagick++6-dev
  * libmysqlclient12-dev
- * libneon23-dev
  * libnetpbm10-dev
  * libnetpbm9-dev
  * liboggflac++-dev
