@@ -48,7 +48,7 @@
 
 == Emacs ==
 
- * emacs21
+ * emacs21 [amd64 hppa i386 ia64 sparc]
  * pymacs                 # makes bicyclerepair work with emacs
 
 == Common UNIX stuff ==

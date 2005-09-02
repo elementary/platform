@@ -284,6 +284,7 @@ Other:
  * xnest
  * xrestop
  * unclutter           # super useful for anti-mouse freaks
+ * emacs21             # won't fit on powerpc CD
  * emacs21-el
  * evms-gui            # gui tools for storage drive volume management
  * inkscape            # SVG drawing application
