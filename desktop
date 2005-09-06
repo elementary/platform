@@ -82,12 +82,10 @@ Printing and printer configuration is a real weak spot in Debian, and in Linux i
 
 = GUI infrastructure =
 
-The future may involve debrix (http://debrix.freedesktop.org), but that's closer to RandomBlueskyIdeas.
-
- * x-window-system-core   # FabioMassimoDiNitto .. i guess this is mine ;)
- * xterm                  # FabioMassimoDiNitto
- * xorg-driver-synaptics  # for enhanced touchpad features
- * xkeyboard-config       # XKB data now lives here
+ * x-window-system-core
+ * xterm
+ * xserver-xorg-input-synaptics  # for enhanced touchpad features
+ * xkeyboard-config              # XKB data now lives here
 
 
 Fonts:
