@@ -84,7 +84,7 @@ Printing and printer configuration is a real weak spot in Debian, and in Linux i
 
  * x-window-system-core
  * xterm
- * xserver-xorg-input-synaptics  # for enhanced touchpad features
+ * xorg-driver-synaptics         # for enhanced touchpad features
  * xkeyboard-config              # XKB data now lives here
 
 
