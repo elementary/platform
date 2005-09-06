@@ -355,6 +355,7 @@ Ubuntu artwork:
  * python-elementtree
  * python-uno
  * python-dbg
+ * python-numarray
 
 = Console Tools =
 
