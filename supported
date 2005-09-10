@@ -804,6 +804,17 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
  * initrd-tools
 
+=== Transitional from hoary ===
+
+ * linux-headers-power3
+ * linux-headers-power3-smp
+ * linux-headers-power4
+ * linux-headers-power4-smp
+ * linux-image-power3
+ * linux-image-power3-smp
+ * linux-image-power4
+ * linux-image-power4-smp
+
 = Database =
 
  * libqt3c102-mt-mysql
