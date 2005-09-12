@@ -972,8 +972,10 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-pack-ta
  * language-pack-tg
  * language-pack-th
+ * language-pack-tk
  * language-pack-tl
  * language-pack-tr
+ * language-pack-ug
  * language-pack-uk
  * language-pack-ur
  * language-pack-uz
@@ -982,7 +984,9 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-pack-wo
  * language-pack-xh
  * language-pack-yi
+ * language-pack-yo
  * language-pack-zh
+ * language-pack-zu
 
  * language-pack-gnome-af
  * language-pack-gnome-am
