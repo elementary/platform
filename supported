@@ -688,6 +688,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libpam-doc
  * libpanel-applet2-doc
  * libpango1.0-doc
+ * libportaudio-doc
  * libpt-doc
  * libstdc++6-4.0-doc
  * libt1-doc
