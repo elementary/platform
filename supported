@@ -87,6 +87,11 @@ Web:
  * libapache2-mod-auth-sys-group # FabioMassimoDiNitto
  * libapache2-mod-security       # FabioMassimoDiNitto
 
+ * zope3-sandbox
+ * zope2.8-sandbox
+ * plone
+ * plone-site
+
 PHP:
  * php5
  * php5-common
