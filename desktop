@@ -3,7 +3,7 @@
 == Architecture-independent ==
 
  * libesd-alsa0 
- * readahead-list
+ * readahead
  * hotkey-setup
 
 Power management:
