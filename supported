@@ -896,6 +896,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * xlibs-data
  * aalib1
  * mozilla-firefox
+ * mono-assemblies-base
 
 = Miscellaneous =
 
