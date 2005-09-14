@@ -605,6 +605,9 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * sparc-utils [sparc]  # no buildd without this one
  * libxsltc-java
  * pbbuttonsd-dev
+ * x11proto-xf86dri-dev # the following three are X server B-Ds
+ * mesa-swrast-source
+ * libglitz1-dev
 
 == Documentation ==
 
