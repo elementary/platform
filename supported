@@ -1247,7 +1247,3 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * ltsp-server-standalone
  * ltsp-client
  * ltsp-utils
-
-= Installer =
-
- * oem-config

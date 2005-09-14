@@ -239,9 +239,10 @@
  * language-pack-sl [i386]
  * language-pack-gnome-sl [i386]
 
-== Installer documentation ==
+== Installer ==
 
  * debian-installer-manual # also has side-effect of pulling in CD image build system
+ * oem-config   # this is small; it can be removed if there's space pressure, but it makes the OEM installer a lot easier to test
 
 == Optional multiseat configuration ==
 
