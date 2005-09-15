@@ -228,7 +228,6 @@ GStreamer stuff which should end up in universe (see supported though, for a few
  * openoffice.org2 [i386 powerpc amd64]
  * openoffice.org2-gnome [i386 powerpc amd64]
  * openoffice.org2-evolution [i386 powerpc]
- * mozilla-openoffice.org [i386 powerpc]	# built from openoffice.org2
  * xsane           # scanner utils
  * evince
  * xchat
