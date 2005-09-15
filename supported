@@ -840,6 +840,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 = Localisation =
 
  * aspell-de
+ * aspell-de-alt
  * util-linux-locales
  * gimpprint-locales
  * gettext-el
@@ -866,6 +867,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * myspell-de-at
  * myspell-de-ch
  * myspell-de-de
+ * myspell-de-de-oldspell
  * myspell-eo
  * myspell-es
  * myspell-fi
