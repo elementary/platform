@@ -364,6 +364,7 @@ Ubuntu artwork:
  * python-uno
  * python-dbg
  * python-numarray
+ * python-tz			# zope3 only references python2.4-tz
 
 = Console Tools =
 
