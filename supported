@@ -558,6 +558,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libreiserfs0.3-dbg
  * libruby1.8-dbg
  * libsm6-dbg
+ * libstdc++5-3.3-dbg
  * libstdc++6-dbg
  * libstdc++6-4.0-dbg
  * libtotem-plparser0-dbg
@@ -634,6 +635,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * cdrtools-doc
  * cfengine-doc
  * courier-doc
+ * cpp-3.3-doc
  * cpp-3.4-doc
  * cpp-doc
  * cyrus21-doc
@@ -694,6 +696,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libpango1.0-doc
  * libportaudio-doc
  * libpt-doc
+ * libstdc++5-3.3-doc
  * libstdc++6-4.0-doc
  * libt1-doc
  * libtemplate-perl-doc
