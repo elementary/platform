@@ -46,6 +46,7 @@ Samba:
 
 Database:
 
+ * db4.3-util
  * mysql-client
  * mysql-server
  * postgresql-7.4
@@ -452,6 +453,8 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libblkid-dev
  * libcapi20-dev
  * libdb4.2-java-dev
+ * libdb4.2++-dev
+ * libdb4.3-java
  * libdb4.3++-dev
  * libdc1394-11-dev
  * libdevhelp-1-dev
@@ -642,6 +645,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * cpp-3.4-doc
  * cpp-doc
  * cyrus21-doc
+ * db4.2-doc
  * db4.3-doc
  * dbus-1-doc
  * debconf-doc
