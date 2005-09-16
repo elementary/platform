@@ -288,7 +288,6 @@ Other:
  * gossip              # very slick jabber client, alternative to gaim
  * libgnome2-perl      # used by debconf GNOME frontend
  * memprof
- * mozilla-psm
  * pan
  * workrave            # RSI-avoidance
  * xnest
@@ -851,24 +850,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * util-linux-locales
  * gimpprint-locales
  * gettext-el
- * mozilla-locale-ca
- * mozilla-locale-cy
- * mozilla-locale-da
- * mozilla-locale-de-at
- * mozilla-locale-el
- * mozilla-locale-es-es
- * mozilla-locale-eu
- * mozilla-locale-fr
- * mozilla-locale-hu
- * mozilla-locale-it
- * mozilla-locale-ja
- * mozilla-locale-ko
- * mozilla-locale-lt
- * mozilla-locale-no-nb
- * mozilla-locale-pl
- * mozilla-locale-ptbr
- * mozilla-locale-sl
- * mozilla-locale-tr
  * myspell-bg
  * myspell-ca
  * myspell-de-at
