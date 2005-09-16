@@ -241,7 +241,6 @@ Download:
  * subversion
  * subversion-tools
  * python2.4-subversion
- * tla-tools              #RobertCollins
 
 == Package Maintainance ==
 
@@ -406,7 +405,6 @@ Ubuntu artwork:
 
 We need a consistent policy for -doc. At the least, any -doc package produced by a source package that also generates a binary package in one of our seed lists should absolutely go into supported.
 
- * tla-doc # duh           # RobertCollins
  * bazaar-doc		   # docs for bazaar
  * doc-linux-html          # ColinWatson; basic HOWTOs and stuff from LDP
  * manpages-dev            # ColinWatson
