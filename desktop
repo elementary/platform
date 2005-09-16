@@ -231,7 +231,8 @@ GStreamer stuff which should end up in universe (see supported though, for a few
  * xsane           # scanner utils
  * evince
  * xchat
- * xscreensaver    # MRS, see attachment:.xscreensaver.ksh sample config. we will not ship all the actual screensavers, just the best. Thom: some are buggy on amd64 - ["WartyWarthog/XScreenSaver"] has a blacklist.
+ * gnome-screensaver
+ * xscreensaver-data
  * rss-glx         # MRS, very slick screensavers
  * xscreensaver-gl # MRS, we will only ship a subset of the screensavers from rss-glx and xscreensaver
  * tsclient        # rdesktop/vnc/xdmcp client gui
