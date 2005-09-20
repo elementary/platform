@@ -232,8 +232,7 @@ GStreamer stuff which should end up in universe (see supported though, for a few
  * xsane           # scanner utils
  * evince
  * xchat
- * gnome-screensaver
- * xscreensaver-data
+ * xscreensaver
  * rss-glx         # MRS, very slick screensavers
  * xscreensaver-gl # MRS, we will only ship a subset of the screensavers from rss-glx and xscreensaver
  * tsclient        # rdesktop/vnc/xdmcp client gui
