@@ -331,6 +331,7 @@ Documentation:
  * ubuntu-desktop # metapackage for everything here
  * anacron # generally appropriate for desktops
  * usplash
+ * libxp # required for some thirdy part apps. See #15739
 
 = Germinate workarounds =
 
