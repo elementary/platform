@@ -10,7 +10,7 @@ Power management:
 
  * acpi-support
  * powernowd
- * powermanagement-interface
+ * powermanagement-interface [i386 amd64]
 
 Bluetooth:
 
