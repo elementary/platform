@@ -158,7 +158,9 @@ Other:
 
 Application Servers:
 
- * moin                   # ThomMay, from hoglet
+ * moin                   # ThomMay, from hoglet (moin-1.2)
+ * python-moinmoin	  # moin-1.3
+ * moinmoin-common	  # moin-1.3
  * mailman
 
 Utilities:
