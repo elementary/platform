@@ -387,6 +387,7 @@ Ubuntu artwork:
  * libnss-db
  * tdsodbc
  * tk8.3-dev
+ * libsdl1.2debian-all
 
 = System Administration Tools =
 
