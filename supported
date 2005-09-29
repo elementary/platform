@@ -346,6 +346,7 @@ Ubuntu artwork:
  * libchart-perl
  * libgd-graph-perl
  * libtemplate-perl
+ * libfile-rsyncp-perl
  * libnss-db
  * tdsodbc
  * tk8.3-dev
