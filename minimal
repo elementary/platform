@@ -100,7 +100,8 @@ Programs and packages necessary for both the proper functionality of the system 
  * eject             # very popular, useful, small
  * gettext-base
  * gnupg             # introduce security from the very base
- * initramfs-tools   # needed for the Ubuntu kernel
+ * initramfs-tools [amd64 i386 powerpc sparc]  # needed for the Ubuntu kernel
+ * initrd-tools [hppa ia64]                    # some architectures can't quite handle initramfs yet
  * less
  * libfribidi0       # right-to-left text support in base-config
  * locales
