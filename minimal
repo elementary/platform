@@ -40,6 +40,8 @@
 == hppa ==
 
  * palo [hppa]
+ * linux-hppa32 [hppa]         # hppa32 UP kernel
+ * linux-hppa64 [hppa]         # hppa64 UP kernel
 
 = UNIX =
 

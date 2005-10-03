@@ -819,6 +819,13 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * linux-sparc64-smp [sparc]
  * linux-headers-sparc64-smp [sparc]
 
+=== hppa ===
+
+ * linux-hppa32-smp [hppa]
+ * linux-hppa64-smp [hppa]
+ * linux-headers-hppa32-smp [hppa]
+ * linux-headers-hppa64-smp [hppa]
+
 === Source ===
 
  * linux-tree
