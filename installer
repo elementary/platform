@@ -208,6 +208,24 @@ We include 2.6 kernel module udebs only.
  * usb-modules-${Kernel-Version}-di [amd64]
  * usb-storage-modules-${Kernel-Version}-di [amd64]
 
+== hppa ==
+
+ * Kernel-Version: 2.6.12-9-hppa32 2.6.12-9-hppa64
+
+ * cdrom-core-modules-${Kernel-Version}-di [hppa]
+ * ide-core-modules-${Kernel-Version}-di [hppa]
+ * ide-modules-${Kernel-Version}-di [hppa]
+ * input-modules-${Kernel-Version}-di [hppa]
+ * ipv6-modules-${Kernel-Version}-di [hppa]
+ * loop-modules-${Kernel-Version}-di [hppa]
+ * nic-modules-${Kernel-Version}-di [hppa]
+ * nic-shared-modules-${Kernel-Version}-di [hppa]
+ * ppp-modules-${Kernel-Version}-di [hppa]
+ * scsi-core-modules-${Kernel-Version}-di [hppa]
+ * scsi-modules-${Kernel-Version}-di [hppa]
+ * usb-modules-${Kernel-Version}-di [hppa]
+ * usb-storage-modules-${Kernel-Version}-di [hppa]
+
 == i386 ==
 
  * Kernel-Version: 2.6.12-9-386

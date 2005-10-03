@@ -96,6 +96,20 @@ This seed is used to construct the first stage of the live CD.
  * scsi-modules-${Kernel-Version}-di [amd64]
  * socket-modules-${Kernel-Version}-di [amd64]
 
+== hppa ==
+
+ * Kernel-Version: 2.6.12-9-hppa32 2.6.12-9-hppa64
+
+ * cdrom-core-modules-${Kernel-Version}-di [hppa]
+ * ide-core-modules-${Kernel-Version}-di [hppa]
+ * ide-modules-${Kernel-Version}-di [hppa]
+ * input-modules-${Kernel-Version}-di [hppa]
+ * ipv6-modules-${Kernel-Version}-di [hppa]
+ * nic-modules-${Kernel-Version}-di [hppa]
+ * nic-shared-modules-${Kernel-Version}-di [hppa]
+ * scsi-core-modules-${Kernel-Version}-di [hppa]
+ * scsi-modules-${Kernel-Version}-di [hppa]
+
 == i386 ==
 
  * Kernel-Version: 2.6.12-9-386

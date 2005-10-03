@@ -46,6 +46,8 @@
  * linux-headers-itanium-smp [ia64]
  * linux-headers-mckinley-smp [ia64]
  * linux-headers-sparc64 [sparc]
+ * linux-headers-hppa32 [hppa]
+ * linux-headers-hppa64 [hppa]
 
 == Emacs ==
 
