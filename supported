@@ -1045,6 +1045,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-pack-gnome-kn
  * language-pack-gnome-ko
  * language-pack-gnome-ku
+ * language-pack-gnome-lb
  * language-pack-gnome-li
  * language-pack-gnome-lt
  * language-pack-gnome-lv
@@ -1067,6 +1068,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-pack-gnome-ro
  * language-pack-gnome-ru
  * language-pack-gnome-rw
+ * language-pack-gnome-sa
  * language-pack-gnome-se
  * language-pack-gnome-sk
  * language-pack-gnome-sl
