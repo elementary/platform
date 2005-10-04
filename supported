@@ -1246,6 +1246,17 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-support-zh
  * language-support-zu
 
+= Installer =
+
+ * Kernel-Version: 2.6.12-9-amd64-generic
+ * nic-restricted-modules-${Kernel-Version}-di [amd64]
+
+ * Kernel-Version: 2.6.12-9-386
+ * nic-restricted-modules-${Kernel-Version}-di [i386]
+
+ * Kernel-Version: 2.6.12-9-powerpc 2.6.12-9-powerpc64-smp
+ * nic-restricted-modules-${Kernel-Version}-di [powerpc]
+
 = LTSP =
 
  * ltsp-server
