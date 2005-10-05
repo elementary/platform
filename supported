@@ -531,6 +531,8 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libxxf86misc-dev
  * libxxf86rush-dev
  * libxxf86vm-dev
+ * lib64bz2-dev
+ * lib64z1-dev
  * latex-ucs-dev
  * freeglut3-dbg
  * gnome-panel-dbg
