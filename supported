@@ -228,6 +228,7 @@ Download:
  * ant
  * linux32		# without it, biarch buildds can go wonky
  * ocaml-native-compilers  # we support the source package anyway
+ * pymacs                 # makes bicyclerepair work with emacs
 
 == Mono ==
 
@@ -293,7 +294,7 @@ Other:
  * xnest
  * xrestop
  * unclutter           # super useful for anti-mouse freaks
- * emacs21             # won't fit on powerpc CD
+ * emacs21             # won't fit on CDs
  * emacs21-el
  * evms-gui            # gui tools for storage drive volume management
  * inkscape            # SVG drawing application
