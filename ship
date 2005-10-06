@@ -50,11 +50,6 @@
  * linux-headers-hppa32 [hppa]
  * linux-headers-hppa64 [hppa]
 
-== Emacs ==
-
- * emacs21 [amd64 hppa i386 ia64 sparc]
- * pymacs                 # makes bicyclerepair work with emacs
-
 == Common UNIX stuff ==
 
  * nfs-common		  # allows people to access NFS filesystems
