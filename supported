@@ -523,6 +523,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libxau-dev
  * libxdmcp-dev
  * libxinerama-dev
+ * libxp-dev
  * libxres-dev
  * libxss-dev
  * libxvmc-dev
@@ -583,6 +584,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libxi6-dbg
  * libxmu6-dbg
  * libxmuu1-dbg
+ * libxp6-dbg
  * libxpm4-dbg
  * libxrandr2-dbg
  * libxrender1-dbg
