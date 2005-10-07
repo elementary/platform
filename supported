@@ -388,6 +388,7 @@ Ubuntu artwork:
  * tdsodbc
  * tk8.3-dev
  * libsdl1.2debian-all
+ * libsdl1.2debian-alsa
 
 = System Administration Tools =
 
