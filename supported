@@ -474,8 +474,10 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libgdchart-gd1-xpm-dev
  * libggi2-dev
  * libgii0-dev
+ * libgle-dev
  * libglide2-dev # xorg build-dep
  * libglide3-dev # xorg build-dep
+ * libglut3-dev
  * libgnomecupsui1.0-dev
  * libhfsp-dev
  * libklibc-dev
