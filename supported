@@ -930,6 +930,10 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * mozilla-firefox
  * mono-assemblies-base
 
+== Upgrades from Breezy development versions ==
+
+ * readahead-list
+
 = Miscellaneous =
 
  * amd64-libs [i386]
