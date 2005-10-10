@@ -1,0 +1,358 @@
+= From supported =
+
+== Cluster ==
+
+ * ocfs2-tools
+ * ocfs2console
+ * libaio1
+ * libaio-dev
+ * ccs
+ * cman
+ * fence
+ * fence-gnbd
+ * gfs-tools
+ * gnbd-client
+ * gnbd-server
+ * gulm
+ * libgulm1
+ * libmagma1
+ * magma
+ * magma-plugins
+ * redhat-cluster-suite
+ * rgmanager
+ * system-config-cluster
+
+= Servers and Daemons =
+
+Samba:
+
+ * smbfs               # allows mounting Windows shares
+
+Database:
+
+ * db4.3-util
+ * mysql-client
+ * mysql-server
+ * postgresql-7.4
+ * postgresql-client-7.4
+ * postgresql-contrib-7.4
+ * postgresql-plperl-7.4
+ * postgresql-plpython-7.4
+ * postgresql-pltcl-7.4
+ * postgresql-8.0
+ * postgresql-client-8.0
+ * postgresql-contrib-8.0
+ * postgresql-plperl-8.0
+ * postgresql-plpython-8.0
+ * postgresql-pltcl-8.0
+ * mdbtools                             # OOo2 supports the JET format
+ * mdbtools-gmdb
+
+Proxy:
+
+ * squid # RobertCollins
+
+LDAP:
+
+ * slapd
+ * ldap-utils
+
+Web:
+
+ * apache2
+ * apache2-mpm-perchild      # ThomMay
+ * apache2-mpm-prefork       # ThomMay
+ * apache2-mpm-threadpool    # ThomMay (although this will probably disappear from debian fairly soon)
+ * libapache2-mod-auth-mysql # FabioMassimoDiNitto
+ * libapache2-mod-auth-pgsql # FabioMassimoDiNitto
+ * libapache2-mod-macro      # FabioMassimoDiNitto
+ * libapache2-mod-perl2 # python is in supported
+ * libapache2-mod-python        #ThomMay
+ * libapache2-mod-python-doc    #ThomMay
+ * libapache2-mod-auth-pam       # FabioMassimoDiNitto
+ * libapache2-mod-auth-plain     # FabioMassimoDiNitto
+ * libapache2-mod-auth-sys-group # FabioMassimoDiNitto
+ * libapache2-mod-security       # FabioMassimoDiNitto
+
+ * zope3-sandbox
+ * zope2.8-sandbox
+ * plone
+ * plone-site
+ * zope-linguaplone             # plone recommendation
+
+PHP:
+ * php5
+ * php5-common
+ * libapache2-mod-php5
+ * php5-cgi
+ * php5-cli
+ * php5-dev
+ * php-pear
+ * php5-curl
+ * php5-gd
+                                                              108,2          6%
+ * php5-ldap
+ * php5-mhash
+ * php5-mysql
+ * php5-odbc
+ * php5-pgsql
+ * php5-recode
+ * php5-snmp
+ * php5-sqlite
+ * php5-sybase
+ * php5-xmlrpc
+ * php5-xsl
+
+Email:
+
+ * dovecot                   # ThomMay
+ * exim4-base
+ * exim4-daemon-light
+ * exim4-daemon-heavy
+ * exim4-doc-html
+ * cyrus21-admin
+ * cyrus21-clients
+ * cyrus21-murder
+ * cyrus21-pop3d
+ * cyrus21-imapd
+ * courier-pop-ssl
+ * courier-imap-ssl
+ * postfix-mysql
+ * postfix-pgsql
+ * postfix-ldap
+ * postfix-pcre
+
+Must also consider webmail and so on...
+
+FTP/TFTP:
+
+ * vsftpd # a secure ftpd
+ * tftpd-hpa # The one from OpenBSD which supports PXE
+ * tftp-hpa # client
+
+Other:
+
+ * dhcp3-server
+ * bind9                  # LaMontJones, will look silly without it :-)
+ * snmp
+ * snmpd
+ * sensord
+ * lm-sensors
+ * netkit-inetd
+ * nbd-server
+
+Application Servers:
+
+ * python-moinmoin        # moin-1.3
+ * moinmoin-common        # moin-1.3
+ * mailman
+
+Utilities:
+
+ * analog                 # essential for any web server, possible candidate for desktop integration
+ * graphviz
+
+= Network =
+
+ * nmap                   # network diagnostics
+ * dnstracer              # dns network diagnostics
+ * iptraf                 # sysadmin's toy, may be a candidate for removal
+ * traceroute             # we have iputils-tracepath in base, this is only for real traceroute lovers
+ * pptpd                  # server that allows setup of Microsoft-compatible VPN * ifenslave-2.6          # interface bonding/trunking/etherchannel
+ * ipsec-tools            # IPsec configuration
+ * vlan                   # userland tools to config 8021q support
+ * bridge-utils           # userland tools to config kernel bridging feature
+
+IPv6 tools:
+
+ * freenet6               # FabioMassimoDiNitto
+ * radvd                  # FabioMassimoDiNitto
+ * quagga                 # RobertCollins
+
+Firewall:
+
+ * shorewall
+
+Security:
+
+ * nessus                 # client for nessus security testing and monitoring framework
+ * nessus-plugins         # plugins for the extension of nessus security monitoring framework
+ * nessusd                # server to coordinate nessus network security monitoring
+ * cricket                # JamesTroup, from Hoglet
+ * checksecurity          # JamesTroup, from Hoglet
+ * aide                   # JamesTroup, from Hoglet
+
+Download:
+ * bittornado             # used on the servers.
+
+= Shells =
+
+ * zsh
+
+= System Administration Tools =
+
+ * attr                 # will move to base if we go to selinux
+ * quota
+ * backuppc             # RobertCollins
+ * debian-goodies
+ * whois                # FabioMassimoDiNitto
+ * minicom              # useful for serial access to anything
+ * cu                   # super-basic serial access
+ * john                 # detects weak passwords, might be needed in desktop
+ * libpam-cracklib      # enables weak password checking during password change, should it be in desktop?
+ * chkrootkit           # forensic detection of rootkit
+ * xinetd               # JamesTroup, from hoglet
+ * system-config-kickstart # Kickstart configuration GUI
+ * evms-cli
+ * fbset
+ * libcap-bin
+ * libpam-opie
+ * opie-client
+ * opie-server
+ * sasl-bin
+ * sasl2-bin
+ * autofs
+ * awstats
+ * acct
+ * nagios                       # SECURITAH REVIEW
+ * authbind                     # BIGGER SECURITAH REVIEW
+ * siege
+ * bonnie++
+ * smartmontools   # hard disk diagnostics
+
+== Kernel ==
+
+=== i386 ===
+
+ * linux-686 [i386]
+ * linux-686-smp [i386]
+ * linux-k7 [i386]
+ * linux-k7-smp [i386]
+ * linux-headers-686 [i386]
+ * linux-headers-686-smp [i386]
+ * linux-headers-k7 [i386]
+ * linux-headers-k7-smp [i386]
+
+=== powerpc ===
+
+ * linux-powerpc-smp [powerpc]
+ * linux-headers-powerpc-smp [powerpc]
+
+=== amd64 ===
+
+ * linux-amd64-k8 [amd64]
+ * linux-amd64-k8-smp [amd64]
+ * linux-amd64-xeon [amd64]
+ * linux-headers-amd64-k8 [amd64]
+ * linux-headers-amd64-k8-smp [amd64]
+ * linux-headers-amd64-xeon [amd64]
+
+=== Source ===
+
+ * linux-tree
+
+-= Miscellaneous ==
+
+ * amd64-libs [i386]
+ * ia32-libs [amd64 ia64]
+ * miscfiles
+ * lilo
+
+== LTSP ==
+
+ * ltsp-server
+ * ltsp-server-standalone
+ * ltsp-client
+ * ltsp-utils
+
+= From desktop =
+
+ * screen
+ * lftp
+ * slocate              # tool to index user files
+ * zip
+ * unzip                # also used for .zip support in file-roller
+ * smbclient           # to access files on other SAMBA and Windows servers
+ * libsasl2-modules    # allows integration with MTA and login system
+ * cupsys                       # our preferred printer management infrastructure
+ * cupsys-bsd                   # gives us lpc, lpq, lpr, lprm
+ * cupsys-client                # gives us cancel, cupstestppd, lp, lpoptions, lppasswd, lpstat, cupsaddsmb, accept, lpadmin, lpinfo, lpmove
+ * foomatic-db-engine           # integrate the foomatic printer driver engine
+ * foomatic-db                  # the foomatic printer driver database
+ * foomatic-filters             # converter from postscript to printer-specific
+formats
+ * foomatic-db-gimp-print       # printer drivers from the gimp-print project
+ * foomatic-db-hpijs            # printer drivers from the hp inkjet project
+ * foomatic-filters-ppds        # a ton of ppds, large but gives us very comprehensive printer support
+ * cupsys-driver-gimpprint      # a ton of cupsys ppds, for real comprehensive printer support
+ * pnm2ppa                      # several ppds require this
+ * gs-esp                       # some ppds require this, in place of standard gs
+ * hplip-base                   # support for HP all-in-one printers
+ * hplip-ppds                   # support for HP all-in-one printers
+ * python-adns              # MRS, stable and useful
+ * python-apt               # MRS, we need to be able to interact with APT
+ * python-cddb              # MRS, great for desktop users to be able to manage
+CD's in Python
+ * python-clientcookie      # MRS, unless a better cgi-style framework is below
+ * python-crypto            # MRS, very useful even though it's very specific
+ * python-egenix-mxproxy    # MRS,
+ * python-egenix-mxstack    # MRS,
+ * python-egenix-mxtexttools # MRS,
+ * python-egenix-mxtools    # MRS,
+ * python-epydoc            # MRS,
+ * python-eunuchs           # MRS,
+ * python-examples          # MRS,
+ * python-gadfly            # MRS,
+ * python-gd                # MRS,
+ * python-gdbm
+ * python-gdchart
+ * python-genetic
+ * python-geoip
+ * python-glade2
+ * python-gnome2            # SebastienBacher
+ * python-gnupginterface
+ * python-gst
+ * python-gtk2              # SebastienBacher
+ * python-htmlgen
+ * python-htmltmpl
+ * python-id3lib
+ * python-imaging
+ * python-imaging-sane # pulls in big packages, can cut it if needed
+ * python-jabber
+ * python2.4-dbus
+ * python2.4-dictclient
+ * python2.4-librdf
+ * python2.4-pycurl
+ * python2.4-samba
+ * python-kjbuckets
+ * python-ldap
+ * python-musicbrainz
+ * python-mysqldb
+ * python-netcdf
+ * python-newt
+ * python-numeric
+ * python-opengl
+ * python-osd
+ * python-pam
+ * python-parted
+ * python-pexpect
+ * python-pgsql
+ * python-pisock
+ * python-pqueue
+ * python-pyao
+ * python-pylibacl
+ * python-pyopenssl
+ * python-pyorbit               # SebastienBacher
+ * python-pyvorbis
+ * python-pyxattr
+ * python-reportlab
+ * python-simpletal
+ * python-soappy
+ * python-sqlite
+ * python-stats
+ * python-syck
+ * python-twisted
+ * python-unit
+ * python-xdg                   # SebastienBacher
+ * python-xmpp
+ * libxp6 # required for some thirdy part apps. See #15739
