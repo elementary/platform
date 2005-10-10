@@ -375,7 +375,9 @@ Ubuntu artwork:
  * python-uno
  * python-dbg
  * python-numarray
+ * python-twisted
  * python-tz			# zope3 only references python2.4-tz
+ * python2.4-samba
  * idle				# Python IDE
 
 = Console Tools =

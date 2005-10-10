@@ -280,7 +280,6 @@ Libraries and Modules:
  * python2.4-dictclient
  * python2.4-librdf
  * python2.4-pycurl
- * python2.4-samba
  * python-kjbuckets
  * python-ldap
  * python-musicbrainz
@@ -308,7 +307,6 @@ Libraries and Modules:
  * python-sqlite
  * python-stats
  * python-syck
- * python-twisted
  * python-unit
  * python-xdg                   # SebastienBacher
  * python-xmpp
