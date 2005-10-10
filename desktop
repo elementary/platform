@@ -274,7 +274,7 @@ Libraries and Modules:
  * python-htmltmpl
  * python-id3lib
  * python-imaging
- * python-imaging-sane # pulls in big packages, can cut it if needed
+ * python-imaging-sane
  * python-jabber
  * python2.4-dbus
  * python2.4-dictclient
