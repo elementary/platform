@@ -355,3 +355,7 @@ CD's in Python
  * python-xdg                   # SebastienBacher
  * python-xmpp
  * libxp6 # required for some thirdy part apps. See #15739
+
+= Germinate workarounds =
+
+ * mysql-common # mysql-client and mysql-server need this, but if not seeded then we end up with mysql-common-4.1 as well and apt gets confused
