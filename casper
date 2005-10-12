@@ -4,6 +4,7 @@ This seed is used to construct the first stage of the live CD.
 
  * anna
  * archdetect
+ * binutils-static-udeb # for restricted modules
  * bogl-bterm-udeb
  * bterm-unifont
  * busybox-cvs-udeb
