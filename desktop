@@ -36,13 +36,10 @@ These tools are very commonly used by people who drop into a console shell to do
  * bc
  * dc
  * irssi-text
- * procmail          # for mail system integration
- * bogofilter        # spam filter, can spamassassin for evo based on Matt's input
  * mkisofs
  * cdrecord
  * cdparanoia
  * dvd+rw-tools
- * fetchmail
  * screen
  * lftp
  * slocate              # tool to index user files

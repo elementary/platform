@@ -136,6 +136,9 @@ Email:
  * postfix-pgsql
  * postfix-ldap
  * postfix-pcre
+ * fetchmail
+ * procmail
+ * bogofilter
 
 Must also consider webmail and so on...
 
