@@ -23,6 +23,7 @@ This seed is used to construct the first stage of the live CD.
  * di-utils-reboot
  * di-utils-shell
  * di-utils-terminfo
+ * disk-detect
  * dmsetup-udeb
  * e2fsprogs-udeb
  * env-preseed
