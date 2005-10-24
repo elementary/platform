@@ -30,6 +30,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * di-utils-reboot
  * di-utils-shell
  * di-utils-terminfo
+ * disk-detect
  * download-installer
  * e2fsprogs-udeb
  * eject-udeb
