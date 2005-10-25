@@ -17,6 +17,7 @@ This seed is used to construct the first stage of the live CD.
  * cdrom-checker
  * cdrom-detect
  * cdrom-retriever
+ * clock-setup
  * dhcp-client-udeb
  * di-utils
  * di-utils-mapdevfs
