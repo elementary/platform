@@ -35,6 +35,7 @@ This seed is used to construct the first stage of the live CD.
  * hw-detect
  * hw-detect-full
  * initrd-preseed
+ * installation-locale
  * iso-3166-udeb
  * kbd-chooser
  * libfribidi0-udeb
@@ -55,7 +56,6 @@ This seed is used to construct the first stage of the live CD.
  * rescue-check # initrd part of rescue mode
  * rescue-mode  # main part of rescue mode, installed if rescue/enable=true
  * rootskel
- * rootskel-locale
  * tzsetup-udeb
  * udev-udeb
  * udpkg
