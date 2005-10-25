@@ -1293,6 +1293,10 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-support-zh
  * language-support-zu
 
+= Installer =
+
+ * debian-installer # also has side-effect of pulling in installer image build system
+
 = LTSP =
 
  * ltsp-server
