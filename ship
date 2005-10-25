@@ -277,7 +277,12 @@
 
 == Installer ==
 
- * debian-installer-manual # also has side-effect of pulling in CD image build system
+ * installation-guide-amd64 [amd64]
+ * installation-guide-hppa [hppa]
+ * installation-guide-i386 [i386]
+ * installation-guide-ia64 [ia64]
+ * installation-guide-powerpc [powerpc]
+ * installation-guide-sparc [sparc]
  * oem-config   # this is small; it can be removed if there's space pressure, but it makes the OEM installer a lot easier to test
 
 == Optional multiseat configuration ==
