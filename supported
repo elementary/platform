@@ -1296,6 +1296,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 = Installer =
 
  * debian-installer # also has side-effect of pulling in installer image build system
+ * baseconfig-udeb # experimental
 
 = LTSP =
 
