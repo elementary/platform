@@ -23,6 +23,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * cdrom-detect
  * cdrom-retriever
  * choose-mirror
+ * clock-setup
  * debootstrap-udeb
  * dhcp-client-udeb
  * di-utils
