@@ -41,7 +41,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * hdparm-udeb # not currently used, but may be used by cdrom-detect in the future
  * hotplug-udeb
  * hw-detect
- * hw-detect-full
  * initial-passwd-udeb # first-stage username/password question
  * initrd-preseed
  * installation-locale
