@@ -136,6 +136,9 @@ Email:
  * postfix-pgsql
  * postfix-ldap
  * postfix-pcre
+ * fetchmail
+ * procmail
+ * bogofilter
 
 Must also consider webmail and so on...
 
@@ -368,6 +371,7 @@ Ubuntu artwork:
 
 = Python =
 
+ * python-opengl
  * python-pygresql         # JamesTroup, from hoglet
  * python-psycopg          # To be used in launchpad
  * python-nevow
@@ -478,7 +482,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libecpg-dev
  * libevms-dev
  * libflac++-dev
- * libgconf-dev
  * libgd-dev
  * libgd-xpm-dev
  * libgdchart-gd1-xpm-dev
@@ -984,6 +987,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * language-pack-eu
  * language-pack-fa
  * language-pack-fi
+ * language-pack-fo
  * language-pack-fr
  * language-pack-ga
  * language-pack-gl
@@ -1290,14 +1294,8 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
 = Installer =
 
- * Kernel-Version: 2.6.12-9-amd64-generic
- * nic-restricted-modules-${Kernel-Version}-di [amd64]
-
- * Kernel-Version: 2.6.12-9-386
- * nic-restricted-modules-${Kernel-Version}-di [i386]
-
- * Kernel-Version: 2.6.12-9-powerpc 2.6.12-9-powerpc64-smp
- * nic-restricted-modules-${Kernel-Version}-di [powerpc]
+ * debian-installer # also has side-effect of pulling in installer image build system
+ * baseconfig-udeb # experimental
 
 = LTSP =
 

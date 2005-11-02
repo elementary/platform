@@ -4,6 +4,7 @@ This seed is used to construct the first stage of the live CD.
 
  * anna
  * archdetect
+ * binutils-static-udeb # for restricted modules
  * bogl-bterm-udeb
  * bterm-unifont
  * busybox-cvs-udeb
@@ -16,12 +17,14 @@ This seed is used to construct the first stage of the live CD.
  * cdrom-checker
  * cdrom-detect
  * cdrom-retriever
+ * clock-setup
  * dhcp-client-udeb
  * di-utils
  * di-utils-mapdevfs
  * di-utils-reboot
  * di-utils-shell
  * di-utils-terminfo
+ * disk-detect
  * dmsetup-udeb
  * e2fsprogs-udeb
  * env-preseed
@@ -30,8 +33,8 @@ This seed is used to construct the first stage of the live CD.
  * grepmap-udeb # speeds up hotplug
  * hotplug-udeb
  * hw-detect
- * hw-detect-full
  * initrd-preseed
+ * installation-locale
  * iso-3166-udeb
  * kbd-chooser
  * libfribidi0-udeb
@@ -52,7 +55,6 @@ This seed is used to construct the first stage of the live CD.
  * rescue-check # initrd part of rescue mode
  * rescue-mode  # main part of rescue mode, installed if rescue/enable=true
  * rootskel
- * rootskel-locale
  * tzsetup-udeb
  * udev-udeb
  * udpkg
@@ -85,6 +87,7 @@ This seed is used to construct the first stage of the live CD.
  * nic-modules-${Kernel-Version}-di [amd64]
  * nic-pcmcia-modules-${Kernel-Version}-di [amd64]
  * nic-restricted-firmware-${Kernel-Version}-di [amd64]
+ * nic-restricted-modules-${Kernel-Version}-di [amd64]
  * nic-shared-modules-${Kernel-Version}-di [amd64]
  * nic-usb-modules-${Kernel-Version}-di [amd64]
  * pcmcia-modules-${Kernel-Version}-di [amd64]
@@ -126,6 +129,7 @@ This seed is used to construct the first stage of the live CD.
  * nic-modules-${Kernel-Version}-di [i386]
  * nic-pcmcia-modules-${Kernel-Version}-di [i386]
  * nic-restricted-firmware-${Kernel-Version}-di [i386]
+ * nic-restricted-modules-${Kernel-Version}-di [i386]
  * nic-shared-modules-${Kernel-Version}-di [i386]
  * nic-usb-modules-${Kernel-Version}-di [i386]
  * pcmcia-modules-${Kernel-Version}-di [i386]
@@ -168,6 +172,7 @@ This seed is used to construct the first stage of the live CD.
  * nic-modules-${Kernel-Version}-di [powerpc]
  * nic-pcmcia-modules-${Kernel-Version}-di [powerpc]
  * nic-restricted-firmware-${Kernel-Version}-di [powerpc]
+ * nic-restricted-modules-${Kernel-Version}-di [powerpc]
  * nic-shared-modules-${Kernel-Version}-di [powerpc]
  * nic-usb-modules-${Kernel-Version}-di [powerpc]
  * pcmcia-modules-${Kernel-Version}-di [powerpc]

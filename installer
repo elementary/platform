@@ -7,13 +7,11 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * archdetect
  * archive-copier
  * base-installer
- * baseconfig-udeb
+ * binutils-static-udeb # for restricted modules
  * bogl-bterm-udeb
  * brltty-udeb
  * bterm-unifont
  * busybox-cvs-udeb
- * casper-check
- * casper-udeb
  * cdebconf-newt-udeb
  * cdebconf-priority
  * cdebconf-text-udeb
@@ -22,6 +20,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * cdrom-detect
  * cdrom-retriever
  * choose-mirror
+ * clock-setup
  * debootstrap-udeb
  * dhcp-client-udeb
  * di-utils
@@ -29,6 +28,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * di-utils-reboot
  * di-utils-shell
  * di-utils-terminfo
+ * disk-detect
  * download-installer
  * e2fsprogs-udeb
  * eject-udeb
@@ -41,9 +41,9 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * hdparm-udeb # not currently used, but may be used by cdrom-detect in the future
  * hotplug-udeb
  * hw-detect
- * hw-detect-full
  * initial-passwd-udeb # first-stage username/password question
  * initrd-preseed
+ * installation-locale
  * installation-report
  * iso-3166-udeb
  * iso-scan # for USB boot
@@ -101,7 +101,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * rescue-check # initrd part of rescue mode
  * rescue-mode  # main part of rescue mode, installed if rescue/enable=true
  * rootskel
- * rootskel-locale
  * save-logs
  * tzsetup-udeb # first-stage timezone question
  * udev-udeb
@@ -190,6 +189,7 @@ We include 2.6 kernel module udebs only.
  * nic-modules-${Kernel-Version}-di [amd64]
  * nic-pcmcia-modules-${Kernel-Version}-di [amd64]
  * nic-restricted-firmware-${Kernel-Version}-di [amd64]
+ * nic-restricted-modules-${Kernel-Version}-di [amd64]
  * nic-shared-modules-${Kernel-Version}-di [amd64]
  * nic-usb-modules-${Kernel-Version}-di [amd64]
  * ntfs-modules-${Kernel-Version}-di [amd64]
@@ -247,6 +247,7 @@ We include 2.6 kernel module udebs only.
  * nic-modules-${Kernel-Version}-di [i386]
  * nic-pcmcia-modules-${Kernel-Version}-di [i386]
  * nic-restricted-firmware-${Kernel-Version}-di [i386]
+ * nic-restricted-modules-${Kernel-Version}-di [i386]
  * nic-shared-modules-${Kernel-Version}-di [i386]
  * nic-usb-modules-${Kernel-Version}-di [i386]
  * ntfs-modules-${Kernel-Version}-di [i386]
@@ -314,6 +315,7 @@ We include 2.6 kernel module udebs only.
  * nic-modules-${Kernel-Version}-di [powerpc]
  * nic-pcmcia-modules-${Kernel-Version}-di [powerpc]
  * nic-restricted-firmware-${Kernel-Version}-di [powerpc]
+ * nic-restricted-modules-${Kernel-Version}-di [powerpc]
  * nic-shared-modules-${Kernel-Version}-di [powerpc]
  * nic-usb-modules-${Kernel-Version}-di [powerpc]
  * pcmcia-modules-${Kernel-Version}-di [powerpc]
