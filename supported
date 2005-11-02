@@ -482,7 +482,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libecpg-dev
  * libevms-dev
  * libflac++-dev
- * libgconf-dev
  * libgd-dev
  * libgd-xpm-dev
  * libgdchart-gd1-xpm-dev
