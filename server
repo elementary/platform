@@ -75,10 +75,6 @@ Web:
  * libapache2-mod-security       # FabioMassimoDiNitto
 
  * zope3-sandbox
- * zope2.8-sandbox
- * plone
- * plone-site
- * zope-linguaplone             # plone recommendation
 
 PHP:
  * php5
