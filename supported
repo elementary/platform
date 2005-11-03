@@ -49,12 +49,6 @@ Database:
  * db4.3-util
  * mysql-client
  * mysql-server
- * postgresql-7.4
- * postgresql-client-7.4
- * postgresql-contrib-7.4
- * postgresql-plperl-7.4
- * postgresql-plpython-7.4
- * postgresql-pltcl-7.4
  * postgresql-8.0
  * postgresql-client-8.0
  * postgresql-contrib-8.0
@@ -740,7 +734,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * openslp-doc
  * parted-doc
  * postfix-doc
- * postgresql-doc-7.4
  * postgresql-doc-8.0
  * pyopenssl-doc
  * python-doc
