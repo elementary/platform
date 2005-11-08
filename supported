@@ -339,7 +339,6 @@ GStreamer:
  * gstreamer0.8-artsd
  * gstreamer0.8-caca
  * gstreamer0.8-festival
- * gstreamer0.8-jack
  * gstreamer0.8-mikmod
  * gstreamer0.8-sid
 
