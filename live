@@ -1,28 +1,16 @@
- * language-support-en
- * language-pack-en
- * language-pack-gnome-en
- * language-pack-zh [powerpc ia64]
- * language-pack-es [powerpc]
- * language-pack-bn [powerpc ia64]
- * language-pack-hi [powerpc]
- * language-pack-ar [powerpc]
- * language-pack-pt [powerpc]
- * language-pack-ru [powerpc]
- * language-pack-ja [powerpc]
- * language-pack-de [powerpc ia64]
- * language-pack-fr [powerpc ia64]
- * language-pack-ca [powerpc]
- * language-pack-gnome-zh [powerpc ia64]
- * language-pack-gnome-es [powerpc]
- * language-pack-gnome-bn [powerpc ia64]
- * language-pack-gnome-hi [powerpc]
- * language-pack-gnome-ar [powerpc]
- * language-pack-gnome-pt [powerpc]
- * language-pack-gnome-ru [powerpc]
- * language-pack-gnome-ja [powerpc]
- * language-pack-gnome-de [powerpc ia64]
- * language-pack-gnome-fr [powerpc ia64]
- * language-pack-gnome-ca [powerpc]
+ * Languages: en
+ * language-pack-${Languages}
+ * language-pack-gnome-${Languages}
+ * language-support-${Languages}
+
+ * Languages: zh bn de fr
+ * language-pack-${Languages} [powerpc ia64]
+ * language-pack-gnome-${Languages} [powerpc ia64]
+
+ * Languages: es hi ar pt ru ja ca
+ * language-pack-${Languages} [powerpc]
+ * language-pack-gnome-${Languages} [powerpc]
+
  * ubuntu-live
  * pcmcia-cs
  * ntfsprogs
