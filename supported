@@ -954,10 +954,10 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
 = Language packs =
 
- * /^language-pack-..$/
- * /^language-pack-gnome-..$/
- * /^language-pack-kde-..$/
- * /^language-support-..$/
+ * /^language-pack-[^-]+$/
+ * /^language-pack-gnome-[^-]+$/
+ * /^language-pack-kde-[^-]+$/
+ * /^language-support-[^-]+$/
 
 = Installer =
 
