@@ -82,198 +82,24 @@
 == Common language packs ==
 
  # must have
- * language-pack-en
- * language-pack-gnome-en
- * language-support-en
+ * Languages: en
+ * language-pack-${Languages}
+ * language-pack-gnome-${Languages}
+ * language-support-${Languages}
 
  # most popular languages
- * language-pack-zh
- * language-pack-gnome-zh
- * language-pack-es
- * language-pack-gnome-es
- * language-pack-bn
- * language-pack-gnome-bn
- * language-pack-hi
- * language-pack-gnome-hi
- * language-pack-ar
- * language-pack-gnome-ar
- * language-pack-xh
- * language-pack-gnome-xh
- * language-pack-pt
- * language-pack-gnome-pt
- * language-pack-ru
- * language-pack-gnome-ru
- * language-pack-ja
- * language-pack-gnome-ja
- * language-pack-de
- * language-pack-gnome-de
- * language-pack-fr
- * language-pack-gnome-fr
+ * Languages: zh es bn hi ar xh pt ru ja de fr
+ * language-pack-${Languages}
+ * language-pack-gnome-${Languages}
 
  # other languages, alphabetically, up to CD limit
- * language-pack-af
- * language-pack-gnome-af
- * language-pack-am
- * language-pack-gnome-am
- * language-pack-as
- * language-pack-gnome-as
- * language-pack-az
- * language-pack-gnome-az
- * language-pack-be
- * language-pack-gnome-be
- * language-pack-bg
- * language-pack-gnome-bg
- * language-pack-br
- * language-pack-gnome-br
- * language-pack-bs
- * language-pack-gnome-bs 
- * language-pack-ca
- * language-pack-gnome-ca
- * language-pack-cs
- * language-pack-gnome-cs
- * language-pack-cy
- * language-pack-gnome-cy
- * language-pack-da
- * language-pack-gnome-da
- * language-pack-el
- * language-pack-gnome-el
- * language-pack-eo
- * language-pack-gnome-eo
- * language-pack-et
- * language-pack-gnome-et
- * language-pack-eu
- * language-pack-gnome-eu
- * language-pack-fa
- * language-pack-gnome-fa
- * language-pack-fi
- * language-pack-gnome-fi
- * language-pack-ga
- * language-pack-gnome-ga
- * language-pack-gl
- * language-pack-gnome-gl
- * language-pack-gu
- * language-pack-gnome-gu
- * language-pack-he
- * language-pack-gnome-he
- * language-pack-hr
- * language-pack-gnome-hr
- * language-pack-hu
- * language-pack-gnome-hu
- * language-pack-ia
- * language-pack-gnome-ia
- * language-pack-id
- * language-pack-gnome-id
- * language-pack-is [i386 amd64]
- * language-pack-gnome-is [i386 amd64]
- * language-pack-it [i386 amd64]
- * language-pack-gnome-it [i386 amd64]
- * language-pack-ka [i386 amd64]
- * language-pack-gnome-ka [i386 amd64]
- * language-pack-kn [i386 amd64]
- * language-pack-gnome-kn [i386 amd64]
- * language-pack-ko [i386 amd64]
- * language-pack-gnome-ko [i386 amd64]
- * language-pack-ku [i386 amd64]
- * language-pack-gnome-ku [i386 amd64]
- * language-pack-lg [i386 amd64]
- * language-pack-gnome-lg [i386 amd64]
- * language-pack-li [i386 amd64]
- * language-pack-gnome-li [i386 amd64]
- * language-pack-lo [i386 amd64]
- * language-pack-gnome-lo [i386 amd64]
- * language-pack-lt [i386 amd64]
- * language-pack-gnome-lt [i386 amd64]
- * language-pack-lv [i386 amd64]
- * language-pack-gnome-lv [i386 amd64]
- * language-pack-mg [i386 amd64]
- * language-pack-gnome-mg [i386 amd64]
- * language-pack-mi [i386 amd64]
- * language-pack-gnome-mi [i386 amd64]
- * language-pack-mk [i386 amd64]
- * language-pack-gnome-mk [i386 amd64]
- * language-pack-ml [i386 amd64]
- * language-pack-gnome-ml [i386 amd64]
- * language-pack-mn [i386 amd64]
- * language-pack-gnome-mn [i386 amd64]
- * language-pack-mr [i386 amd64]
- * language-pack-gnome-mr [i386 amd64]
- * language-pack-ms [i386 amd64]
- * language-pack-gnome-ms [i386 amd64]
- * language-pack-my [i386 amd64]
- * language-pack-gnome-my [i386 amd64]
- * language-pack-nb [i386 amd64]
- * language-pack-gnome-nb [i386 amd64]
- * language-pack-ne [i386 amd64]
- * language-pack-gnome-ne [i386 amd64]
- * language-pack-nl [i386 amd64]
- * language-pack-gnome-nl [i386 amd64]
- * language-pack-nn [i386 amd64]
- * language-pack-gnome-nn [i386 amd64]
- * language-pack-no [i386 amd64]
- * language-pack-gnome-no [i386 amd64]
- * language-pack-or [i386 amd64]
- * language-pack-gnome-or [i386 amd64]
- * language-pack-pa [i386 amd64]
- * language-pack-gnome-pa [i386 amd64]
- * language-pack-pl [i386 amd64]
- * language-pack-gnome-pl [i386 amd64]
- * language-pack-rm [i386 amd64]
- * language-pack-gnome-rm [i386 amd64]
- * language-pack-ro [i386 amd64]
- * language-pack-gnome-ro [i386 amd64]
- * language-pack-rw [i386 amd64]
- * language-pack-gnome-rw [i386 amd64]
- * language-pack-se [i386 amd64]
- * language-pack-gnome-se [i386 amd64]
- * language-pack-si [i386 amd64]
- * language-pack-gnome-si [i386 amd64]
- * language-pack-sk [i386 amd64]
- * language-pack-gnome-sk [i386 amd64]
- * language-pack-sl [i386 amd64]
- * language-pack-gnome-sl [i386 amd64]
- * language-pack-sq [i386 amd64]
- * language-pack-gnome-sq [i386 amd64]
- * language-pack-sr [i386 amd64]
- * language-pack-gnome-sr [i386 amd64]
- * language-pack-sv [i386 amd64]
- * language-pack-gnome-sv [i386 amd64]
- * language-pack-ta [i386 amd64]
- * language-pack-gnome-ta [i386 amd64]
- * language-pack-tg [i386 amd64]
- * language-pack-gnome-tg [i386 amd64]
- * language-pack-th [i386 amd64]
- * language-pack-gnome-th [i386 amd64]
- * language-pack-tk [i386 amd64]
- * language-pack-gnome-tk [i386 amd64]
- * language-pack-tl [i386 amd64]
- * language-pack-gnome-tl [i386 amd64]
- * language-pack-tr [i386 amd64]
- * language-pack-gnome-tr [i386 amd64]
- * language-pack-ug [i386 amd64]
- * language-pack-gnome-ug [i386 amd64]
- * language-pack-uk [i386 amd64]
- * language-pack-gnome-uk [i386 amd64]
- * language-pack-ur [i386 amd64]
- * language-pack-gnome-ur [i386 amd64]
- * language-pack-uz [i386 amd64]
- * language-pack-gnome-uz [i386 amd64]
- * language-pack-vi [i386 amd64]
- * language-pack-gnome-vi [i386 amd64]
- * language-pack-wa [i386 amd64]
- * language-pack-gnome-wa [i386 amd64]
- * language-pack-wo [i386 amd64]
- * language-pack-gnome-wo [i386 amd64]
- * language-pack-xh [i386 amd64]
- * language-pack-xh [i386 amd64]
- * language-pack-gnome-xh [i386 amd64]
- * language-pack-yi [i386 amd64]
- * language-pack-gnome-yi [i386 amd64]
- * language-pack-yo [i386 amd64]
- * language-pack-gnome-yo [i386 amd64]
- * language-pack-zh [i386 amd64]
- * language-pack-gnome-zh [i386 amd64]
- * language-pack-zu [i386 amd64]
- * language-pack-gnome-zu [i386 amd64]
+ * Languages: af am as az be bg br bs ca cs cy da el eo et eu fa fi ga gl gu he hr hu ia id
+ * language-pack-${Languages}
+ * language-pack-gnome-${Languages}
+
+ * Languages: is it ka kn ko ku lg li lo lt lv mg mi mk ml mn mr ms my nb ne nl nn no or pa pl rm ro rw se si sk sl sq sr sv ta tg th tk tl tr ug uk ur uz vi wa wo xh yi yo zh zu
+ * language-pack-${Languages} [i386 amd64]
+ * language-pack-gnome-${Languages} [i386 amd64]
 
 == Installer ==
 
