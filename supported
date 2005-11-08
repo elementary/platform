@@ -208,6 +208,7 @@ Download:
  * gdb
  * valgrind
  * autoconf
+ * autoconf-doc      # Debian has this in non-free due to GFDL, but we're OK
  * automake1.9
  * autotools-dev
  * libtool
