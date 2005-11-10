@@ -11,7 +11,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * bogl-bterm-udeb
  * brltty-udeb
  * bterm-unifont
- * busybox-cvs-udeb
+ * busybox-udeb
  * cdebconf-newt-udeb
  * cdebconf-priority
  * cdebconf-text-udeb
@@ -113,7 +113,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
 = Floppy Support =
 
- * busybox-cvs-floppy-udeb
+ * busybox-floppy-udeb
  * di-utils-bootfloppy
  * floppy-retriever
  * load-floppy

@@ -7,7 +7,7 @@ This seed is used to construct the first stage of the live CD.
  * binutils-static-udeb # for restricted modules
  * bogl-bterm-udeb
  * bterm-unifont
- * busybox-cvs-udeb
+ * busybox-udeb
  * casper-check
  * casper-udeb
  * cdebconf-newt-udeb
