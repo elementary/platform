@@ -651,7 +651,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * bison-doc
  * bsh-doc
  * cdrtools-doc
- * cfengine-doc
  * courier-doc
  * cpp-3.3-doc
  * cpp-3.4-doc
@@ -947,7 +946,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
  * /^language-pack-[^-]+$/
  * /^language-pack-gnome-[^-]+$/
- * /^language-pack-kde-[^-]+$/
  * /^language-support-[^-]+$/
 
 = Installer =
