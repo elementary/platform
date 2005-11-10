@@ -861,29 +861,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * util-linux-locales
  * gimpprint-locales
  * gettext-el
- * myspell-bg
- * myspell-ca
- * myspell-de-at
- * myspell-de-ch
- * myspell-de-de
- * myspell-de-de-oldspell
- * myspell-eo
- * myspell-es
- * myspell-fi
- * myspell-fr
- * myspell-ga
- * myspell-gd
- * myspell-gl-es
- * myspell-gv
- * myspell-hu
- * myspell-lt
- * myspell-lv
- * myspell-nb
- * myspell-nn
- * myspell-pl
- * myspell-pt-br
- * myspell-sl
- * myspell-sv-se
+ * myspell-de-de-oldspell # non-default alternative for language-support-de
  * ttf-alee
  * ttf-unfonts
  * nabi
