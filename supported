@@ -946,7 +946,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
  * /^language-pack-[^-]+$/
  * /^language-pack-gnome-[^-]+$/
- * /^language-pack-kde-[^-]+$/
  * /^language-support-[^-]+$/
 
 = Installer =
