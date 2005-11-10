@@ -49,12 +49,12 @@ Database:
  * db4.3-util
  * mysql-client
  * mysql-server
- * postgresql-8.0
- * postgresql-client-8.0
- * postgresql-contrib-8.0
- * postgresql-plperl-8.0
- * postgresql-plpython-8.0
- * postgresql-pltcl-8.0
+ * postgresql-8.1
+ * postgresql-client-8.1
+ * postgresql-contrib-8.1
+ * postgresql-plperl-8.1
+ * postgresql-plpython-8.1
+ * postgresql-pltcl-8.1
  * mdbtools				# OOo2 supports the JET format
  * mdbtools-gmdb
 
@@ -732,7 +732,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * openslp-doc
  * parted-doc
  * postfix-doc
- * postgresql-doc-8.0
+ * postgresql-doc-8.1
  * pyopenssl-doc
  * python-doc
  * python-gtk2-doc
@@ -861,29 +861,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * util-linux-locales
  * gimpprint-locales
  * gettext-el
- * myspell-bg
- * myspell-ca
- * myspell-de-at
- * myspell-de-ch
- * myspell-de-de
- * myspell-de-de-oldspell
- * myspell-eo
- * myspell-es
- * myspell-fi
- * myspell-fr
- * myspell-ga
- * myspell-gd
- * myspell-gl-es
- * myspell-gv
- * myspell-hu
- * myspell-lt
- * myspell-lv
- * myspell-nb
- * myspell-nn
- * myspell-pl
- * myspell-pt-br
- * myspell-sl
- * myspell-sv-se
+ * myspell-de-de-oldspell # non-default alternative for language-support-de
  * ttf-alee
  * ttf-unfonts
  * nabi
