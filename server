@@ -33,18 +33,12 @@ Database:
  * db4.3-util
  * mysql-client
  * mysql-server
- * postgresql-7.4
- * postgresql-client-7.4
- * postgresql-contrib-7.4
- * postgresql-plperl-7.4
- * postgresql-plpython-7.4
- * postgresql-pltcl-7.4
- * postgresql-8.0
- * postgresql-client-8.0
- * postgresql-contrib-8.0
- * postgresql-plperl-8.0
- * postgresql-plpython-8.0
- * postgresql-pltcl-8.0
+ * postgresql-8.1
+ * postgresql-client-8.1
+ * postgresql-contrib-8.1
+ * postgresql-plperl-8.1
+ * postgresql-plpython-8.1
+ * postgresql-pltcl-8.1
  * mdbtools                             # OOo2 supports the JET format
  * mdbtools-gmdb
 
