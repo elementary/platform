@@ -1,8 +1,9 @@
 minimal:
+boot:
 standard: minimal
 desktop: minimal standard
 ship: minimal standard desktop
 live: minimal standard desktop
 installer:
 casper:
-supported: minimal standard desktop ship live
+supported: boot minimal standard desktop ship live
