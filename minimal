@@ -9,39 +9,13 @@
 
 == i386, i686 ==
 
- * grub [amd64 i386]    # lilo will be in supported
- * linux-386 [i386]     # our chosen default install kernel, including restricted modules
  * libc6-i686 [i386]
 
 == ppc32, ppc64 ==
 
  * mac-fdisk [powerpc]
  * pmac-fdisk [powerpc]
- * yaboot [powerpc]        # ColinWatson
  * powerpc-utils [powerpc] # ColinWatson
- * linux-powerpc [powerpc] # powerpc kernel, 32-bit machines
- * linux-powerpc64-smp [powerpc] # powerpc kernel, 64-bit machines
-
-== amd64 ==
-
- * linux-amd64-generic [amd64] # amd64 kernel, works on all machines though not optimised
-
-== ia64 ==
-
- * elilo [ia64]
- * linux-itanium-smp [ia64]    # ia64 kernel, works on all machines
- * linux-mckinley-smp [ia64]   # ia64 kernel, all Itanium II machines
-
-== sparc ==
-
- * silo [sparc]
- * linux-sparc64 [sparc]       # sparc64 UP kernel, works on all machines
-
-== hppa ==
-
- * palo [hppa]
- * linux-hppa32 [hppa]         # hppa32 UP kernel
- * linux-hppa64 [hppa]         # hppa64 UP kernel
 
 = UNIX =
 
