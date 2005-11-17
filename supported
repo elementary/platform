@@ -557,7 +557,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libglib2.0-0-dbg
  * libgnomedb2-dbg
  * libgnomeui-0-dbg
- * libgoffice-1-dbg
+ * libgoffice-1-1-dbg
  * libgsf-1-dbg
  * libgsf-gnome-1-dbg
  * libgtk1.2-dbg
@@ -574,6 +574,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libreiserfs0.3-dbg
  * libruby1.8-dbg
  * libsm6-dbg
+ * libssl0.9.8-dbg
  * libstdc++5-3.3-dbg
  * libstdc++6-dbg
  * libstdc++6-4.0-dbg
