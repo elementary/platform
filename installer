@@ -3,6 +3,8 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 = Common Packages =
 
  * anna
+ * apt-cdrom-setup
+ * apt-mirror-setup
  * apt-setup-udeb # first-stage apt configuration question
  * archdetect
  * archive-copier
