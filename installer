@@ -111,7 +111,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * usbutils-udeb # for lsusb, so we can show descriptive names for devices
  * wireless-tools-udeb
  * xfsprogs-udeb
- * zoneinfo-udeb # for first-stage timezone question
 
 = Floppy Support =
 
