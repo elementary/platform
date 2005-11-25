@@ -110,7 +110,7 @@ PHP:
 
 Email:
 
- * dovecot                   # ThomMay
+ * dovecot-imapd
  * exim4-base
  * exim4-daemon-light
  * exim4-daemon-heavy
@@ -487,7 +487,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * liblinc-dev
  * libmagic-dev
  * libmagick++6-dev
- * libmysqlclient12-dev
  * libnetpbm10-dev
  * libnetpbm9-dev
  * liboggflac++-dev
