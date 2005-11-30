@@ -647,7 +647,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * bsh-doc
  * cdrtools-doc
  * courier-doc
- * cpp-3.3-doc
  * cpp-3.4-doc
  * cpp-doc
  * cyrus21-doc
@@ -708,7 +707,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libpango1.0-doc
  * libportaudio-doc
  * libpt-doc
- * libstdc++5-3.3-doc
  * libstdc++6-4.0-doc
  * libt1-doc
  * libtemplate-perl-doc
