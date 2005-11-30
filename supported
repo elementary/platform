@@ -216,7 +216,6 @@ Download:
  * kernel-package
  * pychecker
  * exuberant-ctags   # ColinWatson
- * gnat-3.4		# build dependency of gnat-3.4
  * gnat-4.0		# build dependency of gnat-4.0
  * dpkg-dev-el
  * ant
@@ -669,7 +668,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * gle-doc
  * glibc-doc
  * glut-doc
- * gnat-3.4-doc
  * gnat-4.0-doc
  * gnome-dev-doc
  * gnumeric-doc
