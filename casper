@@ -31,7 +31,6 @@ This seed is used to construct the first stage of the live CD.
  * ethdetect
  * file-preseed
  * grepmap-udeb # speeds up hotplug
- * hotplug-udeb
  * hw-detect
  * initrd-preseed
  * installation-locale
