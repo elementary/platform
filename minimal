@@ -4,7 +4,6 @@
 
  * alsa-base # needed for proper hardware detection (hotplug/blacklist.d, modprobe.d)
  * alsa-utils           # basic audio support and mixer level handling
- * hotplug              # getting more important, probable future, but not enough
  * grepmap              # make hotplug faster
  * pcmciautils          # PCMCIA support for >= 2.6.13-rc1 kernels
 
