@@ -504,7 +504,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libsvn0-dev
  * libsyck0-dev
  * libvncauth-dev
- * libwww-ssl-dev
  * pciutils-dev
  * postfix-dev
  * ppp-dev
