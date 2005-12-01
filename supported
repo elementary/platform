@@ -216,7 +216,6 @@ Download:
  * kernel-package
  * pychecker
  * exuberant-ctags   # ColinWatson
- * gnat-3.4		# build dependency of gnat-3.4
  * gnat-4.0		# build dependency of gnat-4.0
  * dpkg-dev-el
  * ant
@@ -505,7 +504,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libsvn0-dev
  * libsyck0-dev
  * libvncauth-dev
- * libwww-ssl-dev
  * pciutils-dev
  * postfix-dev
  * ppp-dev
@@ -565,13 +563,11 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libpanel-applet2-0-dbg
  * libpango1.0-dbg
  * libparted1.6-dbg
- * libpth-dbg
  * libreadline4-dbg
  * libreiserfs0.3-dbg
  * libruby1.8-dbg
  * libsm6-dbg
  * libssl0.9.8-dbg
- * libstdc++5-3.3-dbg
  * libstdc++6-dbg
  * libstdc++6-4.0-dbg
  * libtotem-plparser0-dbg
@@ -649,7 +645,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * bsh-doc
  * cdrtools-doc
  * courier-doc
- * cpp-3.3-doc
  * cpp-3.4-doc
  * cpp-doc
  * cyrus21-doc
@@ -672,7 +667,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * gle-doc
  * glibc-doc
  * glut-doc
- * gnat-3.4-doc
  * gnat-4.0-doc
  * gnome-dev-doc
  * gnumeric-doc
@@ -710,7 +704,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libpango1.0-doc
  * libportaudio-doc
  * libpt-doc
- * libstdc++5-3.3-doc
  * libstdc++6-4.0-doc
  * libt1-doc
  * libtemplate-perl-doc
