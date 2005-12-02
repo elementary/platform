@@ -6,6 +6,7 @@ This seed is used to construct the first stage of the live CD.
  * archdetect
  * binutils-static-udeb # for restricted modules
  * bogl-bterm-udeb
+ * bootchart-udeb # profiling; disabled unless you boot with 'bootchart' parameter
  * bterm-unifont
  * busybox-udeb
  * casper-check
