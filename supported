@@ -436,7 +436,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libxalan2-java-doc
  * libxml-commons-resolver1.1-java-doc
  * rhino-doc
- * libcrimson-java-doc
  * libcairo2-doc
 
 = Rescued from Extra =
