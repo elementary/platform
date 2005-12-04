@@ -11,6 +11,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * base-installer
  * binutils-static-udeb # for restricted modules
  * bogl-bterm-udeb
+ * bootchart-udeb # profiling; disabled unless you boot with 'bootchart' parameter
  * brltty-udeb
  * bterm-unifont
  * busybox-udeb
@@ -42,7 +43,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * grepmap-udeb # speeds up hotplug
  * hdparm-udeb # not currently used, but may be used by cdrom-detect in the future
  * hw-detect
- * initial-passwd-udeb # first-stage username/password question
  * initrd-preseed
  * installation-locale
  * installation-report
@@ -108,6 +108,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * udpkg
  * usb-discover
  * usbutils-udeb # for lsusb, so we can show descriptive names for devices
+ * user-setup-udeb # first-stage username/password question
  * wireless-tools-udeb
  * xfsprogs-udeb
 
