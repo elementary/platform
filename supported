@@ -223,6 +223,7 @@ Download:
  * linux32		# without it, biarch buildds can go wonky
  * ocaml-native-compilers  # we support the source package anyway
  * pymacs                 # makes bicyclerepair work with emacs
+ * bootchart         # boot speed profiling
 
 == Mono ==
 
@@ -435,7 +436,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libxalan2-java-doc
  * libxml-commons-resolver1.1-java-doc
  * rhino-doc
- * libcrimson-java-doc
  * libcairo2-doc
 
 = Rescued from Extra =
