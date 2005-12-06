@@ -175,6 +175,7 @@ We include 2.6 kernel module udebs only.
 
  * acpi-modules-${Kernel-Version}-di [amd64]
  * cdrom-core-modules-${Kernel-Version}-di [amd64]
+ * ext2-modules-${Kernel-Version}-di [amd64] # work around bug #20535
  * fb-modules-${Kernel-Version}-di [amd64]
  * firewire-core-modules-${Kernel-Version}-di [amd64]
  * floppy-modules-${Kernel-Version}-di [amd64] # for the "save logs to floppy" feature
@@ -213,6 +214,7 @@ We include 2.6 kernel module udebs only.
  * Kernel-Version: 2.6.15-6-hppa32 2.6.15-6-hppa64
 
  * cdrom-core-modules-${Kernel-Version}-di [hppa]
+ * ext2-modules-${Kernel-Version}-di [hppa] # work around bug #20535
  * ide-core-modules-${Kernel-Version}-di [hppa]
  * ide-modules-${Kernel-Version}-di [hppa]
  * input-modules-${Kernel-Version}-di [hppa]
@@ -233,6 +235,7 @@ We include 2.6 kernel module udebs only.
  * acpi-modules-${Kernel-Version}-di [i386]
  * cdrom-core-modules-${Kernel-Version}-di [i386]
  * cdrom-modules-${Kernel-Version}-di [i386]
+ * ext2-modules-${Kernel-Version}-di [i386] # work around bug #20535
  * fb-modules-${Kernel-Version}-di [i386]
  * firewire-core-modules-${Kernel-Version}-di [i386]
  * floppy-modules-${Kernel-Version}-di [i386] # for the "save logs to floppy" feature
@@ -271,6 +274,7 @@ We include 2.6 kernel module udebs only.
  * Kernel-Version: 2.6.15-6-itanium-smp
 
  * cdrom-core-modules-${Kernel-Version}-di [ia64]
+ * ext2-modules-${Kernel-Version}-di [ia64] # work around bug #20535
  * fb-modules-${Kernel-Version}-di [ia64]
  * firewire-core-modules-${Kernel-Version}-di [ia64]
  * ide-core-modules-${Kernel-Version}-di [ia64]
@@ -301,6 +305,7 @@ We include 2.6 kernel module udebs only.
 
  * affs-modules-${Kernel-Version}-di [powerpc]
  * cdrom-core-modules-${Kernel-Version}-di [powerpc]
+ * ext2-modules-${Kernel-Version}-di [powerpc] # work around bug #20535
  * fb-modules-${Kernel-Version}-di [powerpc]
  * firewire-core-modules-${Kernel-Version}-di [powerpc]
  * floppy-modules-${Kernel-Version}-di [powerpc]
@@ -337,6 +342,7 @@ We include 2.6 kernel module udebs only.
  * Kernel-Version: 2.6.15-6-sparc64
 
  * cdrom-core-modules-${Kernel-Version}-di [sparc]
+ * ext2-modules-${Kernel-Version}-di [sparc] # work around bug #20535
  * ext3-modules-${Kernel-Version}-di [sparc]
  * fat-modules-${Kernel-Version}-di [sparc]
  * ide-modules-${Kernel-Version}-di [sparc]

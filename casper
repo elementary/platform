@@ -77,6 +77,7 @@ This seed is used to construct the first stage of the live CD.
 
  * acpi-modules-${Kernel-Version}-di [amd64]
  * cdrom-core-modules-${Kernel-Version}-di [amd64]
+ * ext2-modules-${Kernel-Version}-di [amd64] # work around bug #20535
  * fb-modules-${Kernel-Version}-di [amd64]
  * ide-core-modules-${Kernel-Version}-di [amd64]
  * ide-modules-${Kernel-Version}-di [amd64]
@@ -103,6 +104,7 @@ This seed is used to construct the first stage of the live CD.
  * Kernel-Version: 2.6.15-6-hppa32 2.6.15-6-hppa64
 
  * cdrom-core-modules-${Kernel-Version}-di [hppa]
+ * ext2-modules-${Kernel-Version}-di [hppa] # work around bug #20535
  * ide-core-modules-${Kernel-Version}-di [hppa]
  * ide-modules-${Kernel-Version}-di [hppa]
  * input-modules-${Kernel-Version}-di [hppa]
@@ -119,6 +121,7 @@ This seed is used to construct the first stage of the live CD.
  * acpi-modules-${Kernel-Version}-di [i386]
  * cdrom-core-modules-${Kernel-Version}-di [i386]
  * cdrom-modules-${Kernel-Version}-di [i386]
+ * ext2-modules-${Kernel-Version}-di [i386] # work around bug #20535
  * fb-modules-${Kernel-Version}-di [i386]
  * ide-core-modules-${Kernel-Version}-di [i386]
  * ide-modules-${Kernel-Version}-di [i386]
@@ -145,6 +148,7 @@ This seed is used to construct the first stage of the live CD.
  * Kernel-Version: 2.6.15-6-itanium-smp
 
  * cdrom-core-modules-${Kernel-Version}-di [ia64]
+ * ext2-modules-${Kernel-Version}-di [ia64] # work around bug #20535
  * fb-modules-${Kernel-Version}-di [ia64]
  * ide-core-modules-${Kernel-Version}-di [ia64]
  * ide-modules-${Kernel-Version}-di [ia64]
@@ -163,6 +167,7 @@ This seed is used to construct the first stage of the live CD.
  * Kernel-Version: 2.6.15-6-powerpc 2.6.15-6-powerpc64-smp
 
  * cdrom-core-modules-${Kernel-Version}-di [powerpc]
+ * ext2-modules-${Kernel-Version}-di [powerpc] # work around bug #20535
  * fb-modules-${Kernel-Version}-di [powerpc]
  * ide-modules-${Kernel-Version}-di [powerpc]
  * input-modules-${Kernel-Version}-di [powerpc]
