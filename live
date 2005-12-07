@@ -20,4 +20,5 @@
  * discover1    # for X autoconfiguration
  * xresprobe
  * gparted
+ * partman      # ue-partitioning-tool experimentation
  * laptop-detect
