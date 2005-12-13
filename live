@@ -11,6 +11,7 @@
  * language-pack-${Languages} [powerpc]
  * language-pack-gnome-${Languages} [powerpc]
 
+ * casper       # needed for build script to generate initramfs
  * ubuntu-live
  * pcmcia-cs
  * ntfsprogs
