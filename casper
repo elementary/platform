@@ -73,7 +73,7 @@ This seed is used to construct the first stage of the live CD.
 
 == amd64 ==
 
- * Kernel-Version: 2.6.15-8-amd64-generic
+ * Kernel-Version: 2.6.15-9-amd64-generic
 
  * acpi-modules-${Kernel-Version}-di [amd64]
  * cdrom-core-modules-${Kernel-Version}-di [amd64]
@@ -99,7 +99,7 @@ This seed is used to construct the first stage of the live CD.
 
 == hppa ==
 
- * Kernel-Version: 2.6.15-8-hppa32 2.6.15-8-hppa64
+ * Kernel-Version: 2.6.15-9-hppa32 2.6.15-9-hppa64
 
  * cdrom-core-modules-${Kernel-Version}-di [hppa]
  * ide-modules-${Kernel-Version}-di [hppa]
@@ -112,7 +112,7 @@ This seed is used to construct the first stage of the live CD.
 
 == i386 ==
 
- * Kernel-Version: 2.6.15-8-386
+ * Kernel-Version: 2.6.15-9-386
 
  * acpi-modules-${Kernel-Version}-di [i386]
  * cdrom-core-modules-${Kernel-Version}-di [i386]
@@ -139,7 +139,7 @@ This seed is used to construct the first stage of the live CD.
 
 == ia64 ==
 
- * Kernel-Version: 2.6.15-8-itanium-smp
+ * Kernel-Version: 2.6.15-9-itanium-smp
 
  * cdrom-core-modules-${Kernel-Version}-di [ia64]
  * fb-modules-${Kernel-Version}-di [ia64]
@@ -156,7 +156,7 @@ This seed is used to construct the first stage of the live CD.
 
 == powerpc ==
 
- * Kernel-Version: 2.6.15-8-powerpc 2.6.15-8-powerpc64-smp
+ * Kernel-Version: 2.6.15-9-powerpc 2.6.15-9-powerpc64-smp
 
  * cdrom-core-modules-${Kernel-Version}-di [powerpc]
  * fb-modules-${Kernel-Version}-di [powerpc]
