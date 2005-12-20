@@ -77,7 +77,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * nobootloader
  * ntfstools-udeb # for ntfsresize
  * openssh-client-udeb
- * os-prober
+ * os-prober-udeb
  * partconf-find-partitions
  * partconf-mkfstab
  * parted-udeb
