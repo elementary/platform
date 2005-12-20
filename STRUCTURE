@@ -5,5 +5,4 @@ desktop: minimal standard
 ship: minimal standard desktop
 live: minimal standard desktop
 installer:
-casper:
 supported: boot minimal standard desktop ship live
