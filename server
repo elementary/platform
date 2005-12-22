@@ -223,6 +223,11 @@ Download:
  * linux-headers-k7 [i386]
  * linux-headers-k7-smp [i386]
 
+ * linux-server [i386]
+ * linux-server-bigiron [i386]
+ * linux-headers-server [i386]
+ * linux-headers-server-bigiron [i386]
+
 === powerpc ===
 
  * linux-powerpc-smp [powerpc]
@@ -236,6 +241,9 @@ Download:
  * linux-headers-amd64-k8 [amd64]
  * linux-headers-amd64-k8-smp [amd64]
  * linux-headers-amd64-xeon [amd64]
+
+ * linux-amd64-server [amd64]
+ * linux-headers-amd64-server [amd64]
 
 === Source ===
 
