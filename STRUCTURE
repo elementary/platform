@@ -6,5 +6,4 @@ server: minimal standard
 ship: minimal standard server
 live: minimal standard server
 installer:
-casper:
 supported: boot minimal standard desktop server ship live
