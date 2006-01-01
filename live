@@ -29,3 +29,4 @@ These packages will eventually all become part of the Espresso live installer, b
  * gparted
  * partman
  * espresso-utils
+ * os-prober
