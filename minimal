@@ -76,7 +76,7 @@ Programs and packages necessary for both the proper functionality of the system 
  * gnupg             # introduce security from the very base
  * initramfs-tools   # needed for the Ubuntu kernel
  * less
- * libfribidi0       # right-to-left text support in base-config
+ * libfribidi0       # right-to-left text support in newt
  * locales
  * lsb-release
  * makedev
@@ -125,7 +125,6 @@ These are used for debugging problems or examining the system.
 These are warty key packages.
 
  * python             # a core feature goal for Warty
- * base-config        # until we get a better way to lead the user to base system reconfiguration
 
 = Ubuntu =
 
