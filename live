@@ -30,3 +30,4 @@ These packages will eventually all become part of the Espresso live installer, b
  * partman
  * espresso-utils
  * os-prober
+ * user-setup
