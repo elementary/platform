@@ -148,6 +148,7 @@ Other:
  * lm-sensors
  * netkit-inetd
  * nbd-server
+ * avahi-daemon
 
 Application Servers:
 
