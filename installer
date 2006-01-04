@@ -143,10 +143,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
  * console-keymaps-tree
 
-= Optional multiseat configuration =
-
- * multiseat-udeb
-
 = Partition Management (architecture-specific) =
 
  * fdisk-udeb
