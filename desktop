@@ -232,9 +232,10 @@ GStreamer stuff which should end up in universe (see supported though, for a few
  * xsane           # scanner utils
  * evince
  * xchat-gnome
- * xscreensaver
+ * gnome-screensaver
  * rss-glx         # MRS, very slick screensavers
  * xscreensaver-gl # MRS, we will only ship a subset of the screensavers from rss-glx and xscreensaver
+ * xscreensaver-data # subset package for the non-gl screensavers we ship
  * tsclient        # rdesktop/vnc/xdmcp client gui
  * xvncviewer      # needed by tsclient
 
