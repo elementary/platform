@@ -68,10 +68,10 @@ Printing and printer configuration is a real weak spot in Debian, and in Linux i
  * foomatic-db-engine           # integrate the foomatic printer driver engine
  * foomatic-db                  # the foomatic printer driver database
  * foomatic-filters             # converter from postscript to printer-specific formats
- * foomatic-db-gimp-print       # printer drivers from the gimp-print project
+ * foomatic-db-gutenprint       # printer drivers from the gutenprint project
  * foomatic-db-hpijs            # printer drivers from the hp inkjet project
  * foomatic-filters-ppds        # a ton of ppds, large but gives us very comprehensive printer support
- * cupsys-driver-gimpprint      # a ton of cupsys ppds, for real comprehensive printer support
+ * cupsys-driver-gutenprint     # a ton of cupsys ppds, for real comprehensive printer support
  * pnm2ppa                      # several ppds require this
  * gs-esp			# some ppds require this, in place of standard gs
  * hplip     			# support for HP all-in-one printers
@@ -83,7 +83,7 @@ Printing and printer configuration is a real weak spot in Debian, and in Linux i
 
  * x-window-system-core
  * xterm
- * xorg-driver-synaptics         # for enhanced touchpad features
+ * xserver-xorg-input-synaptics  # for enhanced touchpad features
  * xkeyboard-config              # XKB data now lives here
 
 
@@ -163,7 +163,7 @@ We've chosen GNOME as our desktop user interface of choice, and GNOME 2.8 is a F
  * nautilus                # SebastienBacher
  * nautilus-cd-burner      # SebastienBacher
  * nautilus-sendto
- * notification-daemon     # backend for libnotify
+ * notify-daemon           # backend for libnotify
  * rhythmbox               # SebastienBacher
  * serpentine		   # Oliver Grawert
  * scrollkeeper
@@ -231,10 +231,11 @@ GStreamer stuff which should end up in universe (see supported though, for a few
  * openoffice.org2-evolution [i386 powerpc]
  * xsane           # scanner utils
  * evince
- * xchat
- * xscreensaver
+ * xchat-gnome
+ * gnome-screensaver
  * rss-glx         # MRS, very slick screensavers
  * xscreensaver-gl # MRS, we will only ship a subset of the screensavers from rss-glx and xscreensaver
+ * xscreensaver-data # subset package for the non-gl screensavers we ship
  * tsclient        # rdesktop/vnc/xdmcp client gui
  * xvncviewer      # needed by tsclient
 
