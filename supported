@@ -47,8 +47,7 @@ Samba:
 Database:
 
  * db4.3-util
- * mysql-client
- * mysql-server
+ * %mysql-dfsg-5.0
  * postgresql-8.1
  * postgresql-client-8.1
  * postgresql-contrib-8.1
@@ -148,6 +147,7 @@ Other:
  * lm-sensors
  * netkit-inetd
  * nbd-server
+ * avahi-daemon
 
 Application Servers:
 
@@ -323,7 +323,6 @@ Other:
  * libpt-plugins-v4l
  * sabayon            # desktop profile management
  * tomboy
- * mozilla-psm
 
 GNOME Office:
 
@@ -860,24 +859,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * latex-ucs # UTF-8 support for LaTeX
  * latex-ucs-uninames
  * latex-ucs-contrib
- * mozilla-locale-ca
- * mozilla-locale-cy
- * mozilla-locale-da
- * mozilla-locale-de-at
- * mozilla-locale-el
- * mozilla-locale-es-es
- * mozilla-locale-eu
- * mozilla-locale-fr
- * mozilla-locale-hu
- * mozilla-locale-it
- * mozilla-locale-ja
- * mozilla-locale-ko
- * mozilla-locale-lt
- * mozilla-locale-no-nb
- * mozilla-locale-pl
- * mozilla-locale-ptbr
- * mozilla-locale-sl
- * mozilla-locale-tr
  * openoffice.org2-help-en-gb
  * openoffice.org2-l10n-en-gb
 
