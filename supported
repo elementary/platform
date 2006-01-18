@@ -822,10 +822,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
  * linux-tree
 
-=== Old support utilities ===
-
- * initrd-tools
-
 === Transitional from hoary ===
 
  * linux-headers-power3
