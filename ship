@@ -1,7 +1,6 @@
 == Kernel ==
 
  * linux [amd64 i386 ia64 sparc]
- * initrd-tools [hppa ia64] # some architectures can't quite handle initramfs yet
 
 == Desktop ==
 
