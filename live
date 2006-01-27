@@ -23,6 +23,7 @@
 
 These packages will eventually all become part of the Espresso live installer, but for now we list them all here to ease development.
 
+ * espresso
  * yaboot
  * gparted
  * partman
