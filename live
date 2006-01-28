@@ -24,6 +24,9 @@
 These packages will eventually all become part of the Espresso live installer, but for now we list them all here to ease development.
 
  * espresso
+ * espresso-frontend-gtk
+ * espresso-ubuntu-artwork
+ * espresso-ubuntu-doc
  * yaboot
  * gparted
  * partman
