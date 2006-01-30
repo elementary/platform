@@ -20,16 +20,9 @@
 
 == Espresso components ==
 
-These packages will eventually all become part of the Espresso live installer, but for now we list them all here to ease development.
+These packages make up the Espresso live installer.
 
  * espresso
  * espresso-frontend-gtk
  * espresso-ubuntu-artwork
  * espresso-ubuntu-doc
- * yaboot
- * gparted
- * partman
- * espresso-utils
- * os-prober
- * user-setup
- * espresso-grub [amd64 i386]
