@@ -559,7 +559,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libice6-dbg
  * libncurses5-dbg
  * libncursesw5-dbg
- * libopenh323-dbg
+ * libopal-dbg
  * libpanel-applet2-0-dbg
  * libpango1.0-dbg
  * libparted1.6-dbg
@@ -698,7 +698,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libgnomeprintui2.2-doc
  * libgnomeui-doc
  * libgtk2.0-doc
- * libopenh323-doc
  * libpam-doc
  * libpanel-applet2-doc
  * libpango1.0-doc
