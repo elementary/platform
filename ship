@@ -32,7 +32,6 @@
  * fakeroot
  * devscripts          # Debian package development
  * cvs                 # RobertCollins
- * bazaar
  * linux-headers-386 [i386]
  * linux-headers-powerpc [powerpc]
  * linux-headers-powerpc64-smp [powerpc]
