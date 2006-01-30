@@ -361,7 +361,6 @@ Ubuntu artwork:
 
 = Python =
 
- * python-opengl
  * python-pygresql         # JamesTroup, from hoglet
  * python-psycopg          # To be used in launchpad
  * python-nevow
