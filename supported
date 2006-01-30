@@ -698,6 +698,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libgnomeprintui2.2-doc
  * libgnomeui-doc
  * libgtk2.0-doc
+ * libopal-doc
  * libpam-doc
  * libpanel-applet2-doc
  * libpango1.0-doc
