@@ -330,6 +330,7 @@ Documentation:
  * anacron # generally appropriate for desktops
  * usplash
  * libxp6 # required for some thirdy part apps. See #15739
+ * libpam-foreground
 
 = Germinate workarounds =
 
