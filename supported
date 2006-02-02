@@ -361,7 +361,6 @@ Ubuntu artwork:
 
 = Python =
 
- * python-opengl
  * python-pygresql         # JamesTroup, from hoglet
  * python-psycopg          # To be used in launchpad
  * python-nevow
@@ -414,7 +413,6 @@ Ubuntu artwork:
 
 We need a consistent policy for -doc. At the least, any -doc package produced by a source package that also generates a binary package in one of our seed lists should absolutely go into supported.
 
- * bazaar-doc		   # docs for bazaar
  * doc-linux-html          # ColinWatson; basic HOWTOs and stuff from LDP
  * manpages-dev            # ColinWatson
  * apache2-doc             # docs for apache2
@@ -559,7 +557,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libice6-dbg
  * libncurses5-dbg
  * libncursesw5-dbg
- * libopenh323-dbg
+ * libopal-dbg
  * libpanel-applet2-0-dbg
  * libpango1.0-dbg
  * libparted1.6-dbg
@@ -698,7 +696,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libgnomeprintui2.2-doc
  * libgnomeui-doc
  * libgtk2.0-doc
- * libopenh323-doc
+ * libopal-doc
  * libpam-doc
  * libpanel-applet2-doc
  * libpango1.0-doc
