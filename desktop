@@ -143,6 +143,7 @@ We've chosen GNOME as our desktop user interface of choice, and GNOME 2.8 is a F
  * gnome-spell
  * gnome-system-monitor     # SebastienBacher
  * gnome-volume-manager     # JeffWaugh, gives us an efficient autoplay framework
+ * gnome-power-manager		# OliverGrawert finally ready for shipment
  * gnome-system-tools
  * gnome-terminal
  * gnome-utils
