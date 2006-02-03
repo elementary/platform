@@ -674,6 +674,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * gstreamer0.8-doc
  * guile-1.6-doc
  * hal-doc
+ * icu-doc
  * indent-doc
  * isdnutils-doc
  * kdebase-doc
@@ -710,6 +711,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libtool-doc
  * libwmf-doc
  * libxml2-doc
+ * libxml++2.6-doc
  * lilo-doc
  * linux-wlan-ng-doc
  * lua50-doc
@@ -724,6 +726,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * postgresql-doc-8.1
  * pyopenssl-doc
  * python-doc
+ * python-gnome2-desktop-doc
  * python-gtk2-doc
  * python-gtk2-tutorial
  * python-imaging-doc
