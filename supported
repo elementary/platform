@@ -904,6 +904,8 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * gfxboot
  * gfxboot-theme-ubuntu
 
+ * casper # needed by live CD build system
+
 = LTSP =
 
  * ltsp-server
