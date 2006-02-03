@@ -26,3 +26,4 @@ These packages make up the Espresso live installer.
  * espresso-frontend-gtk
  * espresso-ubuntu-artwork
  * espresso-ubuntu-doc
+ * cdebconf # experimental, may be used or removed depending on testing
