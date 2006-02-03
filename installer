@@ -37,7 +37,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * eject-udeb
  * env-preseed
  * ethdetect
- * evms-udeb
  * fbset-udeb
  * file-preseed
  * grepmap-udeb # speeds up hotplug
