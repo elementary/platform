@@ -549,7 +549,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libglib2.0-0-dbg
  * libgnomedb2-dbg
  * libgnomeui-0-dbg
- * libgoffice-1-1-dbg
+ * libgoffice-1-2-dbg
  * libgsf-1-dbg
  * libgsf-gnome-1-dbg
  * libgtk1.2-dbg
@@ -557,6 +557,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libice6-dbg
  * libncurses5-dbg
  * libncursesw5-dbg
+ * libneon25-dbg
  * libopal-dbg
  * libpanel-applet2-0-dbg
  * libpango1.0-dbg
@@ -564,11 +565,12 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libreadline4-dbg
  * libreiserfs0.3-dbg
  * libruby1.8-dbg
+ * libsexy1-dbg
  * libsm6-dbg
  * libssl0.9.8-dbg
  * libstdc++6-dbg
  * libstdc++6-4.0-dbg
- * libtotem-plparser0-dbg
+ * libtotem-plparser1-dbg
  * libx11-6-dbg
  * libxaw6-dbg
  * libxaw7-dbg
@@ -672,6 +674,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * gstreamer0.8-doc
  * guile-1.6-doc
  * hal-doc
+ * icu-doc
  * indent-doc
  * isdnutils-doc
  * kdebase-doc
@@ -708,6 +711,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libtool-doc
  * libwmf-doc
  * libxml2-doc
+ * libxml++2.6-doc
  * lilo-doc
  * linux-wlan-ng-doc
  * lua50-doc
@@ -722,6 +726,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * postgresql-doc-8.1
  * pyopenssl-doc
  * python-doc
+ * python-gnome2-desktop-doc
  * python-gtk2-doc
  * python-gtk2-tutorial
  * python-imaging-doc
@@ -818,7 +823,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
 === Source ===
 
- * linux-tree
+ * linux-source
 
 === Transitional from hoary ===
 
@@ -855,6 +860,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * latex-ucs-contrib
  * openoffice.org2-help-en-gb
  * openoffice.org2-l10n-en-gb
+ * scim
 
 = Transitional packages =
 
@@ -898,9 +904,10 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * gfxboot
  * gfxboot-theme-ubuntu
 
+ * casper # needed by live CD build system
+
 = LTSP =
 
  * ltsp-server
  * ltsp-server-standalone
  * ltsp-client
- * ltsp-utils
