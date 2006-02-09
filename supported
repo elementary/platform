@@ -334,15 +334,6 @@ GNOME Office:
  * gnumeric-plugins-extra
  * planner
 
-GStreamer:
-
- * gstreamer0.8-aa
- * gstreamer0.8-artsd
- * gstreamer0.8-caca
- * gstreamer0.8-festival
- * gstreamer0.8-mikmod
- * gstreamer0.8-sid
-
 Ubuntu artwork:
 
  * ubuntu-calendar
@@ -671,7 +662,8 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * gnome-dev-doc
  * gnumeric-doc
  * gok-doc
- * gstreamer0.8-doc
+ * gstreamer0.10-doc
+ * gstreamer0.10-plugins-good-doc
  * guile-1.6-doc
  * hal-doc
  * icu-doc

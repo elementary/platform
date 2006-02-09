@@ -192,38 +192,11 @@ Themes: we will ship only the very best looking themes. We won't ship everything
  * gtk2-engines-smooth
  * ubuntu-sounds
 
-We don't want all the gstreamer0.8-plugins dependencies, so we call out specific ones that are sane:
+The gstreamer0.10 packages we want to install:
 
- * libgstreamer0.8-0
- * libgstreamer-plugins0.8-0
- * libgstreamer-gconf0.8-0
- * gstreamer0.8-plugin-apps
- * gstreamer0.8-alsa
- * gstreamer0.8-audiofile
- * gstreamer0.8-cdparanoia
- * gstreamer0.8-dv
- * gstreamer0.8-dvd
- * gstreamer0.8-esd
- * gstreamer0.8-flac
- * gstreamer0.8-gnomevfs
- * gstreamer0.8-gsm
- * gstreamer0.8-hermes
- * gstreamer0.8-jpeg
- * gstreamer0.8-misc
- * gstreamer0.8-musepack
- * gstreamer0.8-oss
- * gstreamer0.8-sdl
- * gstreamer0.8-speex
- * gstreamer0.8-theora
- * gstreamer0.8-vorbis
- * gstreamer0.8-x
-
-GStreamer stuff which should end up in universe (see supported though, for a few others we do include):
-
- - gstreamer0.8-a52dec
- - gstreamer0.8-mad
- - gstreamer0.8-mpeg2dec
- - gstreamer0.8-swfdec
+ * gstreamer0.10-alsa
+ * gstreamer0.10-esd
+ * gstreamer0.10-plugins-base-apps
 
 = Other Desktop GUI Apps =
 
