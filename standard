@@ -51,6 +51,10 @@ These provide various networking services, all should be configured in a client-
  * lsof
  * ltrace
 
+= Helpful Tools =
+ 
+ * inputattach
+
 == Network ==
 
  * iputils-arping     # would have made my life easier at debconf
