@@ -95,7 +95,7 @@
  * language-pack-${Languages}
  * language-pack-gnome-${Languages}
 
- * Languages: is it ka kn ko ku lg li lo lt lv mg mi mk ml mn mr ms my nb ne nl nn no or pa pl rm ro rw se si sk sl sq sr sv ta tg th tk tl tr ug uk ur uz vi wa wo yi yo zu
+ * Languages: is it ka kn ko ku lg li lo lt lv mg mi mk ml mn mr ms my nb
  * language-pack-${Languages} [i386 amd64]
  * language-pack-gnome-${Languages} [i386 amd64]
 
