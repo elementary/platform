@@ -303,6 +303,7 @@ Documentation:
  * usplash
  * libxp6 # required for some thirdy part apps. See #15739
  * libpam-foreground
+ * example-content	# dholbach: dapper feature goal (wiki.ubuntu.com/ExampleContent)
 
 = Germinate workarounds =
 
