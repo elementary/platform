@@ -243,7 +243,7 @@ Libraries and Modules:
  * python-glade2
  * python-gnome2            # SebastienBacher
  * python-gnupginterface
- * python-gst
+ * python-gst0.10
  * python-gtk2              # SebastienBacher
  * python-htmlgen
  * python-htmltmpl
