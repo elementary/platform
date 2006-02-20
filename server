@@ -60,6 +60,8 @@
  * redhat-cluster-suite
  * rgmanager
  * system-config-cluster
+ * ipvsadm
+ * keepalived
 
 = Servers and Daemons =
 
