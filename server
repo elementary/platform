@@ -174,8 +174,7 @@ Other:
 
 Application Servers:
 
- * python-moinmoin        # moin-1.3
- * moinmoin-common        # moin-1.3
+ * python-moinmoin        # moin (>= 1.5)
  * mailman
 
 Utilities:
@@ -311,7 +310,7 @@ CD's in Python
  * python-glade2
  * python-gnome2            # SebastienBacher
  * python-gnupginterface
- * python-gst
+ * python-gst0.10
  * python-gtk2              # SebastienBacher
  * python-htmlgen
  * python-htmltmpl

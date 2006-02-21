@@ -243,7 +243,7 @@ Libraries and Modules:
  * python-glade2
  * python-gnome2            # SebastienBacher
  * python-gnupginterface
- * python-gst
+ * python-gst0.10
  * python-gtk2              # SebastienBacher
  * python-htmlgen
  * python-htmltmpl
@@ -303,6 +303,7 @@ Documentation:
  * usplash
  * libxp6 # required for some thirdy part apps. See #15739
  * libpam-foreground
+ * example-content	# dholbach: dapper feature goal (wiki.ubuntu.com/ExampleContent)
 
 = Germinate workarounds =
 

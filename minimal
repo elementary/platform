@@ -102,7 +102,6 @@ These provide various networking services, all should be configured in a client-
  * net-tools
  * ntpdate        # FabioMassimoDiNitto
  * wireless-tools
- * ifrename       # support consistent network interface naming
 
 = Debugging and Diagnostics =
 
