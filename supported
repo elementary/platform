@@ -657,7 +657,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * glibc-doc
  * glut-doc
  * gnat-4.0-doc
- * gnome-dev-doc
  * gnumeric-doc
  * gok-doc
  * gstreamer0.10-doc
