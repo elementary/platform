@@ -27,3 +27,8 @@ These packages make up the Espresso live installer.
  * espresso-ubuntu-artwork
  * espresso-ubuntu-doc
  * cdebconf # experimental, may be used or removed depending on testing
+
+== NetworkManager ==
+
+ * network-manager
+ * nm-applet
