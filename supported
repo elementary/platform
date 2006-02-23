@@ -290,7 +290,6 @@ Other:
  * finger
  * gftp-gtk
  * glade-gnome-2
- * gossip              # very slick jabber client, alternative to gaim
  * libgnome2-perl      # used by debconf GNOME frontend
  * memprof
  * pan
