@@ -174,10 +174,11 @@ We've chosen GNOME as our desktop user interface of choice, and GNOME 2.8 is a F
  * alacarte		   # default menu editor
  * sound-juicer
  * ssh-askpass-gnome
- * synaptic                # will this be our default package manager?
+ * synaptic                # default GUI package manager
  * libgnome2-perl          # for synaptic
  * totem                   # SebastienBacher
  * update-notifier
+ * gdebi                   # view/install deb packages
  * vino # vnc server
  * yelp
  * zenity
