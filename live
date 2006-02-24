@@ -30,8 +30,8 @@ These packages make up the Espresso live installer.
 
 Espresso also needs to have some packages pre-installed on the live filesystem so that they can be installed on the target system without recourse to the network.
 
- * grub
- * yaboot
+ * grub [amd64 i386]
+ * yaboot [powerpc]
 
 == NetworkManager ==
 
