@@ -205,6 +205,7 @@ Download:
 == Development Tools ==
 
  * bison
+ * debconf-english   # for minimal buildd chroots, without i18n cruft
  * flex
  * patchutils
  * gdb
