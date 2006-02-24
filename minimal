@@ -71,6 +71,7 @@ Programs and packages necessary for both the proper functionality of the system 
  * bzip2
  * console-tools
  * debconf
+ * debconf-i18n      # explicitely seeded, because we want it as the deault
  * eject             # very popular, useful, small
  * gettext-base
  * gnupg             # introduce security from the very base
