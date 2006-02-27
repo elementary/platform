@@ -27,3 +27,13 @@ These packages make up the Espresso live installer.
  * espresso-ubuntu-artwork
  * espresso-ubuntu-doc
  * cdebconf # experimental, may be used or removed depending on testing
+
+Espresso also needs to have some packages pre-installed on the live filesystem so that they can be installed on the target system without recourse to the network.
+
+ * grub [amd64 i386]
+ * yaboot [powerpc]
+
+== NetworkManager ==
+
+ * network-manager
+ * nm-applet
