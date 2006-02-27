@@ -148,6 +148,7 @@ Other:
  * netkit-inetd
  * nbd-server
  * avahi-daemon
+ * racoon
 
 Application Servers:
 
