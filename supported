@@ -526,6 +526,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * lib64z1-dev
  * latex-ucs-dev
  * freeglut3-dbg
+ * evolution-data-server-dbg
  * gnome-panel-dbg
  * libatk1.0-dbg
  * libatspi-dbg
@@ -552,7 +553,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libneon25-dbg
  * libopal-dbg
  * libpanel-applet2-0-dbg
- * libpango1.0-dbg
+ * libpango1.0-0-dbg
  * libparted1.6-dbg
  * libreadline4-dbg
  * libreiserfs0.3-dbg
