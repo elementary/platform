@@ -148,6 +148,7 @@ Other:
  * netkit-inetd
  * nbd-server
  * avahi-daemon
+ * racoon
 
 Application Servers:
 
@@ -171,6 +172,8 @@ Utilities:
  * ipsec-tools            # IPsec configuration
  * vlan                   # userland tools to config 8021q support
  * bridge-utils           # userland tools to config kernel bridging feature
+ * network-manager        # magical network configuration - if it works for you
+ * nm-applet              # desktop integration for network-manager
 
 IPv6 tools:
 
@@ -203,6 +206,7 @@ Download:
 == Development Tools ==
 
  * bison
+ * debconf-english   # for minimal buildd chroots, without i18n cruft
  * flex
  * patchutils
  * gdb
@@ -288,7 +292,6 @@ Other:
  * finger
  * gftp-gtk
  * glade-gnome-2
- * gossip              # very slick jabber client, alternative to gaim
  * libgnome2-perl      # used by debconf GNOME frontend
  * memprof
  * pan
@@ -524,6 +527,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * lib64z1-dev
  * latex-ucs-dev
  * freeglut3-dbg
+ * evolution-data-server-dbg
  * gnome-panel-dbg
  * libatk1.0-dbg
  * libatspi-dbg
@@ -550,7 +554,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libneon25-dbg
  * libopal-dbg
  * libpanel-applet2-0-dbg
- * libpango1.0-dbg
+ * libpango1.0-0-dbg
  * libparted1.6-dbg
  * libreadline4-dbg
  * libreiserfs0.3-dbg
