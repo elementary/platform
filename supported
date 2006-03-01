@@ -530,6 +530,9 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * freeglut3-dbg
  * evolution-data-server-dbg
  * gnome-panel-dbg
+ * gstreamer0.10-plugins-base-dbg
+ * gstreamer0.10-plugins-good-dbg
+ * gstreamer0.10-plugins-ugly-dbg
  * libatk1.0-dbg
  * libatspi-dbg
  * libc6-dbg [amd64 i386 powerpc sparc]
@@ -547,6 +550,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libgoffice-1-2-dbg
  * libgsf-1-dbg
  * libgsf-gnome-1-dbg
+ * libgstreamer0.10-0-dbg
  * libgtk1.2-dbg
  * libgtk2.0-0-dbg
  * libice6-dbg
