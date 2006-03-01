@@ -209,7 +209,6 @@ The gstreamer0.10 packages we want to install:
  * openoffice.org2-evolution [i386 powerpc]
  * xsane           # scanner utils
  * evince
- * xchat-gnome
  * gnome-screensaver
  * rss-glx         # MRS, very slick screensavers
  * xscreensaver-gl # MRS, we will only ship a subset of the screensavers from rss-glx and xscreensaver
