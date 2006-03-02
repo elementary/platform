@@ -202,9 +202,9 @@ The gstreamer0.10 packages we want to install:
 
 = Other Desktop GUI Apps =
 
- * openoffice.org2 [i386 powerpc amd64]
- * openoffice.org2-gnome [i386 powerpc amd64]
- * openoffice.org2-evolution [i386 powerpc]
+ * openoffice.org [i386 powerpc amd64]
+ * openoffice.org-gnome [i386 powerpc amd64]
+ * openoffice.org-evolution [i386 powerpc]
  * xsane           # scanner utils
  * evince
  * gnome-screensaver
