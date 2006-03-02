@@ -95,10 +95,8 @@ Fonts:
  * ttf-freefont
  * ttf-kochi-gothic
  * ttf-kochi-mincho
- * ttf-arphic-bkai00mp
- * ttf-arphic-bsmi00lp
- * ttf-arphic-gbsn00lp
- * ttf-arphic-gkai00mp
+ * ttf-arphic-uming
+ * ttf-arphic-ukai
  * ttf-arabeyes
  * ttf-baekmuk
  * ttf-indic-fonts
