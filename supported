@@ -609,9 +609,13 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libxxf86misc1-dbg
  * libxxf86rush1-dbg
  * libxxf86vm1-dbg
- * openoffice.org2-dev
- * openoffice.org2-dev-doc
- * openoffice.org2-officebean
+ * openoffice.org-dev
+ * openoffice.org-dev-doc
+ * openoffice.org-officebean
+ * openoffice.org2 [i386 powerpc amd64]		# transition package
+ * openoffice.org2-gnome [i386 powerpc amd64]	# transition package
+ * openoffice.org2-evolution [i386 powerpc]	# transition package
+
  * sparc-utils [sparc]  # no buildd without this one
  * libxsltc-java
  * pbbuttonsd-dev
@@ -861,8 +865,8 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * latex-ucs # UTF-8 support for LaTeX
  * latex-ucs-uninames
  * latex-ucs-contrib
- * openoffice.org2-help-en-gb
- * openoffice.org2-l10n-en-gb
+ * openoffice.org-help-en-gb
+ * openoffice.org-l10n-en-gb
  * scim
 
 = Transitional packages =
