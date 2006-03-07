@@ -109,6 +109,7 @@ We've chosen GNOME as our desktop user interface of choice, and GNOME 2.8 is a F
 
  * bug-buddy             # potentially replaced with reportbug + b-b-like pygtk gui
  * contact-lookup-applet # experimental
+ * deskbar-applet
  * desktop-file-utils
  * eog
  * evolution # experimental
