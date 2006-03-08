@@ -103,12 +103,18 @@ Fonts:
  * ttf-malayalam-fonts
  * ttf-mgopen
 
+Input methods:
+
+ * scim
+ * scim-gtk2-immodule
+
 = Desktop GNOME Apps =
 
 We've chosen GNOME as our desktop user interface of choice, and GNOME 2.8 is a FeatureGoal for Warty.  Rather than using the meta-packages they are deliberately expanded so that we can select things a bit better.
 
  * bug-buddy             # potentially replaced with reportbug + b-b-like pygtk gui
  * contact-lookup-applet # experimental
+ * deskbar-applet
  * desktop-file-utils
  * eog
  * evolution # experimental
