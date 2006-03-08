@@ -108,10 +108,3 @@
  * installation-guide-powerpc [powerpc]
  * installation-guide-sparc [sparc]
  * oem-config   # this is small; it can be removed if there's space pressure, but it makes the OEM installer a lot easier to test
-
-== Misc ==
-
- * libc6-sparc64b [sparc]
- * libc6-sparc64v [sparc]
- * libc6-sparcv9b [sparc]
- * libc6-sparcv9v [sparc]

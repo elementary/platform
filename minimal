@@ -17,6 +17,13 @@
  * pmac-fdisk [powerpc]
  * powerpc-utils [powerpc] # ColinWatson
 
+== sparc ==
+
+ * libc6-sparc64b [sparc]
+ * libc6-sparc64v [sparc]
+ * libc6-sparcv9b [sparc]
+ * libc6-sparcv9v [sparc]
+
 = UNIX =
 
 == Essential ==
