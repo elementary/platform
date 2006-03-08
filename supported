@@ -885,10 +885,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * amd64-libs [i386]
  * ia32-libs [amd64 ia64]
  * miscfiles
- * libc6-sparc64b [sparc]
- * libc6-sparc64v [sparc]
- * libc6-sparcv9b [sparc]
- * libc6-sparcv9v [sparc]
 
 = Germinate workarounds =
 
