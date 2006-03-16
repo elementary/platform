@@ -23,6 +23,7 @@
  * libc6-sparc64v [sparc]
  * libc6-sparcv9b [sparc]
  * libc6-sparcv9v [sparc]
+ * sparc-utils [sparc]
 
 = UNIX =
 
