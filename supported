@@ -527,7 +527,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * gnome-panel-dbg
  * gstreamer0.10-plugins-base-dbg
  * gstreamer0.10-plugins-good-dbg
- * gstreamer0.10-plugins-ugly-dbg
  * libatk1.0-dbg
  * libatspi-dbg
  * libc6-dbg [amd64 i386 powerpc sparc]
