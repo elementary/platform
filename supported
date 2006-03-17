@@ -708,7 +708,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libtool-doc
  * libwmf-doc
  * libxml2-doc
- * libxml++2.6-doc
  * lilo-doc
  * linux-wlan-ng-doc
  * lua50-doc
