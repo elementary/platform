@@ -880,6 +880,11 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 == Upgrades from Breezy ==
 
  * irssi-text
+ * mozilla-firefox-locale-eu
+ * mozilla-firefox-locale-it
+ * mozilla-firefox-locale-ja
+ * mozilla-firefox-locale-nb
+ * mozilla-firefox-locale-uk
  * mozilla-thunderbird-locale-ca
  * mozilla-thunderbird-locale-de
  * mozilla-thunderbird-locale-fr
@@ -887,6 +892,12 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * mozilla-thunderbird-locale-nl
  * mozilla-thunderbird-locale-pl
  * mozilla-thunderbird-locale-uk
+
+== Upgrades from Dapper development versions ==
+
+ * mozilla-firefox-locale-lt
+ * mozilla-firefox-locale-mn
+ * mozilla-firefox-locale-nb-no
 
 = Miscellaneous =
 
