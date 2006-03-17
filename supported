@@ -880,6 +880,13 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 == Upgrades from Breezy ==
 
  * irssi-text
+ * mozilla-thunderbird-locale-ca
+ * mozilla-thunderbird-locale-de
+ * mozilla-thunderbird-locale-fr
+ * mozilla-thunderbird-locale-it
+ * mozilla-thunderbird-locale-nl
+ * mozilla-thunderbird-locale-pl
+ * mozilla-thunderbird-locale-uk
 
 = Miscellaneous =
 
