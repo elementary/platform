@@ -457,8 +457,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libdb4.3++-dev
  * libdc1394-11-dev
  * libdevhelp-1-dev
- * libdirectfb-dev
- * libdirectfb-udeb-dev
  * libdiscover1-dev
  * libecpg-dev
  * libevms-dev
