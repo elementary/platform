@@ -876,6 +876,10 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
  * readahead-list
 
+== Upgrades from Breezy ==
+
+ * irssi-text
+
 = Miscellaneous =
 
  * amd64-libs [i386]
