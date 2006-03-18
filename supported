@@ -47,6 +47,7 @@ Samba:
 
 Database:
 
+ * db4.2-util
  * db4.3-util
  * %mysql-dfsg-5.0
  * postgresql-8.1
