@@ -9,6 +9,7 @@
  * mdetect         # formerly used by X for mouse autodetection
  * irda-utils
  * wacom-tools
+ * palo            # hppa boot loader, but needed on other architectures to build hppa CD images
 
 == Filesystems ==
 
@@ -46,6 +47,7 @@ Samba:
 
 Database:
 
+ * db4.2-util
  * db4.3-util
  * %mysql-dfsg-5.0
  * postgresql-8.1
@@ -227,6 +229,7 @@ Download:
  * ocaml-native-compilers  # we support the source package anyway
  * pymacs                 # makes bicyclerepair work with emacs
  * bootchart         # boot speed profiling
+ * indent
 
 == Mono ==
 
@@ -706,7 +709,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libtool-doc
  * libwmf-doc
  * libxml2-doc
- * libxml++2.6-doc
  * lilo-doc
  * linux-wlan-ng-doc
  * lua50-doc
@@ -879,6 +881,24 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 == Upgrades from Breezy ==
 
  * irssi-text
+ * mozilla-firefox-locale-eu
+ * mozilla-firefox-locale-it
+ * mozilla-firefox-locale-ja
+ * mozilla-firefox-locale-nb
+ * mozilla-firefox-locale-uk
+ * mozilla-thunderbird-locale-ca
+ * mozilla-thunderbird-locale-de
+ * mozilla-thunderbird-locale-fr
+ * mozilla-thunderbird-locale-it
+ * mozilla-thunderbird-locale-nl
+ * mozilla-thunderbird-locale-pl
+ * mozilla-thunderbird-locale-uk
+
+== Upgrades from Dapper development versions ==
+
+ * mozilla-firefox-locale-lt
+ * mozilla-firefox-locale-mn
+ * mozilla-firefox-locale-nb-no
 
 = Miscellaneous =
 
