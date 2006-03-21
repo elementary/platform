@@ -148,14 +148,14 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * fdisk-udeb
  * mac-fdisk-udeb [powerpc]
  * pmac-fdisk-udeb [powerpc]
- * partman-efi [ia64]
+ * partman-efi [i386 ia64]
  * partman-newworld [powerpc]
  * partman-palo [hppa]
 
 = Bootloader Installers =
 
  * efi-reader [ia64]
- * elilo-installer [ia64]
+ * elilo-installer [i386 ia64]
  * grub-installer [amd64 i386]
  * lilo-installer [amd64 i386]
  * silo-installer [sparc]
