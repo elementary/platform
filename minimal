@@ -110,6 +110,7 @@ These provide various networking services, all should be configured in a client-
  * net-tools
  * ntpdate        # FabioMassimoDiNitto
  * wireless-tools
+ * wpasupplicant  # ScottJamesRemnant
 
 = Debugging and Diagnostics =
 
