@@ -22,7 +22,7 @@ separate seed.
 
 == ia64 ==
 
- * elilo [ia64]
+ * elilo [i386 ia64]           # also needed on Intel-based Macs
  * linux-itanium-smp [ia64]    # ia64 kernel, works on all machines
  * linux-mckinley-smp [ia64]   # ia64 kernel, all Itanium II machines
 
