@@ -4,8 +4,8 @@
  * language-support-${Languages}
 
  * Languages: zh bn de fr
- * language-pack-${Languages} [powerpc ia64]
- * language-pack-gnome-${Languages} [powerpc ia64]
+ * language-pack-${Languages}
+ * language-pack-gnome-${Languages}
 
  * Languages: es hi ar pt ru ja ca
  * language-pack-${Languages} [powerpc]
