@@ -36,4 +36,4 @@ Espresso also needs to have some packages pre-installed on the live filesystem s
 == NetworkManager ==
 
  * network-manager
- * nm-applet
+ * network-manager-gnome
