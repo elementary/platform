@@ -162,6 +162,10 @@ Download:
  * bittornado             # used on the servers.
  * jigit                  # specialised Debian/Ubuntu CD image download
 
+= Desktop =
+
+ * openoffice.org-gcj
+ * openoffice.org-filter-so52
 
 = Development =
 
@@ -561,10 +565,9 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libxxf86vm1-dbg
  * openoffice.org-dev
  * openoffice.org-dev-doc
+ * openoffice.org-qa-tools
+ * openoffice.org-qa-api-tests
  * openoffice.org-officebean
- * openoffice.org2 [i386 powerpc amd64]		# transition package
- * openoffice.org2-gnome [i386 powerpc amd64]	# transition package
- * openoffice.org2-evolution [i386 powerpc]	# transition package
 
  * libxsltc-java
  * pbbuttonsd-dev
