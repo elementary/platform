@@ -135,7 +135,7 @@ Utilities:
  * vlan                   # userland tools to config 8021q support
  * bridge-utils           # userland tools to config kernel bridging feature
  * network-manager        # magical network configuration - if it works for you
- * nm-applet              # desktop integration for network-manager
+ * network-manager-gnome  # desktop integration for network-manager
 
 IPv6 tools:
 
