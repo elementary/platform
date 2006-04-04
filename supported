@@ -208,6 +208,10 @@ Download:
  * subversion
  * subversion-tools
  * python2.4-subversion
+ * git-core
+ * gitk
+ * git-doc
+ * git-email
 
 == Package Maintainance ==
 
