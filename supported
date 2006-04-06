@@ -135,7 +135,7 @@ Utilities:
  * vlan                   # userland tools to config 8021q support
  * bridge-utils           # userland tools to config kernel bridging feature
  * network-manager        # magical network configuration - if it works for you
- * nm-applet              # desktop integration for network-manager
+ * network-manager-gnome  # desktop integration for network-manager
 
 IPv6 tools:
 
@@ -162,6 +162,10 @@ Download:
  * bittornado             # used on the servers.
  * jigit                  # specialised Debian/Ubuntu CD image download
 
+= Desktop =
+
+ * openoffice.org-gcj
+ * openoffice.org-filter-so52
 
 = Development =
 
@@ -204,6 +208,10 @@ Download:
  * subversion
  * subversion-tools
  * python2.4-subversion
+ * git-core
+ * gitk
+ * git-doc
+ * git-email
 
 == Package Maintainance ==
 
@@ -561,10 +569,9 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libxxf86vm1-dbg
  * openoffice.org-dev
  * openoffice.org-dev-doc
+ * openoffice.org-qa-tools
+ * openoffice.org-qa-api-tests
  * openoffice.org-officebean
- * openoffice.org2 [i386 powerpc amd64]		# transition package
- * openoffice.org2-gnome [i386 powerpc amd64]	# transition package
- * openoffice.org2-evolution [i386 powerpc]	# transition package
 
  * libxsltc-java
  * pbbuttonsd-dev

@@ -107,3 +107,16 @@
  * installation-guide-powerpc [powerpc]
  * installation-guide-sparc [sparc]
  * oem-config   # this is small; it can be removed if there's space pressure, but it makes the OEM installer a lot easier to test
+
+== Transitional packages ==
+
+ * openoffice.org2 				# transition packages
+ * openoffice.org2-base				# size: 800 bytes/each
+ * openoffice.org2-calc
+ * openoffice.org2-draw
+ * openoffice.org2-gnome
+ * openoffice.org2-impress
+ * openoffice.org2-math
+ * openoffice.org2-writer
+ * openoffice.org2-evolution [i386 powerpc sparc]
+ * openoffice.org-gtk-gnome
