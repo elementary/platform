@@ -33,7 +33,3 @@ Espresso also needs to have some packages pre-installed on the live filesystem s
  * grub [amd64 i386]
  * yaboot [powerpc]
 
-== NetworkManager ==
-
- * network-manager
- * network-manager-gnome
