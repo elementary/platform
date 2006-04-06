@@ -522,7 +522,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libreadline4-dbg
  * libreiserfs0.3-dbg
  * libruby1.8-dbg
- * libsexy1-dbg
+ * libsexy2-dbg
  * libsm6-dbg
  * libssl0.9.8-dbg
  * libstdc++6-4.0-dbg
