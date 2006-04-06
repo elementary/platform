@@ -25,6 +25,11 @@
  * mailx
  * mutt                # ThomMay; we need a basic mail client, this is the best-smallest
 
+== NetworkManager ==
+
+ * network-manager
+ * network-manager-gnome
+
 == Development ==
 
  * build-essential
