@@ -132,6 +132,7 @@ We've chosen GNOME as our desktop user interface of choice, and GNOME 2.8 is a F
  * gdm
  * gedit
  * gimp
+ * gimp-print		# DanielHolbach: enable printing in gimp (part of gutenprint package)
  * gnome-about
  * gnome-applets
  * gnome-app-install
