@@ -314,6 +314,7 @@ Documentation:
  * libxp6 # required for some thirdy part apps. See #15739
  * libpam-foreground
  * example-content	# dholbach: dapper feature goal (wiki.ubuntu.com/ExampleContent)
+ * libstdc++5 [i386]	# doko: requested from some closed source applications
 
 = Germinate workarounds =
 
