@@ -22,7 +22,6 @@
 
 These packages make up the Espresso live installer.
 
- * espresso
  * espresso-frontend-gtk
  * espresso-ubuntu-artwork
  * espresso-ubuntu-doc
