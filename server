@@ -190,7 +190,8 @@ Utilities:
  * dnstracer              # dns network diagnostics
  * iptraf                 # sysadmin's toy, may be a candidate for removal
  * traceroute             # we have iputils-tracepath in base, this is only for real traceroute lovers
- * pptpd                  # server that allows setup of Microsoft-compatible VPN * ifenslave-2.6          # interface bonding/trunking/etherchannel
+ * pptpd                  # server that allows setup of Microsoft-compatible VPN
+ * ifenslave-2.6          # interface bonding/trunking/etherchannel
  * ipsec-tools            # IPsec configuration
  * vlan                   # userland tools to config 8021q support
  * bridge-utils           # userland tools to config kernel bridging feature
