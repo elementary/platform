@@ -45,7 +45,6 @@
 == Cluster ==
 
  * ocfs2-tools
- * ocfs2console
  * libaio1
  * libaio-dev
  * ccs
@@ -62,7 +61,6 @@
  * magma-plugins
  * redhat-cluster-suite
  * rgmanager
- * system-config-cluster
  * ipvsadm
  * keepalived
  * clvm
@@ -72,21 +70,14 @@
 
 Samba:
 
- * smbfs               # allows mounting Windows shares
+ * %samba
 
 Database:
 
- * db4.3-util
- * mysql-client
- * mysql-server
- * postgresql-8.1
- * postgresql-client-8.1
- * postgresql-contrib-8.1
- * postgresql-plperl-8.1
- * postgresql-plpython-8.1
- * postgresql-pltcl-8.1
- * mdbtools                             # OOo2 supports the JET format
- * mdbtools-gmdb
+ * %db4.2
+ * %db4.3
+ * %mysql-dfsg-5.0
+ * %postgresql-8.1
 
 Proxy:
 
@@ -99,10 +90,7 @@ LDAP:
 
 Web:
 
- * apache2
- * apache2-mpm-perchild      # ThomMay
- * apache2-mpm-prefork       # ThomMay
- * apache2-mpm-threadpool    # ThomMay (although this will probably disappear from debian fairly soon)
+ * %apache2
  * libapache2-mod-auth-mysql # FabioMassimoDiNitto
  * libapache2-mod-auth-pgsql # FabioMassimoDiNitto
  * libapache2-mod-macro      # FabioMassimoDiNitto
@@ -119,45 +107,15 @@ Web:
  * elinks
 
 PHP:
- * php5
- * php5-common
- * libapache2-mod-php5
- * php5-cgi
- * php5-cli
- * php5-dev
- * php-pear
- * php5-curl
- * php5-gd
- * php5-ldap
- * php5-mhash
- * php5-mysql
- * php5-odbc
- * php5-pgsql
- * php5-recode
- * php5-snmp
- * php5-sqlite
- * php5-sybase
- * php5-xmlrpc
- * php5-xsl
+
+ * %php5
 
 Email:
 
- * dovecot                   # ThomMay
- * exim4-base
- * exim4-daemon-light
- * exim4-daemon-heavy
- * exim4-doc-html
- * cyrus21-admin
- * cyrus21-clients
- * cyrus21-murder
- * cyrus21-pop3d
- * cyrus21-imapd
- * courier-pop-ssl
- * courier-imap-ssl
- * postfix-mysql
- * postfix-pgsql
- * postfix-ldap
- * postfix-pcre
+ * %dovecot                   # ThomMay
+ * %exim4
+ * %cyrus21
+ * %postfix
 
 Must also consider webmail and so on...
 
@@ -182,6 +140,13 @@ Application Servers:
 
  * python-moinmoin        # moin (>= 1.5)
  * mailman
+
+RCS:
+
+ * %subversion
+ * cvs
+ * git-core
+Add bzr when in main.
 
 Utilities:
 
@@ -241,12 +206,10 @@ Download:
  * xinetd               # JamesTroup, from hoglet
  * system-config-kickstart # Kickstart configuration GUI
  * evms-cli
- * fbset
  * libcap-bin
  * libpam-opie
  * opie-client
  * opie-server
- * sasl-bin
  * sasl2-bin
  * autofs
  * awstats
@@ -264,6 +227,7 @@ Download:
  * miscfiles
  * lilo
 
+kill if we run out of space
 == LTSP ==
 
  * ltsp-server
@@ -278,8 +242,6 @@ Download:
  * slocate              # tool to index user files
  * zip
  * unzip                # also used for .zip support in file-roller
- * smbclient           # to access files on other SAMBA and Windows servers
- * libsasl2-modules    # allows integration with MTA and login system
  * cupsys                       # our preferred printer management infrastructure
  * cupsys-bsd                   # gives us lpc, lpq, lpr, lprm
  * cupsys-client                # gives us cancel, cupstestppd, lp, lpoptions, lppasswd, lpstat, cupsaddsmb, accept, lpadmin, lpinfo, lpmove
@@ -297,56 +259,33 @@ formats
  * hplip-ppds                   # support for HP all-in-one printers
  * python-adns              # MRS, stable and useful
  * python-apt               # MRS, we need to be able to interact with APT
- * python-cddb              # MRS, great for desktop users to be able to manage
-CD's in Python
  * python-clientcookie      # MRS, unless a better cgi-style framework is below
  * python-crypto            # MRS, very useful even though it's very specific
  * python-egenix-mxproxy    # MRS,
  * python-egenix-mxstack    # MRS,
  * python-egenix-mxtexttools # MRS,
  * python-egenix-mxtools    # MRS,
- * python-epydoc            # MRS,
  * python-eunuchs           # MRS,
- * python-examples          # MRS,
  * python-gadfly            # MRS,
  * python-gd                # MRS,
  * python-gdbm
- * python-genetic
  * python-geoip
- * python-glade2
- * python-gnome2            # SebastienBacher
  * python-gnupginterface
- * python-gst0.10
- * python-gtk2              # SebastienBacher
  * python-htmlgen
  * python-htmltmpl
- * python-id3lib
  * python-imaging
- * python-imaging-sane # pulls in big packages, can cut it if needed
- * python-jabber
- * python2.4-dbus
- * python2.4-dictclient
  * python2.4-librdf
  * python2.4-pycurl
- * python2.4-samba
  * python-kjbuckets
  * python-ldap
- * python-musicbrainz
  * python-mysqldb
  * python-netcdf
- * python-newt
  * python-numeric
  * python-pam
- * python-parted
- * python-pexpect
  * python-pgsql
- * python-pisock
  * python-pqueue
- * python-pyao
  * python-pylibacl
  * python-pyopenssl
- * python-pyorbit               # SebastienBacher
- * python-pyvorbis
  * python-pyxattr
  * python-reportlab
  * python-simpletal
@@ -355,7 +294,4 @@ CD's in Python
  * python-stats
  * python-syck
  * python-twisted
- * python-unit
- * python-xdg                   # SebastienBacher
- * python-xmpp
  * libxp6 # required for some thirdy part apps. See #15739
