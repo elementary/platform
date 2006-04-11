@@ -38,6 +38,8 @@
  * redhat-cluster-suite
  * rgmanager
  * system-config-cluster
+ * clvm
+ * multipath-tools
 
 = Servers and Daemons =
 
