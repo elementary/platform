@@ -177,7 +177,6 @@ Firewall:
 
 Security:
 
- * nessus                 # client for nessus security testing and monitoring framework
  * nessus-plugins         # plugins for the extension of nessus security monitoring framework
  * nessusd                # server to coordinate nessus network security monitoring
  * cricket                # JamesTroup, from Hoglet
@@ -204,7 +203,6 @@ Download:
  * libpam-cracklib      # enables weak password checking during password change, should it be in desktop?
  * chkrootkit           # forensic detection of rootkit
  * xinetd               # JamesTroup, from hoglet
- * system-config-kickstart # Kickstart configuration GUI
  * evms-cli
  * libcap-bin
  * libpam-opie
@@ -232,7 +230,6 @@ kill if we run out of space
 
  * ltsp-server
  * ltsp-server-standalone
- * ltsp-client
  * ltsp-utils
 
 = From desktop =
