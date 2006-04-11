@@ -132,6 +132,7 @@ We've chosen GNOME as our desktop user interface of choice, and GNOME 2.8 is a F
  * gdm
  * gedit
  * gimp
+ * gimp-print		# DanielHolbach: enable printing in gimp (part of gutenprint package)
  * gnome-about
  * gnome-applets
  * gnome-app-install
@@ -313,6 +314,7 @@ Documentation:
  * libxp6 # required for some thirdy part apps. See #15739
  * libpam-foreground
  * example-content	# dholbach: dapper feature goal (wiki.ubuntu.com/ExampleContent)
+ * libstdc++5 [i386]	# doko: requested from some closed source applications
 
 = Germinate workarounds =
 
