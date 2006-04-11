@@ -62,6 +62,8 @@
  * system-config-cluster
  * ipvsadm
  * keepalived
+ * clvm
+ * multipath-tools
 
 = Servers and Daemons =
 
