@@ -210,6 +210,15 @@ The gstreamer0.10 packages we want to install:
  * gstreamer0.10-esd
  * gstreamer0.10-plugins-base-apps
 
+Accessibility tools:
+
+ * dasher
+ * gnome-accessibility-themes
+ * gnome-mag
+ * gnopernicus
+ * gok
+ * brltty
+
 = Other Desktop GUI Apps =
 
  * openoffice.org [i386 powerpc amd64]
