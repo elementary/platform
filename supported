@@ -407,7 +407,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * expect-dev
  * glutg3-dev
  * gnome-applets-dev
- * gtkglarea5-dev
  * imlib1-dev
  * iptables-dev
  * libbind-dev
