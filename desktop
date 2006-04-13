@@ -203,12 +203,23 @@ Themes: we will ship only the very best looking themes. We won't ship everything
  * gtk2-engines-industrial
  * gtk2-engines-smooth
  * ubuntu-sounds
+ * tangerine-icon-theme		# DanielHolbach (Mark's request)
+ * tango-icon-theme		# DanielHolbach (Mark's request, if Tangerine is good enough, maybe we can drop it out)
 
 The gstreamer0.10 packages we want to install:
 
  * gstreamer0.10-alsa
  * gstreamer0.10-esd
  * gstreamer0.10-plugins-base-apps
+
+Accessibility tools:
+
+ * dasher
+ * gnome-accessibility-themes
+ * gnome-mag
+ * gnopernicus
+ * gok
+ * brltty
 
 = Other Desktop GUI Apps =
 
@@ -314,6 +325,7 @@ Documentation:
  * libxp6 # required for some thirdy part apps. See #15739
  * libpam-foreground
  * example-content	# dholbach: dapper feature goal (wiki.ubuntu.com/ExampleContent)
+ * libstdc++5 [i386]	# doko: requested from some closed source applications
 
 = Germinate workarounds =
 
