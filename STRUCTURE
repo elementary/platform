@@ -2,7 +2,8 @@ minimal:
 boot:
 standard: minimal
 desktop: minimal standard
+server: minimal standard
 ship: minimal standard desktop
 live: minimal standard desktop
 installer:
-supported: boot minimal standard desktop ship live
+supported: boot minimal standard desktop server ship live

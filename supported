@@ -38,6 +38,8 @@
  * redhat-cluster-suite
  * rgmanager
  * system-config-cluster
+ * clvm
+ * multipath-tools
 
 = Servers and Daemons =
 
@@ -247,15 +249,6 @@ Download:
  * mozilla-thunderbird-typeaheadfind # neat usability enhancement for thunderbird
  * mozilla-thunderbird-inspector     # used for extension development and debugging
 
-Accessibility tools:
-
- * dasher
- * gnome-accessibility-themes
- * gnome-mag
- * gnopernicus
- * gok
- * brltty
-
 Other:
 
  * devhelp
@@ -404,7 +397,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 == Development ==
 
  * python-mode
- * libc6-prof [amd64 i386 powerpc sparc]
+ * libc6-prof [amd64 i386 powerpc sparc hppa]
  * libc6.1-prof [ia64]
  * console-tools-dev
  * dbus-qt-1-dev
@@ -414,7 +407,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * expect-dev
  * glutg3-dev
  * gnome-applets-dev
- * gtkglarea5-dev
  * imlib1-dev
  * iptables-dev
  * libbind-dev
@@ -427,8 +419,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libevms-dev
  * libflac++-dev
  * libgle-dev
- * libglide2-dev # xorg build-dep
- * libglide3-dev # xorg build-dep
  * libglut3-dev
  * libgnomecupsui1.0-dev
  * libhfsp-dev
@@ -493,7 +483,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * gstreamer0.10-plugins-good-dbg
  * libatk1.0-dbg
  * libatspi-dbg
- * libc6-dbg [amd64 i386 powerpc sparc]
+ * libc6-dbg [amd64 i386 powerpc sparc hppa]
  * libc6.1-dbg [ia64]
  * libcurl3-dbg
  * libdps1-dbg
@@ -522,7 +512,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libreadline4-dbg
  * libreiserfs0.3-dbg
  * libruby1.8-dbg
- * libsexy1-dbg
+ * libsexy2-dbg
  * libsm6-dbg
  * libssl0.9.8-dbg
  * libstdc++6-4.0-dbg
@@ -574,10 +564,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * openoffice.org-officebean
 
  * libxsltc-java
- * pbbuttonsd-dev
- * x11proto-xf86dri-dev # the following three are X server B-Ds
- * mesa-swrast-source
- * libglitz1-dev
 
 == Documentation ==
 
