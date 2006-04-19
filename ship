@@ -95,11 +95,11 @@
  * language-pack-gnome-${Languages}
 
  # other languages, alphabetically, up to CD limit
- * Languages: af am as az be bg br bs ca cs cy da el eo et eu fa fi ga gl gu he hr hu ia id is it ka kn ko ku lg li lo lt lv mg mi mk ml mn mr ms my nb
+ * Languages: af am as az be bg br bs ca cs cy da el eo et eu fa fi ga gl gu he hr hu ia id is it ka kn ko ku lg li lo lt lv mg mi mk ml mn mr ms
  * language-pack-${Languages} [i386 amd64]
  * language-pack-gnome-${Languages} [i386 amd64]
 
- * Languages: ne nl nn no or pa pl rm ro rw se si sk sl sq sr sv ta tg th tk tl tr ug uk ur uz vi wa wo yi yo zu
+ * Languages: my nb ne nl nn no or pa pl rm ro rw se si sk sl sq sr sv ta tg th tk tl tr ug uk ur uz vi wa wo yi yo zu
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
 
