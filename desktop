@@ -214,7 +214,6 @@ The gstreamer0.10 packages we want to install:
 
 Accessibility tools:
 
- * dasher
  * gnome-accessibility-themes
  * gnome-mag
  * gnopernicus
