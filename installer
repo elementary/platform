@@ -168,7 +168,7 @@ We include 2.6 kernel module udebs only.
 
 == amd64 ==
 
- * Kernel-Version: 2.6.15-20-amd64-generic
+ * Kernel-Version: 2.6.15-21-amd64-generic
 
  * acpi-modules-${Kernel-Version}-di [amd64]
  * cdrom-core-modules-${Kernel-Version}-di [amd64]
@@ -206,7 +206,7 @@ We include 2.6 kernel module udebs only.
 
 == hppa ==
 
- * Kernel-Version: 2.6.15-20-hppa32 2.6.15-20-hppa64
+ * Kernel-Version: 2.6.15-21-hppa32 2.6.15-21-hppa64
 
  * cdrom-core-modules-${Kernel-Version}-di [hppa]
  * ide-modules-${Kernel-Version}-di [hppa]
@@ -224,7 +224,7 @@ We include 2.6 kernel module udebs only.
 
 == i386 ==
 
- * Kernel-Version: 2.6.15-20-386
+ * Kernel-Version: 2.6.15-21-386
 
  * acpi-modules-${Kernel-Version}-di [i386]
  * cdrom-core-modules-${Kernel-Version}-di [i386]
@@ -263,7 +263,7 @@ We include 2.6 kernel module udebs only.
 
 == ia64 ==
 
- * Kernel-Version: 2.6.15-20-itanium-smp
+ * Kernel-Version: 2.6.15-21-itanium-smp
 
  * cdrom-core-modules-${Kernel-Version}-di [ia64]
  * fb-modules-${Kernel-Version}-di [ia64]
@@ -292,7 +292,7 @@ We include 2.6 kernel module udebs only.
 
 == powerpc ==
 
- * Kernel-Version: 2.6.15-20-powerpc 2.6.15-20-powerpc64-smp
+ * Kernel-Version: 2.6.15-21-powerpc 2.6.15-21-powerpc64-smp
 
  * affs-modules-${Kernel-Version}-di [powerpc]
  * cdrom-core-modules-${Kernel-Version}-di [powerpc]
@@ -329,7 +329,7 @@ We include 2.6 kernel module udebs only.
 
 == sparc ==
 
- * Kernel-Version: 2.6.15-20-sparc64
+ * Kernel-Version: 2.6.15-21-sparc64
 
  * cdrom-core-modules-${Kernel-Version}-di [sparc]
  * ext3-modules-${Kernel-Version}-di [sparc]
