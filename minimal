@@ -61,7 +61,6 @@ These are commonly used filesystem support packages, here because someone settin
 
  * reiserfsprogs
  * reiser4progs
- * libreiserfs0.3-0 # gives parted the ability to work with reiserfs
  * xfsprogs         # ThomMay
  * jfsutils
  * hfsutils [powerpc] # ColinWatson; support for apple filesystems

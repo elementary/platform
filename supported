@@ -16,6 +16,7 @@
  * xfsdump # only useful when machine is setup and working, and only for xfs people
  * cloop-utils # for LiveCD
  * ntfsprogs
+ * libreiserfs0.3-0 # gives parted the ability to work with reiserfs; but seems to cause data corruption in the installer, so perhaps should be dropped
 
 == Cluster ==
 
