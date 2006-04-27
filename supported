@@ -578,7 +578,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * linux-doc
  * gimp-helpbrowser
  * glade-doc-2
- * eximdoc4-html
+ * exim4-doc-html
  * abiword-doc
  * alcovebook-sgml-doc
  * apt-doc
