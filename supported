@@ -197,6 +197,9 @@ Download:
  * pymacs                 # makes bicyclerepair work with emacs
  * bootchart         # boot speed profiling
  * indent
+ * g++-3.3		# compiling and linking against older abis
+ * g++-3.4		# likewise
+ * ecj-bootstrap-gcj
 
 == Mono ==
 
@@ -272,6 +275,7 @@ Other:
  * gtranslator             # we want warty users to participate in rosetta!
  * screem                  # MRS, our default html editor
  * vim-gnome
+ * vim-tiny
  * vorbis-tools
  * vorbisgain
  * enscript
@@ -353,6 +357,8 @@ Ubuntu artwork:
  * tk8.3-dev
  * libsdl1.2debian-all
  * libsdl1.2debian-alsa
+ * libsdl1.2debian-esd
+ * libsdl1.2debian-oss
 
 = System Administration Tools =
 
@@ -518,6 +524,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libsm6-dbg
  * libssl0.9.8-dbg
  * libstdc++6-4.0-dbg
+ * libstdc++6-dbg
  * libtotem-plparser1-dbg
  * libx11-6-dbg
  * libxaw6-dbg
@@ -564,11 +571,21 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * openoffice.org-qa-tools
  * openoffice.org-qa-api-tests
  * openoffice.org-officebean
-
+ * openoffice.org-help-br
+ * openoffice.org-l10n-br
+ * evolution-dbg
+ * festival-dev
+ * firefox-dbg
+ * irssi-dev
+ * koffice-dbg
  * libxsltc-java
+ * rhythmbox-dbg
+ * libdvdnav-dev
+ * libdvdread3-dev
 
 == Documentation ==
 
+ * libsexy-doc
  * gimp-manual
  * gimp-help-en
  * gimp-help-de
@@ -691,6 +708,9 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * vim-doc
  * yada-doc
  * latex-ucs-doc
+ * libjline-java-doc
+ * kmplayer-doc
+ * koffice-doc
 
 == System Administration ==
 
@@ -765,6 +785,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 === Source ===
 
  * linux-source
+ * linux-kernel-devel
 
 === Transitional from hoary ===
 
@@ -837,6 +858,10 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * mozilla-thunderbird-locale-nl
  * mozilla-thunderbird-locale-pl
  * mozilla-thunderbird-locale-uk
+ * libcupsys2-gnutls10
+ * cupsys-driver-gimpprint
+ * foomatic-db-gimp-print
+ * ijsgimpprint
 
 == Upgrades from Dapper development versions ==
 
@@ -848,6 +873,8 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
  * amd64-libs [i386]
  * ia32-libs [amd64 ia64]
+ * ia32-libs-dev [amd64 ia64]
+ * lib32bz2-dev [amd64]
  * miscfiles
 
 = Germinate workarounds =
