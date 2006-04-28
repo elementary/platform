@@ -137,8 +137,13 @@ Utilities:
  * ipsec-tools            # IPsec configuration
  * vlan                   # userland tools to config 8021q support
  * bridge-utils           # userland tools to config kernel bridging feature
+
+Network Manager:
+
  * network-manager        # magical network configuration - if it works for you
  * network-manager-gnome  # desktop integration for network-manager
+ * network-manager-dbg
+ * network-manager-gnome-dbg
 
 IPv6 tools:
 
