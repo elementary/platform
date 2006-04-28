@@ -144,6 +144,7 @@ Network Manager:
  * network-manager-gnome  # desktop integration for network-manager
  * network-manager-dbg
  * network-manager-gnome-dbg
+ * libnm-util0-dbg
 
 IPv6 tools:
 
