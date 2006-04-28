@@ -341,6 +341,11 @@ Ubuntu artwork:
  * python-tz			# zope3 only references python2.4-tz
  * python2.4-samba
  * idle				# Python IDE
+ * python-pullparser		# modules, where python2.4-foo is in main
+ * python-mechanize
+ * python-clientform
+ * python-sqlite2
+ * python-gobject
 
 = Console Tools =
 
