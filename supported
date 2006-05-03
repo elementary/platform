@@ -593,6 +593,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * rhythmbox-dbg
  * libdvdnav-dev
  * libdvdread3-dev
+ * xorg-dev
 
 == Documentation ==
 
