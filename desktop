@@ -202,6 +202,7 @@ Themes: we will ship only the very best looking themes. We won't ship everything
  * gtk2-engines-mist
  * gtk2-engines-industrial
  * gtk2-engines-smooth
+ * ubuntu-artwork
  * ubuntu-sounds
  * tangerine-icon-theme		# DanielHolbach (Mark's request)
  * tango-icon-theme		# DanielHolbach (Mark's request, if Tangerine is good enough, maybe we can drop it out)
