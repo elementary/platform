@@ -156,7 +156,7 @@ RCS:
  * %subversion
  * cvs
  * git-core
-Add bzr when in main.
+ * bzr
 
 Utilities:
 
