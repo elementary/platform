@@ -515,6 +515,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libgnomedb2-dbg
  * libgnomeui-0-dbg
  * libgoffice-1-2-dbg
+ * libgoffice-gtk-1-2-dbg
  * libgsf-1-dbg
  * libgsf-gnome-1-dbg
  * libgstreamer0.10-0-dbg
