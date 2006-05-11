@@ -595,6 +595,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libdvdnav-dev
  * libdvdread3-dev
  * xorg-dev
+ * libxml2-dbg
 
 == Documentation ==
 
