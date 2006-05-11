@@ -345,6 +345,7 @@ Ubuntu artwork:
  * python-mechanize
  * python-clientform
  * python-sqlite2
+ * python-pysqlite2
  * python-gobject
 
 = Console Tools =
