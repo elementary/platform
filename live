@@ -24,7 +24,6 @@ These packages make up the Ubiquity live installer.
 
  * ubiquity-frontend-gtk
  * ubiquity-ubuntu-artwork
- * ubiquity-ubuntu-doc
 
 Ubiquity also needs to have some packages pre-installed on the live filesystem so that they can be installed on the target system without recourse to the network.
 
