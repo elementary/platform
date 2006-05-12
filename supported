@@ -16,6 +16,7 @@
  * xfsdump # only useful when machine is setup and working, and only for xfs people
  * cloop-utils # for LiveCD
  * ntfsprogs
+ * libreiserfs0.3-0 # gives parted the ability to work with reiserfs; but seems to cause data corruption in the installer, so perhaps should be dropped
 
 == Cluster ==
 
@@ -136,8 +137,14 @@ Utilities:
  * ipsec-tools            # IPsec configuration
  * vlan                   # userland tools to config 8021q support
  * bridge-utils           # userland tools to config kernel bridging feature
+
+Network Manager:
+
  * network-manager        # magical network configuration - if it works for you
  * network-manager-gnome  # desktop integration for network-manager
+ * network-manager-dbg
+ * network-manager-gnome-dbg
+ * libnm-util0-dbg
 
 IPv6 tools:
 
@@ -196,6 +203,9 @@ Download:
  * pymacs                 # makes bicyclerepair work with emacs
  * bootchart         # boot speed profiling
  * indent
+ * g++-3.3		# compiling and linking against older abis
+ * g++-3.4		# likewise
+ * ecj-bootstrap-gcj
 
 == Mono ==
 
@@ -214,6 +224,7 @@ Download:
  * gitk
  * git-doc
  * git-email
+ * bzrtools
 
 == Package Maintainance ==
 
@@ -271,6 +282,7 @@ Other:
  * gtranslator             # we want warty users to participate in rosetta!
  * screem                  # MRS, our default html editor
  * vim-gnome
+ * vim-tiny
  * vorbis-tools
  * vorbisgain
  * enscript
@@ -330,6 +342,11 @@ Ubuntu artwork:
  * python-tz			# zope3 only references python2.4-tz
  * python2.4-samba
  * idle				# Python IDE
+ * python-pullparser		# modules, where python2.4-foo is in main
+ * python-mechanize
+ * python-clientform
+ * python-sqlite2
+ * python-gobject
 
 = Console Tools =
 
@@ -346,11 +363,14 @@ Ubuntu artwork:
  * libchart-perl
  * libgd-graph-perl
  * libtemplate-perl
+ * libfile-rsyncp-perl
  * libnss-db
  * tdsodbc
  * tk8.3-dev
  * libsdl1.2debian-all
  * libsdl1.2debian-alsa
+ * libsdl1.2debian-esd
+ * libsdl1.2debian-oss
 
 = System Administration Tools =
 
@@ -496,6 +516,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libgnomedb2-dbg
  * libgnomeui-0-dbg
  * libgoffice-1-2-dbg
+ * libgoffice-gtk-1-2-dbg
  * libgsf-1-dbg
  * libgsf-gnome-1-dbg
  * libgstreamer0.10-0-dbg
@@ -516,6 +537,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libsm6-dbg
  * libssl0.9.8-dbg
  * libstdc++6-4.0-dbg
+ * libstdc++6-dbg
  * libtotem-plparser1-dbg
  * libx11-6-dbg
  * libxaw6-dbg
@@ -562,11 +584,23 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * openoffice.org-qa-tools
  * openoffice.org-qa-api-tests
  * openoffice.org-officebean
-
+ * openoffice.org-help-br
+ * openoffice.org-l10n-br
+ * evolution-dbg
+ * festival-dev
+ * firefox-dbg
+ * irssi-dev
+ * koffice-dbg
  * libxsltc-java
+ * rhythmbox-dbg
+ * libdvdnav-dev
+ * libdvdread3-dev
+ * xorg-dev
+ * libxml2-dbg
 
 == Documentation ==
 
+ * libsexy-doc
  * gimp-manual
  * gimp-help-en
  * gimp-help-de
@@ -576,7 +610,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * linux-doc
  * gimp-helpbrowser
  * glade-doc-2
- * eximdoc4-html
+ * exim4-doc-html
  * abiword-doc
  * alcovebook-sgml-doc
  * apt-doc
@@ -689,6 +723,9 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * vim-doc
  * yada-doc
  * latex-ucs-doc
+ * libjline-java-doc
+ * kmplayer-doc
+ * koffice-doc
 
 == System Administration ==
 
@@ -700,6 +737,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * opie-server
  * sasl-bin
  * sasl2-bin
+ * libsasl2-modules-sql
  * autofs
  * awstats
  * acct
@@ -762,6 +800,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 === Source ===
 
  * linux-source
+ * linux-kernel-devel
 
 === Transitional from hoary ===
 
@@ -834,6 +873,10 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * mozilla-thunderbird-locale-nl
  * mozilla-thunderbird-locale-pl
  * mozilla-thunderbird-locale-uk
+ * libcupsys2-gnutls10
+ * cupsys-driver-gimpprint
+ * foomatic-db-gimp-print
+ * ijsgimpprint
 
 == Upgrades from Dapper development versions ==
 
@@ -845,6 +888,8 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
  * amd64-libs [i386]
  * ia32-libs [amd64 ia64]
+ * ia32-libs-dev [amd64 ia64]
+ * lib32bz2-dev [amd64]
  * miscfiles
 
 = Germinate workarounds =
@@ -868,6 +913,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * baseconfig-udeb # experimental
  * gfxboot
  * gfxboot-theme-ubuntu
+ * cdebconf # useful for testing, but not used by default yet
 
  * casper # needed by live CD build system
 
