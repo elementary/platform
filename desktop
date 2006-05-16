@@ -206,6 +206,7 @@ Themes: we will ship only the very best looking themes. We won't ship everything
  * ubuntu-sounds
  * tangerine-icon-theme		# DanielHolbach (Mark's request)
  * tango-icon-theme		# DanielHolbach (Mark's request, if Tangerine is good enough, maybe we can drop it out)
+ * tango-icon-theme-common	# DanielHolbach: split off of tangerine-icon-theme, so people from Xubuntu can use it too.
 
 The gstreamer0.10 packages we want to install:
 
