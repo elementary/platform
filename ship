@@ -19,6 +19,7 @@
  * postfix             # LaMontJones; our chosen mail server
  * ltsp-server-standalone # for LTSP-on-install
  * ltsp-client            # for LTSP-on-install
+ * ldm 				   # seeded because its not a hard dependency of ltsp-client anymore
 
 == Networking ==
 
