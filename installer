@@ -49,7 +49,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * iso-scan # for USB boot
  * jfsutils-udeb
  * kbd-chooser
- * libdevmapper1.01-udeb
+ * libdevmapper1.02-udeb
  * libfribidi0-udeb
  * libparted1.6-udeb
  * libreiserfs0.3-udeb
