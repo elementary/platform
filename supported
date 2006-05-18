@@ -411,6 +411,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libxml-commons-resolver1.1-java-doc
  * rhino-doc
  * libcairo2-doc
+ * bzr-doc
 
 = Rescued from Extra =
 
