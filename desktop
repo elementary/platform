@@ -235,6 +235,7 @@ Accessibility tools:
  * rss-glx         # MRS, very slick screensavers
  * xscreensaver-gl # MRS, we will only ship a subset of the screensavers from rss-glx and xscreensaver
  * xscreensaver-data # subset package for the non-gl screensavers we ship
+ * screensaver-default-images
  * tsclient        # rdesktop/vnc/xdmcp client gui
  * xvncviewer      # needed by tsclient
 
