@@ -414,6 +414,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * rhino-doc
  * libcairo2-doc
  * bzr-doc
+ * diveintopython-zh
 
 = Rescued from Extra =
 
