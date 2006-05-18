@@ -4,7 +4,13 @@
 
 == Desktop ==
 
- * lsb                 # a small first step to comprehensive certification
+A small first step to comprehensive certification. Unfortunately, lsb
+includes lsb-desktop, which pulls in both gtk and qt, so we pick individual
+modules instead.
+
+ * lsb-core
+ * lsb-cxx
+ * lsb-graphics
 
 == Server ==
 

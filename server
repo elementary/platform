@@ -39,7 +39,9 @@
 = From Ship =
 
  * ssh
- * lsb
+ * lsb-core
+ * lsb-cxx
+ * lsb-graphics
  * ntp
  * ntp-simple
  * nis
