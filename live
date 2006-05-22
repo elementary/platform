@@ -3,13 +3,17 @@
  * language-pack-gnome-${Languages}
  * language-support-${Languages}
 
- * Languages: zh bn de fr
+ * Languages: zh es bn hi ar xh pt ru ja de fr ca
  * language-pack-${Languages}
  * language-pack-gnome-${Languages}
 
- * Languages: es hi ar pt ru ja ca
- * language-pack-${Languages} [powerpc]
- * language-pack-gnome-${Languages} [powerpc]
+ * Languages: af am an as az be bg br bs et
+ * language-pack-${Languages} [i386 amd64]
+ * language-pack-gnome-${Languages} [i386 amd64]
+
+ * Languages: co cs cy da el eo eu fa fi fo ga gl gu he hr hu hy ia id is
+ * language-pack-${Languages} [i386]
+ * language-pack-gnome-${Languages} [i386]
 
  * ubuntu-live
  * pcmcia-cs
