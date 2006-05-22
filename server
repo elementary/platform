@@ -41,7 +41,6 @@
  * ssh
  * lsb-core
  * lsb-cxx
- * lsb-graphics
  * ntp
  * ntp-simple
  * nis
@@ -158,7 +157,7 @@ RCS:
  * %subversion
  * cvs
  * git-core
-Add bzr when in main.
+ * bzr
 
 Utilities:
 
