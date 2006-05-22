@@ -207,6 +207,7 @@ Download:
  * g++-3.3		# compiling and linking against older abis
  * g++-3.4		# likewise
  * ecj-bootstrap-gcj
+ * autopkgtest
 
 == Mono ==
 
