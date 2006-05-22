@@ -226,6 +226,7 @@ Download:
  * git-doc
  * git-email
  * bzrtools
+ * python2.4-paramiko	# for bzr sftp support
 
 == Package Maintainance ==
 
