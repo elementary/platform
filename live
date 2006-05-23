@@ -3,15 +3,11 @@
  * language-pack-gnome-${Languages}
  * language-support-${Languages}
 
- * Languages: zh es bn hi ar xh pt ru ja de fr ca
- * language-pack-${Languages}
- * language-pack-gnome-${Languages}
-
- * Languages: af am an as az be bg br bs et
+ * Languages: zh es
  * language-pack-${Languages} [i386 amd64]
  * language-pack-gnome-${Languages} [i386 amd64]
 
- * Languages: co cs cy da el eo eu fa fi fo ga gl gu he hr hu hy ia id is
+ * Languages: es bn hi ar xh pt ru ja de fr ca af am an as az
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
 
