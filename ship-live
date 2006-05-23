@@ -3,6 +3,23 @@ archive. Here belongs anything that somebody might need to install after
 installing the contents of the live CD in order to get online and fetch more
 packages.
 
+== Development ==
+
+These packages may be needed to compile kernel modules; their absence is
+often commented on in reviews.
+
+ * build-essential
+ * fakeroot
+ * linux-headers-386 [i386]
+ * linux-headers-powerpc [powerpc]
+ * linux-headers-powerpc64-smp [powerpc]
+ * linux-headers-amd64-generic [amd64]
+ * linux-headers-itanium-smp [ia64]
+ * linux-headers-mckinley-smp [ia64]
+ * linux-headers-sparc64 [sparc]
+ * linux-headers-hppa32 [hppa]
+ * linux-headers-hppa64 [hppa]
+
 == Hardware & Network Access ==
 
  * pptp-linux             # client for Microsoft-compatible VPN's, needed for some ISPs
