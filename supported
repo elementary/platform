@@ -175,6 +175,7 @@ Download:
 
  * openoffice.org-gcj
  * openoffice.org-filter-so52
+ * lsb
 
 = Development =
 
@@ -206,6 +207,7 @@ Download:
  * g++-3.3		# compiling and linking against older abis
  * g++-3.4		# likewise
  * ecj-bootstrap-gcj
+ * autopkgtest
 
 == Mono ==
 
@@ -224,6 +226,8 @@ Download:
  * gitk
  * git-doc
  * git-email
+ * bzrtools
+ * python2.4-paramiko	# for bzr sftp support
 
 == Package Maintainance ==
 
@@ -345,6 +349,7 @@ Ubuntu artwork:
  * python-mechanize
  * python-clientform
  * python-sqlite2
+ * python-pysqlite2
  * python-gobject
 
 = Console Tools =
@@ -410,6 +415,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libxml-commons-resolver1.1-java-doc
  * rhino-doc
  * libcairo2-doc
+ * diveintopython-zh
 
 = Rescued from Extra =
 
@@ -515,6 +521,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libgnomedb2-dbg
  * libgnomeui-0-dbg
  * libgoffice-1-2-dbg
+ * libgoffice-gtk-1-2-dbg
  * libgsf-1-dbg
  * libgsf-gnome-1-dbg
  * libgstreamer0.10-0-dbg
@@ -594,6 +601,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libdvdnav-dev
  * libdvdread3-dev
  * xorg-dev
+ * libxml2-dbg
 
 == Documentation ==
 
@@ -907,7 +915,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 = Installer =
 
  * debian-installer # also has side-effect of pulling in installer image build system
- * baseconfig-udeb # experimental
  * gfxboot
  * gfxboot-theme-ubuntu
  * cdebconf # useful for testing, but not used by default yet

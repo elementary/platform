@@ -39,7 +39,8 @@
 = From Ship =
 
  * ssh
- * lsb
+ * lsb-core
+ * lsb-cxx
  * ntp
  * ntp-simple
  * nis
@@ -244,6 +245,7 @@ kill if we run out of space
 
 = From desktop =
 
+ * bc
  * screen
  * lftp
  * slocate              # tool to index user files

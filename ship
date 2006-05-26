@@ -4,7 +4,13 @@
 
 == Desktop ==
 
- * lsb                 # a small first step to comprehensive certification
+A small first step to comprehensive certification. Unfortunately, lsb
+includes lsb-desktop, which pulls in both gtk and qt, so we pick individual
+modules instead.
+
+ * lsb-core
+ * lsb-cxx
+ * lsb-graphics
 
 == Server ==
 
@@ -19,6 +25,7 @@
  * postfix             # LaMontJones; our chosen mail server
  * ltsp-server-standalone # for LTSP-on-install
  * ltsp-client            # for LTSP-on-install
+ * ldm 				   # seeded because its not a hard dependency of ltsp-client anymore
 
 == Networking ==
 
@@ -35,6 +42,7 @@
  * build-essential
  * fakeroot
  * devscripts          # Debian package development
+ * bzr                 # Obvious
  * cvs                 # RobertCollins
  * linux-headers-386 [i386]
  * linux-headers-powerpc [powerpc]
@@ -90,16 +98,19 @@
  * language-support-${Languages}
 
  # most popular languages
- * Languages: zh es bn hi ar xh pt ru ja de fr
+ * Languages: zh es bn hi ar xh 
  * language-pack-${Languages}
  * language-pack-gnome-${Languages}
-
- # other languages, alphabetically, up to CD limit
- * Languages: af am as az be bg br bs ca cs cy da el eo et eu fa fi ga gl gu he hr hu ia id is it ka kn ko ku lg li lo lt lv mg mi mk ml mn mr ms
+ * Languages: pt ru ja de fr
  * language-pack-${Languages} [i386 amd64]
  * language-pack-gnome-${Languages} [i386 amd64]
 
- * Languages: my nb ne nl nn no or pa pl rm ro rw se si sk sl sq sr sv ta tg th tk tl tr ug uk ur uz vi wa wo yi yo zu
+ # other languages, alphabetically, up to CD limit
+ * Languages: af am as az be bg br bs ca 
+ * language-pack-${Languages} [i386 amd64]
+ * language-pack-gnome-${Languages} [i386 amd64]
+
+ * Languages: cs cy da el eo et eu fa fi ga gl gu he hr hu ia id is it ka kn ko ku lg li lo lt lv mg mi mk ml mn mr ms my nb ne nl nn no or pa pl rm ro rw se si sk
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
 
