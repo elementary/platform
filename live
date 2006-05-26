@@ -3,13 +3,13 @@
  * language-pack-gnome-${Languages}
  * language-support-${Languages}
 
- * Languages: zh bn de fr
- * language-pack-${Languages}
- * language-pack-gnome-${Languages}
+ * Languages: zh es
+ * language-pack-${Languages} [i386 amd64]
+ * language-pack-gnome-${Languages} [i386 amd64]
 
- * Languages: es hi ar pt ru ja ca
- * language-pack-${Languages} [powerpc]
- * language-pack-gnome-${Languages} [powerpc]
+ * Languages: es bn hi ar xh pt ru ja de fr ca af am an as az
+ * language-pack-${Languages} [i386]
+ * language-pack-gnome-${Languages} [i386]
 
  * ubuntu-live
  * pcmcia-cs
@@ -24,7 +24,6 @@ These packages make up the Ubiquity live installer.
 
  * ubiquity-frontend-gtk
  * ubiquity-ubuntu-artwork
- * ubiquity-ubuntu-doc
 
 Ubiquity also needs to have some packages pre-installed on the live filesystem so that they can be installed on the target system without recourse to the network.
 
