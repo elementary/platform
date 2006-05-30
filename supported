@@ -911,6 +911,8 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * /^language-pack-[^-]+$/
  * /^language-pack-gnome-[^-]+$/
  * /^language-support-[^-]+$/
+ * openoffice.org-l10n-nr      # does not match a valid locale, so no l-support-*
+ * openoffice.org-l10n-sh-yu   # does not match a valid locale, so no l-support-*
 
 = Installer =
 
