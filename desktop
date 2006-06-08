@@ -326,7 +326,7 @@ Documentation:
  * ubuntu-desktop # metapackage for everything here
  * anacron # generally appropriate for desktops
  * usplash
- * libxp6 # required for some thirdy part apps. See #15739
+ * libxp6 # required for some third party apps. See #15739
  * libpam-foreground
  * example-content	# dholbach: dapper feature goal (wiki.ubuntu.com/ExampleContent)
  * libstdc++5 [i386]	# doko: requested from some closed source applications
