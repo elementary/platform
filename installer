@@ -7,7 +7,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * apt-mirror-setup
  * apt-setup-udeb # first-stage apt configuration question
  * archdetect
- * archive-copier
  * base-installer
  * binutils-static-udeb # for restricted modules
  * bogl-bterm-udeb
