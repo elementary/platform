@@ -1,14 +1,5 @@
 = UNIX =
 
-== Advanced Filesystem Support ==
-
- * lvm2
- * evms
- * evms-ncurses     # need some way to use evms
- * mdadm
- * parted
- * dmsetup          # useful for evms and lvm2
-
 == Comfortable Unix System ==
 
  * at
@@ -25,6 +16,7 @@
  * manpages          # ColinWatson
  * mime-support      # establishes framework for dealing with MIME
  * nano              # we need a text editor less scary than vi
+ * parted
  * psmisc            # utilities for /proc such as killall, pstree, fuser
  * time
 
