@@ -54,13 +54,7 @@ These provide various networking services, all should be configured in a client-
  * mtr-tiny           # LaMontJones
  * tcpdump
 
-= Feature Goals =
-
-These are warty key packages.
-
- * reportbug          # provide good quality feedback from users to the Warty team
- * popularity-contest # will be disabled by default, user will be able to turn it on when they use package selector
-
 = Other =
 
+ * popularity-contest
  * ubuntu-standard # metapackage for everything here
