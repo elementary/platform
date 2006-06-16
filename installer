@@ -329,7 +329,7 @@ We include 2.6 kernel module udebs only.
 
 == sparc ==
 
- * Kernel-Version: 2.6.15-23-sparc64
+ * Kernel-Version: 2.6.15-25-sparc64
 
  * cdrom-core-modules-${Kernel-Version}-di [sparc]
  * ext3-modules-${Kernel-Version}-di [sparc]
