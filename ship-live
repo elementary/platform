@@ -24,7 +24,6 @@ often commented on in reviews.
 
  * pptp-linux             # client for Microsoft-compatible VPN's, needed for some ISPs
  * eagle-usb-utils        # needed for some ADSL modems
- * pcmcia-cs
  * bpalogin
  * ndiswrapper-utils
 
