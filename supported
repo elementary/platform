@@ -17,6 +17,7 @@
  * cloop-utils # for LiveCD
  * ntfsprogs
  * libreiserfs0.3-0 # gives parted the ability to work with reiserfs; but seems to cause data corruption in the installer, so perhaps should be dropped
+ * reiser4progs
 
 == Cluster ==
 
