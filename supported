@@ -183,6 +183,7 @@ Download:
 
 == Development Tools ==
 
+ * bicyclerepair          # python refactoring tool for vim & emacs
  * bison
  * debconf-english   # for minimal buildd chroots, without i18n cruft
  * flex
