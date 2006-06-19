@@ -16,7 +16,6 @@ Bluetooth:
  * bluez-utils
  * bluez-pin
  * bluez-cups
- * bluez-pcmcia-support
 
 == i386, i686, amd64 ==
 
