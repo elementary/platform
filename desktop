@@ -2,7 +2,6 @@
 
 == Architecture-independent ==
 
- * libesd-alsa0 
  * readahead
  * hotkey-setup
 
