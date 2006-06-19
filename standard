@@ -53,7 +53,7 @@ These provide various networking services, all should be configured in a client-
 
 = Helpful Tools =
  
- * inputattach
+ * inputattach # needed for serial mice
 
 == Network ==
 
