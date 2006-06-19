@@ -200,6 +200,7 @@ We include 2.6 kernel module udebs only.
  * scsi-modules-${Kernel-Version}-di [amd64]
  * serial-modules-${Kernel-Version}-di [amd64]
  * socket-modules-${Kernel-Version}-di [amd64]
+ * ufs-modules-${Kernel-Version}-di [amd64]
  * usb-modules-${Kernel-Version}-di [amd64]
  * usb-storage-modules-${Kernel-Version}-di [amd64]
 
@@ -257,6 +258,7 @@ We include 2.6 kernel module udebs only.
  * scsi-modules-${Kernel-Version}-di [i386]
  * serial-modules-${Kernel-Version}-di [i386]
  * socket-modules-${Kernel-Version}-di [i386]
+ * ufs-modules-${Kernel-Version}-di [i386]
  * usb-modules-${Kernel-Version}-di [i386]
  * usb-storage-modules-${Kernel-Version}-di [i386]
 
@@ -286,6 +288,7 @@ We include 2.6 kernel module udebs only.
  * scsi-core-modules-${Kernel-Version}-di [ia64]
  * scsi-modules-${Kernel-Version}-di [ia64]
  * serial-modules-${Kernel-Version}-di [ia64]
+ * ufs-modules-${Kernel-Version}-di [ia64]
  * usb-modules-${Kernel-Version}-di [ia64]
  * usb-storage-modules-${Kernel-Version}-di [ia64]
 
@@ -323,6 +326,7 @@ We include 2.6 kernel module udebs only.
  * scsi-modules-${Kernel-Version}-di [powerpc]
  * serial-modules-${Kernel-Version}-di [powerpc]
  * socket-modules-${Kernel-Version}-di [powerpc]
+ * ufs-modules-${Kernel-Version}-di [powerpc]
  * usb-modules-${Kernel-Version}-di [powerpc]
  * usb-storage-modules-${Kernel-Version}-di [powerpc]
 
