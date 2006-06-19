@@ -164,7 +164,6 @@ We've chosen GNOME as our desktop user interface of choice, and GNOME 2.8 is a F
  * hal-device-manager
  * hwdb-client
  * language-selector	   # MichaelVogt
- * libglib2.0-data
  * metacity                # SebastienBacher
  * firefox
  * firefox-gnome-support
