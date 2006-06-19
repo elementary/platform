@@ -16,7 +16,6 @@
  * language-pack-gnome-${Languages} [i386]
 
  * ubuntu-live
- * pcmcia-cs
  * ntfsprogs
  * discover1    # for X autoconfiguration
  * xresprobe
