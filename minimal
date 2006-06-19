@@ -54,18 +54,6 @@ These are packages which, in Debian, have "Essential: yes" in their control file
  * tar            # LaMontJones
  * util-linux     # LaMontJones
 
-== Filesystem Support ==
-
-These are commonly used filesystem support packages, here because someone setting up a server would begin with Base, configure filesystems and network and then add other services. NFS is explicitly not here, because it brings in nasties like portmap, and because the network will need to be running before it can be used, so we may as well put that in Supported.
-
- * reiserfsprogs
- * reiser4progs
- * xfsprogs         # ThomMay
- * jfsutils
- * hfsutils [powerpc] # ColinWatson; support for apple filesystems
- * hfsplus [powerpc]  # ColinWatson
- * dosfstools
-
 == Comfortable Unix System ==
 
 Programs and packages necessary for both the proper functionality of the system and that any user would expect to find on a modern Unix-like system.

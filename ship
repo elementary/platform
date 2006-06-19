@@ -27,6 +27,12 @@ modules instead.
  * ltsp-client            # for LTSP-on-install
  * ldm 				   # seeded because its not a hard dependency of ltsp-client anymore
 
+== Filesystems ==
+
+ * xfsprogs
+ * jfsutils
+ * hfsplus [powerpc]  # ColinWatson
+
 == Networking ==
 
  * mailx

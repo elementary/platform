@@ -20,6 +20,14 @@
  * psmisc            # utilities for /proc such as killall, pstree, fuser
  * time
 
+== Filesystems ==
+
+These are commonly used filesystem support packages, here because someone setting up a server would begin with standard, configure filesystems and network and then add other services. NFS is explicitly not here, because it brings in nasties like portmap, and because the network will need to be running before it can be used, so we may as well put that in Supported.
+
+ * reiserfsprogs
+ * dosfstools
+ * hfsutils [powerpc]
+
 == Networking ==
 
 These provide various networking services, all should be configured in a client-only state with the server de-activated unless the user requires it.
