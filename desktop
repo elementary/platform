@@ -241,71 +241,9 @@ Accessibility tools:
 
 Python is a significant commitment, we will present Python wherever we can.
 
-Libraries and Modules:
-
- * python-adns              # MRS, stable and useful
- * python-apt               # MRS, we need to be able to interact with APT
- * python-cddb              # MRS, great for desktop users to be able to manage CD's in Python
- * python-clientcookie      # MRS, unless a better cgi-style framework is below
- * python-crypto            # MRS, very useful even though it's very specific
- * python-egenix-mxproxy    # MRS, 
- * python-egenix-mxstack    # MRS, 
- * python-egenix-mxtexttools # MRS, 
- * python-egenix-mxtools    # MRS, 
- * python-epydoc            # MRS, 
- * python-eunuchs           # MRS, 
- * python-examples          # MRS, 
- * python-gadfly            # MRS, 
- * python-gd                # MRS, 
- * python-gdbm
- * python-genetic
- * python-geoip
- * python-glade2
- * python-gnome2            # SebastienBacher
- * python-gnupginterface
- * python-gst0.10
- * python-gtk2              # SebastienBacher
- * python-htmlgen
- * python-htmltmpl
- * python-id3lib
- * python-imaging
- * python-imaging-sane
- * python-jabber
- * python2.4-dbus
- * python2.4-dictclient
- * python2.4-librdf
- * python2.4-pycurl
- * python-kjbuckets
- * python-ldap
- * python-mysqldb
- * python-netcdf
- * python-newt
- * python-numeric
- * python-pam
- * python-parted
- * python-pexpect
- * python-pisock
- * python-pqueue
- * python-pyao
- * python-pylibacl
- * python-pyopenssl
- * python-pyorbit               # SebastienBacher
- * python-pyvorbis
- * python-pyxattr
- * python-reportlab
- * python-simpletal
- * python-sqlite
- * python-stats
- * python-syck
- * python-unit
- * python-xdg                   # SebastienBacher
- * python-xmpp
-
 Python Integrated Applications:
 
  * gimp-python
- * python2.4-libxml2
- * python2.4-libxslt1
 
 Documentation:
 
