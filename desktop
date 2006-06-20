@@ -109,7 +109,7 @@ Input methods:
 
 = Desktop GNOME Apps =
 
-We've chosen GNOME as our desktop user interface of choice, and GNOME 2.8 is a FeatureGoal for Warty.  Rather than using the meta-packages they are deliberately expanded so that we can select things a bit better.
+We've chosen GNOME as our desktop user interface of choice. Rather than using the meta-packages they are deliberately expanded so that we can select things a bit better.
 
  * bug-buddy             # potentially replaced with reportbug + b-b-like pygtk gui
  * contact-lookup-applet # experimental
@@ -185,7 +185,7 @@ We've chosen GNOME as our desktop user interface of choice, and GNOME 2.8 is a F
  * zenity
  * esound
 
-Themes: we will ship only the very best looking themes. We won't ship everything that Debian ships, just a custom package that includes the themes we want. These packages are included for size guidance until we have Warty-specific packages.
+Themes: we will ship only the very best looking themes. We won't ship everything that Debian ships, just a custom package that includes the themes we want. These packages are included for size guidance until we have Ubuntu-specific packages.
 
  * gnome-themes
  * gtk2-engines-clearlooks
