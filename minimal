@@ -98,15 +98,6 @@ These provide various networking services, all should be configured in a client-
  * wireless-tools
  * wpasupplicant  # ScottJamesRemnant
 
-= Debugging and Diagnostics =
-
-A base system should be a good platform for diagnostics about the hardware and network. In other words, after installing just the Base system one should have everything one might need to get the rest of the system up and running the way you want it.
-
-These are used for debugging problems or examining the system.
-
- * memtest86+
- * strace
-
 == Network ==
 
  * ethtool
