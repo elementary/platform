@@ -50,3 +50,23 @@ Moved from desktop:
  * python-xmpp
  * python2.4-libxml2
  * python2.4-libxslt1
+
+Moved from supported:
+
+ * python-pygresql         # JamesTroup, from hoglet
+ * python-psycopg          # used in launchpad
+ * python-nevow
+ * python-elementtree
+ * python-uno
+ * python-dbg
+ * python-numarray
+ * python-twisted
+ * python-tz            # zope3 only references python2.4-tz
+ * python2.4-samba
+ * idle             # Python IDE
+ * python-pullparser        # modules, where python2.4-foo is in main
+ * python-mechanize
+ * python-clientform
+ * python-sqlite2
+ * python-pysqlite2
+ * python-gobject
