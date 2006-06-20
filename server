@@ -266,41 +266,4 @@ formats
  * gs-esp                       # some ppds require this, in place of standard gs
  * hplip                        # support for HP all-in-one printers
  * hplip-ppds                   # support for HP all-in-one printers
- * python-adns              # MRS, stable and useful
- * python-apt               # MRS, we need to be able to interact with APT
- * python-clientcookie      # MRS, unless a better cgi-style framework is below
- * python-crypto            # MRS, very useful even though it's very specific
- * python-egenix-mxproxy    # MRS,
- * python-egenix-mxstack    # MRS,
- * python-egenix-mxtexttools # MRS,
- * python-egenix-mxtools    # MRS,
- * python-eunuchs           # MRS,
- * python-gadfly            # MRS,
- * python-gd                # MRS,
- * python-gdbm
- * python-geoip
- * python-gnupginterface
- * python-htmlgen
- * python-htmltmpl
- * python-imaging
- * python2.4-librdf
- * python2.4-pycurl
- * python-kjbuckets
- * python-ldap
- * python-mysqldb
- * python-netcdf
- * python-numeric
- * python-pam
- * python-pgsql
- * python-pqueue
- * python-pylibacl
- * python-pyopenssl
- * python-pyxattr
- * python-reportlab
- * python-simpletal
- * python-soappy
- * python-sqlite
- * python-stats
- * python-syck
- * python-twisted
  * libxp6 # required for some third party apps. See #15739
