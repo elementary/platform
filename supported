@@ -273,7 +273,6 @@ Other:
  * finger
  * gftp-gtk
  * glade-gnome-2
- * libgnome2-perl      # used by debconf GNOME frontend
  * memprof
  * pan
  * workrave            # RSI-avoidance
