@@ -235,7 +235,8 @@ Accessibility tools:
  * xvncviewer      # needed by tsclient
 
 = Games =
- * fortune-mod
+
+ * fortune-mod		# Needed by some screensavers
 
 = Python =
 
