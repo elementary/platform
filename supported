@@ -15,7 +15,6 @@
  * xfsdump # only useful when machine is setup and working, and only for xfs people
  * cloop-utils # for LiveCD
  * ntfsprogs
- * libreiserfs0.3-0 # gives parted the ability to work with reiserfs; but seems to cause data corruption in the installer, so perhaps should be dropped
  * reiser4progs
 
 == Cluster ==
@@ -176,6 +175,9 @@ Download:
 
  * openoffice.org-gcj
  * openoffice.org-filter-so52
+
+= Standards =
+
  * lsb
 
 = Development =
@@ -207,7 +209,6 @@ Download:
  * bootchart         # boot speed profiling
  * indent
  * g++-3.3		# compiling and linking against older abis
- * g++-3.4		# likewise
  * ecj-bootstrap-gcj
  * autopkgtest
 
@@ -538,7 +539,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libpango1.0-0-dbg
  * libparted1.6-dbg
  * libreadline4-dbg
- * libreiserfs0.3-dbg
  * libruby1.8-dbg
  * libsexy2-dbg
  * libsm6-dbg
@@ -630,7 +630,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * bsh-doc
  * cdrtools-doc
  * courier-doc
- * cpp-3.4-doc
  * cpp-doc
  * dbus-1-doc
  * debconf-doc
@@ -643,7 +642,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * fontforge-doc
  * g77-doc
  * gcc-doc
- * gcc-3.4-doc
  * gettext-doc
  * gimpprint-doc
  * gle-doc
