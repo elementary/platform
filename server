@@ -51,9 +51,7 @@
  * devscripts
  * setserial
 
-= From supported =
-
-== Cluster ==
+= Cluster =
 
  * ocfs2-tools
  * libaio1

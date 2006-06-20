@@ -19,27 +19,8 @@
 
 == Cluster ==
 
- * ocfs2-tools
  * ocfs2console
- * libaio1
- * libaio-dev
- * ccs
- * cman
- * fence
- * fence-gnbd
- * gfs-tools
- * gnbd-client
- * gnbd-server
- * gulm
- * libgulm1
- * libmagma1
- * magma
- * magma-plugins
- * redhat-cluster-suite
- * rgmanager
  * system-config-cluster
- * clvm
- * multipath-tools
 
 = Servers and Daemons =
 
