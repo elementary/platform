@@ -15,7 +15,6 @@
  * xfsdump # only useful when machine is setup and working, and only for xfs people
  * cloop-utils # for LiveCD
  * ntfsprogs
- * libreiserfs0.3-0 # gives parted the ability to work with reiserfs; but seems to cause data corruption in the installer, so perhaps should be dropped
  * reiser4progs
 
 == Cluster ==
@@ -538,7 +537,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libpango1.0-0-dbg
  * libparted1.6-dbg
  * libreadline4-dbg
- * libreiserfs0.3-dbg
  * libruby1.8-dbg
  * libsexy2-dbg
  * libsm6-dbg
