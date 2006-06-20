@@ -313,26 +313,6 @@ Ubuntu artwork:
  * ubuntu-calendar-november
  * ubuntu-calendar-december
 
-= Python =
-
- * python-pygresql         # JamesTroup, from hoglet
- * python-psycopg          # To be used in launchpad
- * python-nevow
- * python-elementtree
- * python-uno
- * python-dbg
- * python-numarray
- * python-twisted
- * python-tz			# zope3 only references python2.4-tz
- * python2.4-samba
- * idle				# Python IDE
- * python-pullparser		# modules, where python2.4-foo is in main
- * python-mechanize
- * python-clientform
- * python-sqlite2
- * python-pysqlite2
- * python-gobject
-
 = Console Tools =
 
  * freecdb
