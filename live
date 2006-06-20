@@ -27,9 +27,3 @@ These packages make up the Ubiquity live installer.
 
  * ubiquity-frontend-gtk
  * ubiquity-ubuntu-artwork
-
-Ubiquity also needs to have some packages pre-installed on the live filesystem so that they can be installed on the target system without recourse to the network.
-
- * grub [amd64 i386]
- * yaboot [powerpc]
-
