@@ -7,4 +7,5 @@ ship: boot minimal standard desktop
 live: minimal standard desktop
 ship-live: boot minimal standard desktop live
 installer:
-supported: boot minimal standard desktop server ship live ship-live
+development: minimal standard desktop
+supported: boot minimal standard desktop server ship live ship-live development
