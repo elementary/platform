@@ -209,7 +209,6 @@ Download:
  * bootchart         # boot speed profiling
  * indent
  * g++-3.3		# compiling and linking against older abis
- * g++-3.4		# likewise
  * ecj-bootstrap-gcj
  * autopkgtest
 
@@ -631,7 +630,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * bsh-doc
  * cdrtools-doc
  * courier-doc
- * cpp-3.4-doc
  * cpp-doc
  * dbus-1-doc
  * debconf-doc
@@ -644,7 +642,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * fontforge-doc
  * g77-doc
  * gcc-doc
- * gcc-3.4-doc
  * gettext-doc
  * gimpprint-doc
  * gle-doc
