@@ -2,7 +2,6 @@
 
 == Architecture-independent ==
 
- * readahead
  * hotkey-setup
 
 Power management:
@@ -257,6 +256,7 @@ Documentation:
  * example-content	# dholbach: dapper feature goal (wiki.ubuntu.com/ExampleContent)
  * libstdc++5 [i386]	# doko: requested from some closed source applications
  * landscape-client
+ * readahead
 
 = Germinate workarounds =
 

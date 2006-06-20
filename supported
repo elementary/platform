@@ -1,7 +1,6 @@
 = Hardware =
 
  * bluez-utils          # base for bluetooth support
- * bluez-pcmcia-support # bluetooth pcmcia support
  * bluez-hcidump   # bluetooth traffic disassembly
  * bluez-cups             # allow connecting to bluetooth printers from CUPS
  * smartmontools   # hard disk diagnostics
