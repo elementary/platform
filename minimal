@@ -60,7 +60,7 @@ Programs and packages necessary for both the proper functionality of the system 
 
  * adduser
  * apt
- * aptitude          # our default package selection for warty base
+ * aptitude          # used by installer to install desktop etc.
  * apt-utils         # apt-extracttemplates is required for debconf preconfiguration
  * bzip2
  * console-tools
@@ -105,9 +105,9 @@ These provide various networking services, all should be configured in a client-
 
 = Feature Goals =
 
-These are warty key packages.
+These are Ubuntu key packages.
 
- * python             # a core feature goal for Warty
+ * python             # a core feature goal for Ubuntu
 
 = Ubuntu =
 
