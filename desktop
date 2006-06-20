@@ -154,12 +154,11 @@ We've chosen GNOME as our desktop user interface of choice, and GNOME 2.8 is a F
  * ekiga
  * libgnomevfs2-bin
  * libgnomevfs2-extra
- * librsvg2-common
  * libpt-plugins-v4l       # V4L1 plugins for use with ekiga
  * libpt-plugins-v4l2      # V4L2 plugins for use with ekiga
  * gthumb                  # efficient thumbnailing tool
  * gucharmap               # SebastienBacher
- * hal                     # it's not very polished but it's the future
+ * hal
  * hal-device-manager
  * hwdb-client
  * language-selector	   # MichaelVogt
