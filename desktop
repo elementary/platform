@@ -82,7 +82,7 @@ Printing and printer configuration is a real weak spot in Debian, and in Linux i
 = GUI infrastructure =
 
  * x-window-system-core
- * xterm
+ * xterm                         # Provide a backup terminal and complete X env.
  * xserver-xorg-input-synaptics  # for enhanced touchpad features
  * xkeyboard-config              # XKB data now lives here
 
