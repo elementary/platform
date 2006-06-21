@@ -86,7 +86,7 @@ Fonts:
 
  * x-ttcidfont-conf
  * ttf-bitstream-vera
- * ttf-dejavu
+ * ttf-dejavu                    # includes characters missing in Vera
  * ttf-freefont
  * ttf-kochi-gothic
  * ttf-kochi-mincho
