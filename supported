@@ -746,44 +746,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
 = Transitional packages =
 
-== Upgrades from Hoary ==
-
- * ubuntu-base
- * xlibs-data
- * aalib1
- * mozilla-firefox
- * mono-assemblies-base
-
-== Upgrades from Breezy development versions ==
-
- * readahead-list
-
-== Upgrades from Breezy ==
-
- * irssi-text
- * mozilla-firefox-locale-eu
- * mozilla-firefox-locale-it
- * mozilla-firefox-locale-ja
- * mozilla-firefox-locale-nb
- * mozilla-firefox-locale-uk
- * mozilla-thunderbird-locale-ca
- * mozilla-thunderbird-locale-de
- * mozilla-thunderbird-locale-fr
- * mozilla-thunderbird-locale-it
- * mozilla-thunderbird-locale-nl
- * mozilla-thunderbird-locale-pl
- * mozilla-thunderbird-locale-uk
- * libcupsys2-gnutls10
- * cupsys-driver-gimpprint
- * foomatic-db-gimp-print
- * ijsgimpprint
-
-== Upgrades from Dapper development versions ==
-
- * mozilla-firefox-locale-lt
- * mozilla-firefox-locale-mn
- * mozilla-firefox-locale-nb-no
-
 = Miscellaneous =
 
  * ia32-libs [amd64 ia64]
