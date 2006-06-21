@@ -19,10 +19,6 @@
 
 = Servers and Daemons =
 
-Samba:
-
- * smbfs               # allows mounting Windows shares
-
 Database:
 
  * mdbtools				# OOo2 supports the JET format
@@ -629,7 +625,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * quagga-doc
  * recode-doc
  * refblas3-doc
- * samba-doc
  * sdf-doc
  * sgmls-doc
  * sharutils-doc
