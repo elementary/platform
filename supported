@@ -656,7 +656,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libpam-opie
  * opie-client
  * opie-server
- * sasl-bin
  * sasl2-bin
  * libsasl2-modules-sql
  * autofs
