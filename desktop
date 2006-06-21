@@ -12,9 +12,9 @@ Power management:
 
 Bluetooth:
 
- * bluez-utils
- * bluez-pin
- * bluez-cups
+ * bluez-utils # base for bluetooth support
+ * bluez-pin   # bluetooth traffic disassembly
+ * bluez-cups  # allow connecting to bluetooth printers from CUPS
 
 == i386, i686, amd64 ==
 
