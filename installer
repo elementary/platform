@@ -114,7 +114,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 = Floppy Support =
 
  * busybox-floppy-udeb
- * di-utils-bootfloppy
  * floppy-retriever
  * load-floppy
  * rootskel-bootfloppy
