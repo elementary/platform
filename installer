@@ -161,5 +161,40 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
 = Kernel Modules =
 
- * /^.*-firmware-2.6.17-2-.*-di/
- * /^.*-modules-2.6.17-2-.*-di/
+Make sure to leave the Kernel-Version: lines and separated architectures in here! germinate needs them.
+
+== amd64 ==
+
+ * Kernel-Version: 2.6.17-2-amd64-generic
+ * /^.*-firmware-.*-di/ [amd64]
+ * /^.*-modules-.*-di/ [amd64]
+
+== hppa ==
+
+ * Kernel-Version: 2.6.17-2-hppa32 2.6.17-2-hppa64
+ * /^.*-firmware-.*-di/ [hppa]
+ * /^.*-modules-.*-di/ [hppa]
+
+== i386 ==
+
+ * Kernel-Version: 2.6.17-2-386
+ * /^.*-firmware-.*-di/ [i386]
+ * /^.*-modules-.*-di/ [i386]
+
+== ia64 ==
+
+ * Kernel-Version: 2.6.17-2-itanium-smp
+ * /^.*-firmware-.*-di/ [ia64]
+ * /^.*-modules-.*-di/ [ia64]
+
+== powerpc ==
+
+ * Kernel-Version: 2.6.17-2-powerpc 2.6.17-2-powerpc64-smp
+ * /^.*-firmware-.*-di/ [powerpc]
+ * /^.*-modules-.*-di/ [powerpc]
+
+== sparc ==
+
+ * Kernel-Version: 2.6.17-2-sparc64
+ * /^.*-firmware-.*-di/ [sparc]
+ * /^.*-modules-.*-di/ [sparc]
