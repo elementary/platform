@@ -24,10 +24,6 @@ Database:
  * mdbtools				# OOo2 supports the JET format
  * mdbtools-gmdb
 
-Web:
-
- * zope3-sandbox
-
 Email:
 
  * courier-pop-ssl
@@ -38,21 +34,10 @@ Email:
 
 Must also consider webmail and so on...
 
-FTP/TFTP:
-
- * vsftpd # a secure ftpd
- * tftpd-hpa # The one from OpenBSD which supports PXE
- * tftp-hpa # client
-
 Other:
 
  * avahi-daemon
  * racoon
-
-Application Servers:
-
- * python-moinmoin	  # moin (>= 1.5)
- * mailman
 
 Utilities:
 
@@ -62,48 +47,21 @@ Utilities:
 
 = Network =
 
- * nmap                   # network diagnostics
- * dnstracer              # dns network diagnostics
- * iptraf                 # sysadmin's toy, may be a candidate for removal
- * traceroute             # we have iputils-tracepath in base, this is only for real traceroute lovers
- * pptpd                  # server that allows setup of Microsoft-compatible VPN
- * ifenslave-2.6          # interface bonding/trunking/etherchannel
- * ipsec-tools            # IPsec configuration
- * vlan                   # userland tools to config 8021q support
- * bridge-utils           # userland tools to config kernel bridging feature
  * irssi
 
 Network Manager:
 
- * network-manager        # magical network configuration - if it works for you
- * network-manager-gnome  # desktop integration for network-manager
  * network-manager-dbg
  * network-manager-gnome-dbg
  * libnm-util0-dbg
 
-IPv6 tools:
-
- * freenet6               # FabioMassimoDiNitto
- * radvd                  # FabioMassimoDiNitto
- * quagga                 # RobertCollins
-
-Firewall:
-
- * shorewall
-
 Security:
 
  * nessus                 # client for nessus security testing and monitoring framework
- * nessus-plugins         # plugins for the extension of nessus security monitoring framework
- * nessusd                # server to coordinate nessus network security monitoring 
- * cricket                # JamesTroup, from Hoglet
- * checksecurity          # JamesTroup, from Hoglet
- * aide                   # JamesTroup, from Hoglet
 
 Download:
 
  * bittorrent             # rapid p2p download, for efficient large file distribution, perhaps for desktop
- * bittornado             # used on the servers.
  * jigit                  # specialised Debian/Ubuntu CD image download
 
 = Desktop =

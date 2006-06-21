@@ -40,8 +40,8 @@ modules instead.
 
 == NetworkManager ==
 
- * network-manager
- * network-manager-gnome
+ * network-manager        # magical network configuration - if it works for you
+ * network-manager-gnome  # desktop integration for network-manager
 
 == Development ==
 
