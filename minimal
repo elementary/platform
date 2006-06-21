@@ -82,6 +82,7 @@ Programs and packages necessary for both the proper functionality of the system 
  * procps
  * sudo              # LaMontJones
  * sysklogd
+ * tzdata
  * udev
  * usbutils
  * vim
