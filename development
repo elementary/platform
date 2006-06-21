@@ -67,6 +67,5 @@ Moved from supported:
  * python-pullparser        # modules, where python2.4-foo is in main
  * python-mechanize
  * python-clientform
- * python-sqlite2
  * python-pysqlite2
  * python-gobject
