@@ -690,7 +690,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * myspell-fr # myspell-fr-gut preferred
  * ttf-alee
  * ttf-unfonts
- * ttf-dejavu	# includes characters missing in Vera
  * ttf-arphic-bkai00mp
  * ttf-arphic-bsmi00lp
  * ttf-arphic-gbsn00lp
