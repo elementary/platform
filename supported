@@ -1,8 +1,5 @@
 = Hardware =
 
- * bluez-utils          # base for bluetooth support
- * bluez-hcidump   # bluetooth traffic disassembly
- * bluez-cups             # allow connecting to bluetooth printers from CUPS
  * smartmontools   # hard disk diagnostics
  * i855-crt        # crack to enable video out on i855 chipsets
  * mdetect         # formerly used by X for mouse autodetection
