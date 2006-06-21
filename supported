@@ -728,8 +728,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
  * aspell-de
  * aspell-de-alt
- * util-linux-locales
- * gimpprint-locales
  * gettext-el
  * myspell-de-de-oldspell # non-default alternative for language-support-de
  * myspell-fr # myspell-fr-gut preferred
