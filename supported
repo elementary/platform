@@ -786,7 +786,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
 = Miscellaneous =
 
- * amd64-libs [i386]
  * ia32-libs [amd64 ia64]
  * ia32-libs-dev [amd64 ia64]
  * lib32bz2-dev [amd64]
