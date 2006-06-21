@@ -28,29 +28,8 @@ Database:
  * mdbtools				# OOo2 supports the JET format
  * mdbtools-gmdb
 
-Proxy:
-
- * squid # RobertCollins
-
-LDAP:
-
- * slapd
- * ldap-utils
-
 Web:
 
- * %apache2
- * %php5
- * libapache2-mod-auth-mysql # FabioMassimoDiNitto
- * libapache2-mod-auth-pgsql # FabioMassimoDiNitto
- * libapache2-mod-macro      # FabioMassimoDiNitto
- * libapache2-mod-perl2 # python is in supported
- * libapache2-mod-python        #ThomMay
- * libapache2-mod-python-doc    #ThomMay
- * libapache2-mod-auth-pam       # FabioMassimoDiNitto
- * libapache2-mod-auth-plain     # FabioMassimoDiNitto
- * libapache2-mod-auth-sys-group # FabioMassimoDiNitto
- * libapache2-mod-security       # FabioMassimoDiNitto
  * zope3-sandbox
 
 Email:
@@ -71,14 +50,6 @@ FTP/TFTP:
 
 Other:
 
- * dhcp3-server
- * bind9                  # LaMontJones, will look silly without it :-)
- * snmp
- * snmpd
- * sensord
- * lm-sensors
- * netkit-inetd
- * nbd-server
  * avahi-daemon
  * racoon
 
