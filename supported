@@ -716,65 +716,8 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
 == Kernel ==
 
-=== i386 ===
-
- * linux-686 [i386]
- * linux-686-smp [i386]
- * linux-k7 [i386]
- * linux-k7-smp [i386]
- * linux-headers-686 [i386]
- * linux-headers-686-smp [i386]
- * linux-headers-k7 [i386]
- * linux-headers-k7-smp [i386]
-
-=== powerpc ===
-
- * linux-powerpc-smp [powerpc]
- * linux-headers-powerpc-smp [powerpc]
-
-=== amd64 ===
-
- * linux-amd64-k8 [amd64]
- * linux-amd64-k8-smp [amd64]
- * linux-amd64-xeon [amd64]
- * linux-headers-amd64-k8 [amd64]
- * linux-headers-amd64-k8-smp [amd64]
- * linux-headers-amd64-xeon [amd64]
-
-=== ia64 ===
-
- * linux-itanium [ia64]
- * linux-mckinley [ia64]
- * linux-headers-itanium [ia64]
- * linux-headers-mckinley [ia64]
-
-=== sparc ===
-
- * linux-sparc64-smp [sparc]
- * linux-headers-sparc64-smp [sparc]
-
-=== hppa ===
-
- * linux-hppa32-smp [hppa]
- * linux-hppa64-smp [hppa]
- * linux-headers-hppa32-smp [hppa]
- * linux-headers-hppa64-smp [hppa]
-
-=== Source ===
-
- * linux-source
+ * %linux-meta
  * linux-kernel-devel
-
-=== Transitional from hoary ===
-
- * linux-headers-power3
- * linux-headers-power3-smp
- * linux-headers-power4
- * linux-headers-power4-smp
- * linux-image-power3
- * linux-image-power3-smp
- * linux-image-power4
- * linux-image-power4-smp
 
 = Database =
 
