@@ -1,6 +1,5 @@
 = Hardware =
 
- * smartmontools   # hard disk diagnostics
  * i855-crt        # crack to enable video out on i855 chipsets
  * mdetect         # formerly used by X for mouse autodetection
  * irda-utils
@@ -11,7 +10,6 @@
 
  * xfsdump # only useful when machine is setup and working, and only for xfs people
  * cloop-utils # for LiveCD
- * ntfsprogs
  * reiser4progs
 
 == Cluster ==
@@ -27,10 +25,6 @@ Samba:
 
 Database:
 
- * %db4.2
- * %db4.3
- * %mysql-dfsg-5.0
- * %postgresql-8.1
  * mdbtools				# OOo2 supports the JET format
  * mdbtools-gmdb
 
