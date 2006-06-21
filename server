@@ -229,7 +229,6 @@ Download:
 
 -= Miscellaneous ==
 
- * amd64-libs [i386]
  * ia32-libs [amd64 ia64]
  * miscfiles
  * lilo
