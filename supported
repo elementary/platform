@@ -739,7 +739,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * latex-ucs-contrib
  * openoffice.org-help-en-gb
  * openoffice.org-l10n-en-gb
- * scim
 
 = Transitional packages =
 
