@@ -64,10 +64,6 @@ Web:
 
 Email:
 
- * %postfix
- * %exim4
- * %dovecot
- * %cyrus21
  * courier-pop-ssl
  * courier-imap-ssl
  * fetchmail
