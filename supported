@@ -340,7 +340,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libstlport4.6-dev
  * libsvn0-dev
  * libsyck0-dev
- * libvncauth-dev
  * pciutils-dev
  * ppp-dev
  * python-egenix-mx-base-dev
