@@ -327,7 +327,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * liboggflac++-dev
  * libostyle-dev
  * libpaperg-dev
- * libpgtcl-dev
  * libpils-dev
  * libproc-dev
  * libqt3-dev
