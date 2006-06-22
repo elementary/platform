@@ -466,7 +466,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * festival-dev
  * firefox-dbg
  * irssi-dev
- * koffice-dbg
  * libxsltc-java
  * rhythmbox-dbg
  * libdvdnav-dev
@@ -598,7 +597,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * latex-ucs-doc
  * libjline-java-doc
  * kmplayer-doc
- * koffice-doc
 
 == System Administration ==
 
