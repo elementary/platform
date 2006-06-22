@@ -324,7 +324,6 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libmagic-dev
  * libmagick++6-dev
  * libnetpbm10-dev
- * liboggflac++-dev
  * libostyle-dev
  * libpaperg-dev
  * libpils-dev
