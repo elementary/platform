@@ -466,7 +466,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libxsltc-java
  * rhythmbox-dbg
  * libdvdnav-dev
- * libdvdread3-dev
+ * libdvdread-dev
  * xorg-dev
  * libxml2-dbg
 
