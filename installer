@@ -102,6 +102,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * rescue-mode  # main part of rescue mode, installed if rescue/enable=true
  * rootskel
  * save-logs
+ * sparc-utils-udeb [sparc] # used for sbus detection
  * tzsetup-udeb # first-stage timezone question
  * udev-udeb
  * udpkg
