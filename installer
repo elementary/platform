@@ -51,6 +51,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * libdevmapper1.02-udeb
  * libfribidi0-udeb
  * libparted1.6-udeb
+ * libtextwrap1-udeb
  * load-cdrom
  * load-iso # for USB boot
  * localechooser # replaces languagechooser and countrychooser
