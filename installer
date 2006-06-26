@@ -85,6 +85,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * partman-base
  * partman-basicfilesystems
  * partman-basicmethods
+ * partman-crypto
  * partman-ext3
  * partman-jfs
  * partman-lvm
