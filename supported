@@ -171,9 +171,9 @@ Other:
  * xnest
  * xrestop
  * unclutter           # super useful for anti-mouse freaks
- * emacs21             # won't fit on CDs
- * emacs21-el
- * emacs21-nox
+ * emacs               # won't fit on CDs
+ * emacs-el
+ * emacs-nox
  * evms-gui            # gui tools for storage drive volume management
  * inkscape            # SVG drawing application
  * gtranslator             # we want Ubuntu users to participate in Rosetta!
