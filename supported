@@ -427,6 +427,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libxpm4-dbg
  * libxrandr2-dbg
  * libxrender1-dbg
+ * libxslt1-dbg
  * libxt6-dbg
  * libxtrap6-dbg
  * libxtst6-dbg
