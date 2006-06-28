@@ -36,6 +36,7 @@ These are packages which, in Debian, have "Essential: yes" in their control file
  * bsdutils       # LaMontJones
  * coreutils
  * debianutils
+ * dash
  * diff
  * dpkg
  * e2fsprogs
