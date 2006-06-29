@@ -406,7 +406,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libopal-dbg
  * libpanel-applet2-0-dbg
  * libpango1.0-0-dbg
- * libparted1.6-dbg
+ * libparted1.7-dbg
  * libreadline4-dbg
  * libruby1.8-dbg
  * libsexy2-dbg
