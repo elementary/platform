@@ -396,6 +396,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * libgstreamer0.10-0-dbg
  * libgtk1.2-dbg
  * libgtk2.0-0-dbg
+ * libgtkhtml3.8-dbg
  * libice6-dbg
  * libncurses5-dbg
  * libncursesw5-dbg
