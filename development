@@ -28,7 +28,7 @@ Moved from desktop:
  * python2.4-dbus
  * python2.4-dictclient
  * python2.4-librdf
- * python2.4-pycurl
+ * python-pycurl
  * python-ldap
  * python-mysqldb
  * python-newt
