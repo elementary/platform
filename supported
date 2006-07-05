@@ -293,6 +293,19 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
 = Rescued from Extra =
 
+ * Extra-Include: *-dbg *-dev *-doc
+
+... and some miscellaneous exclusions for things we don't want to drag in
+automatically:
+
+ * Extra-Exclude: lib*stdc++*   # we want to consider these individually
+ * Extra-Exclude: *gfortran* libmudflap*
+ * Extra-Exclude: libavformat-dev libpostproc-dev
+ * Extra-Exclude: libgdchart-gd2-xpm-dev
+ * Extra-Exclude: libgdome2-ocaml-dev
+ * Extra-Exclude: libmpich-mpd1.0-dev libmpich-shmem1.0-dev
+ * Extra-Exclude: libnetpbm9-dev
+
 == Development ==
 
  * python-mode
