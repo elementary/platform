@@ -50,12 +50,6 @@ Utilities:
 
  * irssi
 
-Network Manager:
-
- * network-manager-dbg
- * network-manager-gnome-dbg
- * libnm-util0-dbg
-
 Security:
 
  * nessus                 # client for nessus security testing and monitoring framework
@@ -119,7 +113,6 @@ Download:
  * python2.4-subversion
  * git-core
  * gitk
- * git-doc
  * git-email
  * bzrtools
  * python2.4-paramiko	# for bzr sftp support
@@ -145,9 +138,6 @@ Download:
 = Shells =
 
  * zsh
- * zsh-doc
- * zsh-dev
- * zsh-dbg
 
 = Desktop =
 
@@ -272,24 +262,9 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
  * doc-linux-html          # ColinWatson; basic HOWTOs and stuff from LDP
  * manpages-dev            # ColinWatson
- * gnupg-doc               # docs for gnupg
- * grub-doc                # docs for grub
- * ntp-doc                 # docs for ntp
- * python-elementtree-doc
  * ubuntu-faqguide
  * monodoc
  * monodoc-browser
- * ant-doc
- * libbcel-java-doc
- * libgtksourceview-doc
- * liblog4j1.2-java-doc
- * libjsch-java-doc
- * junit-doc
- * libgnujaxp-java-doc
- * libxalan2-java-doc
- * libxml-commons-resolver1.1-java-doc
- * rhino-doc
- * libcairo2-doc
  * diveintopython-zh
 
 = Rescued from Extra =
@@ -300,318 +275,65 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 automatically:
 
  * Extra-Exclude: lib*stdc++*   # we want to consider these individually
- * Extra-Exclude: *gfortran* libmudflap*
+ * Extra-Exclude: *gfortran* gpc*-doc libgnat*-dev libmudflap*
  * Extra-Exclude: libavformat-dev libpostproc-dev
  * Extra-Exclude: libgdchart-gd2-xpm-dev
  * Extra-Exclude: libgdome2-ocaml-dev
  * Extra-Exclude: libmpich-mpd1.0-dev libmpich-shmem1.0-dev
  * Extra-Exclude: libnetpbm9-dev
+ * Extra-Exclude: libavahi-compat-howl-dev
+ * Extra-Exclude: libboost-*-dev
+ * Extra-Exclude: libcairo-directfb2-dev
+ * Extra-Exclude: libcdio-*-dev libiso9660-dev
+
+Transitional packages:
+
+ * Extra-Exclude: atm-dev
+ * Extra-Exclude: mozilla-firefox-dev
+
+Exclude some KDE-specific pieces:
+
+ * Extra-Exclude: libdbus-qt-1-dev
+ * Extra-Exclude: libdcop3-java-dev
+ * Extra-Exclude: libindex0-dev
+ * Extra-Exclude: libpoppler-qt-dev
+ * Extra-Exclude: libqt4-debug-dev
+ * Extra-Exclude: libsmokekde-dev
 
 == Development ==
 
  * python-mode
  * libc6-prof [amd64 i386 powerpc sparc hppa]
  * libc6.1-prof [ia64]
- * console-tools-dev
- * dbus-qt-1-dev
- * dhcp3-dev
- * dictionaries-common-dev
- * evolution-dev
- * expect-dev
- * glutg3-dev
- * gnome-applets-dev
- * imlib1-dev
- * iptables-dev
- * libbind-dev
- * libblkid-dev
- * libcapi20-dev
- * libdc1394-11-dev
- * libdevhelp-1-dev
- * libdiscover1-dev
- * libecpg-dev
- * libevms-dev
- * libflac++-dev
- * libgle-dev
- * libglut3-dev
- * libgnomecupsui1.0-dev
- * libhfsp-dev
- * libklibc-dev
- * liblinc-dev
- * libmagic-dev
- * libmagick++6-dev
- * libnetpbm10-dev
- * libostyle-dev
- * libpaperg-dev
- * libpils-dev
- * libproc-dev
- * libqt3-dev
- * librdf0-dev
- * libreiser4-dev
- * librpm-dev
- * librrd0-dev
- * libscrollkeeper-dev
- * libsensors-dev
- * libslapd2-dev
- * libsp1-dev
- * libstlport4.6-dev
- * libsvn0-dev
- * libsyck0-dev
- * pciutils-dev
- * ppp-dev
- * python-egenix-mx-base-dev
- * python-gnome2-dev
- * python-gnome2-extras-dev
- * qt3-apps-dev
- * xorg-dev # will come in during first edgy merge
- * libdmx-dev
- * libxevie-dev
- * libxfixes-dev
- * libxcomposite-dev
- * libxdamage-dev
- * libfs-dev
- * libxau-dev
- * libxdmcp-dev
- * libxinerama-dev
- * libxp-dev
- * libxres-dev
- * libxss-dev
- * libxvmc-dev
- * libxaw8-dev
- * libxkbfile-dev
- * libxkbui-dev
- * libxxf86dga-dev
- * libxxf86misc-dev
- * libxxf86rush-dev
- * libxxf86vm-dev
- * lib64bz2-dev
- * lib64z1-dev
- * latex-ucs-dev
- * freeglut3-dbg
- * evolution-data-server-dbg
- * gnome-panel-dbg
- * gstreamer0.10-plugins-base-dbg
- * gstreamer0.10-plugins-good-dbg
- * libatk1.0-dbg
- * libatspi-dbg
- * libc6-dbg [amd64 i386 powerpc sparc hppa]
- * libc6.1-dbg [ia64]
- * libcurl3-dbg
- * libdps1-dbg
- * libfontconfig1-dbg
- * libgail-dbg
- * libgail-gnome-dbg
- * libgda2-dbg
- * libglib1.2-dbg
- * libglib2.0-0-dbg
- * libgnomedb2-dbg
- * libgnomeui-0-dbg
- * libgoffice-1-2-dbg
- * libgoffice-gtk-1-2-dbg
- * libgsf-1-114-dbg
- * libgsf-gnome-1-114-dbg
- * libgstreamer0.10-0-dbg
- * libgtk1.2-dbg
- * libgtk2.0-0-dbg
- * libgtkhtml3.8-dbg
- * libice6-dbg
- * libncurses5-dbg
- * libncursesw5-dbg
- * libneon25-dbg
- * libopal-dbg
- * libpanel-applet2-0-dbg
- * libpango1.0-0-dbg
- * libparted1.7-dbg
- * libreadline4-dbg
- * libruby1.8-dbg
- * libsexy2-dbg
- * libsm6-dbg
- * libssl0.9.8-dbg
- * libstdc++6-4.0-dbg
- * libstdc++6-dbg
- * libtotem-plparser1-dbg
- * libx11-6-dbg
- * libxaw6-dbg
- * libxaw7-dbg
- * libxcursor1-dbg
- * libxext6-dbg
- * libxfont1-dbg
- * libxft2-dbg
- * libxi6-dbg
- * libxmu6-dbg
- * libxmuu1-dbg
- * libxp6-dbg
- * libxpm4-dbg
- * libxrandr2-dbg
- * libxrender1-dbg
- * libxslt1-dbg
- * libxt6-dbg
- * libxtrap6-dbg
- * libxtst6-dbg
- * libxv1-dbg
- * libgl1-mesa-dbg
- * xlibs-dbg
- * xserver-xorg-dbg
- * libdmx1-dbg
- * libxevie1-dbg
- * libxfixes3-dbg
- * libxcomposite1-dbg
- * libxdamage1-dbg
- * libfs6-dbg
- * libxau6-dbg
- * libxdmcp6-dbg
- * libxinerama1-dbg
- * libxres1-dbg
- * libxss1-dbg
- * libxvmc1-dbg
- * libxaw8-dbg
- * libxkbfile1-dbg
- * libxkbui1-dbg
- * libxxf86dga1-dbg
- * libxxf86misc1-dbg
- * libxxf86rush1-dbg
- * libxxf86vm1-dbg
- * openoffice.org-dev
- * openoffice.org-dev-doc
+ * libstdc++6-4.1-dbg
  * openoffice.org-qa-tools
  * openoffice.org-qa-api-tests
  * openoffice.org-officebean
  * openoffice.org-help-br
  * openoffice.org-l10n-br
- * evolution-dbg
- * festival-dev
- * firefox-dbg
- * irssi-dev
  * libxsltc-java
- * rhythmbox-dbg
- * libdvdnav-dev
- * libdvdread-dev
- * xorg-dev
- * libxml2-dbg
 
 == Documentation ==
 
- * libsexy-doc
  * gimp-manual
  * gimp-help-en
  * gimp-help-de
  * gimp-help-sv
  * gimp-help-fr
  * doc-linux-text
- * linux-doc
  * gimp-helpbrowser
  * glade-doc-2
  * exim4-doc-html
- * abiword-doc
- * alcovebook-sgml-doc
- * apt-doc
- * aspell-doc
- * at-spi-doc
- * bash-doc
- * bind9-doc
- * binutils-doc
+ * libstdc++6-4.1-doc
+
+These *-doc packages are in separate source packages, so Extra-Includes won't catch them and they need to be listed explicitly.
+
  * bison-doc
- * bsh-doc
- * cdrtools-doc
- * courier-doc
- * cpp-doc
- * dbus-1-doc
- * debconf-doc
- * defoma-doc
  * diff-doc
- * doxygen-doc
- * dpkg-doc
- * epydoc-doc
- * flex-doc
- * fontforge-doc
- * g77-doc
- * gcc-doc
- * gettext-doc
- * gimpprint-doc
- * gle-doc
- * glibc-doc
- * glut-doc
- * gnat-4.0-doc
- * gnumeric-doc
- * gok-doc
- * gstreamer0.10-doc
- * gstreamer0.10-plugins-good-doc
- * guile-1.6-doc
- * hal-doc
- * icu-doc
- * indent-doc
- * isdnutils-doc
- * kdebase-doc
- * krb5-doc
- * lapack3-doc
- * libapt-pkg-doc
- * libasound2-doc
- * libatk1.0-doc
- * libgail-doc
- * libgcrypt-doc
- * libgcrypt7-doc
- * libgda2-doc
- * libgimp2.0-doc
- * libgimpprint1-doc
- * libgle-doc
- * libglib2.0-doc
- * libgmp3-doc
- * libgnome2-doc
- * libgnomecanvas2-doc
- * libgnomedb2-doc
- * libgnomeprint2.2-doc
- * libgnomeprintui2.2-doc
- * libgnomeui-doc
- * libgtk2.0-doc
- * libopal-doc
- * libpam-doc
- * libpanel-applet2-doc
- * libpango1.0-doc
- * libportaudio-doc
- * libpt-doc
- * libstdc++6-4.0-doc
- * libt1-doc
- * libtemplate-perl-doc
- * libtool-doc
- * libwmf-doc
- * libxml2-doc
- * lilo-doc
- * linux-wlan-ng-doc
- * lua50-doc
- * m4-doc
+ * gnupg-doc
  * make-doc
- * mesa-doc
- * mpi-doc
- * nas-doc
- * openslp-doc
- * parted-doc
- * pyopenssl-doc
- * python-doc
- * python-gnome2-desktop-doc
  * python-gtk2-doc
  * python-gtk2-tutorial
- * python-imaging-doc
- * python-ldap-doc
- * python-numarray-doc
- * python-reportlab-doc
- * python-scientific-doc
- * quagga-doc
- * recode-doc
- * refblas3-doc
- * sdf-doc
- * sgmls-doc
- * sharutils-doc
- * speex-doc
- * sqlite-doc
- * swig1.3-doc
- * tcl8.4-doc
- * tetex-doc
- * tk8.4-doc
- * twisted-doc
- * vim-doc
- * yada-doc
- * latex-ucs-doc
- * libjline-java-doc
- * kmplayer-doc
 
 == System Administration ==
 
@@ -674,7 +396,6 @@ automatically:
 
  * ia32-libs [amd64 ia64]
  * ia32-libs-dev [amd64 ia64]
- * lib32bz2-dev [amd64]
  * miscfiles
 
 = Germinate workarounds =
