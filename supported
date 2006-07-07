@@ -27,8 +27,6 @@ Database:
 
 Email:
 
- * courier-pop-ssl
- * courier-imap-ssl
  * fetchmail
  * procmail
  * bogofilter
