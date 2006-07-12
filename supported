@@ -86,7 +86,6 @@ Download:
  * kernel-package
  * pychecker
  * exuberant-ctags   # ColinWatson
- * gnat-4.0		# build dependency of gnat-4.0
  * dpkg-dev-el
  * ant
  * linux32		# without it, biarch buildds can go wonky
