@@ -123,7 +123,6 @@ Email:
 
  * %dovecot                   # ThomMay
  * %exim4
- * %cyrus21-imapd
  * %postfix
 
 Must also consider webmail and so on...
