@@ -252,6 +252,7 @@ Ubuntu artwork:
  * chkrootkit           # forensic detection of rootkit
  * xinetd               # JamesTroup, from hoglet
  * system-config-kickstart # Kickstart configuration GUI
+ * mknbi                # for creating etherboot images for LTSP
 
 = Documentation =
 
