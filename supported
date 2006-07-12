@@ -283,6 +283,7 @@ automatically:
  * Extra-Exclude: libboost-*-dev
  * Extra-Exclude: libcairo-directfb2-dev
  * Extra-Exclude: libcdio-*-dev libiso9660-dev
+ * Extra-Exclude: libxaw6*		# built from the same source as libxaw7*
 
 Transitional packages:
 
