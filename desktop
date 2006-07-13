@@ -76,11 +76,9 @@ Printing and printer configuration is a real weak spot in Debian, and in Linux i
 
 = GUI infrastructure =
 
- * xorg
+ * xorg				# this includes xserver-xorg->xserver-xorg-{input|driver}-* (no need to add specific drivers manually)
  * xterm
- * xserver-xorg-input-synaptics  # for enhanced touchpad features
  * xkeyboard-config              # XKB data now lives here
-
 
 Fonts:
 
