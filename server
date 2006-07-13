@@ -212,6 +212,7 @@ Download:
  * chkrootkit           # forensic detection of rootkit
  * xinetd               # JamesTroup, from hoglet
  * evms-cli
+ * evms-ncurses
  * libcap-bin
  * libpam-opie
  * opie-client
