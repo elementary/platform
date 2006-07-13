@@ -175,7 +175,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * sound-juicer
  * ssh-askpass-gnome
  * synaptic                # default GUI package manager
- * libgnome2-perl          # for synaptic
+ * libgnome2-perl          # so that the debconf GNOME frontend can be used from synaptic
  * totem                   # SebastienBacher
  * update-notifier
  * gdebi                   # view/install deb packages
