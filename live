@@ -27,3 +27,9 @@ These packages make up the Ubiquity live installer.
 
  * ubiquity-frontend-gtk
  * ubiquity-ubuntu-artwork
+
+Ubiquity needs full filesystem support for the partitioner.
+
+ * xfsprogs
+ * jfsutils
+ * hfsplus [powerpc]  # ColinWatson
