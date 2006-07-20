@@ -76,8 +76,8 @@ Printing and printer configuration is a real weak spot in Debian, and in Linux i
 
 = GUI infrastructure =
 
- * xorg				# this includes xserver-xorg->xserver-xorg-{input|video}-* (no need to add specific drivers manually)
- * xterm
+ * xorg                          # this includes xserver-xorg->xserver-xorg-{input|video}-* (no need to add specific drivers manually)
+ * xterm                         # Provide a backup terminal and complete X env.
  * xkeyboard-config              # XKB data now lives here
 
 Fonts:
