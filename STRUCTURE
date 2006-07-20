@@ -2,7 +2,7 @@ minimal:
 boot:
 standard: minimal
 desktop: minimal standard
-server: minimal standard
+server: boot minimal standard
 ship: boot minimal standard desktop
 live: minimal standard desktop
 ship-live: boot minimal standard desktop live
