@@ -136,7 +136,6 @@ FTP/TFTP:
 Other:
 
  * dhcp3-server
- * bind9                  # LaMontJones, will look silly without it :-)
  * snmp
  * snmpd
  * sensord
