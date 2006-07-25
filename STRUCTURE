@@ -3,10 +3,11 @@ boot:
 standard: minimal
 desktop: minimal standard
 dns-server: minimal standard
-server-ship: boot minimal standard dns-server
+lamp-server: minimal standard
+server-ship: boot minimal standard dns-server lamp-server
 ship: boot minimal standard desktop
 live: minimal standard desktop
 ship-live: boot minimal standard desktop live
 installer:
 development: minimal standard desktop
-supported: boot minimal standard desktop dns-server server-ship ship live ship-live development
+supported: boot minimal standard desktop dns-server lamp-server server-ship ship live ship-live development
