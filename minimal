@@ -61,7 +61,7 @@ Programs and packages necessary for both the proper functionality of the system 
 
  * adduser
  * apt
- * aptitude          # used by installer to install desktop etc.
+ * aptitude          # better text-mode package manager
  * apt-utils         # apt-extracttemplates is required for debconf preconfiguration
  * bzip2
  * console-tools
@@ -83,6 +83,7 @@ Programs and packages necessary for both the proper functionality of the system 
  * procps
  * sudo              # LaMontJones
  * sysklogd
+ * tasksel           # used by installer to install desktop etc.
  * tzdata
  * udev
  * usbutils
