@@ -147,6 +147,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * gnome-pilot-conduits
  * gnome-session
  * gnome-spell
+ * gnome-keyring-manager    # DanielHolbach (was never seeded, now even more important, that evolution uses it)
  * gnome-system-monitor     # SebastienBacher
  * gnome-volume-manager     # JeffWaugh, gives us an efficient autoplay framework
  * gnome-power-manager		# OliverGrawert finally ready for shipment
@@ -191,10 +192,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
 Themes: we will ship only the very best looking themes. We won't ship everything that Debian ships, just a custom package that includes the themes we want. These packages are included for size guidance until we have Ubuntu-specific packages.
 
  * gnome-themes
- * gtk2-engines-clearlooks
- * gtk2-engines-mist
- * gtk2-engines-industrial
- * gtk2-engines-smooth
+ * gtk2-engines			# DanielHolbach (gtk2-engines were merged into one package)
  * ubuntu-artwork
  * ubuntu-sounds
  * tangerine-icon-theme		# DanielHolbach (Mark's request)
