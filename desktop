@@ -248,6 +248,25 @@ Documentation:
  * doc-base			# integrates with scrollkeeper
  * ubuntu-docs
 
+= Development =
+
+Here we provide a minimal development environment sufficient to build kernel
+drivers, so that this is possible on the live CD and in scenarios where
+it is problematic to get these packages onto the installed system in order
+to compile a driver. -mdz
+
+ * gcc
+ * make
+ * linux-headers-686 [i386]
+ * linux-headers-powerpc [powerpc]
+ * linux-headers-powerpc64-smp [powerpc]
+ * linux-headers-amd64-generic [amd64]
+ * linux-headers-itanium-smp [ia64]
+ * linux-headers-mckinley-smp [ia64]
+ * linux-headers-sparc64 [sparc]
+ * linux-headers-hppa32 [hppa]
+ * linux-headers-hppa64 [hppa]
+
 = Other =
 
  * ubuntu-desktop # metapackage for everything here
