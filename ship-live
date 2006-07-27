@@ -5,20 +5,10 @@ packages.
 
 == Development ==
 
-These packages may be needed to compile kernel modules; their absence is
-often commented on in reviews.
+These packages are needed in order to build Ubuntu packages.
 
  * build-essential
  * fakeroot
- * linux-headers-386 [i386]
- * linux-headers-powerpc [powerpc]
- * linux-headers-powerpc64-smp [powerpc]
- * linux-headers-amd64-generic [amd64]
- * linux-headers-itanium-smp [ia64]
- * linux-headers-mckinley-smp [ia64]
- * linux-headers-sparc64 [sparc]
- * linux-headers-hppa32 [hppa]
- * linux-headers-hppa64 [hppa]
 
 == Hardware & Network Access ==
 
