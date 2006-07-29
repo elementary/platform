@@ -229,6 +229,7 @@ Accessibility tools:
  * screensaver-default-images
  * tsclient        # rdesktop/vnc/xdmcp client gui
  * xvncviewer      # needed by tsclient
+ * tomboy [i386 powerpc amd64 ia64 sparc]  # Sebastian Dröge, approved by mdz
 
 = Games =
 
