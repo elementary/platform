@@ -28,7 +28,7 @@
 
 == Essential ==
 
-These are packages which, in Debian, have "Essential: yes" in their control file.
+These are packages which have "Essential: yes" in their control file.
 
  * base-files
  * base-passwd    # ColinWatson
@@ -36,7 +36,6 @@ These are packages which, in Debian, have "Essential: yes" in their control file
  * bsdutils       # LaMontJones
  * coreutils
  * debianutils
- * dash
  * diff
  * dpkg
  * e2fsprogs
@@ -44,12 +43,13 @@ These are packages which, in Debian, have "Essential: yes" in their control file
  * grep
  * gzip
  * hostname
- * initscripts
  * login
+ * mktemp
  * mount          # LaMontJones
  * ncurses-base
  * ncurses-bin
  * perl-base
+ * python-minimal
  * sed
  * sysvinit
  * tar            # LaMontJones
@@ -102,17 +102,16 @@ These provide various networking services, all should be configured in a client-
  * wpasupplicant  # ScottJamesRemnant
 
  * ethtool
- * iputils-ping       # 
+ * iputils-ping
  * mii-diag
  * netcat             # FabioMassimoDiNitto
 
-= Feature Goals =
-
-These are Ubuntu key packages.
-
- * python             # a core feature goal for Ubuntu
-
-= Ubuntu =
+= Meta =
 
  * ubuntu-minimal     # Ubuntu-specific bits we want on every Ubuntu system
  * ubuntu-keyring     # for authenticated package downloads
+
+= Other =
+
+ * dash               # Much faster default shell
+ * python             # upstream doesn't want python-minimal shipped alone
