@@ -125,6 +125,7 @@ Download:
  * apt-listchanges
  * dput
  * pkgstriptranslations # for removing gettext data on the buildds
+ * pkg-create-dbgsym # automatic creation of debug symbols
  * hello
  * hello-debhelper
 
