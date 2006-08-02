@@ -4,7 +4,7 @@ We seed both linux-* and linux-image-* so that it's easier to build CD
 images without the restricted component. The linux-* kernels include
 restricted modules.
 
-Kernel-Stem: linux linux-image
+ * Kernel-Stem: linux linux-image
 
 == i386 ==
 
