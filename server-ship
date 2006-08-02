@@ -1,38 +1,44 @@
 = Kernel =
 
+We seed both linux-* and linux-image-* so that it's easier to build CD
+images without the restricted component. The linux-* kernels include
+restricted modules.
+
+Kernel-Stem: linux linux-image
+
 == i386 ==
 
- * linux-server [i386]
- * linux-server-bigiron [i386]
+ * ${Kernel-Stem}-server [i386]
+ * ${Kernel-Stem}-server-bigiron [i386]
  * linux-headers-server [i386]
  * linux-headers-server-bigiron [i386]
 
 == powerpc ==
 
- * linux-powerpc-smp [powerpc]
+ * ${Kernel-Stem}-powerpc-smp [powerpc]
  * linux-headers-powerpc-smp [powerpc]
 
 == amd64 ==
 
- * linux-amd64-server [amd64]
+ * ${Kernel-Stem}-amd64-server [amd64]
  * linux-headers-amd64-server [amd64]
 
 == sparc ==
 
- * linux-sparc64-smp [sparc]
+ * ${Kernel-Stem}-sparc64-smp [sparc]
  * linux-headers-sparc64-smp [sparc]
 
 == hppa ==
 
- * linux-hppa32-smp [hppa]
- * linux-hppa64-smp [hppa]
+ * ${Kernel-Stem}-hppa32-smp [hppa]
+ * ${Kernel-Stem}-hppa64-smp [hppa]
  * linux-headers-hppa32-smp [hppa]
  * linux-headers-hppa64-smp [hppa]
 
 == ia64 ==
 
- * linux-itanium [ia64]
- * linux-mckinley [ia64]
+ * ${Kernel-Stem}-itanium [ia64]
+ * ${Kernel-Stem}-mckinley [ia64]
  * linux-headers-itanium [ia64]
  * linux-headers-mckinley [ia64]
 
