@@ -182,6 +182,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * synaptic                # default GUI package manager
  * libgnome2-perl          # so that the debconf GNOME frontend can be used from synaptic
  * totem                   # SebastienBacher
+ * totem-mozilla
  * update-notifier
  * gdebi                   # view/install deb packages
  * vino # vnc server
