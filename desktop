@@ -115,6 +115,7 @@ Input methods:
 We've chosen GNOME as our desktop user interface of choice. Rather than using the meta-packages they are deliberately expanded so that we can select things a bit better.
 
  * bug-buddy             # potentially replaced with reportbug + b-b-like pygtk gui
+ * apport-gtk
  * contact-lookup-applet # experimental
  * deskbar-applet
  * desktop-file-utils
