@@ -127,7 +127,7 @@ modules instead.
  * installation-guide-ia64 [ia64]
  * installation-guide-powerpc [powerpc]
  * installation-guide-sparc [sparc]
- * oem-config   # this is small; it can be removed if there's space pressure, but it makes the OEM installer a lot easier to test
+ * oem-config-gtk
 
 == Transitional packages ==
 
