@@ -49,6 +49,9 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * iso-scan # for USB boot
  * jfsutils-udeb
  * kbd-chooser
+ * console-setup-udeb
+ * console-setup-pc-ekmap
+ * console-setup-fonts-udeb
  * libdevmapper1.02-udeb
  * libfribidi0-udeb
  * libparted1.7-udeb
