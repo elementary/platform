@@ -258,8 +258,7 @@ kill if we run out of space
  * cupsys-client                # gives us cancel, cupstestppd, lp, lpoptions, lppasswd, lpstat, cupsaddsmb, accept, lpadmin, lpinfo, lpmove
  * foomatic-db-engine           # integrate the foomatic printer driver engine
  * foomatic-db                  # the foomatic printer driver database
- * foomatic-filters             # converter from postscript to printer-specific
-formats
+ * foomatic-filters             # converter from postscript to printer-specific formats
  * foomatic-db-gutenprint       # printer drivers from the gimp-print project
  * foomatic-db-hpijs            # printer drivers from the hp inkjet project
  * foomatic-filters-ppds        # a ton of ppds, large but gives us very comprehensive printer support
