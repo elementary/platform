@@ -107,15 +107,11 @@ modules instead.
  * language-pack-${Languages}
  * language-pack-gnome-${Languages}
  * Languages: pt ru ja de fr
- * language-pack-${Languages} [i386 amd64]
- * language-pack-gnome-${Languages} [i386 amd64]
+ * language-pack-${Languages} [i386]
+ * language-pack-gnome-${Languages} [i386]
 
  # other languages, alphabetically, up to CD limit
  * Languages: af am as az be bg br bs ca co cs cy da el eo et eu
- * language-pack-${Languages} [i386 amd64]
- * language-pack-gnome-${Languages} [i386 amd64]
-
- * Languages: fa fi ga gl gu he hr hu ia id is it ka kn ko ku lg li lo lt lv mg mi mk ml mn mr ms my nb ne nl nn no or pa pl rm ro rw se si sk
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
 
