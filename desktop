@@ -115,14 +115,14 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
 
  * bug-buddy             # potentially replaced with reportbug + b-b-like pygtk gui
  * apport-gtk
- * contact-lookup-applet # experimental
+ * contact-lookup-applet
  * deskbar-applet
  * desktop-file-utils
  * eog
- * evolution # experimental
+ * evolution
  * evolution-plugins
- * evolution-exchange # experimental
- * evolution-webcal # experimental
+ * evolution-exchange
+ * evolution-webcal
  * file-roller           # SebastienBacher
  * gaim
  * gcalctool             # SebastienBacher
