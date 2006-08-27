@@ -121,12 +121,6 @@ modules instead.
 
 == Installer ==
 
- * installation-guide-amd64 [amd64]
- * installation-guide-hppa [hppa]
- * installation-guide-i386 [i386]
- * installation-guide-ia64 [ia64]
- * installation-guide-powerpc [powerpc]
- * installation-guide-sparc [sparc]
  * oem-config-gtk
 
 == Transitional packages ==
