@@ -3,15 +3,19 @@
  * language-pack-gnome-${Languages}
  * language-support-${Languages}
 
- * Languages: zh es bn hi ar xh pt ru
+ * Languages: zh es bn hi ar
  * language-pack-${Languages}
  * language-pack-gnome-${Languages}
 
- * Languages: ja de
- * language-pack-${Languages} [amd64 i386 sparc powerpc hppa]
- * language-pack-gnome-${Languages} [amd64 i386 sparc powerpc hppa]
+ * Languages: xh pt ru
+ * language-pack-${Languages} [amd64 i386 hppa powerpc sparc]
+ * language-pack-gnome-${Languages} [amd64 i386 hppa powerpc sparc]
 
- * Languages: fr af am an as az be bg br bs ca co cs cy da el eo et eu fa fi fo ga gl
+ * Languages: ja de
+ * language-pack-${Languages} [i386 sparc hppa]
+ * language-pack-gnome-${Languages} [i386 sparc hppa]
+
+ * Languages: fr
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
 
