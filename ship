@@ -122,13 +122,4 @@ modules instead.
 
 == Transitional packages ==
 
- * openoffice.org2 [i386 powerpc amd64 sparc]		# transition packages
- * openoffice.org2-base [i386 powerpc amd64 sparc]	# size: 800 bytes/each
- * openoffice.org2-calc [i386 powerpc amd64 sparc]
- * openoffice.org2-draw [i386 powerpc amd64 sparc]
- * openoffice.org2-gnome [i386 powerpc amd64 sparc]
- * openoffice.org2-impress [i386 powerpc amd64 sparc]
- * openoffice.org2-math [i386 powerpc amd64 sparc]
- * openoffice.org2-writer [i386 powerpc amd64 sparc]
- * openoffice.org2-evolution [i386 powerpc sparc]
  * openoffice.org-gtk-gnome [i386 powerpc amd64 sparc]
