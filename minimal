@@ -87,7 +87,7 @@ Programs and packages necessary for both the proper functionality of the system 
  * tzdata
  * udev
  * usbutils
- * vim
+ * vim-tiny
 
 == Networking ==
 
