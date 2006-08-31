@@ -32,6 +32,9 @@ modules instead.
  * xfsprogs
  * jfsutils
  * hfsplus [powerpc]  # ColinWatson
+ * lvm2
+ * mdadm
+ * dmsetup
 
 == Networking ==
 
