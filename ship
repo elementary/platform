@@ -107,10 +107,10 @@ modules instead.
  * language-support-${Languages}
 
  # most popular languages
- * Languages: zh es bn hi ar xh 
+ * Languages: zh es bn hi ar
  * language-pack-${Languages}
  * language-pack-gnome-${Languages}
- * Languages: pt ru ja de fr
+ * Languages: xh pt ru ja de fr
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
 
