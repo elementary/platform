@@ -38,6 +38,7 @@ Other:
 
  * avahi-daemon
  * racoon
+ * sysvinit  # ScottJamesRemnant retain support for now
 
 Utilities:
 
