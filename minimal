@@ -52,9 +52,14 @@ These are packages which have "Essential: yes" in their control file.
  * python-minimal
  * sed
  * tar            # LaMontJones
+ * util-linux     # LaMontJones
+
+Our init system:
+
  * upstart
  * upstart-compat-sysv
- * util-linux     # LaMontJones
+ * startup-tasks
+ * system-services
 
 == Comfortable Unix System ==
 
