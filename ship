@@ -121,6 +121,7 @@ modules instead.
 
 == Installer ==
 
+ * console-setup # will move to minimal shortly, pending upgrade path
  * oem-config-gtk
 
 == Transitional packages ==
