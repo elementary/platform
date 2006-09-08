@@ -49,7 +49,7 @@ These provide various networking services, all should be configured in a client-
  * ppp
  * pppconfig
  * pppoeconf
- * openssh-client # ColinWatson
+ * (openssh-client) # ColinWatson
  * rsync          # would be just client but they are the same binary apparently
  * w3m            # we need some text-based html presenter
  * wget           # FabioMassimoDiNitto
@@ -75,7 +75,7 @@ These are used for debugging problems or examining the system.
 
  * iputils-arping     # would have made my life easier at debconf
  * iputils-tracepath  # more secure sort of traceroute, will put compatibility symblink in for traceroute users
- * mtr-tiny           # LaMontJones
+ * (mtr-tiny)           # LaMontJones
  * tcpdump
 
 = Other =
