@@ -221,7 +221,7 @@ Accessibility tools:
  * openoffice.org-evolution [i386 powerpc]
  * xsane           # scanner utils
  * evince
- * gnome-screensaver
+ * (gnome-screensaver) # recommends to allow for xscreensaver to be used
  * rss-glx         # MRS, very slick screensavers
  * xscreensaver-gl # MRS, we will only ship a subset of the screensavers from rss-glx and xscreensaver
  * xscreensaver-data # subset package for the non-gl screensavers we ship
