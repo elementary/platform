@@ -258,8 +258,7 @@ to compile a driver. -mdz
 
  * gcc
  * make
- * (linux-headers-386) [i386]              # mvo: can be removed when -i386 is renamed to -generic (#56141)
- * (linux-headers-generic) [i386]
+ * (linux-headers-386) [i386]
  * (linux-headers-powerpc) [powerpc]
  * (linux-headers-powerpc64-smp) [powerpc]
  * (linux-headers-generic) [amd64]
