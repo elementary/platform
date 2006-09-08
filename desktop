@@ -258,12 +258,12 @@ to compile a driver. -mdz
 
  * gcc
  * make
- * linux-headers-686 [i386]
+ * linux-headers-generic [i386]
  * linux-headers-powerpc [powerpc]
  * linux-headers-powerpc64-smp [powerpc]
- * linux-headers-amd64-generic [amd64]
- * linux-headers-itanium-smp [ia64]
- * linux-headers-mckinley-smp [ia64]
+ * linux-headers-generic [amd64]
+ * linux-headers-itanium [ia64]
+ * linux-headers-mckinley [ia64]
  * linux-headers-sparc64 [sparc]
  * linux-headers-hppa32 [hppa]
  * linux-headers-hppa64 [hppa]

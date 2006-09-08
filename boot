@@ -24,13 +24,13 @@ restricted modules.
 
 == amd64 ==
 
- * ${Kernel-Stem}-amd64-generic [amd64]   # amd64 kernel, works on all machines though not optimised
+ * ${Kernel-Stem}-generic [amd64]         # amd64 kernel, works on all machines though not optimised
 
 == ia64 ==
 
  * elilo [i386 ia64]                      # also needed on Intel-based Macs
- * ${Kernel-Stem}-itanium-smp [ia64]      # ia64 kernel, works on all machines
- * ${Kernel-Stem}-mckinley-smp [ia64]     # ia64 kernel, all Itanium II machines
+ * ${Kernel-Stem}-itanium [ia64]          # ia64 kernel, works on all machines
+ * ${Kernel-Stem}-mckinley [ia64]         # ia64 kernel, all Itanium II machines
 
 == sparc ==
 
