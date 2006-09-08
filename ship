@@ -53,6 +53,7 @@ modules instead.
  * devscripts          # Debian package development
  * bzr                 # Obvious
  * cvs                 # RobertCollins
+ * linux-headers-generic [i386]
 
 == Common UNIX stuff ==
 
