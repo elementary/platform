@@ -70,6 +70,7 @@ Programs and packages necessary for both the proper functionality of the system 
  * aptitude          # better text-mode package manager
  * apt-utils         # apt-extracttemplates is required for debconf preconfiguration
  * bzip2
+ * console-setup     # https://launchpad.net/distros/ubuntu/+spec/sane-installer-keyboard
  * console-tools
  * debconf
  * eject             # very popular, useful, small
