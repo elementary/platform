@@ -273,6 +273,7 @@ to compile a driver. -mdz
  * ubuntu-desktop # metapackage for everything here
  * anacron # generally appropriate for desktops
  * usplash
+ * usplash-theme-ubuntu
  * libxp6 # required for some third party apps. See #15739
  * libpam-foreground
  * (example-content) # dholbach: dapper feature goal (wiki.ubuntu.com/ExampleContent)
