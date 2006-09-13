@@ -51,6 +51,8 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * kbd-chooser
  * console-setup-udeb
  * console-setup-pc-ekmap
+ * console-setup-sun4-ekmap [sparc]
+ * console-setup-sun5-ekmap [sparc]
  * console-setup-fonts-udeb
  * libdevmapper1.02-udeb
  * libfribidi0-udeb
@@ -138,15 +140,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 = Kickstart Compatibility =
 
  * initrd-kickseed
-
-= Keymaps =
-
- * console-keymaps-at
- * console-keymaps-mac [powerpc]
- * console-keymaps-sun [sparc]
- * console-keymaps-usb
-
- * console-keymaps-tree
 
 = Partition Management (architecture-specific) =
 
