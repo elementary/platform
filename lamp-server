@@ -4,6 +4,7 @@ Task-Extended-Description: Selects a ready-made Linux/Apache/MySQL/PHP server.
 Task-Key: apache2, mysql-server
 
  * apache2
+ * apache2-mpm-prefork
  * php5-mysql
  * libapache2-mod-php5
  * mysql-server
