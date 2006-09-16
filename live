@@ -3,6 +3,7 @@ Task-Section: user
 Task-Description: Ubuntu live CD
 Task-Extended-Description: This task provides the extra packages installed on the Ubuntu live CD.
 Task-Relevance: 2
+Task-Key: ubiquity-frontend-gtk
 Task-Test-new-install: skip show
 
  * Languages: en
