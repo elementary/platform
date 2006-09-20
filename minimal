@@ -58,6 +58,7 @@ Our init system:
 
  * upstart
  * upstart-compat-sysv
+ * upstart-logd
  * startup-tasks
  * system-services
 
