@@ -135,7 +135,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * gnome-btdownload       # simple GNOME frontend for bittorrent downloads
  * gnome-control-center
  * gnome-cups-manager
- * gnome-games
+ * (gnome-games)
  * gnome-icon-theme
  * gnome-media
  * gnome-menus
