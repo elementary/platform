@@ -334,10 +334,14 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
 
  * bison-doc
  * diff-doc
+ * gawk-doc
+ * gdb-doc
+ * glibc-doc-reference
  * gnupg-doc
  * make-doc
  * python-gtk2-doc
  * python-gtk2-tutorial
+ * tar-doc
 
 == System Administration ==
 
