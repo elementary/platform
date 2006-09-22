@@ -284,4 +284,4 @@ to compile a driver. -mdz
 = Germinate workarounds =
 
  * libglut3 # depended upon by freeglut3
-
+ * libgl1-mesa-glx # depended upon by freeglut3
