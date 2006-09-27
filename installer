@@ -48,7 +48,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * iso-3166-udeb
  * iso-scan # for USB boot
  * jfsutils-udeb
- * kbd-chooser
  * console-setup-udeb
  * console-setup-pc-ekmap
  * console-setup-sun4-ekmap [sparc]
