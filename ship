@@ -107,7 +107,7 @@ modules instead.
  * language-pack-gnome-${Languages} [i386]
 
  # other languages, alphabetically, up to CD limit
- * Languages: af am as az be bg br bs ca co cs cy da el eo et eu
+ * Languages: af am as az be bg br bs ca co cs cy da el eo
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
 
