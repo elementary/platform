@@ -278,7 +278,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 automatically:
 
  * Extra-Exclude: lib*stdc++*   # we want to consider these individually
- * Extra-Exclude: *gfortran* gpc*-doc libgnat*-dev libmudflap*
+ * Extra-Exclude: *gfortran* gpc*-doc libgnat*-dev libmudflap* gnat-doc
  * Extra-Exclude: libavformat-dev libpostproc-dev
  * Extra-Exclude: libgdchart-gd2-xpm-dev
  * Extra-Exclude: libgdome2-ocaml-dev
