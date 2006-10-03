@@ -105,6 +105,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * pkgsel # after installing the base system, install everything else
  * ppp-udeb
  * preseed-common
+ * reiserfsprogs-udeb
  * rescue-check # initrd part of rescue mode
  * rescue-mode  # main part of rescue mode, installed if rescue/enable=true
  * rootskel
