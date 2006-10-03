@@ -45,6 +45,7 @@ Utilities:
  * analog                 # essential for any web server, possible candidate for desktop integration
  * graphviz
  * logcheck		  # great security tool for any server
+ * logcheck-database	  # useful for above
 
 = Network =
 
