@@ -53,6 +53,7 @@ These are packages which have "Essential: yes" in their control file.
  * sed
  * tar            # LaMontJones
  * util-linux     # LaMontJones
+ * util-linux-locales
 
 Our init system:
 
