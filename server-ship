@@ -226,7 +226,6 @@ Download:
  * autofs
  * awstats
  * acct
- * nagios                       # SECURITAH REVIEW
  * authbind                     # BIGGER SECURITAH REVIEW
  * siege
  * bonnie++
