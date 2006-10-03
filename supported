@@ -356,7 +356,6 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
  * autofs
  * awstats
  * acct
- * nagios                       # SECURITAH REVIEW
  * authbind                     # BIGGER SECURITAH REVIEW
  * siege
  * bonnie++
