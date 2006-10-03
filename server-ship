@@ -49,6 +49,7 @@ restricted modules.
  * lsb-cxx
  * ntp
  * ntp-simple
+ * ntp-server
  * nis
  * mailx
  * mutt
