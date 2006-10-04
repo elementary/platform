@@ -371,6 +371,7 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
  * %linux-meta
  * linux-kernel-devel
  * linux-image-debug-*
+ * linux-image-kdump
 
 = Database =
 
