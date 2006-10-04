@@ -1,3 +1,9 @@
+Task-Section: user
+Task-Relevance: 9
+Task-Description: Minimal base system
+Task-Extended-Description: This task installs the core of an Ubuntu-based system.
+Task-Test-new-install: install skip
+
 = Hardware and Architecture Support =
 
 == Generic ==
