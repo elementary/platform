@@ -58,6 +58,7 @@ Basic network services and Windows integration.
 These packages help with system integration
 
  * libsasl2-modules    # allows integration with MTA and login system
+ * avahi-daemon
 
 = Printing =
 

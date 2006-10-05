@@ -36,7 +36,6 @@ Must also consider webmail and so on...
 
 Other:
 
- * avahi-daemon
  * racoon
  * sysvinit  # ScottJamesRemnant retain support for now
 
