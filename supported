@@ -42,6 +42,7 @@ Other:
 
  * racoon
  * sysvinit  # ScottJamesRemnant retain support for now
+ * linuxprinting.org-ppds # We want those in main, but not for desktop.
 
 Utilities:
 
