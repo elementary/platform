@@ -72,7 +72,6 @@ Printing and printer configuration is a real weak spot in Debian, and in Linux i
  * foomatic-db                  # the foomatic printer driver database
  * foomatic-filters             # converter from postscript to printer-specific formats
  * foomatic-db-hpijs            # printer drivers from the hp inkjet project
- * linuxprinting.org-ppds
  * cupsys-driver-gutenprint     # a ton of cupsys ppds, for real comprehensive printer support
  * pnm2ppa                      # several ppds require this
  * gs-esp			# some ppds require this, in place of standard gs
