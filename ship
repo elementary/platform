@@ -119,4 +119,5 @@ modules instead.
 == Transitional packages ==
 
  * openoffice.org-gtk-gnome [i386 powerpc amd64 sparc]
+ * openoffice.org-l10n-en-us	# mvo: make dapper->edgy cdrom upgrades happy
  * linux-image-amd64-generic [amd64]
