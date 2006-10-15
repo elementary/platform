@@ -1,7 +1,3 @@
-# Only per-derivative for historical reasons because the archive already has
-# ubuntu-standard etc. We should fix this, since it's never really been
-# sensible for standard to be per-derivative.
-Task-Per-Derivative: 1
 Task-Section: user
 Task-Relevance: 8
 Task-Description: Standard system
