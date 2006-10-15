@@ -429,6 +429,11 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
 
 = Installer =
 
+ # Too late for edgy, but will become the default kernel udeb set later
+ * Kernel-Version: 2.6.17-10-generic
+ * /^.*-firmware-.*-generic-di/ [i386]
+ * /^.*-modules-.*-generic-di/ [i386]
+
  * debian-installer # also has side-effect of pulling in installer image build system
  * gfxboot
  * gfxboot-theme-ubuntu
