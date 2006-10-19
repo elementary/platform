@@ -218,8 +218,8 @@ Accessibility tools:
 
 = Other Desktop GUI Apps =
 
+ * openoffice.org-gnome [i386 powerpc amd64]  # before OOo to avoid openoffice.org-style-default
  * openoffice.org [i386 powerpc amd64]
- * openoffice.org-gnome [i386 powerpc amd64]
  * openoffice.org-evolution [i386 powerpc]
  * xsane           # scanner utils
  * evince
