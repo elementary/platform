@@ -16,6 +16,7 @@ These packages are needed in order to build Ubuntu packages.
  * eagle-usb-utils        # needed for some ADSL modems
  * bpalogin
  * ndiswrapper-utils [amd64 i386]
+ * ndiswrapper-utils-1.8 [amd64 i386]
 
  * ipppd
  * isdnutils-xtools
