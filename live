@@ -11,19 +11,11 @@ Task-Test-new-install: skip show
  * language-pack-gnome-${Languages}
  * language-support-${Languages}
 
- * Languages: zh es bn hi ar
+ * Languages: zh es bn hi ar xh pt ru ja de fr aa af am an as ast az be ber bg bo br bs bua ca ceb co cs csb cy da dv dz el eo et eu fa fi fil fo fur fy ga gd gl grc gu he hr hu hy ia id 
  * language-pack-${Languages}
  * language-pack-gnome-${Languages}
 
- * Languages: xh pt ru
- * language-pack-${Languages} [amd64 i386 hppa powerpc sparc]
- * language-pack-gnome-${Languages} [amd64 i386 hppa powerpc sparc]
-
- * Languages: ja de
- * language-pack-${Languages} [i386 sparc hppa]
- * language-pack-gnome-${Languages} [i386 sparc hppa]
-
- * Languages: fr
+ * Languages: is it jbo jv ka kab kk km kn ko ku ky la lb lg li lo lt lv mg mi mk 
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
 
