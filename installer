@@ -80,7 +80,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * netcfg
  * network-preseed
  * nobootloader
- * ntfstools-udeb # for ntfsresize
+ * ntfsprogs-udeb # for ntfsresize
  * oem-config-udeb # first-stage component of OEM installer
  * openssh-client-udeb
  * os-prober-udeb
