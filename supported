@@ -86,7 +86,10 @@ Download:
  * valgrind
  * autoconf
  * autoconf-doc      # Debian has this in non-free due to GFDL, but we're OK
+ * automake1.8
+ * automake1.8-doc
  * automake1.9
+ * automake1.9-doc
  * autotools-dev
  * libtool
  * ccache            # C/C++ development, package development
@@ -347,6 +350,7 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
  * make-doc
  * python-gtk2-doc
  * python-gtk2-tutorial
+ * scribus-doc
  * tar-doc
 
 == System Administration ==
