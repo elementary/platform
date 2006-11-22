@@ -260,11 +260,9 @@ kill if we run out of space
  * foomatic-db                  # the foomatic printer driver database
  * foomatic-filters             # converter from postscript to printer-specific formats
  * foomatic-db-hpijs            # printer drivers from the hp inkjet project
- * foomatic-filters-ppds        # a ton of ppds, large but gives us very comprehensive printer support
  * linuxprinting.org-ppds
  * cupsys-driver-gutenprint     # a ton of cupsys ppds, for real comprehensive printer support
  * pnm2ppa                      # several ppds require this
  * gs-esp                       # some ppds require this, in place of standard gs
  * hplip                        # support for HP all-in-one printers
- * hpijs-ppds                   # support for HP all-in-one printers
  * libxp6 # required for some third party apps. See #15739

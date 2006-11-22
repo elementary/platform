@@ -342,6 +342,8 @@ Exclude some KDE-specific pieces:
 
 These *-doc packages are in separate source packages, so Extra-Includes won't catch them and they need to be listed explicitly.
 
+ * automake1.8-doc
+ * automake1.9-doc
  * bison-doc
  * diff-doc
  * gawk-doc
