@@ -85,11 +85,7 @@ Download:
  * gdb
  * valgrind
  * autoconf
- * autoconf-doc      # Debian has this in non-free due to GFDL, but we're OK
- * automake1.8
- * automake1.8-doc
- * automake1.9
- * automake1.9-doc
+ * automake
  * autotools-dev
  * libtool
  * ccache            # C/C++ development, package development
@@ -278,6 +274,10 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * monodoc
  * monodoc-browser
  * diveintopython-zh
+ * autoconf-doc
+ * automake1.8-doc
+ * automake1.9-doc
+ * automake1.10-doc
 
 = Rescued from Extra =
 
