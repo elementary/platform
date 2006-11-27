@@ -116,6 +116,7 @@ modules instead.
 == Installer ==
 
  * oem-config-gtk
+ * mkvmlinuz # for nobootloader
 
 == Transitional packages ==
 
