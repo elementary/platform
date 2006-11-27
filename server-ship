@@ -60,26 +60,12 @@ restricted modules.
 
 = Cluster =
 
+ * redhat-cluster-suite
  * ocfs2-tools
  * libaio1
  * libaio-dev
- * ccs
- * cman
- * fence
- * fence-gnbd
- * gfs-tools
- * gnbd-client
- * gnbd-server
- * gulm
- * libgulm1
- * libmagma1
- * magma
- * magma-plugins
- * redhat-cluster-suite
- * rgmanager
  * ipvsadm
  * keepalived
- * clvm
  * multipath-tools
 
 = Servers and Daemons =
