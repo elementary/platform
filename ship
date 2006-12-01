@@ -106,7 +106,7 @@ modules instead.
  * language-pack-gnome-${Languages}
 
  # other languages, alphabetically, up to CD limit
- * Languages: aa af am as az be bg br bs ca co cs cy da el eo et eu fa fi fil fo fur fy ga gd gl grc gu he
+ * Languages: aa af am as az be bg br bs ca co cs cy da el eo et
  * language-pack-${Languages} [i386 amd64]
  * language-pack-gnome-${Languages} [i386 amd64]
  * Languages: hr hu hy ia id is it jbo jv
