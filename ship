@@ -101,12 +101,12 @@ modules instead.
  * language-support-${Languages}
 
  # most popular languages
- * Languages: es pt ru de fr
+ * Languages: es de fr
  * language-pack-${Languages}
  * language-pack-gnome-${Languages}
 
  # other languages, alphabetically, up to CD limit
- * Languages: zh bn hi ar xh aa af am as az be bg br bs ca co cs cy da el eo et ja 
+ * Languages:  ar xh aa af am as az be bg br bs ca co cs cy da el eo et ja 
  * language-pack-${Languages} [i386 amd64]
  * language-pack-gnome-${Languages} [i386 amd64]
  * Languages: hr hu hy ia id is it jbo jv
