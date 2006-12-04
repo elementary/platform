@@ -53,6 +53,7 @@ These tools are very commonly used by people who drop into a console shell to do
 Basic network services and Windows integration.
 
  * libnss-mdns         # IPv4 link-local DNS support
+ * avahi-autoipd       # IPv4 link-local interface configuration support
  * smbclient           # to access files on other SAMBA and Windows servers
  * wvdial              # for automatic dialup configuration via g-s-t
 
