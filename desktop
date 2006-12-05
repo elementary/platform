@@ -136,7 +136,8 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * gnome-about
  * gnome-applets
  * gnome-app-install
- * gnome-btdownload       # simple GNOME frontend for bittorrent downloads
+ # work around bug 74514 until python (>= 2.5) is available
+ #* gnome-btdownload       # simple GNOME frontend for bittorrent downloads
  * gnome-control-center
  * gnome-cups-manager
  * (gnome-games)
