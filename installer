@@ -177,9 +177,9 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == i386 ==
 
- * Kernel-Version: 2.6.19-7-386
- * /^.*-firmware-.*-386-di/ [i386]
- * /^.*-modules-.*-386-di/ [i386]
+ * Kernel-Version: 2.6.19-7-generic
+ * /^.*-firmware-.*-di/ [i386]
+ * /^.*-modules-.*-di/ [i386]
 
 == ia64 ==
 
