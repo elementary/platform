@@ -133,7 +133,7 @@ Other:
  * snmpd
  * sensord
  * lm-sensors
- * netkit-inetd
+ * openbsd-inetd
  * nbd-server
 
 Application Servers:
