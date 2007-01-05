@@ -18,7 +18,6 @@ modules instead.
  * lilo [amd64 i386]   # MattZimmerman wants this for server admins; needed for LVM installs
  * ntp                 # FabioMassimoDiNitto
  * ntp-simple
- * ntp-server
  * nfs-kernel-server   # need an NFS server
  * apache2-mpm-worker  # ThomMay; for simple file/web serving -> add zeroconf and we have swish mac os x style :-)
  * samba               # for Windows filesharing and integration
