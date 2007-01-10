@@ -20,7 +20,7 @@ modules instead.
  * ntp-simple
  * nfs-kernel-server   # need an NFS server
  * apache2-mpm-worker  # ThomMay; for simple file/web serving -> add zeroconf and we have swish mac os x style :-)
- * samba               # for Windows filesharing and integration
+ * samba  [amd64 i386] # for Windows filesharing and integration
  * nis                 # allows Kickstart to configure NIS
  * postfix             # LaMontJones; our chosen mail server
  * ltsp-server-standalone # for LTSP-on-install
