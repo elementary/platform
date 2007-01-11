@@ -127,10 +127,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * load-floppy
  * rootskel-bootfloppy
 
-= New Live CD Support =
-
- * dmsetup-udeb
-
 = Release File Authentication =
 
  * gpgv-udeb
