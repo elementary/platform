@@ -41,11 +41,6 @@ modules instead.
  * mailx
  * mutt                # ThomMay; we need a basic mail client, this is the best-smallest
 
-== NetworkManager ==
-
- * network-manager        # magical network configuration - if it works for you
- * network-manager-gnome  # desktop integration for network-manager
-
 == Development ==
 
  * build-essential
