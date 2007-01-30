@@ -12,8 +12,8 @@ Task-Test-new-install: skip show
  * language-support-${Languages}
 
  * Languages: zh es bn hi ar xh pt ru ja de fr
- * language-pack-${Languages}
- * language-pack-gnome-${Languages}
+ * language-pack-${Languages} [amd64 i386]
+ * language-pack-gnome-${Languages} [amd64 i386]
 
  * ntfsprogs
  * discover1    # for X autoconfiguration
