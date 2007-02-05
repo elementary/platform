@@ -77,7 +77,7 @@ Printing and printer configuration is a real weak spot in Debian, and in Linux i
  * cupsys-driver-gutenprint     # a ton of cupsys ppds, for real comprehensive printer support
  * linuxprinting.org-ppds       # Most common drivers we want in desktop; less common are in l-p-extra
  * pnm2ppa                      # several ppds require this
- * gs-esp			# some ppds require this, in place of standard gs
+ * gs-esp-x			# some ppds require this, in place of standard gs
  * (hplip)     			# support for HP all-in-one printers
  * min12xxw			# support for KonicaMinolta PagePro 1200W, 1300W printers
  * foo2zjs			# Support for printing to ZjStream-based printers
