@@ -145,6 +145,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * partman-efi [i386 ia64]
  * partman-newworld [powerpc]
  * partman-palo [hppa]
+ * partman-prep [powerpc]
 
 = Bootloader Installers =
 
