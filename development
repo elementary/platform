@@ -24,9 +24,9 @@ Moved from desktop:
  * python-imaging
  * python-imaging-sane
  * python-jabber
- * python2.4-dbus
- * python2.4-dictclient
- * python2.4-librdf
+ * python-dbus
+ * python-dictclient
+ * python-librdf
  * python-pycurl
  * python-ldap
  * python-mysqldb
@@ -47,8 +47,8 @@ Moved from desktop:
  * python-unit
  * python-xdg                   # SebastienBacher
  * python-xmpp
- * python2.4-libxml2
- * python2.4-libxslt1
+ * python-libxml2
+ * python-libxslt1
 
 Moved from supported:
 
@@ -61,7 +61,7 @@ Moved from supported:
  * python-numarray
  * python-twisted
  * python-tz            # zope3 only references python2.4-tz
- * python2.4-samba
+ * python-samba
  * idle             # Python IDE
  * python-pullparser        # modules, where python2.4-foo is in main
  * python-mechanize
