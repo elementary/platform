@@ -42,7 +42,7 @@ Other:
 
  * racoon
  * sysvinit  # ScottJamesRemnant retain support for now
- * linuxprinting.org-ppds-extra          # Less common printer drivers we don't want in main
+ * openprinting.org-ppds-extra          # Less common printer drivers we don't want in desktop
 
 Utilities:
 
