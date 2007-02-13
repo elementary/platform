@@ -413,6 +413,10 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
 
 = Transitional packages =
 
+ # renamed to openprinting.org-* during Feisty
+ * linuxprinting.org-ppds
+ * linuxprinting.org-ppds-extra
+
 = Miscellaneous =
 
  * ia32-libs [amd64 ia64]
