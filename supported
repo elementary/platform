@@ -92,7 +92,6 @@ Download:
  * kernel-package
  * pychecker
  * exuberant-ctags   # ColinWatson
- * dpkg-dev-el
  * ant
  * linux32		# without it, biarch buildds can go wonky
  * ocaml-native-compilers  # we support the source package anyway
