@@ -428,8 +428,6 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
 
 = Not quite ready for the default install yet =
 
- * utf8-migration-tool
-
 = Language packs =
 
  * /^language-pack-[^-]+$/
