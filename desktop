@@ -237,6 +237,7 @@ Accessibility tools:
  * xvncviewer      # needed by tsclient
  * tomboy [i386 powerpc amd64 ia64 sparc]  # Sebastian Dröge, approved by mdz
  * f-spot [i386 powerpc amd64 ia64 sparc]  # Andrew Mitchell, approved by mdz
+ * desktop-effects  # explicit Feisty goal
 
 = Games =
 
