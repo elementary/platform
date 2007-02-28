@@ -217,7 +217,11 @@ Download:
  * bonnie++
  * smartmontools   # hard disk diagnostics
 
--= Miscellaneous ==
+= Documentation =
+
+ * ubuntu-serverguide
+
+== Miscellaneous ==
 
  * ia32-libs [amd64 ia64]
  * miscfiles
