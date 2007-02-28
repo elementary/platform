@@ -103,9 +103,6 @@ modules instead.
  * Languages:  ar xh aa af am as az be bg br bs ca co cs cy da el eo et ja 
  * language-pack-${Languages} [i386 amd64]
  * language-pack-gnome-${Languages} [i386 amd64]
- * Languages: hr hu hy ia id is it jbo jv
- * language-pack-${Languages} [amd64]
- * language-pack-gnome-${Languages} [amd64]
 
 == Installer ==
 
