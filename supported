@@ -102,6 +102,7 @@ Download:
  * ecj-bootstrap-gcj
  * autopkgtest
  * cmake
+ * apport-retrace
 
 == Mono ==
 
