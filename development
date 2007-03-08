@@ -14,17 +14,12 @@ Moved from desktop:
  * python-gd                # MRS, 
  * python-genetic
  * python-geoip
- * python-glade2
- * python-gnome2            # SebastienBacher
  * python-gnupginterface
  * python-gst0.10
- * python-gtk2              # SebastienBacher
  * python-htmlgen
  * python-id3lib
- * python-imaging
  * python-imaging-sane
  * python-jabber
- * python-dbus
  * python-dictclient
  * python-librdf
  * python-pycurl
@@ -43,7 +38,6 @@ Moved from desktop:
  * python-pyxattr
  * python-reportlab
  * python-simpletal
- * python-sqlite
  * python-unit
  * python-xdg                   # SebastienBacher
  * python-xmpp
@@ -53,19 +47,10 @@ Moved from desktop:
 Moved from supported:
 
  * python-pygresql         # JamesTroup, from hoglet
- * python-psycopg          # used in launchpad
  * python-nevow
- * python-elementtree
- * python-uno
- * python-dbg
  * python-numarray
  * python-twisted
- * python-tz            # zope3 only references python2.4-tz
  * python-samba
  * idle             # Python IDE
  * python-pullparser        # modules, where python2.4-foo is in main
- * python-mechanize
- * python-clientform
- * python-pysqlite2
- * python-gobject
  * python-gpod
