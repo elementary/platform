@@ -112,6 +112,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * rootskel
  * save-logs
  * sparc-utils-udeb [sparc] # used for sbus detection
+ * strace-udeb # handy for debugging
  * tzsetup-udeb # first-stage timezone question
  * udev-udeb
  * udpkg
