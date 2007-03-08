@@ -17,6 +17,7 @@
  * squashfs-tools
  * reiser4progs
  * hfsplus
+ * gparted # used to be used by ubiquity; still useful sometimes
 
 == Cluster ==
 
