@@ -116,24 +116,24 @@ Input methods:
 
 We've chosen GNOME as our desktop user interface of choice. Rather than using the meta-packages they are deliberately expanded so that we can select things a bit better.
 
- * bug-buddy             # potentially replaced with reportbug + b-b-like pygtk gui
- * apport-gtk
- * contact-lookup-applet
- * deskbar-applet
- * desktop-file-utils
- * eog
- * evolution
- * evolution-plugins
- * evolution-exchange
+ * (bug-buddy)             # potentially replaced with reportbug + b-b-like pygtk gui
+ * (apport-gtk)
+ * (contact-lookup-applet)
+ * (deskbar-applet)
+ * (desktop-file-utils)
+ * (eog)
+ * (evolution)
+ * (evolution-plugins)
+ * (evolution-exchange)
  * evolution-webcal
- * file-roller           # SebastienBacher
- * gaim
- * gcalctool             # SebastienBacher
- * gconf-editor          # SebastienBacher
+ * (file-roller)
+ * (gaim)
+ * (gcalctool)
+ * gconf-editor
  * gdm
- * gedit
- * gimp
- * gimp-print		# DanielHolbach: enable printing in gimp (part of gutenprint package)
+ * (gedit)
+ * (gimp)
+ * (gimp-print)
  * gnome-about
  * gnome-applets
  * gnome-app-install
@@ -158,8 +158,8 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * gnome-system-tools
  * gnome-terminal
  * gnome-utils
- * gnome2-user-guide
- * ekiga
+ * (gnome2-user-guide)
+ * (ekiga)
  * libgnomevfs2-bin
  * libgnomevfs2-extra
  * libpt-plugins-v4l       # V4L1 plugins for use with ekiga
@@ -171,13 +171,13 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * hwdb-client-gnome
  * language-selector	   # MichaelVogt
  * metacity                # SebastienBacher
- * firefox
- * firefox-gnome-support
+ * (firefox)
+ * (firefox-gnome-support)
  * nautilus                # SebastienBacher
  * nautilus-cd-burner      # SebastienBacher
  * nautilus-sendto
  * notification-daemon           # backend for libnotify
- * rhythmbox               # SebastienBacher
+ * (rhythmbox)
  * serpentine		   # Oliver Grawert
  * scrollkeeper
  * alacarte		   # default menu editor
@@ -185,8 +185,8 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * ssh-askpass-gnome
  * synaptic                # default GUI package manager
  * libgnome2-perl          # so that the debconf GNOME frontend can be used from synaptic
- * totem                   # SebastienBacher
- * totem-mozilla
+ * (totem)
+ * (totem-mozilla)
  * update-notifier
  * gdebi                   # view/install deb packages
  * vino # vnc server
@@ -223,9 +223,9 @@ Accessibility tools:
 
 = Other Desktop GUI Apps =
 
- * openoffice.org-gnome [i386 powerpc amd64]  # before OOo to avoid openoffice.org-style-default
- * openoffice.org [i386 powerpc amd64]
- * openoffice.org-evolution [i386 powerpc]
+ * (openoffice.org-gnome) [i386 powerpc amd64]  # before OOo to avoid openoffice.org-style-default
+ * (openoffice.org) [i386 powerpc amd64]
+ * (openoffice.org-evolution) [i386 powerpc]
  * xsane           # scanner utils
  * evince
  * (gnome-screensaver) # recommends to allow for xscreensaver to be used
@@ -235,8 +235,8 @@ Accessibility tools:
  * screensaver-default-images
  * tsclient        # rdesktop/vnc/xdmcp client gui
  * xvncviewer      # needed by tsclient
- * tomboy [i386 powerpc amd64 ia64 sparc]  # Sebastian Dröge, approved by mdz
- * f-spot [i386 powerpc amd64 ia64 sparc]  # Andrew Mitchell, approved by mdz
+ * (tomboy) [i386 powerpc amd64 ia64 sparc]  # Sebastian Dröge, approved by mdz
+ * (f-spot) [i386 powerpc amd64 ia64 sparc]  # Andrew Mitchell, approved by mdz
  * desktop-effects  # explicit Feisty goal
 
 = Games =
@@ -286,7 +286,7 @@ to compile a driver. -mdz
  * libpam-foreground
  * (example-content) # dholbach: dapper feature goal (wiki.ubuntu.com/ExampleContent)
  * libstdc++5 [i386]	# doko: requested from some closed source applications
- * landscape-client
+ * (landscape-client)
  * readahead
 
 = Germinate workarounds =
