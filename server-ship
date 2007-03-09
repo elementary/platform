@@ -57,6 +57,20 @@ restricted modules.
  * devscripts
  * setserial
 
+== Filesystems ==
+
+ * xfsprogs
+ * jfsutils
+ * hfsplus [powerpc]  # ColinWatson
+ * lvm2
+ * mdadm
+ * dmsetup
+
+== For language support in the installer ==
+
+ * console-terminus
+ * unifont
+
 = Cluster =
 
  * redhat-cluster-suite
