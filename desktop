@@ -120,25 +120,24 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (apport-gtk)
  * (contact-lookup-applet)
  * (deskbar-applet)
- * (desktop-file-utils)
- * (eog)
+ * desktop-file-utils
+ * eog
  * (evolution)
  * (evolution-plugins)
  * (evolution-exchange)
  * evolution-webcal
- * (file-roller)
+ * file-roller
  * (gaim)
- * (gcalctool)
+ * gcalctool
  * gconf-editor
  * gdm
- * (gedit)
+ * gedit
  * (gimp)
  * (gimp-print)
  * gnome-about
  * gnome-applets
  * gnome-app-install
- # work around bug 74514 until python (>= 2.5) is available
- #* gnome-btdownload       # simple GNOME frontend for bittorrent downloads
+ * gnome-btdownload       # simple GNOME frontend for bittorrent downloads
  * gnome-control-center
  * gnome-cups-manager
  * (gnome-games)
