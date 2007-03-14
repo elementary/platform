@@ -28,3 +28,4 @@ These packages are needed in order to build Ubuntu packages.
  * libatm1	# suggested by ppp for PPP-over-ATM
  * setserial	# needed by folks with nonstandard serial ports
  * mouseemu	# needed on Macs with single-button mice
+ * ps3pf-utils [powerpc] # small utilities for PlayStation 3 systems
