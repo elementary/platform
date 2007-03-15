@@ -155,6 +155,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * grub-installer [amd64 i386]
  * lilo-installer [amd64 i386]
  * silo-installer [sparc]
+ * kboot-installer [powerpc]
  * yaboot-installer [powerpc]
  * palo-installer [hppa]
 
