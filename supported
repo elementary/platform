@@ -118,7 +118,6 @@ Download:
  * python2.4-subversion
  * git-core
  * gitk
- * git-email
  * bzrtools
  * python2.4-paramiko	# for bzr sftp support
 
