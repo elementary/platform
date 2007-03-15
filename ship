@@ -95,16 +95,6 @@ modules instead.
  * language-pack-gnome-${Languages}
  * language-support-${Languages}
 
- # most popular languages
- * Languages: es de fr
- * language-pack-${Languages} [i386 amd64]
- * language-pack-gnome-${Languages} [i386 amd64]
-
- # other languages, alphabetically, up to CD limit
- * Languages:  ar xh aa af am as az be bg br bs ca co cs cy da el eo et ja 
- * language-pack-${Languages} [i386 amd64]
- * language-pack-gnome-${Languages} [i386 amd64]
-
 == Installer ==
 
  * oem-config-gtk
