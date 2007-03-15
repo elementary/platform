@@ -279,6 +279,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * automake1.9-doc
  * automake1.10-doc
  * emacs21-common-non-dfsg # Non-DFSG docs
+ * packaging-guide
 
 = Rescued from Extra =
 
