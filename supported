@@ -300,6 +300,7 @@ automatically:
  * Extra-Exclude: libcdio-*-dev libiso9660-dev
  * Extra-Exclude: libxaw6*		# built from the same source as libxaw7*
  * Extra-Exclude: nvidia-glx-legacy-dev # nvidia-glx-legacy is unsupportable
+ * Extra-Exclude: python-qt3-gl-dbg # We don't want python-qt3-gl in main
 
 Transitional packages:
 
