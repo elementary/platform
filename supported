@@ -382,9 +382,12 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
 
 == Kernel ==
 
- * %linux-meta
+ * /^linux-(backports-modules-|headers-)?(386|686|amd64|generic|hppa|itanium|k7|mckinley|powerpc|ps3|server|sparc64).*/
+ * linux-doc
+ * linux-source
  * linux-kernel-devel
  * linux-image-debug-*
+ * vmware-*-kernel-modules
 
 = Database =
 
