@@ -111,6 +111,7 @@ Input methods:
 
  * (scim)
  * (scim-gtk2-immodule)
+ * (scim-tables-additional) [i386] # input support for language packs that we ship
 
 = Desktop GNOME Apps =
 
