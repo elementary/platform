@@ -67,6 +67,7 @@ These are used for debugging problems or examining the system.
  
  * inputattach # needed for serial mice
  * (command-not-found)
+ * (update-manager-core)  # needed for server based release upgrades
 
 == Network ==
 
