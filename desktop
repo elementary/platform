@@ -56,7 +56,7 @@ Basic network services and Windows integration.
  * avahi-autoipd       # IPv4 link-local interface configuration support
  * smbclient           # to access files on other SAMBA and Windows servers
  * wvdial              # for automatic dialup configuration via g-s-t
- * network-manager-gnome # see NetworkRoaming spec
+ * (network-manager-gnome) # see NetworkRoaming spec
 
 These packages help with system integration
 
