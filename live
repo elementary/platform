@@ -28,6 +28,8 @@ Task-Test-new-install: skip show
  * xresprobe
  * laptop-detect
 
+ * gparted
+
 == Ubiquity components ==
 
 These packages make up the Ubiquity live installer.
