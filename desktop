@@ -122,6 +122,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (contact-lookup-applet)
  * (deskbar-applet)
  * desktop-file-utils
+ * dcraw 		   # used by f-spot to display RAW images
  * eog
  * (evolution)
  * (evolution-plugins)
