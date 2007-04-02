@@ -386,7 +386,7 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
  * linux-doc
  * linux-source
  * linux-kernel-devel
- * /^linux-image-debug-.*(?<!lowlatency)$/
+# * /^linux-image-debug-.*(?<!lowlatency)$/
  * vmware-*-kernel-modules
 
 = Database =
