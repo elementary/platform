@@ -424,8 +424,6 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
 
 = Miscellaneous =
 
- * ia32-libs [amd64 ia64]
- * ia32-libs-dev [amd64 ia64]
  * miscfiles
 
 = Germinate workarounds =

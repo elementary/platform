@@ -288,7 +288,6 @@ to compile a driver. -mdz
  * libxp6 # required for some third party apps. See #15739
  * libpam-foreground
  * (example-content) # dholbach: dapper feature goal (wiki.ubuntu.com/ExampleContent)
- * libstdc++5 [i386]	# doko: requested from some closed source applications
  * (landscape-client)
  * readahead
 
