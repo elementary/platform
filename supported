@@ -110,6 +110,7 @@ Download:
  * autopkgtest
  * cmake
  * apport-retrace
+ * apport-cli
 
 == Mono ==
 
