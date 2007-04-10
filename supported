@@ -5,6 +5,7 @@
  * irda-utils
  * wacom-tools
  * palo            # hppa boot loader, but needed on other architectures to build hppa CD images
+ * ps3-kboot       # boot loader for Sony PlayStation 3
 
 == Bluetooth ==
 
