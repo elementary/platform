@@ -39,7 +39,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * fbset-udeb
  * file-preseed
  * finish-install
- * grepmap-udeb # speeds up hotplug
  * hdparm-udeb # not currently used, but may be used by cdrom-detect in the future
  * hw-detect
  * initrd-preseed
