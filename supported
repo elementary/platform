@@ -45,6 +45,12 @@ Other:
  * sysvinit  # ScottJamesRemnant retain support for now
  * openprinting.org-ppds-extra          # Less common printer drivers we don't want in desktop
 
+Printing:
+
+ * m2300w
+ * splix
+ * pxljr
+
 Utilities:
 
  * analog                 # essential for any web server, possible candidate for desktop integration
