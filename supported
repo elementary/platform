@@ -138,6 +138,7 @@ Download:
  * lintian
  * pbuilder          # ColinWatson
  * apt-listchanges
+ * apt-transport-https # sanctioned by MichaelVogt
  * dput
  * pkgstriptranslations # for removing gettext data on the buildds
  * pkg-create-dbgsym # automatic creation of debug symbols
