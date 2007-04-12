@@ -237,6 +237,7 @@ Ubuntu artwork:
  * dict
  * wdiff
  * libdb3-util
+ * xml-twig-tools  # we need libxml-twig-perl as build dep anyway, so we can as well support this binary
 
 = Libraries =
 
@@ -287,6 +288,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * automake1.10-doc
  * emacs21-common-non-dfsg # Non-DFSG docs
  * packaging-guide
+ * tulip-doc
 
 = Rescued from Extra =
 
