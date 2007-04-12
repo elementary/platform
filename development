@@ -11,6 +11,7 @@ Moved from desktop:
  * python-egenix-mxtools    # MRS, 
  * python-epydoc            # MRS, 
  * python-examples          # MRS, 
+ * python2.4-examples       # as long as we have 2.4 in main
  * python-gd                # MRS, 
  * python-genetic
  * python-geoip
