@@ -74,7 +74,12 @@ Download:
 = Desktop =
 
  * openoffice.org-gcj
- * openoffice.org-filter-so52
+ * openoffice.org-filter-binfilter
+ * libuno-cil
+ * openoffice.org-style-andromeda
+ * openoffice.org-style-default
+ * openoffice.org-style-industrial
+ * openoffice.org-style-tango
  * gnome-accessibility-themes-extras
 
 = Standards =
@@ -431,6 +436,8 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
  * latex-ucs-contrib
  * openoffice.org-help-en-gb
  * openoffice.org-l10n-en-gb
+ * openoffice.org-l10n-in	# dependency package for Indian locales
+ * openoffice.org-l10n-za	# dependency package for South African locales
 
 = Transitional packages =
 
@@ -454,7 +461,6 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
  * /^language-pack-gnome-[^-]+$/
  * /^language-support-[^-]+$/
  * openoffice.org-l10n-nr      # does not match a valid locale, so no l-support-*
- * openoffice.org-l10n-sh-yu   # does not match a valid locale, so no l-support-*
 
 = Installer =
 
