@@ -264,6 +264,7 @@ Ubuntu artwork:
  * libsdl1.2debian-alsa
  * libsdl1.2debian-esd
  * libsdl1.2debian-oss
+ * libgl1-mesa-swx11-i686
 
 = System Administration Tools =
 
