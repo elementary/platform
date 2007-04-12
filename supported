@@ -390,6 +390,7 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
 
  * flac
  * esound-clients
+ * eyed3			# we need to support the source anyway, harmless tool
 
 == Kernel ==
 
