@@ -95,7 +95,15 @@ modules instead.
  * language-pack-gnome-${Languages}
  * language-support-${Languages}
 
- * Languages: es xh pt de fr bn hi ar
+ * Languages: es xh de
+ * language-pack-${Languages}
+ * language-pack-gnome-${Languages}
+
+ * Languages: pt fr
+ * language-pack-${Languages} [i386 powerpc]
+ * language-pack-gnome-${Languages} [i386 powerpc]
+
+ * Languages: bn hi ar ru
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
 
