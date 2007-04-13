@@ -117,6 +117,8 @@ Download:
  * cmake
  * apport-retrace
  * apport-cli
+ * libservlet2.4-java-gcj # source needs to be in main anyway
+ * liblog4j1.2-java-gcj # source needs to be in main anyway
 
 == Mono ==
 
