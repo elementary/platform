@@ -169,36 +169,36 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == amd64 ==
 
- * Kernel-Version: 2.6.20-14-generic
+ * Kernel-Version: 2.6.20-15-generic
  * /^.*-firmware-.*-di/ [amd64]
  * /^.*-modules-.*-di/ [amd64]
 
 == hppa ==
 
- * Kernel-Version: 2.6.20-14-hppa32 2.6.20-14-hppa64
+ * Kernel-Version: 2.6.20-15-hppa32 2.6.20-15-hppa64
  * /^.*-firmware-.*-di/ [hppa]
  * /^.*-modules-.*-di/ [hppa]
 
 == i386 ==
 
- * Kernel-Version: 2.6.20-14-generic
+ * Kernel-Version: 2.6.20-15-generic
  * /^.*-firmware-.*-di/ [i386]
  * /^.*-modules-.*-di/ [i386]
 
 == ia64 ==
 
- * Kernel-Version: 2.6.20-14-itanium
+ * Kernel-Version: 2.6.20-15-itanium
  * /^.*-firmware-.*-di/ [ia64]
  * /^.*-modules-.*-di/ [ia64]
 
 == powerpc ==
 
- * Kernel-Version: 2.6.20-14-powerpc 2.6.20-14-powerpc64-smp
+ * Kernel-Version: 2.6.20-15-powerpc 2.6.20-15-powerpc64-smp
  * /^.*-firmware-.*-di/ [powerpc]
  * /^.*-modules-.*-di/ [powerpc]
 
 == sparc ==
 
- * Kernel-Version: 2.6.20-14-sparc64
+ * Kernel-Version: 2.6.20-15-sparc64
  * /^.*-firmware-.*-di/ [sparc]
  * /^.*-modules-.*-di/ [sparc]
