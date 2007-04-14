@@ -413,6 +413,18 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
  * /^linux-image-debug-.*(?<!lowlatency)$/
  * vmware-*-kernel-modules
 
+=== Transitional from dapper ===
+
+ * linux-image-686
+ * linux-image-amd64-k8
+ * linux-image-amd64-server
+ * linux-image-amd64-xeon
+ * linux-image-itanium-smp
+ * linux-image-k7
+ * linux-image-mckinley-smp
+ * linux-restricted-modules-itanium-smp
+ * linux-restricted-modules-mckinley-smp
+
 = Database =
 
  * libqt3c102-mt-mysql
