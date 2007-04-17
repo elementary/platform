@@ -96,14 +96,10 @@ modules instead.
  * language-support-${Languages}
 
  * Languages: es xh de
- * language-pack-${Languages}
- * language-pack-gnome-${Languages}
+ * language-pack-${Languages} [amd64 i386]
+ * language-pack-gnome-${Languages} [amd64 i386]
 
- * Languages: pt fr
- * language-pack-${Languages} [i386 powerpc]
- * language-pack-gnome-${Languages} [i386 powerpc]
-
- * Languages: bn hi ar ru
+ * Languages: pt fr bn hi ar ru
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
 
