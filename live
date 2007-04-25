@@ -24,9 +24,6 @@ Task-Test-new-install: skip show
  * language-pack-gnome-${Languages} [i386]
 
  * ntfsprogs
- * discover1    # for X autoconfiguration
- * xresprobe
- * laptop-detect
 
  * gparted
 
