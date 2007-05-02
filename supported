@@ -350,6 +350,8 @@ Exclude some KDE-specific pieces:
  * g++-4.2-multilib [amd64 i386 powerpc sparc]
  * gfortran-4.2-multilib [amd64 i386 powerpc sparc]
  * gobjc-4.2-multilib [amd64 i386 powerpc sparc]
+ * gcc-4.2-locales
+ * gcc-4.2-source
  * libstdc++6-4.1-dbg
  * libstdc++6-4.2-dbg
  * openoffice.org-qa-tools
@@ -366,6 +368,8 @@ Exclude some KDE-specific pieces:
  * gimp-help-de
  * gimp-help-sv
  * gimp-help-fr
+ * gfortran-doc
+ * gfortran-4.2-doc
  * doc-linux-text
  * gimp-helpbrowser
  * glade-doc-2
