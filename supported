@@ -344,7 +344,14 @@ Exclude some KDE-specific pieces:
  * python-mode
  * libc6-prof [amd64 i386 powerpc sparc hppa]
  * libc6.1-prof [ia64]
+ * g++-multilib [amd64 i386 powerpc sparc]
+ * gfortran-multilib [amd64 i386 powerpc sparc]
+ * gobjc-multilib [amd64 i386 powerpc sparc]
+ * g++-4.2-multilib [amd64 i386 powerpc sparc]
+ * gfortran-4.2-multilib [amd64 i386 powerpc sparc]
+ * gobjc-4.2-multilib [amd64 i386 powerpc sparc]
  * libstdc++6-4.1-dbg
+ * libstdc++6-4.2-dbg
  * openoffice.org-qa-tools
  * openoffice.org-qa-api-tests
  * openoffice.org-officebean
@@ -364,6 +371,7 @@ Exclude some KDE-specific pieces:
  * glade-doc-2
  * exim4-doc-html
  * libstdc++6-4.1-doc
+ * libstdc++6-4.2-doc
 
 These *-doc packages are in separate source packages, so Extra-Includes won't catch them and they need to be listed explicitly.
 
