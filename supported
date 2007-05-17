@@ -344,12 +344,7 @@ Exclude some KDE-specific pieces:
  * python-mode
  * libc6-prof [amd64 i386 powerpc sparc hppa]
  * libc6.1-prof [ia64]
- * g++-multilib [amd64 i386 powerpc sparc]
- * gfortran-multilib [amd64 i386 powerpc sparc]
- * gobjc-multilib [amd64 i386 powerpc sparc]
  * g++-4.2-multilib [amd64 i386 powerpc sparc]
- * gfortran-4.2-multilib [amd64 i386 powerpc sparc]
- * gobjc-4.2-multilib [amd64 i386 powerpc sparc]
  * gcc-4.2-locales
  * gcc-4.2-source
  * libstdc++6-4.1-dbg
