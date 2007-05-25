@@ -264,6 +264,6 @@ kill if we run out of space
  * openprinting.org-ppds
  * cupsys-driver-gutenprint     # a ton of cupsys ppds, for real comprehensive printer support
  * pnm2ppa                      # several ppds require this
- * gs-esp                       # some ppds require this, in place of standard gs
+ * ghostscript                  # some ppds require this
  * hplip                        # support for HP all-in-one printers
  * libxp6 # required for some third party apps. See #15739
