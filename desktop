@@ -241,7 +241,7 @@ Accessibility tools:
  * xscreensaver-data # subset package for the non-gl screensavers we ship
  * screensaver-default-images
  * tsclient        # rdesktop/vnc/xdmcp client gui
- * xvncviewer      # needed by tsclient
+ * xvnc4viewer      # needed by tsclient
  * (tomboy) [i386 powerpc amd64 ia64 sparc]  # Sebastian Dröge, approved by mdz
  * (f-spot) [i386 powerpc amd64 ia64 sparc]  # Andrew Mitchell, approved by mdz
  * desktop-effects  # explicit Feisty goal
