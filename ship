@@ -17,7 +17,6 @@ modules instead.
  * ssh
  * lilo [amd64 i386]   # MattZimmerman wants this for server admins; needed for LVM installs
  * ntp                 # FabioMassimoDiNitto
- * ntp-simple
  * nfs-kernel-server   # need an NFS server
  * apache2-mpm-worker [amd64 hppa i386 ia64 sparc]  # ThomMay; for simple file/web serving -> add zeroconf and we have swish mac os x style :-)
  * samba  [amd64 i386] # for Windows filesharing and integration

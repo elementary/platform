@@ -43,7 +43,7 @@ Other:
 
  * racoon
  * sysvinit  # ScottJamesRemnant retain support for now
- * openprinting.org-ppds-extra          # Less common printer drivers we don't want in desktop
+ * openprinting-ppds-extra          # Less common printer drivers we don't want in desktop
 
 Printing:
 
@@ -465,7 +465,7 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
 
 = Transitional packages =
 
- # renamed to openprinting.org-* during Feisty
+ # renamed to openprinting-* during Feisty
  * linuxprinting.org-ppds
  * linuxprinting.org-ppds-extra
 
