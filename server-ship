@@ -266,3 +266,9 @@ kill if we run out of space
  * ghostscript                  # some ppds require this
  * hplip                        # support for HP all-in-one printers
  * libxp6 # required for some third party apps. See #15739
+
+== Blacklist ==
+
+libavcodec cannot be shipped on CDs (c.f. Ubuntu technical board resolution 2007-01-02).
+
+ * !libavcodec*

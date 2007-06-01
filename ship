@@ -106,3 +106,9 @@ modules instead.
  * openoffice.org-gtk-gnome [i386 powerpc amd64 sparc]
  * openoffice.org-l10n-en-us	# mvo: make dapper->edgy cdrom upgrades happy
  * linux-image-amd64-generic [amd64]
+
+== Blacklist ==
+
+libavcodec cannot be shipped on CDs (c.f. Ubuntu technical board resolution 2007-01-02).
+
+ * !libavcodec*
