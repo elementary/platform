@@ -13,6 +13,7 @@ These packages are needed in order to build Ubuntu packages.
 == Hardware & Network Access ==
 
  * pptp-linux             # client for Microsoft-compatible VPN's, needed for some ISPs
+ * sl-modem-daemon	# needed for some Winmodems (see OutoftheboxWinmodem)
  * eagle-usb-utils        # needed for some ADSL modems
  * bpalogin
  * ndiswrapper-utils [amd64 i386]
