@@ -39,6 +39,7 @@ modules instead.
 
  * mailx
  * mutt                # ThomMay; we need a basic mail client, this is the best-smallest
+ * vlan                   # userland tools to config 8021q support
 
 == Development ==
 
