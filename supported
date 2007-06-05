@@ -301,6 +301,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
  * automake1.10-doc
  * emacs21-common-non-dfsg # Non-DFSG docs
  * packaging-guide
+ * %texlive-doc
 
 = Rescued from Extra =
 
@@ -458,6 +459,7 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
  * latex-ucs # UTF-8 support for LaTeX
  * latex-ucs-uninames
  * latex-ucs-contrib
+ * %texlive-lang
  * openoffice.org-help-en-gb
  * openoffice.org-l10n-en-gb
  * openoffice.org-l10n-in	# dependency package for Indian locales
