@@ -10,4 +10,5 @@ live: minimal standard desktop
 ship-live: boot minimal standard desktop live
 installer:
 development: minimal standard desktop
+mobile: boot minimal
 supported: boot minimal standard desktop dns-server lamp-server server-ship ship live ship-live development
