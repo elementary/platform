@@ -5,6 +5,7 @@
  * matchbox-window-manager
  * gtk2-engines-sapwood
  * dbus-x11
+ * sdk-default-x11
 
  * language-pack-en # XXX needed for Maemo translations to work
 
