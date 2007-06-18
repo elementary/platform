@@ -215,8 +215,6 @@ Download:
  * libpam-cracklib      # enables weak password checking during password change, should it be in desktop?
  * chkrootkit           # forensic detection of rootkit
  * xinetd               # JamesTroup, from hoglet
- * evms-cli
- * evms-ncurses
  * libcap-bin
  * libpam-opie
  * opie-client

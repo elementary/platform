@@ -190,7 +190,6 @@ Other:
  * emacs               # won't fit on CDs
  * emacs-el
  * emacs-nox
- * evms-gui            # gui tools for storage drive volume management
  * inkscape            # SVG drawing application
  * screem                  # MRS, our default html editor
  * vim-gnome
@@ -393,7 +392,6 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
 
 == System Administration ==
 
- * evms-cli
  * fbset
  * libcap-bin
  * libpam-opie
