@@ -200,6 +200,8 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * zenity
  * esound
  * (xdg-utils)		   # useful utilities
+ * xdg-user-dirs
+ * xdg-user-dirs-gtk
 
 Themes: we will ship only the very best looking themes. We won't ship everything that Debian ships, just a custom package that includes the themes we want. These packages are included for size guidance until we have Ubuntu-specific packages.
 
