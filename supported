@@ -180,7 +180,7 @@ Other:
  * dia-gnome           # useful but a bit specialist
  * finger
  * gftp-gtk
- * glade-gnome-2
+ * glade-gnome-3
  * memprof
  * pan
  * workrave            # RSI-avoidance
@@ -369,7 +369,6 @@ Exclude some KDE-specific pieces:
  * gfortran-4.2-doc
  * doc-linux-text
  * gimp-helpbrowser
- * glade-doc-2
  * exim4-doc-html
  * libstdc++6-4.1-doc
  * libstdc++6-4.2-doc
