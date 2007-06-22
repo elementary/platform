@@ -245,7 +245,6 @@ Accessibility tools:
  * xvnc4viewer      # needed by tsclient
  * (tomboy) [i386 powerpc amd64 ia64 sparc]  # Sebastian Dröge, approved by mdz
  * (f-spot) [i386 powerpc amd64 ia64 sparc]  # Andrew Mitchell, approved by mdz
- * desktop-effects  # explicit Feisty goal
  * (restricted-manager) # enable non-free graphics and other drivers easily
 
 = Games =
