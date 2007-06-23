@@ -4,6 +4,8 @@ Task-Description: Minimal base system
 Task-Extended-Description: This task installs the core of an Ubuntu-based system.
 Task-Test-new-install: install skip
 
+Note that some packages that form the core of an Ubuntu-based system are in the required seed, from which this seed inherits. The minimal seed describes those packages at Priority: important.
+
 = Hardware and Architecture Support =
 
 == Generic ==
@@ -30,45 +32,6 @@ Task-Test-new-install: install skip
  * libc6-sparcv9v [sparc]
  * sparc-utils [sparc]
 
-= UNIX =
-
-== Essential ==
-
-These are packages which have "Essential: yes" in their control file.
-
- * base-files
- * base-passwd    # ColinWatson
- * bash
- * bsdutils       # LaMontJones
- * coreutils
- * debianutils
- * diff
- * dpkg
- * e2fsprogs
- * findutils
- * grep
- * gzip
- * hostname
- * login
- * mktemp
- * mount          # LaMontJones
- * ncurses-base
- * ncurses-bin
- * perl-base
- * python-minimal
- * sed
- * tar            # LaMontJones
- * util-linux     # LaMontJones
- * util-linux-locales
-
-Our init system:
-
- * upstart
- * upstart-compat-sysv
- * upstart-logd
- * startup-tasks
- * system-services
-
 == Comfortable Unix System ==
 
 Programs and packages necessary for both the proper functionality of the system and that any user would expect to find on a modern Unix-like system.
@@ -80,28 +43,22 @@ Programs and packages necessary for both the proper functionality of the system 
  * bzip2
  * console-setup     # https://launchpad.net/distros/ubuntu/+spec/sane-installer-keyboard
  * console-tools
- * debconf
  * eject             # very popular, useful, small
  * gettext-base
  * gnupg             # introduce security from the very base
  * initramfs-tools   # needed for the Ubuntu kernel
  * less
  * libfribidi0       # right-to-left text support in newt
- * locales
  * lsb-release
- * makedev
- * mawk
  * module-init-tools # required for kernel 2.6
  * netbase
- * passwd
  * pciutils
- * procps
  * sudo              # LaMontJones
  * sysklogd
  * tasksel           # used by installer to install desktop etc.
- * tzdata
  * udev
  * usbutils
+ * util-linux-locales
  * vim-tiny
 
 == Networking ==
@@ -128,5 +85,4 @@ These provide various networking services, all should be configured in a client-
 
 = Other =
 
- * dash               # Much faster default shell
  * python             # upstream doesn't want python-minimal shipped alone
