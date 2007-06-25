@@ -136,6 +136,7 @@ Download:
  * gitk
  * bzrtools
  * python2.4-paramiko	# for bzr sftp support
+ * cvs
 
 == Package Maintainance ==
 

@@ -47,7 +47,6 @@ modules instead.
  * fakeroot
  * devscripts          # Debian package development
  * bzr                 # Obvious
- * cvs [i386 amd64]    # RobertCollins
 
 == Common UNIX stuff ==
 
