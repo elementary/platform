@@ -213,7 +213,6 @@ Other:
  * sabayon            # desktop profile management
  * tomboy
  * liferea
- * libgnomedb2-bin
  * gkbd-capplet      # we need to support the source anyway
 
 GNOME Office:
