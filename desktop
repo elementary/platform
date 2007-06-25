@@ -291,6 +291,7 @@ to compile a driver. -mdz
 
  * ubuntu-desktop # metapackage for everything here
  * anacron # generally appropriate for desktops
+ * (bogofilter)
  * usplash
  * usplash-theme-ubuntu
  * libxp6 # required for some third party apps. See #15739
