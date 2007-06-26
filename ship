@@ -89,11 +89,11 @@ modules instead.
  * language-pack-gnome-${Languages}
  * language-support-${Languages} [amd64 hppa i386 ia64 sparc]
 
- * Languages: es xh de
+ * Languages: es xh
  * language-pack-${Languages} [amd64 i386]
  * language-pack-gnome-${Languages} [amd64 i386]
 
- * Languages: pt fr bn hi ar ru
+ * Languages: pt de fr bn hi ar ru
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
 
