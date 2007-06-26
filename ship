@@ -16,12 +16,10 @@ modules instead.
 
  * ssh
  * lilo [amd64 i386]   # MattZimmerman wants this for server admins; needed for LVM installs
- * ntp                 # FabioMassimoDiNitto
  * nfs-kernel-server   # need an NFS server
  * apache2-mpm-worker [amd64 hppa i386 ia64 sparc]  # ThomMay; for simple file/web serving -> add zeroconf and we have swish mac os x style :-)
  * samba  [amd64 i386] # for Windows filesharing and integration
  * nis                 # allows Kickstart to configure NIS
- * postfix             # LaMontJones; our chosen mail server
  * ltsp-server-standalone [amd64 hppa i386 ia64 sparc] # for LTSP-on-install
  * ltsp-client [amd64 hppa i386 ia64 sparc]            # for LTSP-on-install
  * ldm [amd64 hppa i386 ia64 sparc] # seeded because its not a hard dependency of ltsp-client anymore
@@ -38,7 +36,6 @@ modules instead.
 == Networking ==
 
  * mailx
- * mutt                # ThomMay; we need a basic mail client, this is the best-smallest
  * vlan                   # userland tools to config 8021q support
 
 == Development ==
