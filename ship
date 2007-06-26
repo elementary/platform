@@ -90,7 +90,7 @@ modules instead.
  * language-pack-${Languages} [amd64 i386]
  * language-pack-gnome-${Languages} [amd64 i386]
 
- * Languages: pt de fr bn hi ar ru
+ * Languages: pt de fr
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
 
