@@ -176,7 +176,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * hwdb-client-gnome
  * language-selector	   # MichaelVogt
  * metacity                # SebastienBacher
- * compiz		   # compiz is our default WM 'mkay
+ * (compiz)		   # compiz is our default WM 'mkay
  * (firefox)
  * (firefox-gnome-support)
  * nautilus                # SebastienBacher
