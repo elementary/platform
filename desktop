@@ -180,6 +180,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (compiz)		   # compiz is our default WM 'mkay
  * (firefox)
  * (firefox-gnome-support)
+ * (ubufox)                # ubuntu firefox tweaks - AlexanderSack
  * nautilus                # SebastienBacher
  * nautilus-cd-burner      # SebastienBacher
  * nautilus-sendto
