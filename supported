@@ -496,6 +496,7 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
  * cdebconf # useful for testing, but not used by default yet
 
  * casper # needed by live CD build system
+ * livecd-rootfs # live CD build script
 
  * installation-guide-amd64 [amd64]
  * installation-guide-hppa [hppa]
