@@ -1,0 +1,8 @@
+
+= Stuff we want from mobile =
+
+ * Mobile-Include: *-dbg *-debug *-dev *-doc
+ * Mobile-Exclude: libavahi-qt4-dev
+ * Mobile-Exclude: python*-dbg
+ * Mobile-Exclude: defoma-doc
+
