@@ -24,7 +24,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * choose-mirror
  * clock-setup
  * debootstrap-udeb
- * dhcp-client-udeb
+ * dhcp3-client-udeb
  * di-utils
  * di-utils-mapdevfs
  * di-utils-reboot
