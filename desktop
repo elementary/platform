@@ -200,7 +200,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * vino # vnc server
  * yelp
  * zenity
- * esound
  * (xdg-utils)		   # useful utilities
  * xdg-user-dirs
  * xdg-user-dirs-gtk
