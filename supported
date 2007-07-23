@@ -486,7 +486,7 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
 = Installer =
 
  # Used for netboot installations
- * Kernel-Version: 2.6.20-15-386
+ * Kernel-Version: 2.6.22-8-386
  * /^.*-firmware-.*-386-di/ [i386]
  * /^.*-modules-.*-386-di/ [i386]
 
