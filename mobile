@@ -2,6 +2,7 @@
 
  * hildon-desktop
  * hildon-theme-mobile-basic
+ * hildon-control-panel
  * matchbox-window-manager
  * gtk2-engines-sapwood
  * dbus-x11
