@@ -1,11 +1,16 @@
 = Hildon =
 
  * hildon-desktop
- * hildon-theme-plankton
+ * hildon-theme-mobile-basic
  * matchbox-window-manager
  * gtk2-engines-sapwood
  * dbus-x11
  * sdk-default-icons
+
+ * marquee-plugins
+ * moblin-keyboard-manager
+ * mobile-basic-flash
+ * mobile-application-service
 
  * language-pack-en # XXX needed for Maemo translations to work
 
