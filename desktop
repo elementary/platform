@@ -195,6 +195,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * ssh-askpass-gnome
  * synaptic                # default GUI package manager
  * libgnome2-perl          # so that the debconf GNOME frontend can be used from synaptic
+ * (tracker)
  * (totem)
  * (totem-mozilla)
  * update-notifier
