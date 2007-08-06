@@ -134,6 +134,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (evolution-plugins)
  * (evolution-exchange)
  * evolution-webcal
+ * fast-user-switch-applet
  * file-roller
  * (pidgin)
  * gcalctool
