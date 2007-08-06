@@ -124,6 +124,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
 
  * (bug-buddy)             # potentially replaced with reportbug + b-b-like pygtk gui
  * (apport-gtk)
+ * consolekit 
  * (contact-lookup-applet)
  * (deskbar-applet)
  * desktop-file-utils
