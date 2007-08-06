@@ -27,11 +27,11 @@ Task-Test-new-install: skip show
 
 These packages make up the Ubiquity live installer.
 
- * ubiquity-frontend-gtk
- * ubiquity-ubuntu-artwork
+ * ubiquity-frontend-gtk [!lpia]
+ * ubiquity-ubuntu-artwork [!lpia]
 
 Ubiquity needs full filesystem support for the partitioner.
 
- * xfsprogs
- * jfsutils
+ * xfsprogs [!lpia]
+ * jfsutils [!lpia]
  * hfsplus [powerpc]  # ColinWatson
