@@ -86,9 +86,9 @@ modules instead.
  * language-pack-gnome-${Languages}
  * language-support-${Languages} [amd64 hppa i386 ia64 sparc]
 
- * Languages: es pt de
- * language-pack-${Languages} [i386]
- * language-pack-gnome-${Languages} [i386]
+ #* Languages: es pt de
+ #* language-pack-${Languages} [i386]
+ #* language-pack-gnome-${Languages} [i386]
 
 == Installer ==
 
