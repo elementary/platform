@@ -41,7 +41,7 @@ These provide various networking services, all should be configured in a client-
  * dnsutils       # LaMontJones
  * ftp
  * iptables       # FabioMassimoDiNitto
- * telnet
+ * (telnet)
  * (ppp)
  * (pppconfig)
  * (pppoeconf)
