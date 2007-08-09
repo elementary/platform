@@ -344,7 +344,6 @@ Exclude some KDE-specific pieces:
  * libc6.1-prof [ia64]
  * g++-4.2-multilib [amd64 i386 powerpc sparc]
  * gcc-4.2-locales
- * gcc-4.2-source
  * gfortran-4.2
  * gobjc-4.2
  * libstdc++6-4.1-dbg
