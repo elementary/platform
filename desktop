@@ -9,6 +9,7 @@ Task-Key: ubuntu-desktop
 == Architecture-independent ==
 
  * hotkey-setup
+ * (hal-cups-utils) # fully automagic printer configuration
 
 Power management:
 
@@ -148,7 +149,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * gnome-app-install
  * gnome-btdownload       # simple GNOME frontend for bittorrent downloads
  * gnome-control-center
- * gnome-cups-manager
+ * system-config-printer
  * (gnome-games)
  * gnome-icon-theme
  * gnome-media
