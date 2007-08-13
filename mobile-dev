@@ -6,3 +6,4 @@
  * Mobile-Exclude: python*-dbg
  * Mobile-Exclude: defoma-doc
 
+ * libtelepathy-dev
