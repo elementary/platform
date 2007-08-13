@@ -33,6 +33,7 @@ These are commonly used filesystem support packages, here because someone settin
  * (reiserfsprogs)
  * dosfstools
  * hfsutils [powerpc]
+ * (ntfs-3g)
 
 == Networking ==
 
