@@ -47,8 +47,7 @@ Other:
 Printing:
 
  * m2300w
- * splix
- * pxljr
+ * cups-pdf		  # OOTB PDF printer
 
 Utilities:
 
