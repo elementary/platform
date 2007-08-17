@@ -15,3 +15,11 @@
 
  * language-pack-en # XXX needed for Maemo translations to work
 
+# Gstreamer bits explicitly seeded because they are parts of our
+# platform.
+
+ * gstreamer0.10-alsa
+ * gstreamer0.10-plugins-base
+ * gstreamer0.10-plugins-good
+ * gstreamer0.10-x
+ 
