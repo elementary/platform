@@ -6,4 +6,10 @@
  * Mobile-Exclude: python*-dbg
  * Mobile-Exclude: defoma-doc
 
+= Development libraries
+
  * libtelepathy-dev
+
+= Other useful bits =
+
+ * xserver-xephyr
