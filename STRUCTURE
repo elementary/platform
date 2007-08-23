@@ -15,4 +15,4 @@ build-essential: required
 development: required minimal standard desktop
 mobile: required minimal
 mobile-dev: required minimal mobile
-supported: boot required minimal standard desktop dns-server lamp-server server-ship ship live ship-live build-essential development mobile mobile-dev openssh-server
+supported: boot required minimal standard desktop dns-server lamp-server openssh-server server-ship ship live ship-live build-essential development mobile mobile-dev
