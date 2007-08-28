@@ -4,6 +4,7 @@
  * hildon-theme-mobile-basic
  * hildon-control-panel
  * matchbox-window-manager
+ * matchbox-keyboard
  * gtk2-engines-sapwood
  * dbus-x11
  * sdk-default-icons
