@@ -17,6 +17,14 @@
 
  * language-pack-en # XXX needed for Maemo translations to work
 
+ * gnome-keyring-manager
+ * network-manager-gnome
+ * bluez-gnome
+ * bluetooth
+ * ppp
+ * wvdial
+ * gnome-ppp
+
 # Gstreamer bits explicitly seeded because they are parts of our
 # platform.
 
