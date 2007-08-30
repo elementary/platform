@@ -22,3 +22,7 @@
 
  * xserver-xephyr
  * build-essential
+
+= Explicitly seeded libs for now =
+
+ * libhildon-1-dev
