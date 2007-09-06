@@ -164,6 +164,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * gnome-session
  * gnome-spell
  * gnome-keyring-manager    # DanielHolbach (was never seeded, now even more important, that evolution uses it)
+ * (libpam-gnome-keyring)
  * gnome-system-monitor     # SebastienBacher
  * gnome-volume-manager     # JeffWaugh, gives us an efficient autoplay framework
  * gnome-power-manager		# OliverGrawert finally ready for shipment
