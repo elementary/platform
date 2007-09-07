@@ -34,6 +34,7 @@ These packages are needed in order to build Ubuntu packages.
 == Installer ==
 
  * oem-config-gtk
+ * lupin-support # installer-for-windows
 
 == Blacklist ==
 
