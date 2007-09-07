@@ -94,6 +94,7 @@ modules instead.
 
  * oem-config-gtk
  * mkvmlinuz [powerpc] # for nobootloader
+ * lupin-support # installer-for-windows
 
 == Transitional packages ==
 
