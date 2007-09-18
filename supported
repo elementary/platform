@@ -18,6 +18,7 @@
  * squashfs-tools
  * reiser4progs
  * hfsplus
+ * cryptsetup
 
 == Cluster ==
 
