@@ -415,6 +415,7 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
  * linux-kernel-devel
  * /^linux-image-debug-.*(?<!lowlatency)$/
  * vmware-*-kernel-modules
+ * kexec-tools
 
 === Transitional from dapper ===
 
