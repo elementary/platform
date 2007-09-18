@@ -246,6 +246,7 @@ Ubuntu artwork:
  * dict
  * wdiff
  * xml-twig-tools  # we need libxml-twig-perl as build dep anyway, so we can as well support this binary
+ * tracker-utils
 
 = Libraries =
 
