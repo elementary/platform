@@ -1,0 +1,13 @@
+Task-Section: server
+Task-Description: File server
+Task-Extended-Description:
+ This task sets up your system to be a file server, supporting both Samba
+ (Windows file sharing) and NFS.
+Task-key: nfs-kernel-server, samba
+
+ * nfs-kernel-server
+ * samba
+ * samba-doc
+ * smbclient
+ * smbfs
+ * winbind
