@@ -11,6 +11,5 @@ Task-Key: postfix
  * mailx
  * mutt
  * procmail
- * bogofilter
 
 Additionally, Debian has mailagent, but that's in universe and not an option.
