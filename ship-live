@@ -30,6 +30,7 @@ These packages are needed in order to build Ubuntu packages.
  * setserial	# needed by folks with nonstandard serial ports
  * mouseemu	# needed on Macs with single-button mice
  * ps3pf-utils [powerpc] # small utilities for PlayStation 3 systems
+ * elfspe2 [powerpc] # SPE access for Cell systems
 
 == Installer ==
 

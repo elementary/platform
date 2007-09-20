@@ -77,6 +77,7 @@ modules instead.
  * setserial	# needed by folks with nonstandard serial ports
  * mouseemu	# needed on Macs with single-button mice
  * ps3pf-utils [powerpc] # small utilities for PlayStation 3 systems
+ * elfspe2 [powerpc] # SPE access for Cell systems
 
 == Common language packs ==
 
