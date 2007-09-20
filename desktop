@@ -103,14 +103,14 @@ Fonts:
 
  * x-ttcidfont-conf
  * ttf-bitstream-vera
- * ttf-dejavu                    # includes characters missing in Vera
+ * ttf-dejavu-core                 # includes characters missing in Vera
  * ttf-freefont
  * (ttf-kochi-gothic)
  * (ttf-kochi-mincho)
  * (ttf-arphic-uming)
  * (ttf-arabeyes)
- * (ttf-baekmuk)
- * (ttf-indic-fonts)
+ * (ttf-unfonts-core)
+ * (ttf-indic-fonts-core)
  * (ttf-malayalam-fonts)
  * (ttf-mgopen)
  * (ttf-thai-tlwg)
