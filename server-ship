@@ -101,6 +101,7 @@ LDAP:
 
  * slapd
  * ldap-utils
+ * ldap-auth-client
 
 Web:
 
