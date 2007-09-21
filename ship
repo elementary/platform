@@ -48,7 +48,7 @@ modules instead.
 == Common UNIX stuff ==
 
  * nfs-common		  # allows people to access NFS filesystems
- * vim                    # vim-tiny is in minimal; vim includes syntax highlighting, help files, etc.
+ # * vim                    # vim-tiny is in minimal; vim includes syntax highlighting, help files, etc.
 
 == For language support in the installer ==
 
@@ -64,7 +64,7 @@ modules instead.
  * ndiswrapper-utils [amd64 i386]
  * ndiswrapper-utils-1.9 [amd64 i386]
 
- * nvidia-glx [i386]   # nvidia drivers, for multiseat, but also easy access
+ # * nvidia-glx [i386]   # nvidia drivers, for multiseat, but also easy access
 
  * ipppd
  * isdnutils-xtools
