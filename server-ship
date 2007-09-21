@@ -101,7 +101,7 @@ LDAP:
 
  * slapd
  * ldap-utils
- * ldap-auth-client
+ * ldap-auth-client	# metapackage that pulls in lib{pam,nss}-ldap and configuration magic
 
 Web:
 

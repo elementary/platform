@@ -283,7 +283,6 @@ Ubuntu artwork:
  * xinetd               # JamesTroup, from hoglet
  * system-config-kickstart # Kickstart configuration GUI
  * mknbi                # for creating etherboot images for LTSP
- * ldap-auth-client	# metapackage that pulls in lib{pam,nss}-ldap and configuration magic
 
 = Documentation =
 
