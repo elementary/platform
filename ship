@@ -32,6 +32,7 @@ modules instead.
  * lvm2
  * mdadm
  * dmsetup
+ * cryptsetup
 
 == Networking ==
 
