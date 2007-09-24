@@ -420,7 +420,8 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
 
 == Kernel ==
 
- * /^linux-(backports-modules-|headers-)?(386|686|amd64|generic|hppa|itanium|k7|mckinley|powerpc|ps3|server|sparc64).*/
+ * /^linux-(backports-modules-|headers-)?(386|686|amd64|cell|generic|hppa|itanium|k7|mckinley|powerpc|ps3|server|sparc64|virtual).*/
+ * linux-backports-modules
  * linux-doc
  * linux-source
  * linux-kernel-devel
