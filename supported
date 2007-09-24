@@ -331,12 +331,21 @@ Transitional packages:
 
 Exclude some KDE-specific pieces:
 
+ * Extra-Exclude: kdebase-dbg
+ * Extra-Exclude: kdelibs-dbg
+ * Extra-Exclude: kdelibs4-doc
+ * Extra-Exclude: kdepim-dbg
+ * Extra-Exclude: kdesdk-dbg
  * Extra-Exclude: libdbus-qt-1-dev
  * Extra-Exclude: libdcop3-java-dev
  * Extra-Exclude: libindex0-dev
  * Extra-Exclude: libpoppler-qt-dev
- * Extra-Exclude: libqt4-debug-dev
+ * Extra-Exclude: libqt4-debug libqt4-debug-dev qt4-doc
  * Extra-Exclude: libsmokekde-dev
+ * Extra-Exclude: python-kde3-dbg
+ * Extra-Exclude: python-qt3-dbg
+ * Extra-Exclude: python-qtext-dbg
+ * Extra-Exclude: qt-x11-free-dbg
 
 == Development ==
 
