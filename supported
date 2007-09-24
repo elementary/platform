@@ -500,6 +500,11 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
  * /^.*-firmware-.*-386-di/ [i386]
  * /^.*-modules-.*-386-di/ [i386]
 
+ # Used for powerpc+ps3 images
+ * Kernel-Version: 2.6.22-12-cell
+ * /^.*-firmware-.*-cell-di/ [powerpc]
+ * /^.*-modules-.*-cell-di/ [powerpc]
+
  * debian-installer # also has side-effect of pulling in installer image build system
  * gfxboot
  * gfxboot-theme-ubuntu
