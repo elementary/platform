@@ -201,8 +201,6 @@ Other:
  * enscript
  * emacs-goodies-el
  * bbdb
- * calc
- * gnus
  * auctex
  * lbdb
  * dictd
@@ -350,7 +348,6 @@ Exclude some KDE-specific pieces:
 
 == Development ==
 
- * python-mode
  * libc6-prof [amd64 i386 lpia powerpc sparc hppa]
  * libc6.1-prof [ia64]
  * g++-4.2-multilib [amd64 i386 powerpc sparc]
