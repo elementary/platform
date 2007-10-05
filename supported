@@ -151,6 +151,7 @@ Download:
  * pkg-create-dbgsym # automatic creation of debug symbols
  * hello
  * hello-debhelper
+ * dselect            # old-school package management
 
 == Seed Management ==
 
