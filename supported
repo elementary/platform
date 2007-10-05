@@ -189,8 +189,8 @@ Other:
  * xrestop
  * unclutter           # super useful for anti-mouse freaks
  * emacs               # won't fit on CDs
- * emacs-el
- * emacs-nox
+ * emacs22-el
+ * emacs22-nox
  * gimp-gnomevfs       # we need to support the source anyway, and this sounds useful
  * inkscape            # SVG drawing application
  * screem                  # MRS, our default html editor
