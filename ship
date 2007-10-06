@@ -65,7 +65,7 @@ modules instead.
  * ndiswrapper-utils [amd64 i386]
  * ndiswrapper-utils-1.9 [amd64 i386]
 
- # * nvidia-glx [i386]   # nvidia drivers, for multiseat, but also easy access
+ * nvidia-glx-new [i386]   # nvidia drivers, for multiseat, but also easy access
 
  * ipppd
  * isdnutils-xtools
