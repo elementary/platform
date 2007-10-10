@@ -64,6 +64,7 @@ restricted modules.
  * lvm2
  * mdadm
  * dmsetup
+ * cryptsetup
 
 == For language support in the installer ==
 
