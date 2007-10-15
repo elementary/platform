@@ -23,6 +23,7 @@
  * ppp
  * wvdial
  * gnome-ppp
+ * moblin-media
 
 # Gstreamer bits explicitly seeded because they are parts of our
 # platform.
