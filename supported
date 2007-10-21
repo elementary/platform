@@ -309,8 +309,12 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 automatically (note that Extra-Exclude *only* prevents packages from being
 included due to matching Extra-Include patterns, and has no other effect):
 
- * Extra-Exclude: lib*stdc++*   # we want to consider these individually
- * Extra-Exclude: *gfortran* gpc*-doc libgnat*-dev libmudflap* gnat-doc
+ * Extra-Exclude: lib*stdc++5-3.3* libstdc++6-doc libstdc6++-dev lib*stdc++6-4.1*
+ * Extra-Exclude: libgnat*-dev gnat-doc
+ * Extra-Exclude: gpc*-doc
+ * Extra-Exclude: lib*mudflap*
+ * Extra-Exclude: gfortran-4.1-doc lib*gfortran1-dbg
+ * Extra-Exclude: lib*objc1-dbg
  * Extra-Exclude: libavformat-dev libpostproc-dev
  * Extra-Exclude: libgdchart-gd2-xpm-dev
  * Extra-Exclude: libgdome2-ocaml-dev
@@ -351,12 +355,9 @@ Exclude some KDE-specific pieces:
 
  * libc6-prof [amd64 i386 lpia powerpc sparc hppa]
  * libc6.1-prof [ia64]
- * g++-4.2-multilib [amd64 i386 powerpc sparc]
+ * libc6-sparc64v2 [sparc]
+ * libc6-sparcv9v2 [sparc]
  * gcc-4.2-locales
- * gfortran-4.2
- * gobjc-4.2
- * libstdc++6-4.1-dbg
- * libstdc++6-4.2-dbg
  * openoffice.org-qa-tools
  * openoffice.org-qa-api-tests
  * openoffice.org-officebean
