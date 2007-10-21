@@ -309,7 +309,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 automatically (note that Extra-Exclude *only* prevents packages from being
 included due to matching Extra-Include patterns, and has no other effect):
 
- * Extra-Exclude: lib*stdc++5-3.3* libstdc++6-doc libstdc6++-dev lib*stdc++6-4.1*
+ * Extra-Exclude: lib*stdc++5-3.3* libstdc++6-doc libstdc6++-dev libstdc++6-dbg lib*stdc++6-4.1*
  * Extra-Exclude: libgnat*-dev gnat-doc
  * Extra-Exclude: gpc*-doc
  * Extra-Exclude: lib*mudflap*
