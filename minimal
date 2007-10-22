@@ -28,8 +28,10 @@ Note that some packages that form the core of an Ubuntu-based system are in the 
 
  * libc6-sparc64b [sparc]
  * libc6-sparc64v [sparc]
+ * libc6-sparc64v2 [sparc]
  * libc6-sparcv9b [sparc]
  * libc6-sparcv9v [sparc]
+ * libc6-sparcv9v2 [sparc]
  * sparc-utils [sparc]
 
 == Comfortable Unix System ==
