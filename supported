@@ -355,8 +355,6 @@ Exclude some KDE-specific pieces:
 
  * libc6-prof [amd64 i386 lpia powerpc sparc hppa]
  * libc6.1-prof [ia64]
- * libc6-sparc64v2 [sparc]
- * libc6-sparcv9v2 [sparc]
  * gcc-4.2-locales
  * openoffice.org-qa-tools
  * openoffice.org-qa-api-tests
