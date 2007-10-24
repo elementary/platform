@@ -179,7 +179,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * libgnomevfs2-extra
  * libpt-plugins-v4l       # V4L1 plugins for use with ekiga
  * libpt-plugins-v4l2      # V4L2 plugins for use with ekiga
- * gthumb                  # efficient thumbnailing tool
+ * (gthumb)                 # efficient thumbnailing tool
  * gucharmap               # SebastienBacher
  * hal
  * hal-device-manager
@@ -195,10 +195,10 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * nautilus-sendto
  * notification-daemon           # backend for libnotify
  * (rhythmbox)
- * serpentine		   # Oliver Grawert
+ * (serpentine)		   # Oliver Grawert
  * scrollkeeper
  * alacarte		   # default menu editor
- * sound-juicer
+ * (sound-juicer)
  * ssh-askpass-gnome
  * synaptic                # default GUI package manager
  * libgnome2-perl          # so that the debconf GNOME frontend can be used from synaptic
@@ -209,7 +209,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (totem-mozilla)
  * update-notifier
  * gdebi                   # view/install deb packages
- * vino # vnc server
+ * (vino) # vnc server
  * yelp
  * zenity
  * (xdg-utils)		   # useful utilities
