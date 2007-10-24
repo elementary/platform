@@ -228,7 +228,6 @@ Themes: we will ship only the very best looking themes. We won't ship everything
 The gstreamer0.10 packages we want to install:
 
  * gstreamer0.10-alsa
- * gstreamer0.10-esd
  * gstreamer0.10-plugins-base-apps
 
 Accessibility tools:
