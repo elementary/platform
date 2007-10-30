@@ -59,8 +59,6 @@ Utilities:
 
 Security:
 
- * nessus                 # client for nessus security testing and monitoring framework
-
 Download:
 
  * bittorrent             # rapid p2p download, for efficient large file distribution, perhaps for desktop

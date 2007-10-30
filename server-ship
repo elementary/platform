@@ -191,8 +191,6 @@ Firewall:
 
 Security:
 
- * nessus-plugins         # plugins for the extension of nessus security monitoring framework
- * nessusd                # server to coordinate nessus network security monitoring
  * cricket                # JamesTroup, from Hoglet
  * checksecurity          # JamesTroup, from Hoglet
  * aide                   # JamesTroup, from Hoglet
