@@ -8,10 +8,6 @@
  * ps3-kboot       # boot loader for Sony PlayStation 3
  * powertop
 
-== Bluetooth ==
-
- * bluez-gnome	# To do Bluetooth pairing
-
 == Filesystems ==
 
  * xfsdump # only useful when machine is setup and working, and only for xfs people
