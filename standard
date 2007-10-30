@@ -66,6 +66,7 @@ These are used for debugging problems or examining the system.
 = Helpful Tools =
  
  * inputattach # needed for serial mice
+ * (friendly-recovery)    # give a nice menu in recovery mode
  * (command-not-found)
  * (update-manager-core)  # needed for server based release upgrades
  * (apparmor-utils) # control AppArmor policies (pulls in policy parser as well)
