@@ -110,6 +110,6 @@ modules instead.
 
 == Blacklist ==
 
-libavcodec cannot be shipped on CDs (c.f. Ubuntu technical board resolution 2007-01-02).
+libavcodec cannot be shipped on CDs (cf. Ubuntu technical board resolution 2007-01-02).
 
  * !libavcodec*
