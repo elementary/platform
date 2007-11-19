@@ -142,6 +142,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * fast-user-switch-applet
  * file-roller
  * (pidgin)
+ * (pidgin-otr)
  * gcalctool
  * gconf-editor
  * gdm
