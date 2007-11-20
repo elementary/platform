@@ -234,6 +234,7 @@ The gstreamer0.10 packages we want to install:
 
  * gstreamer0.10-alsa
  * gstreamer0.10-plugins-base-apps
+ * gstreamer0.10-pulseaudio
 
 Accessibility tools:
 
