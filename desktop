@@ -311,7 +311,6 @@ to compile a driver. -mdz
  * usplash
  * usplash-theme-ubuntu
  * libxp6 # required for some third party apps. See #15739
- * libpam-foreground
  * (example-content) # dholbach: dapper feature goal (wiki.ubuntu.com/ExampleContent)
  * (landscape-client)
  * readahead
