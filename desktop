@@ -183,7 +183,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (gthumb)                 # efficient thumbnailing tool
  * gucharmap               # SebastienBacher
  * hal
- * hal-device-manager
  * hwdb-client-gnome
  * language-selector	   # MichaelVogt
  * metacity                # SebastienBacher
