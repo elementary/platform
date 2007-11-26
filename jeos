@@ -1,0 +1,16 @@
+= Kernel =
+
+We seed only linux-image-*, as we don't need anything from restricted
+for the virtual kernels.
+
+ * Kernel-Stem: linux-image
+
+== i386 ==
+
+ * ${Kernel-Stem}-virtual [i386]
+
+== Miscellaneous ==
+
+ * grub
+ * usplash
+ * usplash-theme-ubuntu
