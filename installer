@@ -11,6 +11,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * binutils-static-udeb # for restricted modules
  * bogl-bterm-udeb
  * bootchart-udeb # profiling; disabled unless you boot with 'bootchart' parameter
+ * bootstrap-base
  * brltty-udeb
  * bterm-unifont
  * busybox-udeb
