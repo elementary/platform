@@ -11,6 +11,6 @@ for the virtual kernels.
 
 == Miscellaneous ==
 
- * grub
+ * grub [i386 amd64]
  * usplash
  * usplash-theme-ubuntu
