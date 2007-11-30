@@ -20,4 +20,4 @@ development: required minimal standard desktop
 mobile: required minimal
 mobile-dev: required minimal mobile
 supported: boot required minimal standard desktop dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server server-ship ship live ship-live build-essential development mobile mobile-dev
-jeos: boot required minimal
+jeos: required minimal
