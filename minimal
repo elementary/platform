@@ -58,6 +58,7 @@ Programs and packages necessary for both the proper functionality of the system 
  * sudo              # LaMontJones
  * sysklogd
  * tasksel           # used by installer to install desktop etc.
+ * tcpd              # hosts.allow, hosts.deny
  * udev
  * usbutils
  * util-linux-locales
