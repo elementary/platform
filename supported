@@ -477,7 +477,6 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
  * /^language-pack-[^-]+$/
  * /^language-pack-gnome-[^-]+$/
  * /^language-support-[^-]+$/
- * openoffice.org-l10n-nr      # does not match a valid locale, so no l-support-*
 
 = Installer =
 
