@@ -1,4 +1,3 @@
-
 = Stuff we want from mobile =
 
  * Mobile-Include: *-dev *-dbg *-debug
@@ -22,7 +21,21 @@
 
  * xserver-xephyr
  * build-essential
+ * python-doc
+ * autotools-dev
+ * automake
+ * autoconf
+ * libtool
+ * python-hildon-dev
+ * libhildon*-dev
+ * libhildon*-dbg
+ * libosso*-dev
+ * libosso*-dbg
+ * libdbus*-doc
+ * libdbus*-dev
+ * libdbus*-dbg
+ * telepathy-devel
+ * telepathy-devel-gtk
+ * pkg-config
+ * osso-af-settings
 
-= Explicitly seeded libs for now =
-
- * libhildon-1-dev
