@@ -249,7 +249,7 @@ Accessibility tools:
 = Other Desktop GUI Apps =
 
  * (openoffice.org-gnome) [i386 amd64]  # before OOo to avoid openoffice.org-style-default
- * (openoffice.org-write) [i386 amd64]
+ * (openoffice.org-writer) [i386 amd64]
  * (openoffice.org-calc) [i386 amd64]
  * (openoffice.org-impress) [i386 amd64]
  * (openoffice.org-evolution) [i386 amd64]
