@@ -115,7 +115,7 @@ Fonts:
  * (ttf-mgopen)
  * (ttf-thai-tlwg)
  * (ttf-lao)
- * (ttf-gentium)
+ * (ttf-sil-gentium)
 
 Input methods:
 
@@ -252,7 +252,7 @@ Accessibility tools:
  * (openoffice.org-writer) [i386 amd64]
  * (openoffice.org-calc) [i386 amd64]
  * (openoffice.org-impress) [i386 amd64]
- * (openoffice.org-evolution) [i386 amd64]
+ #* (openoffice.org-evolution) [i386 amd64] # pulls in oo.o-base, broken ATM
  * (xsane)         # scanner utils
  * evince
  * (gnome-screensaver) # recommends to allow for xscreensaver to be used
