@@ -88,7 +88,7 @@ modules instead.
  * language-pack-gnome-${Languages}
  * language-support-${Languages} [!powerpc]
 
- * Languages: es xh pt
+ * Languages: es xh
  * language-pack-${Languages} [i386]
  * language-pack-gnome-${Languages} [i386]
 
