@@ -180,7 +180,6 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * libgnomevfs2-extra
  * libpt-plugins-v4l       # V4L1 plugins for use with ekiga
  * libpt-plugins-v4l2      # V4L2 plugins for use with ekiga
- * (gthumb)                 # efficient thumbnailing tool
  * gucharmap               # SebastienBacher
  * hal
  * hwdb-client-gnome
