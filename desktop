@@ -195,7 +195,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * nautilus-sendto
  * notification-daemon           # backend for libnotify
  * (rhythmbox)
- * (serpentine)		   # Oliver Grawert
+ * (brasero)		   # Oliver Grawert
  * scrollkeeper
  * alacarte		   # default menu editor
  * (sound-juicer)
