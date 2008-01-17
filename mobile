@@ -16,7 +16,7 @@
 
  * language-pack-en # XXX needed for Maemo translations to work
 
- * gnome-keyring-manager
+ * seahorse
  * network-manager-gnome
  * bluez-gnome
  * bluetooth
