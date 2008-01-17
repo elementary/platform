@@ -481,12 +481,12 @@ These *-doc packages are in separate source packages, so Extra-Includes won't ca
 = Installer =
 
  # Used for netboot installations
- * Kernel-Version: 2.6.24-3-386
+ * Kernel-Version: 2.6.24-4-386
  * /^.*-firmware-.*-386-di/ [i386]
  * /^.*-modules-.*-386-di/ [i386]
 
  # Used for powerpc+ps3 images
- * Kernel-Version: 2.6.24-3-cell
+ * Kernel-Version: 2.6.24-4-cell
  * /^.*-firmware-.*-cell-di/ [powerpc]
  * /^.*-modules-.*-cell-di/ [powerpc]
 
