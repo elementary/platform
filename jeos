@@ -14,3 +14,19 @@ for the virtual kernels.
  * grub [i386 amd64]
  * usplash
  * usplash-theme-ubuntu
+
+== Filesystems ==
+
+ * xfsprogs
+ * jfsutils
+ * lvm2
+ * mdadm
+ * dmsetup
+ * cryptsetup
+
+== For language support in the installer ==
+
+ * console-terminus
+ * unifont
+
+
