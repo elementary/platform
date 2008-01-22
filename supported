@@ -279,7 +279,7 @@ We need a consistent policy for -doc. At the least, any -doc package produced by
 
 = Rescued from Extra =
 
- * Extra-Include: *-dbg *-debug *-dev *-doc
+ * Extra-Include: *-dbg *-debug *-dev *-doc *-gcj
 
 ... and some miscellaneous exclusions for things we don't want to drag in
 automatically (note that Extra-Exclude *only* prevents packages from being
