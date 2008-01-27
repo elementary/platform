@@ -27,7 +27,7 @@ Moved from desktop:
  * python-ldap
  * python-mysqldb
  * python-newt
- * python-numeric
+ * python-numpy
  * python-pam
  * python-pexpect
  * python-pisock
@@ -49,7 +49,6 @@ Moved from supported:
 
  * python-pygresql         # JamesTroup, from hoglet
  * python-nevow
- * python-numarray
  * python-twisted
  * python-samba
  * idle             # Python IDE
