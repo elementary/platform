@@ -225,6 +225,8 @@ Download:
  * siege
  * bonnie++
  * smartmontools   # hard disk diagnostics
+ * mtx		   # ChuckShort - ServerPackageReview
+ * logwatch	   # ChuckShort - ServerPackageReview
 
 = Documentation =
 
