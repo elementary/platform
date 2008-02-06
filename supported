@@ -281,7 +281,7 @@ automatically (note that Extra-Exclude *only* prevents packages from being
 included due to matching Extra-Include patterns, and has no other effect):
 
  * Extra-Exclude: libstdc++6-doc libstdc++6-dev libstdc++6-dbg lib*stdc++6-4.1*
- * Extra-Exclude: libgnat*-dev gnat-doc
+ * Extra-Exclude: libgnat*-dev libgnat*-dbg gnat*-doc
  * Extra-Exclude: gpc*-doc
  * Extra-Exclude: lib*mudflap*
  * Extra-Exclude: gfortran-4.1-doc lib*gfortran1-dbg
