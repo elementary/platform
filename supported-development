@@ -1,0 +1,82 @@
+= Development =
+
+== Development Tools ==
+
+ * bison
+ * debconf-english   # for minimal buildd chroots, without i18n cruft
+ * flex
+ * patchutils
+ * gdb
+ * valgrind
+ * autoconf
+ * automake
+ * autotools-dev
+ * libtool
+ * ccache            # C/C++ development, package development
+ * kernel-package
+ * pychecker
+ * exuberant-ctags   # ColinWatson
+ * linux32		# without it, biarch buildds can go wonky
+ * bootchart         # boot speed profiling
+ * indent
+ * autopkgtest
+ * cmake
+ * apport-retrace
+ * apport-cli
+ * libc6-prof [amd64 i386 lpia powerpc sparc hppa]
+ * libc6.1-prof [ia64]
+ * gcc-4.2-locales
+
+== Revision Control ==
+
+ * subversion
+ * subversion-tools
+ * python2.4-subversion
+ * git-core
+ * gitk
+ * bzrtools
+ * python2.4-paramiko	# for bzr sftp support
+ * cvs
+
+== Package Maintainance ==
+
+ * debhelper         # ColinWatson
+ * dh-make
+ * dupload           # ColinWatson
+ * linda             # python-based replacement for lintian
+ * lintian
+ * pbuilder          # ColinWatson
+ * apt-listchanges
+ * apt-transport-https # sanctioned by MichaelVogt
+ * dput
+ * pkgstriptranslations # for removing gettext data on the buildds
+ * pkg-create-dbgsym # automatic creation of debug symbols
+ * hello
+ * hello-debhelper
+ * dselect            # old-school package management
+
+== Seed Management ==
+
+ * germinate         # quis custodiet ipsos custodes?
+
+= Shells =
+
+ * zsh
+
+= Libraries =
+
+ * libcrypt-blowfish-perl
+ * libdate-manip-perl
+ * libnet-ldap-perl
+ * libchart-perl
+ * libgd-graph-perl
+ * libtemplate-perl
+ * libfile-rsyncp-perl
+ * libnss-db
+ * tdsodbc
+ * tk8.3-dev
+ * libsdl1.2debian-all
+ * libsdl1.2debian-alsa
+ * libsdl1.2debian-esd
+ * libsdl1.2debian-oss
+ * libgl1-mesa-swx11-i686

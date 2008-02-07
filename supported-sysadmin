@@ -1,0 +1,29 @@
+= System Administration Tools =
+
+ * attr                 # will move to base if we go to selinux
+ * quota
+ * backuppc             # RobertCollins
+ * debian-goodies
+ * whois                # FabioMassimoDiNitto
+ * minicom              # useful for serial access to anything
+ * cu                   # super-basic serial access
+ * john                 # detects weak passwords, might be needed in desktop
+ * libpam-cracklib      # enables weak password checking during password change, should it be in desktop?
+ * chkrootkit           # forensic detection of rootkit
+ * xinetd               # JamesTroup, from hoglet
+ * system-config-kickstart # Kickstart configuration GUI
+ * mknbi                # for creating etherboot images for LTSP
+
+ * fbset
+ * libcap-bin
+ * libpam-opie
+ * opie-client
+ * opie-server
+ * sasl2-bin
+ * libsasl2-modules-sql
+ * autofs
+ * awstats
+ * acct
+ * authbind                     # BIGGER SECURITAH REVIEW
+ * siege
+ * bonnie++

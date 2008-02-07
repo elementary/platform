@@ -1,0 +1,31 @@
+= Servers and Daemons =
+
+Database:
+
+ * mdbtools				# OOo2 supports the JET format
+ * mdbtools-gmdb
+
+Email:
+
+ * fetchmail
+ * procmail
+
+Must also consider webmail and so on...
+
+Other:
+
+ * racoon
+ * sysvinit  # ScottJamesRemnant retain support for now
+ * openprinting-ppds-extra          # Less common printer drivers we don't want in desktop
+
+Printing:
+
+ * m2300w
+ * cups-pdf		  # OOTB PDF printer
+
+Utilities:
+
+ * analog                 # essential for any web server, possible candidate for desktop integration
+ * graphviz
+ * logcheck		  # great security tool for any server
+ * logcheck-database	  # useful for above
