@@ -77,6 +77,7 @@ These are used for debugging problems or examining the system.
  * (iputils-tracepath)  # more secure sort of traceroute, will put compatibility symblink in for traceroute users
  * (mtr-tiny)           # LaMontJones
  * (tcpdump)
+ * ufw                  # Jamie Strandboge
 
 = Other =
 
