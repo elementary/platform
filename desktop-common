@@ -1,0 +1,146 @@
+This seed provides the basic components that should be installed on an
+Ubuntu-family desktop system. It is expected to be supplemented with a
+particular flavour of desktop environment (e.g. GNOME, KDE, or XFCE).
+
+= Hardware and Architecture Support =
+
+== Architecture-independent ==
+
+ * hotkey-setup
+
+Power management:
+
+ * acpi-support
+ * (powernowd)
+ * powermanagement-interface [i386 amd64 powerpc ia64]
+ * (libgl1-mesa-dri) # needed for composite/3D on free graphics drivers
+
+Bluetooth:
+TODO not for Xubuntu
+
+ * (bluez-utils) # base for bluetooth support
+ * (bluez-cups)  # allow connecting to bluetooth printers from CUPS
+
+== i386, i686, amd64 ==
+
+ * acpi
+ * acpid
+ * apmd [i386]
+
+== ppc32, ppc64 ==
+
+ * pbbuttonsd [powerpc]
+
+= Console-Based Tools =
+
+These tools are very commonly used by people who drop into a console shell to do some work.
+
+ * bc
+ * dc
+ * genisoimage
+ * (wodim)
+ * (cdparanoia)
+ * (dvd+rw-tools)
+ * screen
+ * lftp
+ * slocate              # tool to index user files
+ * zip
+ * unzip                # also used for .zip support in file-roller
+
+= Network Services =
+
+Basic network services and Windows integration.
+
+ * (libnss-mdns)       # IPv4 link-local DNS support
+ * smbclient           # to access files on other SAMBA and Windows servers
+ * (wvdial)            # for automatic dialup configuration via g-s-t
+
+These packages help with system integration
+
+ * libsasl2-modules    # allows integration with MTA and login system
+ * avahi-daemon
+
+= Printing =
+
+Printing and printer configuration is a real weak spot in Debian, and in Linux in general. We will need to stay at the front of the curve here.
+
+ * cupsys                       # our preferred printer management infrastructure
+ * cupsys-bsd                   # gives us lpc, lpq, lpr, lprm
+ * cupsys-client                # gives us cancel, cupstestppd, lp, lpoptions, lppasswd, lpstat, cupsaddsmb, accept, lpadmin, lpinfo, lpmove
+ * foomatic-db-engine           # integrate the foomatic printer driver engine
+ * foomatic-db                  # the foomatic printer driver database
+ * foomatic-filters             # converter from postscript to printer-specific formats
+ * (foomatic-db-hpijs)          # printer drivers from the hp inkjet project
+ * openprinting-ppds            # Most common drivers we want in desktop; less common are in o-p-extra
+ * pnm2ppa                      # several ppds require this
+ * ghostscript-x
+ * (cups-pdf)			# PDF file writer virtual printer
+ * (hplip)     			# support for HP all-in-one printers
+ * (min12xxw)			# support for KonicaMinolta PagePro 1200W, 1300W printers
+ * (foo2zjs)			# support for printing to ZjStream-based printers
+ * (splix)			# support for Samsung lasers
+ * (pxljr)			# support for HP Color lasers
+
+= GUI infrastructure =
+
+Packages used for X preconfiguration are just Recommends; removing them after initial installation should be relatively safe.
+
+ * (xresprobe)
+ * (laptop-detect)
+ * (discover1)
+
+ * xorg                          # this includes xserver-xorg->xserver-xorg-{input|video}-* (no need to add specific drivers manually)
+ * xkb-data                      # XKB data now lives here
+
+Fonts:
+
+ * x-ttcidfont-conf
+ * ttf-bitstream-vera
+ * ttf-dejavu-core                 # includes characters missing in Vera
+ * ttf-freefont
+ * (ttf-kochi-gothic)
+ * (ttf-kochi-mincho)
+ * (ttf-arabeyes)
+ * (ttf-indic-fonts-core)
+ * (ttf-malayalam-fonts)
+ * (ttf-mgopen)
+ * (ttf-thai-tlwg)
+ * (ttf-lao)
+ * (ttf-sil-gentium)
+
+= Games =
+
+ * (fortune-mod)		# Needed by some screensavers
+
+= Development =
+
+Here we provide a minimal development environment sufficient to build kernel
+drivers, so that this is possible on the live CD and in scenarios where
+it is problematic to get these packages onto the installed system in order
+to compile a driver. -mdz
+
+ * (gcc)
+ * (make)
+ * (linux-headers-generic) [i386]
+ * (linux-headers-powerpc) [powerpc]
+ * (linux-headers-powerpc64-smp) [powerpc]
+ * (linux-headers-generic) [amd64]
+ * (linux-headers-itanium) [ia64]
+ * (linux-headers-mckinley) [ia64]
+ * (linux-headers-sparc64) [sparc]
+ * (linux-headers-hppa32) [hppa]
+ * (linux-headers-hppa64) [hppa]
+
+= Other =
+
+ * anacron # generally appropriate for desktops
+ * (bogofilter) # TODO not for Xubuntu
+ * usplash # also needs theme provided by specific desktop seed
+ * libxp6 # required for some third party apps. See #15739
+ * (landscape-client)
+ * readahead
+
+= Germinate workarounds =
+
+ * libglut3 # depended upon by freeglut3
+ * libgl1-mesa-glx # depended upon by freeglut3

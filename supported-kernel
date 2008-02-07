@@ -1,0 +1,22 @@
+== Kernel ==
+
+ * /^linux-(backports-modules-|headers-)?(386|686|amd64|cell|generic|hppa|itanium|k7|mckinley|powerpc|ps3|server|sparc64|virtual).*/
+ * linux-backports-modules
+ * linux-doc
+ * linux-source
+ * linux-kernel-devel
+ * /^linux-image-debug.*(?<!-rt)$/
+ * vmware-*-kernel-modules
+ * kexec-tools
+
+=== Transitional from dapper ===
+
+ * linux-image-686
+ * linux-image-amd64-k8
+ * linux-image-amd64-server
+ * linux-image-amd64-xeon
+ * linux-image-itanium-smp
+ * linux-image-k7
+ * linux-image-mckinley-smp
+ * linux-restricted-modules-itanium-smp
+ * linux-restricted-modules-mckinley-smp
