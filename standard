@@ -24,6 +24,7 @@ Task-Test-new-install: install skip
  * parted
  * psmisc            # utilities for /proc such as killall, pstree, fuser
  * time
+ * (mlocate)
 
 == Filesystems ==
 
