@@ -43,7 +43,6 @@ These tools are very commonly used by people who drop into a console shell to do
  * (dvd+rw-tools)
  * screen
  * lftp
- * slocate              # tool to index user files
  * zip
  * unzip                # also used for .zip support in file-roller
 
