@@ -10,8 +10,6 @@ Note that some packages that form the core of an Ubuntu-based system are in the 
 
 == Generic ==
 
- * alsa-base # needed for proper hardware detection (hotplug/blacklist.d, modprobe.d)
- * alsa-utils           # basic audio support and mixer level handling
  * pcmciautils          # PCMCIA support for >= 2.6.13-rc1 kernels
 
 == i386, i686 ==
