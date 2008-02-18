@@ -6,6 +6,8 @@ particular flavour of desktop environment (e.g. GNOME, KDE, or XFCE).
 
 == Architecture-independent ==
 
+ * alsa-base # needed for proper hardware detection (hotplug/blacklist.d, modprobe.d)
+ * alsa-utils           # basic audio support and mixer level handling
  * hotkey-setup
 
 Power management:
