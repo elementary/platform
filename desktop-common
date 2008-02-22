@@ -86,9 +86,7 @@ Printing and printer configuration is a real weak spot in Debian, and in Linux i
 
 Packages used for X preconfiguration are just Recommends; removing them after initial installation should be relatively safe.
 
- * (xresprobe)
  * (laptop-detect)
- * (discover1)
 
  * xorg                          # this includes xserver-xorg->xserver-xorg-{input|video}-* (no need to add specific drivers manually)
  * xkb-data                      # XKB data now lives here
