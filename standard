@@ -18,7 +18,7 @@ Task-Test-new-install: install skip
  * info
  * logrotate
  * man-db            # ColinWatson
- * manpages          # ColinWatson
+ * (manpages)        # ColinWatson
  * mime-support      # establishes framework for dealing with MIME
  * nano              # we need a text editor less scary than vi
  * parted
