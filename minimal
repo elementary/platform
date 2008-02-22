@@ -3,6 +3,7 @@ Task-Relevance: 9
 Task-Description: Minimal base system
 Task-Extended-Description: This task installs the core of an Ubuntu-based system.
 Task-Test-new-install: install skip
+Task-Seeds: required
 
 Note that some packages that form the core of an Ubuntu-based system are in the required seed, from which this seed inherits. The minimal seed describes those packages at Priority: important.
 
