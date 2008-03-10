@@ -5,11 +5,6 @@
  * /^.*-firmware-.*-386-di/ [i386]
  * /^.*-modules-.*-386-di/ [i386]
 
- # Used for powerpc+ps3 images
- * Kernel-Version: 2.6.24-12-cell
- * /^.*-firmware-.*-cell-di/ [powerpc]
- * /^.*-modules-.*-cell-di/ [powerpc]
-
  * debian-installer # also has side-effect of pulling in installer image build system
  * gfxboot
  * gfxboot-theme-ubuntu
