@@ -2,6 +2,7 @@ Task-Section: user
 Task-Relevance: 8
 Task-Description: Standard system
 Task-Extended-Description: This task installs a reasonably small character-mode system.
+Task-Key: ubuntu-standard
 Task-Test-new-install: install skip
 
 = UNIX =
