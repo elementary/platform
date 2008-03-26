@@ -26,6 +26,7 @@ Task-Test-new-install: install skip
  * psmisc            # utilities for /proc such as killall, pstree, fuser
  * time
  * (mlocate)
+ * (bash-completion)
 
 == Filesystems ==
 
