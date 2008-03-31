@@ -62,6 +62,7 @@ Programs and packages necessary for both the proper functionality of the system 
  * usbutils
  * util-linux-locales
  * vim-tiny
+ * whiptail          # for debconf's Dialog frontend
 
 == Networking ==
 
