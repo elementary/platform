@@ -27,6 +27,14 @@
  * libc6.1-prof [ia64]
  * gcc-4.2-locales
 
+== Advanced editors ==
+
+ * vim
+ * emacs
+ * emacs22-el
+ * emacs22-nox
+ * emacs-goodies-el
+
 == Revision Control ==
 
  * subversion
