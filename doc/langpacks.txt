@@ -42,3 +42,8 @@ zh: scim-chewing scim-pinyin scim-tables-zh
 ja: scim-anthy
 ko: scim-hangul
 am ar bn gu hi kn ml ne pa ru ta te vi: scim-tables-additional
+
+
+
+
+# the blank lines above are to not confuse vim because of the "vi:" line
