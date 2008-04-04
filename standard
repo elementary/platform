@@ -36,6 +36,7 @@ These are commonly used filesystem support packages, here because someone settin
  * dosfstools
  * hfsutils [powerpc]
  * (ntfs-3g)
+ * (uuid-runtime) # we use UUIDs by default, so make it easy to generate them
 
 == Networking ==
 
