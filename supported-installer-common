@@ -1,0 +1,18 @@
+= Installer =
+
+ # Used for netboot installations
+ * Kernel-Version: 2.6.24-16-386
+ * /^.*-firmware-.*-386-di/ [i386]
+ * /^.*-modules-.*-386-di/ [i386]
+
+ * debian-installer # also has side-effect of pulling in installer image build system
+ * cdebconf # useful for testing, but not used by default yet
+
+ * installation-guide-amd64 [amd64]
+ * installation-guide-hppa [hppa]
+ * installation-guide-i386 [i386]
+ * installation-guide-ia64 [ia64]
+ * installation-guide-powerpc [powerpc]
+ * installation-guide-sparc [sparc]
+
+
