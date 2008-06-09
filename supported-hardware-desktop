@@ -4,8 +4,6 @@
  * mdetect         # formerly used by X for mouse autodetection
  * irda-utils
  * wacom-tools
- * palo            # hppa boot loader, but needed on other architectures to build hppa CD images
- * ps3-kboot       # boot loader for Sony PlayStation 3
  * libpam-thinkfinger # use fingerprint readers for authentication
  * thinkfinger-tools
 
@@ -13,5 +11,5 @@
 
  * cloop-utils # for LiveCD
 
-== Cluster ==
+
 
