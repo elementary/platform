@@ -4,6 +4,8 @@
  * lupin-casper # ditto, installer-for-windows
  * livecd-rootfs # live CD build script
  
- = LTSP =
+= LTSP =
 
+ * ltsp-server
+ * ltsp-server-standalone
  * ltsp-client
