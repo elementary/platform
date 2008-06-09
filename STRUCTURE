@@ -13,6 +13,15 @@ supported-kernel: standard
 supported-network: standard
 supported-misc-servers: standard
 supported-sysadmin: standard
+supported-hardware-common: standard
+supported-hardware-server: standard
+supported-hardware-desktop: standard
+supported-installer-common: standard
+supported-installer-server: standard
+supported-installer-desktop: standard
+supported-network-common: standard
+supported-sysadmin-common: standard
+supported-sysadmin-desktop: standard
 supported-common: build-essential supported-development supported-hardware-common supported-installer-common supported-kernel supported-network-common supported-sysadmin-common
 supported-server: supported-hardware-server supported-installer-server supported-misc-servers supported-common
-supported-desktop: supported-hardware-desktop supported-installer-desktop supported-common supported-network-desktop supported-sysadmin-desktop
+supported-desktop: supported-hardware-desktop supported-installer-desktop supported-sysadmin-desktop supported-common

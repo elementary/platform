@@ -1,7 +1,5 @@
 = Installer =
 
- * gfxboot
- * gfxboot-theme-ubuntu
  * casper # needed by live CD build system
  * lupin-casper # ditto, installer-for-windows
  * livecd-rootfs # live CD build script

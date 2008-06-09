@@ -7,6 +7,8 @@
 
  * debian-installer # also has side-effect of pulling in installer image build system
  * cdebconf # useful for testing, but not used by default yet
+ * gfxboot
+ * gfxboot-theme-ubuntu
 
  * installation-guide-amd64 [amd64]
  * installation-guide-hppa [hppa]
