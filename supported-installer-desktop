@@ -3,3 +3,7 @@
  * casper # needed by live CD build system
  * lupin-casper # ditto, installer-for-windows
  * livecd-rootfs # live CD build script
+ 
+ = LTSP =
+
+ * ltsp-client
