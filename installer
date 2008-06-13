@@ -15,8 +15,10 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * brltty-udeb
  * bterm-unifont
  * busybox-udeb
+ * cdebconf-newt-entropy
  * cdebconf-newt-udeb
  * cdebconf-priority
+ * cdebconf-text-entropy
  * cdebconf-text-udeb
  * cdebconf-udeb
  * cdrom-checker
