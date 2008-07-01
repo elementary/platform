@@ -59,7 +59,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * libfribidi0-udeb
  * libnss-dns-udeb
  * libnss-files-udeb
- * libparted1.7-udeb
+ * libparted1.8-udeb
  * libtextwrap1-udeb
  * load-cdrom
  * load-iso # for USB boot
