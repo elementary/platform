@@ -1,7 +1,7 @@
 == Kernel ==
 
- * /^linux-(backports-modules-hardy-|headers-)?(386|cell|generic|hppa|itanium|lpia|mckinley|powerpc|ps3|server|sparc64|virtual).*/
- * linux-backports-modules-hardy
+ * /^linux-(backports-modules-intrepid-|headers-)?(386|cell|generic|hppa|itanium|lpia|mckinley|powerpc|ps3|server|sparc64|virtual).*/
+ * linux-backports-modules-intrepid
  * linux-doc
  * linux-source
  * linux-kernel-devel
