@@ -66,9 +66,9 @@ These packages help with system integration
 
 Printing and printer configuration is a real weak spot in Debian, and in Linux in general. We will need to stay at the front of the curve here.
 
- * cupsys                       # our preferred printer management infrastructure
- * cupsys-bsd                   # gives us lpc, lpq, lpr, lprm
- * cupsys-client                # gives us cancel, cupstestppd, lp, lpoptions, lppasswd, lpstat, cupsaddsmb, accept, lpadmin, lpinfo, lpmove
+ * cups                       # our preferred printer management infrastructure
+ * cups-bsd                   # gives us lpc, lpq, lpr, lprm
+ * cups-client                # gives us cancel, cupstestppd, lp, lpoptions, lppasswd, lpstat, cupsaddsmb, accept, lpadmin, lpinfo, lpmove
  * foomatic-db-engine           # integrate the foomatic printer driver engine
  * foomatic-db                  # the foomatic printer driver database
  * foomatic-filters             # converter from postscript to printer-specific formats
