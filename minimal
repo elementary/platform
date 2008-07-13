@@ -58,6 +58,7 @@ Programs and packages necessary for both the proper functionality of the system 
  * sysklogd
  * tasksel           # used by installer to install desktop etc.
  * tcpd              # hosts.allow, hosts.deny
+ * ubuntu-keyring     # for authenticated package downloads
  * udev
  * usbutils
  * util-linux-locales
@@ -84,8 +85,7 @@ These provide various networking services, all should be configured in a client-
 = Meta =
 
  * ubuntu-minimal     # Ubuntu-specific bits we want on every Ubuntu system
- * ubuntu-keyring     # for authenticated package downloads
 
 = Other =
 
- * python             # upstream doesn't want python-minimal shipped alone
+ * python             # -minimal is essential, but upstream doesn't want python-minimal shipped alone
