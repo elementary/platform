@@ -13,7 +13,6 @@ Task-Test-new-install: install skip
  * cpio
  * cron
  * ed
- * (fdutils)         # needed for debian kernel
  * file
  * hdparm            # speed up CD-ROM and disk access, used by installer
  * info
