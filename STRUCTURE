@@ -1,3 +1,4 @@
+feature follow-recommends
 required:
 minimal: required
 boot:
