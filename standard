@@ -23,6 +23,8 @@ Task-Test-new-install: install skip
  * nano              # we need a text editor less scary than vi
  * parted
  * psmisc            # utilities for /proc such as killall, pstree, fuser
+ * pciutils
+ * usbutils
  * time
  * (mlocate)
  * (bash-completion)
