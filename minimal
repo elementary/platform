@@ -11,8 +11,6 @@ Note that some packages that form the core of an Ubuntu-based system are in the 
 
 == Generic ==
 
- * pcmciautils          # PCMCIA support for >= 2.6.13-rc1 kernels
-
 == i386, i686 ==
 
  * libc6-i686 [i386]
