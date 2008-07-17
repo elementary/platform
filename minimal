@@ -53,7 +53,6 @@ Programs and packages necessary for both the proper functionality of the system 
  * tasksel           # used by installer to install desktop etc.
  * ubuntu-keyring     # for authenticated package downloads
  * udev
- * util-linux-locales
  * vim-tiny
  * whiptail          # for debconf's Dialog frontend
 

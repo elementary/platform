@@ -88,3 +88,7 @@
  * libsdl1.2debian-esd
  * libsdl1.2debian-oss
  * libgl1-mesa-swx11-i686
+
+= Misc =
+
+ * util-linux-locales  # contents provided in langpacks, just needs to be held in main
