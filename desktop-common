@@ -10,6 +10,7 @@ particular flavour of desktop environment (e.g. GNOME, KDE, or XFCE).
  * alsa-utils           # basic audio support and mixer level handling
  * hotkey-setup
  * pcmciautils          # PCMCIA support for >= 2.6.13-rc1 kernels
+ * inputattach          # needed for serial mice
 
 Power management:
 
