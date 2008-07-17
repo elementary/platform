@@ -45,7 +45,6 @@ Programs and packages necessary for both the proper functionality of the system 
  * gnupg             # introduce security from the very base
  * initramfs-tools   # needed for the Ubuntu kernel
  * less
- * libfribidi0       # right-to-left text support in newt
  * lsb-release
  * module-init-tools # required for kernel 2.6
  * netbase
