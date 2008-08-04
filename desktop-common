@@ -49,6 +49,7 @@ These tools are very commonly used by people who drop into a console shell to do
  * lftp
  * zip
  * unzip                # also used for .zip support in file-roller
+ * libpam-ck-connector  # get ConsoleKit sessions for VTs
 
 = Network Services =
 
