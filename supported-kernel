@@ -8,3 +8,4 @@
  * /^linux-image-debug.*(?<!-rt)$/
  * vmware-*-kernel-modules
  * kexec-tools
+ * fglrx-kernel-source
