@@ -179,7 +179,7 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == amd64 ==
 
- * Kernel-Version: 2.6.26-5-generic
+ * Kernel-Version: 2.6.27-1-generic
  * /^.*-firmware-.*-di/ [amd64]
  * /^.*-modules-.*-di/ [amd64]
 
@@ -191,7 +191,7 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == i386 ==
 
- * Kernel-Version: 2.6.26-5-generic
+ * Kernel-Version: 2.6.27-1-generic
  * /^.*-firmware-.*-di/ [i386]
  * /^.*-modules-.*-di/ [i386]
 
