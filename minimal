@@ -40,7 +40,6 @@ Programs and packages necessary for both the proper functionality of the system 
  * apt-utils         # apt-extracttemplates is required for debconf preconfiguration
  * bzip2
  * console-setup     # https://blueprints.launchpad.net/ubuntu/+spec/sane-installer-keyboard
- * console-tools
  * eject             # very popular, useful, small
  * gnupg             # introduce security from the very base
  * initramfs-tools   # needed for the Ubuntu kernel
