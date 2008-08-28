@@ -34,6 +34,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * di-utils-shell
  * di-utils-terminfo
  * disk-detect
+ * dmraid-udeb
  * download-installer
  * e2fsprogs-udeb
  * eject-udeb
