@@ -2,6 +2,10 @@ This seed describes the packages at Priority: required. These packages are insta
 
 A system containing only required packages is not a supported Ubuntu system; you need to install at least the packages from minimal as well.
 
+We avoid following Recommends for this seed because it is processed by debootstrap, not apt, and debootstrap only does the minimum necessary.
+
+ * Feature: no-follow-recommends
+
 = UNIX =
 
 == Essential ==
