@@ -9,6 +9,7 @@ Task-Test-new-install: install skip
 
 == Comfortable Unix System ==
 
+ * aptitude          # better text-mode package manager
  * at
  * cpio
  * cron
