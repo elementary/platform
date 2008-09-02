@@ -9,6 +9,7 @@
  * powertop
  * libpam-thinkfinger # use fingerprint readers for authentication
  * thinkfinger-tools
+ * ethtool
 
 == Filesystems ==
 
