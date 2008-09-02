@@ -70,7 +70,6 @@ These provide various networking services, all should be configured in a client-
 
  * ethtool
  * iputils-ping
- * mii-diag
  * netcat             # FabioMassimoDiNitto
 
 = Meta =
