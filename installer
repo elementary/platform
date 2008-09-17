@@ -147,7 +147,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 = Partition Management (architecture-specific) =
 
  * fdisk-udeb
- * gptsync-udeb [amd64 i386]
+ * gptsync-udeb [amd64 i386 lpia]
  * mac-fdisk-udeb [powerpc]
  * pmac-fdisk-udeb [powerpc]
  * partman-efi [amd64 i386 ia64]
@@ -159,7 +159,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
  * efi-reader [ia64]
  * elilo-installer [i386 ia64]
- * grub-installer [amd64 i386]
+ * grub-installer [amd64 i386 lpia]
  * lilo-installer [amd64 i386]
  * silo-installer [sparc]
  * kboot-installer [powerpc]

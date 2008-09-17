@@ -16,7 +16,7 @@ Power management:
 
  * acpi-support
  * (powernowd)
- * powermanagement-interface [i386 amd64 powerpc ia64]
+ * powermanagement-interface [i386 amd64 powerpc ia64 lpia]
  * (libgl1-mesa-dri) # needed for composite/3D on free graphics drivers
 
 Bluetooth:
@@ -25,7 +25,7 @@ TODO not for Xubuntu
  * (bluez-utils) # base for bluetooth support
  * (bluez-cups)  # allow connecting to bluetooth printers from CUPS
 
-== i386, i686, amd64 ==
+== i386, i686, amd64, lpia ==
 
  * acpi
  * acpid
@@ -129,6 +129,7 @@ to compile a driver. -mdz
  * (linux-headers-sparc64) [sparc]
  * (linux-headers-hppa32) [hppa]
  * (linux-headers-hppa64) [hppa]
+ * (linux-headers-lpia) [lpia]
 
 = Other =
 
