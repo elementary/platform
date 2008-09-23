@@ -137,6 +137,7 @@ to compile a driver. -mdz
  * (bogofilter) # TODO not for Xubuntu
  * usplash # also needs theme provided by specific desktop seed
  * libxp6 # required for some third party apps. See #15739
+ * (landscape-client)
  * readahead
 
 = Germinate workarounds =
