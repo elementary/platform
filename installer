@@ -95,6 +95,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * partman-auto-crypto
  * partman-auto-loop
  * partman-auto-lvm
+ * partman-auto-raid
  * partman-base
  * partman-basicfilesystems
  * partman-basicmethods
