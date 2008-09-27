@@ -100,7 +100,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * partman-basicfilesystems
  * partman-basicmethods
  * partman-crypto-dm
- * partman-dmraid
  * partman-ext3
  * partman-jfs
  * partman-lvm
