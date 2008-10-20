@@ -1,6 +1,6 @@
 == Kernel ==
 
- * /^linux-(backports-modules-intrepid-|headers-)?(386|cell|generic|hppa|itanium|lpia|mckinley|powerpc|ps3|server|sparc64|virtual).*/
+ * /^linux-(backports-modules-intrepid-|headers-)?(386|cell|generic|hppa|itanium|lpia(?!compat)|mckinley|powerpc|ps3|server|sparc64|virtual).*/
  * linux-backports-modules-intrepid
  * linux-doc
  * linux-ports-doc
