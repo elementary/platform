@@ -65,8 +65,6 @@ These provide various networking services, all should be configured in a client-
  * ifupdown
  * net-tools
  * ntpdate        # FabioMassimoDiNitto
- * wireless-tools
- * wpasupplicant  # ScottJamesRemnant
 
  * iputils-ping
  * netcat             # FabioMassimoDiNitto
