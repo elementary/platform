@@ -117,6 +117,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * rescue-check # initrd part of rescue mode
  * rescue-mode  # main part of rescue mode, installed if rescue/enable=true
  * rootskel
+ * rootskel-gtk
  * save-logs
  * sparc-utils-udeb [sparc] # used for sbus detection
  * strace-udeb # handy for debugging
