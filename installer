@@ -133,8 +133,8 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 = Floppy Support =
 
  * busybox-floppy-udeb
- * floppy-retriever
- * load-floppy
+ * media-retriever
+ * load-media
  * rootskel-bootfloppy
 
 = Release File Authentication =
