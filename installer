@@ -190,6 +190,12 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
  * /^.*-firmware-.*-di/ [amd64]
  * /^.*-modules-.*-di/ [amd64]
 
+== armel ==
+
+ * Kernel-Version: 2.6.27-9-iop32x 2.6.27-9-ixp4xx 2.6.27-9-orion5x 2.6.27-9-versatile
+ * /^.*-firmware-.*-di/ [armel]
+ * /^.*-modules-.*-di/ [armel]
+
 == hppa ==
 
  * Kernel-Version: 2.6.25-2-hppa32 2.6.25-2-hppa64
