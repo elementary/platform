@@ -6,6 +6,7 @@ standard: minimal
 desktop-common: standard
 d-i-requirements: minimal
 installer:
+installer-gtk: installer
 build-essential: required
 supported-development: standard
 supported-hardware: standard
