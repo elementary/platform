@@ -1,4 +1,15 @@
 These packages are used only by the installer's GTK frontend. We separate them out here so that we don't have to worry about them ending up on CDs for the time being, although making this all work properly needs some better support in cdimage.
 
+ * cdebconf-gtk-entropy
  * cdebconf-gtk-terminal
  * rootskel-gtk
+ * ttf-cjk-compact-udeb
+ * ttf-dejavu-udeb
+ * ttf-farsiweb-udeb
+ * ttf-freefont-udeb
+ * ttf-khmeros-udeb
+ * ttf-malayalam-fonts-udeb
+ * ttf-sil-abyssinica-udeb
+ * ttf-tamil-fonts-udeb
+ * ttf-thai-tlwg-udeb
+ * ttf-tmuni-udeb
