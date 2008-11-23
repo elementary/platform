@@ -158,6 +158,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
 = Bootloader Installers =
 
+ * devio-udeb [armel]
  * efi-reader [ia64]
  * elilo-installer [i386 ia64]
  * grub-installer [amd64 i386 lpia]
@@ -174,6 +175,11 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 = Thin client computing =
 
  * ltsp-client-builder
+
+= Specialised hardware =
+
+ * beep-udeb [armel]
+ * oldsys-preseed [armel]
 
 = Kernel Modules =
 
