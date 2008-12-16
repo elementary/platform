@@ -16,7 +16,6 @@ Power management:
 
  * acpi-support
  * (powernowd)
- * powermanagement-interface [i386 amd64 powerpc ia64 lpia]
  * (libgl1-mesa-dri) # needed for composite/3D on free graphics drivers
 
 Bluetooth:
@@ -27,7 +26,6 @@ TODO not for Xubuntu
 
 == i386, i686, amd64, lpia ==
 
- * acpi
  * acpid
  * apmd [i386]
 
