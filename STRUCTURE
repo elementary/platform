@@ -18,4 +18,4 @@ supported-sysadmin-common: standard
 supported-sysadmin-desktop: standard
 supported-server: supported-misc-servers supported-hardware-common supported-installer-common supported-network-common supported-sysadmin-common build-essential supported-development supported-kernel
 supported-desktop: supported-hardware-desktop supported-installer-desktop supported-sysadmin-desktop supported-hardware-common supported-installer-common supported-network-common supported-sysadmin-common build-essential supported-development supported-kernel
-supported-common:  supported-server supported-desktop 
+supported-common: supported-server supported-desktop 
