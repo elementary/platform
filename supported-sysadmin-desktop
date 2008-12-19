@@ -1,0 +1,3 @@
+= System Administration Tools =
+ * system-config-kickstart # Kickstart configuration GUI
+ * system-cleaner-gtk
