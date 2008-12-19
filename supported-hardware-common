@@ -1,0 +1,15 @@
+= Hardware =
+
+ * powertop
+ * palo            # hppa boot loader, but needed on other architectures to build hppa CD images
+ * ps3-kboot       # boot loader for Sony PlayStation 3
+ * ethtool
+
+== Filesystems ==
+
+ * xfsdump # only useful when machine is setup and working, and only for xfs people
+ * squashfs-tools
+ * reiser4progs
+ * hfsplus
+
+
