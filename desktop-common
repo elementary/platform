@@ -107,10 +107,6 @@ Fonts:
  * (ttf-thai-tlwg)
  * (ttf-lao)
 
-= Games =
-
- * (fortune-mod)		# Needed by some screensavers
-
 = Development =
 
 Here we provide a minimal development environment sufficient to build kernel
