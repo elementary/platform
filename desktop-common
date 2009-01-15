@@ -57,7 +57,6 @@ Basic network services and Windows integration.
  * wpasupplicant  # ScottJamesRemnant
  * (libnss-mdns)       # IPv4 link-local DNS support
  * smbclient           # to access files on other SAMBA and Windows servers
- * (wvdial)            # for automatic dialup configuration via g-s-t
  * ca-certificates     # common SSL certificates
 
 These packages help with system integration

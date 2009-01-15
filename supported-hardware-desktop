@@ -6,6 +6,7 @@
  * wacom-tools
  * libpam-thinkfinger # use fingerprint readers for authentication
  * thinkfinger-tools
+ * wvdial
 
 == Filesystems ==
 
