@@ -220,7 +220,7 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == lpia ==
 
- * Kernel-Version: 2.6.27-4-lpia
+ * Kernel-Version: 2.6.28-1-lpia
  * /^.*-firmware-.*-di/ [lpia]
  * /^.*-modules-.*-di/ [lpia]
 
