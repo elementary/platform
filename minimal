@@ -7,6 +7,10 @@ Task-Seeds: required
 
 Note that some packages that form the core of an Ubuntu-based system are in the required seed, from which this seed inherits. The minimal seed describes those packages at Priority: important.
 
+We avoid following Recommends for this seed because it is processed by debootstrap, not apt, and debootstrap only does the minimum necessary.
+
+ * Feature: no-follow-recommends
+
 = Hardware and Architecture Support =
 
 == Generic ==
