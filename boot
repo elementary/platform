@@ -47,3 +47,10 @@ restricted modules.
 
  * ${Kernel-Stem}-lpia [lpia]             # lpia kernel, works on all machines
 
+== armel ==
+
+ * ${Kernel-Stem}-iop32x [armel]
+ * ${Kernel-Stem}-ixp4xx [armel]
+ * ${Kernel-Stem}-orion5x [armel]
+ * ${Kernel-Stem}-versatile [armel]
+
