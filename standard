@@ -88,3 +88,4 @@ These are used for debugging problems or examining the system.
 
  * popularity-contest
  * ubuntu-standard # metapackage for everything here
+ * (apt-transport-https) # James Westby, enables access to private PPAs among other things
