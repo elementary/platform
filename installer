@@ -16,6 +16,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * bterm-unifont
  * busybox-udeb
  * cdebconf-newt-entropy
+ * cdebconf-newt-terminal
  * cdebconf-newt-udeb
  * cdebconf-priority
  * cdebconf-text-entropy
