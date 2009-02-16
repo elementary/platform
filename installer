@@ -204,7 +204,7 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == hppa ==
 
- * Kernel-Version: 2.6.27-1-hppa32 2.6.27-1-hppa64
+ * Kernel-Version: 2.6.28-1-hppa32 2.6.28-1-hppa64
  * /^.*-firmware-.*-di/ [hppa]
  * /^.*-modules-.*-di/ [hppa]
 
@@ -216,7 +216,7 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == ia64 ==
 
- * Kernel-Version: 2.6.27-1-itanium
+ * Kernel-Version: 2.6.28-1-itanium
  * /^.*-firmware-.*-di/ [ia64]
  * /^.*-modules-.*-di/ [ia64]
 
@@ -228,12 +228,12 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == powerpc ==
 
- * Kernel-Version: 2.6.27-1-powerpc 2.6.27-1-powerpc64-smp
+ * Kernel-Version: 2.6.28-1-powerpc 2.6.28-1-powerpc64-smp
  * /^.*-firmware-.*-di/ [powerpc]
  * /^.*-modules-.*-di/ [powerpc]
 
 == sparc ==
 
- * Kernel-Version: 2.6.27-1-sparc64
+ * Kernel-Version: 2.6.28-1-sparc64
  * /^.*-firmware-.*-di/ [sparc]
  * /^.*-modules-.*-di/ [sparc]
