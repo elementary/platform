@@ -15,7 +15,6 @@ particular flavour of desktop environment (e.g. GNOME, KDE, or XFCE).
 Power management:
 
  * (acpi-support)
- * (powernowd)
  * (libgl1-mesa-dri) # needed for composite/3D on free graphics drivers
 
 Bluetooth:
