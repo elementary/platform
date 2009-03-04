@@ -68,7 +68,6 @@ These are used for debugging problems or examining the system.
  * lshw
  * lsof
  * ltrace
- * kerneloops
 
 = Helpful Tools =
  
