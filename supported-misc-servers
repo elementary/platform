@@ -28,3 +28,16 @@ Utilities:
  * graphviz
  * logcheck		  # great security tool for any server
  * logcheck-database	  # useful for above
+ * rrdtool
+ * john
+
+Server:
+
+ * exim4
+ * exim4-daemon-heavy
+ * exim4-daemon-light
+ * freeradius
+ * cricket
+ * bacula-director-sqlite3
+ * bacula-sd-sqlite3
+
