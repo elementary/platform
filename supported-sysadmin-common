@@ -27,3 +27,5 @@
  * siege
  * bonnie++
  * aptitude-doc-en
+ * sqlite3		# CLI utility, libs in main. nijaba
+
