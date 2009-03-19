@@ -194,48 +194,48 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == amd64 ==
 
- * Kernel-Version: 2.6.28-9-generic
+ * Kernel-Version: 2.6.28-11-generic
  * /^.*-firmware-.*-di/ [amd64]
  * /^.*-modules-.*-di/ [amd64]
 
 == armel ==
 
- * Kernel-Version: 2.6.28-9-iop32x 2.6.28-9-ixp4xx 2.6.28-9-orion5x 2.6.28-9-versatile
+ * Kernel-Version: 2.6.28-11-iop32x 2.6.28-11-ixp4xx 2.6.28-11-orion5x 2.6.28-11-versatile
  * /^.*-firmware-.*-di/ [armel]
  * /^.*-modules-.*-di/ [armel]
 
 == hppa ==
 
- * Kernel-Version: 2.6.28-4-hppa32 2.6.28-4-hppa64
+ * Kernel-Version: 2.6.28-5-hppa32 2.6.28-5-hppa64
  * /^.*-firmware-.*-di/ [hppa]
  * /^.*-modules-.*-di/ [hppa]
 
 == i386 ==
 
- * Kernel-Version: 2.6.28-9-generic
+ * Kernel-Version: 2.6.28-11-generic
  * /^.*-firmware-.*-di/ [i386]
  * /^.*-modules-.*-di/ [i386]
 
 == ia64 ==
 
- * Kernel-Version: 2.6.28-4-itanium
+ * Kernel-Version: 2.6.28-5-itanium
  * /^.*-firmware-.*-di/ [ia64]
  * /^.*-modules-.*-di/ [ia64]
 
 == lpia ==
 
- * Kernel-Version: 2.6.28-9-lpia
+ * Kernel-Version: 2.6.28-11-lpia
  * /^.*-firmware-.*-di/ [lpia]
  * /^.*-modules-.*-di/ [lpia]
 
 == powerpc ==
 
- * Kernel-Version: 2.6.28-4-powerpc 2.6.28-4-powerpc64-smp
+ * Kernel-Version: 2.6.28-5-powerpc 2.6.28-5-powerpc64-smp
  * /^.*-firmware-.*-di/ [powerpc]
  * /^.*-modules-.*-di/ [powerpc]
 
 == sparc ==
 
- * Kernel-Version: 2.6.28-4-sparc64
+ * Kernel-Version: 2.6.28-5-sparc64
  * /^.*-firmware-.*-di/ [sparc]
  * /^.*-modules-.*-di/ [sparc]
