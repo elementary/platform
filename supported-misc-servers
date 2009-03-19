@@ -40,4 +40,5 @@ Server:
  * cricket
  * bacula-director-sqlite3
  * bacula-sd-sqlite3
+ * zope3-sandbox
 
