@@ -44,7 +44,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * fbset-udeb
  * file-preseed
  * finish-install
- * flash-kernel-installer
  * hdparm-udeb # not currently used, but may be used by cdrom-detect in the future
  * hw-detect
  * initrd-preseed
@@ -163,6 +162,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * devio-udeb [armel]
  * efi-reader [ia64]
  * elilo-installer [i386 ia64]
+ * flash-kernel-installer [armel]
  * grub-installer [amd64 i386 lpia]
  * lilo-installer [amd64 i386]
  * silo-installer [sparc]
