@@ -17,6 +17,7 @@ Other:
  * racoon
  * sysvinit  # ScottJamesRemnant retain support for now
  * openprinting-ppds-extra          # Less common printer drivers we don't want in desktop
+ * python-moinmoin      # moin (>= 1.5)
 
 Printing:
 
