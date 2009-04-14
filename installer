@@ -183,6 +183,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * beep-udeb [armel]
  * oldsys-preseed [armel]
  * qcontrol-udeb [armel]
+ * redboot-tools-udeb [armel]
 
 = Kernel Modules =
 
