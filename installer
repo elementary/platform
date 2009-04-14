@@ -181,7 +181,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 = Specialised hardware =
 
  * beep-udeb [armel]
- * micro-evtd-udeb [armel]
  * oldsys-preseed [armel]
  * qcontrol-udeb [armel]
 
