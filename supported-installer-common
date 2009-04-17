@@ -11,6 +11,8 @@
  * gfxboot-theme-ubuntu
  * grub-pc # under test for becoming the default in future releases
 
+ * ppp-udeb # experimental
+
  * redboot-imx51-babbage # used to create SD card images on armel iMX51 Babbage
 
  * installation-guide-amd64 [amd64]
