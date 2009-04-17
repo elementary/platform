@@ -17,7 +17,6 @@
  * pychecker
  * exuberant-ctags   # ColinWatson
  * linux32		# without it, biarch buildds can go wonky
- * bootchart         # boot speed profiling
  * indent
  * autopkgtest
  * cmake
