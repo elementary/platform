@@ -192,13 +192,13 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == amd64 ==
 
- * Kernel-Version: 2.6.30-1-generic
+ * Kernel-Version: 2.6.30-2-generic
  * /^.*-firmware-.*-di/ [amd64]
  * /^.*-modules-.*-di/ [amd64]
 
 == armel ==
 
- * Kernel-Version: 2.6.30-1-imx51 2.6.30-1-iop32x 2.6.30-1-ixp4xx 2.6.30-1-orion5x 2.6.30-1-versatile
+ * Kernel-Version: 2.6.30-2-imx51 2.6.30-2-iop32x 2.6.30-2-ixp4xx 2.6.30-2-orion5x 2.6.30-2-versatile
  * /^.*-firmware-.*-di/ [armel]
  * /^.*-modules-.*-di/ [armel]
 
@@ -210,7 +210,7 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == i386 ==
 
- * Kernel-Version: 2.6.30-1-generic
+ * Kernel-Version: 2.6.30-2-generic
  * /^.*-firmware-.*-di/ [i386]
  * /^.*-modules-.*-di/ [i386]
 
@@ -222,7 +222,7 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == lpia ==
 
- * Kernel-Version: 2.6.30-1-lpia
+ * Kernel-Version: 2.6.30-2-lpia
  * /^.*-firmware-.*-di/ [lpia]
  * /^.*-modules-.*-di/ [lpia]
 
