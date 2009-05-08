@@ -29,8 +29,7 @@ restricted modules.
 == ia64 ==
 
  * elilo [i386 ia64]                      # also needed on Intel-based Macs
- * ${Kernel-Stem}-itanium [ia64]          # ia64 kernel, works on all machines
- * ${Kernel-Stem}-mckinley [ia64]         # ia64 kernel, all Itanium II machines
+ * ${Kernel-Stem}-ia64 [ia64]             # ia64 kernel, works on all machines
 
 == sparc ==
 
