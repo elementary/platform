@@ -216,7 +216,7 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == ia64 ==
 
- * Kernel-Version: 2.6.30-1-itanium
+ * Kernel-Version: 2.6.30-1-ia64
  * /^.*-firmware-.*-di/ [ia64]
  * /^.*-modules-.*-di/ [ia64]
 
