@@ -4,8 +4,6 @@
  * mdetect         # formerly used by X for mouse autodetection
  * irda-utils
  * wacom-tools
- * libpam-thinkfinger # use fingerprint readers for authentication
- * thinkfinger-tools
  * wvdial
 
 == Filesystems ==
