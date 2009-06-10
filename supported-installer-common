@@ -9,7 +9,6 @@
  * cdebconf # useful for testing, but not used by default yet
  * gfxboot
  * gfxboot-theme-ubuntu
- * grub-pc # under test for becoming the default in future releases
 
  * ppp-udeb # experimental
 
