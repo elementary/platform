@@ -14,6 +14,7 @@ restricted modules.
 == i386 ==
 
  * grub [amd64 i386 lpia]                 # lilo will be in supported
+ * grub-pc [amd64 i386 lpia]
  * ${Kernel-Stem}-generic [i386]          # our chosen default install kernel
 
 == powerpc ==
