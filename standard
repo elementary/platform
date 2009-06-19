@@ -30,10 +30,6 @@ Task-Test-new-install: install skip
  * (mlocate)
  * (bash-completion)
 
-== Hardware ==
-
- * udev-extras       # keymap setting, device ACLs, modem modeswitch, etc.
-
 == Filesystems ==
 
 These are commonly used filesystem support packages, here because someone setting up a server would begin with standard, configure filesystems and network and then add other services. NFS is explicitly not here, because it brings in nasties like portmap, and because the network will need to be running before it can be used, so we may as well put that in Supported.
