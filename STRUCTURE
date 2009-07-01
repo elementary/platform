@@ -8,6 +8,7 @@ d-i-requirements: minimal
 installer:
 installer-gtk: installer
 build-essential: required
+language-packs: desktop-common
 supported-development: standard
 supported-kernel: standard
 supported-misc-servers: standard
@@ -19,5 +20,5 @@ supported-network-common: standard
 supported-sysadmin-common: standard
 supported-sysadmin-desktop: standard
 supported-server: supported-misc-servers supported-hardware-common supported-installer-common supported-network-common supported-sysadmin-common build-essential supported-development supported-kernel
-supported-desktop: supported-hardware-desktop supported-installer-desktop supported-sysadmin-desktop supported-hardware-common supported-installer-common supported-network-common supported-sysadmin-common build-essential supported-development supported-kernel
+supported-desktop: supported-hardware-desktop supported-installer-desktop supported-sysadmin-desktop supported-hardware-common supported-installer-common supported-network-common supported-sysadmin-common build-essential supported-development supported-kernel language-packs
 supported-common: supported-server supported-desktop 
