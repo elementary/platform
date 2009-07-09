@@ -4,6 +4,11 @@
  * lupin-casper # ditto, installer-for-windows
  * livecd-rootfs # live CD build script
  
+These will typically be included in installable live CD seeds:
+
+ * ubiquity-frontend-gtk
+ * ubiquity-ubuntu-artwork
+
 = LTSP =
 
  * ltsp-server
