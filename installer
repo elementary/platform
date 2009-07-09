@@ -69,8 +69,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * lowmemcheck
  * lsb-release-udeb
  * lvm2-udeb
- * lvmcfg
- * lvmcfg-utils
  * main-menu
  * mdadm-udeb
  * mdcfg
