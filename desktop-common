@@ -8,7 +8,7 @@ particular flavour of desktop environment (e.g. GNOME, KDE, or XFCE).
 
  * alsa-base # needed for proper hardware detection (hotplug/blacklist.d, modprobe.d)
  * alsa-utils           # basic audio support and mixer level handling
- * pcmciautils          # PCMCIA support for >= 2.6.13-rc1 kernels
+ * (pcmciautils)        # PCMCIA support for >= 2.6.13-rc1 kernels
  * inputattach          # needed for serial mice
 
 Power management:
