@@ -71,8 +71,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * lvm2-udeb
  * main-menu
  * mdadm-udeb
- * mdcfg
- * mdcfg-utils
  * migration-assistant
  * mii-diag-udeb
  * mkreiserfs-udeb
