@@ -22,6 +22,10 @@ TODO not for Xubuntu
  * (bluez-utils) # base for bluetooth support
  * (bluez-cups)  # allow connecting to bluetooth printers from CUPS
 
+== armel ==
+
+ * apmd [armel]
+
 == i386, i686, amd64, lpia ==
 
  * acpid
