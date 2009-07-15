@@ -121,6 +121,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * usb-discover
  * usbutils-udeb # for lsusb, so we can show descriptive names for devices
  * user-setup-udeb # first-stage username/password question
+ * util-linux-udeb
  * wireless-tools-udeb
  * xfsprogs-udeb
 
