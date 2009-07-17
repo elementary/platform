@@ -54,8 +54,8 @@ Programs and packages necessary for both the proper functionality of the system 
  * lsb-release
  * module-init-tools # required for kernel 2.6
  * netbase
+ * rsyslog
  * sudo              # LaMontJones
- * sysklogd
  * tasksel           # used by installer to install desktop etc.
  * ubuntu-keyring     # for authenticated package downloads
  * udev
