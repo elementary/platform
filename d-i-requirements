@@ -6,6 +6,7 @@ parameters. They should generally be made available on CDs.
  * xfsprogs
  * jfsutils
  * hfsplus [powerpc]  # ColinWatson
+ * reiserfsprogs
  * lvm2
  * mdadm
  * dmsetup
