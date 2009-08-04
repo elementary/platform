@@ -1,6 +1,6 @@
 == Kernel ==
 
- * /^linux-(backports-modules-jaunty-|headers-|headers-lbm-.*-)?(386|cell|generic|hppa|ia64|imx51|lpia(?!compat)|powerpc|ps3|server|sparc64|virtual).*/
+ * /^linux-(backports-modules-jaunty-|headers-|headers-lbm-.*-)?(386|cell|dove|generic|hppa|ia64|imx51|lpia(?!compat)|powerpc|ps3|server|sparc64|virtual).*/
  * linux-backports-modules-jaunty
  * linux-doc
  * linux-ports-doc
