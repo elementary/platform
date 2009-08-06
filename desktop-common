@@ -26,10 +26,6 @@ TODO not for Xubuntu
 
  * apmd [armel]
 
-== i386, i686, amd64, lpia ==
-
- * acpid
-
 == ppc32, ppc64 ==
 
  * pbbuttonsd [powerpc]
