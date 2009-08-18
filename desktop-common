@@ -93,8 +93,7 @@ Packages used for X preconfiguration are just Recommends; removing them after in
 Fonts:
 
  * x-ttcidfont-conf
- * ttf-bitstream-vera
- * ttf-dejavu-core                 # includes characters missing in Vera
+ * ttf-dejavu
  * ttf-freefont
  * (ttf-sazanami-gothic)
  * (ttf-sazanami-mincho)
