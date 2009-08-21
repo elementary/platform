@@ -50,8 +50,4 @@ restricted modules.
 == armel ==
 
  * ${Kernel-Stem}-imx51 [armel]
- * ${Kernel-Stem}-iop32x [armel]
- * ${Kernel-Stem}-ixp4xx [armel]
- * ${Kernel-Stem}-orion5x [armel]
- * ${Kernel-Stem}-versatile [armel]
-
+ * ${Kernel-Stem}-dove [armel]
