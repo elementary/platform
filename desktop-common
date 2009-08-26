@@ -94,9 +94,9 @@ Fonts:
  * x-ttcidfont-conf
  * ttf-dejavu-core
  * ttf-freefont
- * (ttf-sazanami-gothic)
- * (ttf-sazanami-mincho)
- * (ttf-arabeyes)
+ * (ttf-kacst)
+ * (ttf-wqy-zenhei)
+ * (ttf-vlgothic)
  * (ttf-indic-fonts-core)
  * (ttf-thai-tlwg)
  * (ttf-lao)
