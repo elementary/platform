@@ -128,6 +128,7 @@ to compile a driver. -mdz
  * usplash # also needs theme provided by specific desktop seed
  * libxp6 # required for some third party apps. See #15739
  * sreadahead
+ * (kerneloops-daemon) # watch for and allow reporting of kernel problems
 
 = Germinate workarounds =
 
