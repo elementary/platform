@@ -189,48 +189,48 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == amd64 ==
 
- * Kernel-Version: 2.6.31-9-generic
+ * Kernel-Version: 2.6.31-10-generic
  * /^.*-firmware-.*-di/ [amd64]
  * /^.*-modules-.*-di/ [amd64]
 
 == armel ==
 
- * Kernel-Version: 2.6.31-100-imx51 2.6.31-203-dove 2.6.31-9-iop32x 2.6.31-9-ixp4xx 2.6.31-9-orion5x 2.6.31-9-versatile
+ * Kernel-Version: 2.6.31-100-imx51 2.6.31-203-dove 2.6.31-10-iop32x 2.6.31-10-ixp4xx 2.6.31-10-orion5x 2.6.31-10-versatile
  * /^.*-firmware-.*-di/ [armel]
  * /^.*-modules-.*-di/ [armel]
 
 == hppa ==
 
- * Kernel-Version: 2.6.31-9-hppa32 2.6.31-9-hppa64
+ * Kernel-Version: 2.6.31-10-hppa32 2.6.31-10-hppa64
  * /^.*-firmware-.*-di/ [hppa]
  * /^.*-modules-.*-di/ [hppa]
 
 == i386 ==
 
- * Kernel-Version: 2.6.31-9-generic
+ * Kernel-Version: 2.6.31-10-generic
  * /^.*-firmware-.*-di/ [i386]
  * /^.*-modules-.*-di/ [i386]
 
 == ia64 ==
 
- * Kernel-Version: 2.6.31-9-ia64
+ * Kernel-Version: 2.6.31-10-ia64
  * /^.*-firmware-.*-di/ [ia64]
  * /^.*-modules-.*-di/ [ia64]
 
 == lpia ==
 
- * Kernel-Version: 2.6.31-9-lpia
+ * Kernel-Version: 2.6.31-10-lpia
  * /^.*-firmware-.*-di/ [lpia]
  * /^.*-modules-.*-di/ [lpia]
 
 == powerpc ==
 
- * Kernel-Version: 2.6.31-9-powerpc 2.6.31-9-powerpc64-smp
+ * Kernel-Version: 2.6.31-10-powerpc 2.6.31-10-powerpc64-smp
  * /^.*-firmware-.*-di/ [powerpc]
  * /^.*-modules-.*-di/ [powerpc]
 
 == sparc ==
 
- * Kernel-Version: 2.6.31-9-sparc64
+ * Kernel-Version: 2.6.31-10-sparc64
  * /^.*-firmware-.*-di/ [sparc]
  * /^.*-modules-.*-di/ [sparc]
