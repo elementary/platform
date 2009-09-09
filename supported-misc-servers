@@ -43,3 +43,4 @@ Server:
  * bacula-sd-sqlite3
  * zope3-sandbox
  * dovecot-postfix
+ * python-django
