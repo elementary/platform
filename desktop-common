@@ -120,6 +120,7 @@ to compile a driver. -mdz
  * (linux-headers-hppa64) [hppa]
  * (linux-headers-lpia) [lpia]
  * (linux-headers-imx51) [armel]
+ * (linux-headers-dove) [armel]
 
 = Other =
 
