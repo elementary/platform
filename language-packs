@@ -13,3 +13,12 @@ them as appropriate.
  * /^openoffice.org-help-[^-]+$/
  * /^openoffice.org-l10n-[^-]+$/
  * /^thunderbird-locale-[^-]+$/
+
+Transitional packages for the -zh split, to be kept until after the
+next LTS after 8.04 (most likely karmic+1):
+
+ * language-pack-gnome-zh-base
+ * language-pack-kde-zh-base
+ * language-pack-zh-base
+ * language-support-fonts-zh
+ * language-support-input-zh
