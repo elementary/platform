@@ -6,8 +6,6 @@
  * linux-ports-doc
  * linux-source
  * linux-ports-source
- * linux-kernel-devel
  * /^linux-image-debug.*(?<!-rt)$/
- * vmware-*-kernel-modules
  * kexec-tools
  * fglrx-kernel-source
