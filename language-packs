@@ -3,28 +3,3 @@
 Language packs are used to deliver translations and other language-specific facilities. They're seeded elsewhere to get them onto CD images, but this seed collects the basic ones together so that we can easily identify them for the purposes of constructing package sets.
 
  * /^language-pack-[^-]+$/
-
-The following packages also have application translations, but are not
-using gettext, but a custom format. language-selector will install
-them as appropriate.
-
- * /^gimp-help-[^-]+$/
- * /^evolution-documentation-[^-]+$/
- * /^openoffice.org-help-[^-]+$/
- * /^openoffice.org-l10n-[^-]+$/
- * /^thunderbird-locale-[^-]+$/
-
-The following input aids are also installed on demand by
-language-selector:
-
- * mozvoikko
- * openoffice.org-voikko
-
-Transitional packages for the -zh split, to be kept until after the
-next LTS after 8.04 (most likely karmic+1):
-
- * language-pack-gnome-zh-base
- * language-pack-kde-zh-base
- * language-pack-zh-base
- * language-support-fonts-zh
- * language-support-input-zh
