@@ -195,7 +195,7 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == armel ==
 
- * Kernel-Version: 2.6.31-102-imx51 2.6.31-205-dove 2.6.31-12-iop32x 2.6.31-12-ixp4xx 2.6.31-12-orion5x 2.6.31-12-versatile
+ * Kernel-Version: 2.6.31-103-imx51 2.6.31-206-dove 2.6.31-12-iop32x 2.6.31-12-ixp4xx 2.6.31-12-orion5x 2.6.31-12-versatile
  * /^.*-firmware-.*-di/ [armel]
  * /^.*-modules-.*-di/ [armel]
 
