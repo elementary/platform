@@ -151,6 +151,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * partman-newworld [powerpc]
  * partman-palo [hppa]
  * partman-prep [powerpc]
+ * partman-uboot [armel]
 
 = Bootloader Installers =
 
