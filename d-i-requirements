@@ -27,5 +27,6 @@ parameters. They should generally be made available on CDs.
 
 == Installer ==
 
+ * grub # needed for dmraid et al
  * mkvmlinuz [powerpc] # for nobootloader
  * lupin-support # installer-for-windows
