@@ -51,3 +51,9 @@ restricted modules.
 
  * ${Kernel-Stem}-imx51 [armel]
  * ${Kernel-Stem}-dove [armel]
+
+== Germinate workarounds ==
+
+Stop grub-common -> base-files -> awk from selecting mawk. (Since the boot seed doesn't inherit from required for arcane reasons, this is the only way we can make this work reliably ...)
+
+ * mawk
