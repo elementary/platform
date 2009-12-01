@@ -9,19 +9,27 @@ Email:
 
  * fetchmail
  * procmail
+ * exim4
+ * exim4-daemon-heavy
+ * exim4-daemon-light
+ * dovecot-postfix
 
 Must also consider webmail and so on...
 
-Other:
+VPN:
 
- * racoon
- * sysvinit  # ScottJamesRemnant retain support for now
- * openprinting-ppds-extra          # Less common printer drivers we don't want in desktop
+ * racoon # ipsec vpn
+
+Web applications:
+
+ * zope3-sandbox
  * python-moinmoin      # moin (>= 1.5)
+ * python-django
 
 Printing:
 
- * m2300w
+ * m2300w  # Driver for the Minolta magicolor 2300W/24000W color laser printers 
+ * openprinting-ppds-extra          # Less common printer drivers we don't want in desktop
 
 Utilities:
 
@@ -32,15 +40,20 @@ Utilities:
  * rrdtool
  * john
 
-Server:
+Radius server:
 
- * exim4
- * exim4-daemon-heavy
- * exim4-daemon-light
  * freeradius
- * cricket
+
+Backup:
+
  * bacula-director-sqlite3
  * bacula-sd-sqlite3
- * zope3-sandbox
- * dovecot-postfix
- * python-django
+
+Data trending:
+
+ * cricket
+
+Other:
+
+ * sysvinit  # ScottJamesRemnant retain support for now
+
