@@ -55,6 +55,7 @@ Programs and packages necessary for both the proper functionality of the system 
  * tasksel           # used by installer to install desktop etc.
  * ubuntu-keyring     # for authenticated package downloads
  * udev
+ * ureadahead        # get things into cache as quickly as possible during boot
  * vim-tiny
  * whiptail          # for debconf's Dialog frontend
 
