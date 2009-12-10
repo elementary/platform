@@ -126,7 +126,6 @@ to compile a driver. -mdz
 
  * anacron # generally appropriate for desktops
  * (bogofilter) # TODO not for Xubuntu
- * usplash # also needs theme provided by specific desktop seed
  * libxp6 # required for some third party apps. See #15739
  * ureadahead
  * (kerneloops-daemon) # watch for and allow reporting of kernel problems
