@@ -15,6 +15,7 @@ Power management:
 
  * (acpi-support)
  * (libgl1-mesa-dri) # needed for composite/3D on free graphics drivers
+ * (pm-utils-powersave-policy) # lightweight and "safe" subset similar to laptop-mode-tools
 
 Bluetooth:
 TODO not for Xubuntu
