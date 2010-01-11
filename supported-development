@@ -13,7 +13,6 @@
  * autotools-dev
  * libtool
  * ccache            # C/C++ development, package development
- * kernel-package
  * pychecker
  * exuberant-ctags   # ColinWatson
  * linux32		# without it, biarch buildds can go wonky
