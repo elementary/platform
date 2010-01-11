@@ -33,7 +33,6 @@ Printing:
 
 Utilities:
 
- * analog                 # essential for any web server, possible candidate for desktop integration
  * graphviz
  * logcheck		  # great security tool for any server
  * logcheck-database	  # useful for above
@@ -48,10 +47,6 @@ Backup:
 
  * bacula-director-sqlite3
  * bacula-sd-sqlite3
-
-Data trending:
-
- * cricket
 
 Other:
 

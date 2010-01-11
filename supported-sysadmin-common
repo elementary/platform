@@ -5,7 +5,6 @@
  * backuppc             # RobertCollins
  * debian-goodies
  * whois                # FabioMassimoDiNitto
- * minicom              # useful for serial access to anything
  * cu                   # super-basic serial access
  * john                 # detects weak passwords, might be needed in desktop
  * libpam-cracklib      # enables weak password checking during password change, should it be in desktop?
