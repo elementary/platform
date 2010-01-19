@@ -11,6 +11,7 @@ Task-Test-new-install: install skip
 
  * aptitude          # better text-mode package manager
  * at
+ * busybox-static    # https://blueprints.launchpad.net/ubuntu/+spec/foundations-lucid-boot-recovery
  * cpio
  * cron
  * ed
