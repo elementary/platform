@@ -102,27 +102,6 @@ Fonts:
  * (ttf-thai-tlwg)
  * (ttf-lao)
 
-= Development =
-
-Here we provide a minimal development environment sufficient to build kernel
-drivers, so that this is possible on the live CD and in scenarios where
-it is problematic to get these packages onto the installed system in order
-to compile a driver. -mdz
-
- * (gcc)
- * (make)
- * (linux-headers-generic) [i386]
- * (linux-headers-powerpc) [powerpc]
- * (linux-headers-powerpc64-smp) [powerpc]
- * (linux-headers-generic) [amd64]
- * (linux-headers-ia64) [ia64]
- * (linux-headers-sparc64) [sparc]
- * (linux-headers-hppa32) [hppa]
- * (linux-headers-hppa64) [hppa]
- * (linux-headers-lpia) [lpia]
- * (linux-headers-imx51) [armel]
- * (linux-headers-dove) [armel]
-
 = Other =
 
  * anacron # generally appropriate for desktops
