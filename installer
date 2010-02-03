@@ -217,12 +217,6 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
  * /^.*-firmware-.*-di/ [ia64]
  * /^.*-modules-.*-di/ [ia64]
 
-== lpia ==
-
- * Kernel-Version: 2.6.32-12-lpia
- * /^.*-firmware-.*-di/ [lpia]
- * /^.*-modules-.*-di/ [lpia]
-
 == powerpc ==
 
  * Kernel-Version: 2.6.32-12-powerpc 2.6.32-12-powerpc64-smp
