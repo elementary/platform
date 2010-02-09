@@ -24,16 +24,6 @@
  * libc6.1-prof [ia64]
  * gfortran-multilib
  * libstdc++6-4.4-pic
- * openjdk-6-demo
- * openjdk-6-source
-
-== Advanced editors ==
-
- * vim
- * emacs
- * emacs23-el
- * emacs23-nox
- * emacs-goodies-el
 
 == Revision Control ==
 
@@ -64,12 +54,6 @@
 == Seed Management ==
 
  * germinate         # quis custodiet ipsos custodes?
-
-== Documentation ==
-
-# new pstoedit build-dep, too late for intrepid
-# * ubuntu-policy
- * monodoc-webkit-manual
 
 = Shells =
 
