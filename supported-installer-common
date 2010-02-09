@@ -6,7 +6,6 @@
  * /^.*-modules-.*-386-di/ [i386]
 
  * debian-installer # also has side-effect of pulling in installer image build system
- * cdebconf # useful for testing, but not used by default yet
  * gfxboot
  * gfxboot-theme-ubuntu
 
