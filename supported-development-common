@@ -14,7 +14,6 @@
  * ccache            # C/C++ development, package development
  * exuberant-ctags   # ColinWatson
  * linux32		# without it, biarch buildds can go wonky
- * indent
  * autopkgtest
  * apport-retrace
  * apport-cli
