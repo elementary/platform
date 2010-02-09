@@ -1,0 +1,10 @@
+= Clients =
+
+ * irssi
+ * avahi-utils
+
+= Download =
+
+ * bittorrent             # rapid p2p download, for efficient large file distribution, perhaps for desktop
+ * jigit                  # specialised Debian/Ubuntu CD image download
+

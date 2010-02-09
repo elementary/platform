@@ -7,7 +7,6 @@
  * flex
  * patchutils
  * gdb
- * valgrind
  * autoconf
  * automake
  * autotools-dev
@@ -17,22 +16,12 @@
  * linux32		# without it, biarch buildds can go wonky
  * indent
  * autopkgtest
- * cmake
  * apport-retrace
  * apport-cli
  * libc6-prof [amd64 i386 lpia powerpc sparc hppa]
  * libc6.1-prof [ia64]
  * gfortran-multilib
  * libstdc++6-4.4-pic
-
-== Revision Control ==
-
- * subversion
- * subversion-tools
- * git-core
- * gitk
- * bzrtools
- * cvs
 
 == Package Maintainance ==
 
@@ -64,18 +53,9 @@
  * libcrypt-blowfish-perl
  * libdate-manip-perl
  * libnet-ldap-perl
- * libchart-perl
- * libgd-graph-perl
- * libtemplate-perl
  * libfile-rsyncp-perl
  * libnss-db
  * tdsodbc
- * tk8.4-dev
- * libsdl1.2debian-all
- * libsdl1.2debian-alsa
- * libsdl1.2debian-esd
- * libsdl1.2debian-oss
- * libgl1-mesa-swx11-i686
 
 = Misc =
 

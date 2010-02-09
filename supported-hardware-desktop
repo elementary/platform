@@ -9,9 +9,9 @@
 == Filesystems ==
 
  * cloop-utils # for LiveCD
+ * hfsplus
 
 == Cluster ==
 
  * ocfs2console
-
 
