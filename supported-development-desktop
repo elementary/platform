@@ -1,0 +1,18 @@
+= Development =
+
+== Advanced editors ==
+
+ * vim
+ * emacs
+ * emacs23-el
+ * emacs23-nox
+ * emacs-goodies-el
+
+== Documentation ==
+
+ * monodoc-webkit-manual
+
+== Development Tools ==
+
+ * openjdk-6-demo
+ * openjdk-6-source
