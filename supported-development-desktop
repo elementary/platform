@@ -1,8 +1,22 @@
 = Development =
 
+== Development Tools ==
+
+ * valgrind
+ * cmake
+
+== Revision Control ==
+
+ * subversion
+ * subversion-tools
+ * git-core
+ * gitk
+ * bzrtools
+ * cvs
+
 == Advanced editors ==
 
- * vim
+ * vim          # Needs to stay off server CDs because it pulls in Gnome
  * emacs
  * emacs23-el
  * emacs23-nox
@@ -16,3 +30,15 @@
 
  * openjdk-6-demo
  * openjdk-6-source
+
+= Libraries =
+
+ * tk8.4-dev
+ * libsdl1.2debian-all
+ * libsdl1.2debian-alsa
+ * libsdl1.2debian-esd
+ * libsdl1.2debian-oss
+ * libgl1-mesa-swx11-i686
+ * libchart-perl
+ * libgd-graph-perl
+ * libtemplate-perl

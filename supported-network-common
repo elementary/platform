@@ -1,11 +1,5 @@
+# common supported network servers (not client tools)
+
 = Network =
 
- * irssi
- * avahi-utils
  * shorewall-shell
- 
- = Download =
-
- * bittorrent             # rapid p2p download, for efficient large file distribution, perhaps for desktop
- * jigit                  # specialised Debian/Ubuntu CD image download
-
