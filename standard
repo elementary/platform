@@ -18,6 +18,7 @@ Task-Test-new-install: install skip
  * file
  * hdparm            # speed up CD-ROM and disk access, used by installer
  * info
+ * (irqbalance)      # optimize IRQ:CPU affinities on multicore systems
  * logrotate
  * man-db            # ColinWatson
  * (manpages)        # ColinWatson
