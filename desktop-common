@@ -20,7 +20,8 @@ Power management:
 Bluetooth:
 TODO not for Xubuntu
 
- * (bluetooth) # base for bluetooth support
+ * (bluez) # base for bluetooth support
+ * (bluez-alsa)
  * (bluez-cups)  # allow connecting to bluetooth printers from CUPS
 
 == armel ==
