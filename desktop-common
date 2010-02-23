@@ -90,6 +90,7 @@ Packages used for X preconfiguration are just Recommends; removing them after in
  * (laptop-detect)
 
  * xorg                          # this includes xserver-xorg->xserver-xorg-{input|video}-* (no need to add specific drivers manually)
+ * !linux-image-*                # xorg transitively depends on this, but this would pull in grub-pc; we handle that separately
  * xkb-data                      # XKB data now lives here
 
 Fonts:
