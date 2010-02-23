@@ -1,6 +1,6 @@
 == Kernel ==
 
- * /^linux-(headers-|headers-lbm-.*-)?(386|cell|dove|ec2|generic|hppa|ia64|imx51|lpia(?!compat)|powerpc|ps3|server|sparc64|virtual).*/
+ * /^linux-(backports-modules-(alsa|headers|nouveau|wireless)-lucid-|headers-)?(386|cell|dove|ec2|generic|hppa|ia64|imx51|lpia(?!compat)|powerpc|ps3|server|sparc64|virtual).*/
  * linux-doc
  * linux-source
  * /^linux-image-debug.*(?<!-rt)$/
