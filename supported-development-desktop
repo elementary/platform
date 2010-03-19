@@ -34,7 +34,7 @@
 
 = Libraries =
 
- * tk8.4-dev
+ * tk8.5-dev
  * libsdl1.2debian-all
  * libsdl1.2debian-alsa
  * libsdl1.2debian-esd
