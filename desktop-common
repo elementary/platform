@@ -111,6 +111,7 @@ Fonts:
  * libxp6 # required for some third party apps. See #15739
  * ureadahead
  * (kerneloops-daemon) # watch for and allow reporting of kernel problems
+ * (policykit-desktop-privileges) # passwordless disk/CPU speed/time operations for admins
 
 = Germinate workarounds =
 
