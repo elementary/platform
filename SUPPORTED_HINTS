@@ -1,0 +1,22 @@
+# this file can be used to fine tune the support times and is used
+# by launchpad via cron.germinate and maintenance-check.py
+#
+# It supports the following format:
+#   src:srcpkgname support-time
+#   binary-pkg-name support-time
+#   binary-pkg-name/arch support-time
+#
+# Examples:
+# src:xorg unsupported
+# zsh/armel 3y
+# hal 18m
+#
+#
+#src:xorg 3y
+#src:libsdl1.2 3y
+#src:pulseaudio 3y
+#src:libsndfile 3y
+#src:libogg 3y
+#src:libvorbis 3y
+#src:hal 3y
+#src:hal-info 3y
