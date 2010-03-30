@@ -98,6 +98,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * partman-jfs
  * partman-lvm
  * partman-md
+ * partman-multipath
  * partman-partitioning
  * partman-reiserfs
  * partman-target
