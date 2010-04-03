@@ -78,7 +78,6 @@ These are used for debugging problems or examining the system.
  * (apparmor-utils) # control AppArmor policies (pulls in policy parser as well)
  * (plymouth) # splash screen, and boot-time questions
  * (plymouth-theme-ubuntu-text)
- * (plymouth-theme-ubuntu-logo)
 
 == Network ==
 
