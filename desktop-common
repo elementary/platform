@@ -62,7 +62,6 @@ These packages help with system integration
 
  * libsasl2-modules    # allows integration with MTA and login system
  * (avahi-daemon)      # some people do not like it, and it is not essential
- * (plymouth-theme-ubuntu-logo)
  * (plymouth-x11)      # if the desktop is up before we've finished talking to the user at boot time, plymouth needs to display messages in X
 
 = Printing =
