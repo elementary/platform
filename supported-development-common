@@ -22,6 +22,11 @@
  * gfortran-multilib
  * libstdc++6-4.4-pic
 
+== Revision Control ==
+
+ * bzr
+ * bzrtools
+
 == Package Maintainance ==
 
  * debhelper         # ColinWatson
