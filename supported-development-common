@@ -21,6 +21,8 @@
  * libc6.1-prof [ia64]
  * gfortran-multilib
  * libstdc++6-4.4-pic
+ * ant1.8-optional	# Java development, drop it if ant is updated to 1.8
+ * ant1.8-doc
 
 == Revision Control ==
 
