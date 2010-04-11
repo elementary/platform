@@ -9,6 +9,7 @@ installer:
 installer-gtk: installer
 build-essential: required
 language-packs: desktop-common
+live-common: standard
 supported-development-common: standard
 supported-development-desktop: standard
 supported-kernel-common: standard

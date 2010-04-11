@@ -1,0 +1,12 @@
+Ubiquity needs full filesystem support for the partitioner.
+
+ * xfsprogs
+ * jfsutils
+ * hfsplus [powerpc]  # ColinWatson
+ * reiserfsprogs
+ * ntfsprogs
+
+== Germinate workarounds ==
+
+ * wamerican  # iamerican Depends: ispell Recommends: wordlist, but wamerican isn't spotted in time so germinate arbitrarily picks miscfiles instead
+
