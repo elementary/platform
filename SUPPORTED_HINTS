@@ -12,11 +12,11 @@
 # hal 18m
 #
 #
-#src:xorg 3y
-#src:libsdl1.2 3y
-#src:pulseaudio 3y
-#src:libsndfile 3y
-#src:libogg 3y
-#src:libvorbis 3y
-#src:hal 3y
-#src:hal-info 3y
+src:xorg 3y
+src:libsdl1.2 3y
+src:pulseaudio 3y
+src:libsndfile 3y
+src:libogg 3y
+src:libvorbis 3y
+src:hal 3y
+src:hal-info 3y
