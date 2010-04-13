@@ -24,6 +24,11 @@ Web applications:
  * zope3-sandbox
  * python-moinmoin      # moin (>= 1.5)
  * python-django
+ * python-tickcount #ChuckShort - server-lucid-canonical-application-support
+ * python-openid #ChuckShort - server-lucid-canonical-application-support
+ * python-pastescript #ChuckShort - server-lucid-canonical-application-support
+ * python-pastedeploy #ChuckShort - server-lucid-canonical-application-support
+ * python-psycopg2
 
 Printing:
 
