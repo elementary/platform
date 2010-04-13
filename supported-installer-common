@@ -1,7 +1,7 @@
 = Installer =
 
  # Used for netboot installations
- * Kernel-Version: 2.6.32-20-386
+ * Kernel-Version: 2.6.32-20-386 2.6.32-20-generic-pae
  * /^.*-firmware-.*-386-di/ [i386]
  * /^.*-modules-.*-386-di/ [i386]
 
