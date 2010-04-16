@@ -30,4 +30,5 @@ parameters. They should generally be made available on CDs.
  * grub # needed for dmraid et al
  * mkvmlinuz [powerpc] # for nobootloader
  * lupin-support # installer-for-windows
- * uboot-mkimage [armel] # needed on dove for uboot
+ * uboot-mkimage [armel] # needed on dove and omap for uboot
+ * uboot-envtools [armel] # needed on omap for uboot
