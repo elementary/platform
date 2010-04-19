@@ -206,7 +206,7 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == i386 ==
 
- * Kernel-Version: 2.6.32-21-generic
+ * Kernel-Version: 2.6.32-21-generic 2.6.32-21-generic-pae
  * /^.*-firmware-.*-di/ [i386]
  * /^.*-modules-.*-di/ [i386]
 
