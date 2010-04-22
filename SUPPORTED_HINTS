@@ -41,5 +41,16 @@ hal 3y
 hal-info 3y
 #src:alsa-lib 3y
 libasound2 3y
-#src:flac
+#src:flac 3y
 libflac8 3y
+#
+#
+# checkbox pulls in gstreamer which should not be considered server-supported.
+# LP: #568712
+#
+#src:gstreamer0.10 3y
+libgstreamer0.10-0 3y
+#src:gst0.10-python 3y
+python-gst0.10 3y
+#src:gst-plugins-base0.10 3y
+libgstreamer-plugins-base0.10-0 3y
