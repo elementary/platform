@@ -11,25 +11,28 @@
 # zsh/armel 3y
 # hal 18m
 #
-# binary overrides for lucid
+# we don't use src: currently as it will also upgrade support
+# for some packages (like libogg-dev from 18m to 3y)
+#
+#src:xorg 3y
 x11-common 3y
+#src:libsdl1.2 3y
 libsdl1.2debian 3y
 libsdl1.2debian-alsa 3y
+#src:pulseaudio 3y
 libpulse0 3y
+#src:libsndfile 3y
 libsndfile1 3y
+#src:libogg 3y
 libogg0 3y
+#src:libvorbis 3y
 libvorbis0a 3y
 libvorbisenc2 3y
+#src:hal 3y
 libhal-storage1 3y
 libhal1 3y
 hal 3y
-hal-info 3y
-# we don't use src: currently as it will also upgrade support
-# for some packages (like libogg-dev from 18m to 3y)
-#src:libsdl1.2 3y
-#src:pulseaudio 3y
-#src:libsndfile 3y
-#src:libogg 3y
-#src:libvorbis 3y
-#src:hal 3y
 #src:hal-info 3y
+hal-info 3y
+#src:alsa-lib 3y
+libasound2 3y
