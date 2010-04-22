@@ -16,6 +16,11 @@
 #
 #src:xorg 3y
 x11-common 3y
+#
+#
+# virt-host pulls in sound bits which are not considered LTS.  If only
+# virt-host is using these things, they should remain demoted.
+#
 #src:libsdl1.2 3y
 libsdl1.2debian 3y
 libsdl1.2debian-alsa 3y
@@ -36,3 +41,5 @@ hal 3y
 hal-info 3y
 #src:alsa-lib 3y
 libasound2 3y
+#src:flac
+libflac8 3y
