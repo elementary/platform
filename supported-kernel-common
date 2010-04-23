@@ -7,6 +7,11 @@
  * /^linux-image-debug.*(?<!-rt)$/
  * kexec-tools
 
+linux-headers-*-versatile is rather experimental, but let's keep all binaries
+in main for lucid for ease of NEWing:
+
+ * /^linux-headers-.*-versatile/
+
 === Extra flavours ===
 
 Not quite sure where these should go, but let's at least make sure they're seeded for main.
