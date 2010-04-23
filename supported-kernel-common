@@ -1,16 +1,12 @@
 == Kernel ==
 
  * /^linux-(backports-modules-(alsa|headers|nouveau|wireless)-lucid-|headers-)?(386|cell|dove|ec2|generic|hppa|ia64|imx51|lpia(?!compat)|omap|powerpc|ps3|server|sparc64|virtual).*/
+ * /^linux-(image|headers)-versatile/
  * linux-doc
  * linux-source
  * linux-tools
  * /^linux-image-debug.*(?<!-rt)$/
  * kexec-tools
-
-linux-headers-*-versatile is rather experimental, but let's keep all binaries
-in main for lucid for ease of NEWing:
-
- * /^linux-headers-.*-versatile/
 
 === Extra flavours ===
 
