@@ -110,7 +110,7 @@ Fonts:
 
  * anacron # generally appropriate for desktops
  * (bogofilter) # TODO not for Xubuntu
- * libxp6 # required for some third party apps. See #15739
+ * libxp6 # required for some third party apps. See #21953
  * ureadahead
  * (kerneloops-daemon) # watch for and allow reporting of kernel problems
  * (policykit-desktop-privileges) # passwordless disk/CPU speed/time operations for admins
