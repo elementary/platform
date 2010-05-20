@@ -13,10 +13,6 @@ Recommends are followed when processing this seed even though debootstrap doesn'
 
 == Generic ==
 
-== i386, i686 ==
-
- * libc6-i686 [i386]
-
 == ppc32, ppc64 ==
 
  * mac-fdisk [powerpc]
