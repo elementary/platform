@@ -48,7 +48,6 @@ Programs and packages necessary for both the proper functionality of the system 
  * netbase
  * rsyslog
  * sudo              # LaMontJones
- * tasksel           # used by installer to install desktop etc.
  * ubuntu-keyring     # for authenticated package downloads
  * udev
  * ureadahead        # get things into cache as quickly as possible during boot
