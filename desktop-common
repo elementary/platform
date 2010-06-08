@@ -39,9 +39,7 @@ These tools are very commonly used by people who drop into a console shell to do
  * bc
  * dc
  * genisoimage
- * (wodim)
  * (cdparanoia)
- * (dvd+rw-tools)
  * screen
  * lftp
  * zip
