@@ -22,5 +22,8 @@
  * installation-guide-sparc [sparc]
 
  * lilo
+ * grub-efi [amd64 i386]
+ * grub-efi-amd64 [amd64 i386]
+ * grub-efi-ia32 [amd64 i386]
 
  * live-installer
