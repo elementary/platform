@@ -1,9 +1,9 @@
 = Installer =
 
  # Used for netboot installations
- * Kernel-Version: 2.6.35-2-386 2.6.35-2-generic-pae
- * /^.*-firmware-.*-386-di/ [i386]
- * /^.*-modules-.*-386-di/ [i386]
+ * Kernel-Version: 2.6.35-2-386 2.6.35-2-generic-pae 2.6.35-2-virtual
+ * /^.*-firmware-.*-di/ [amd64 i386]
+ * /^.*-modules-.*-di/ [amd64 i386]
 
  * debian-installer # also has side-effect of pulling in installer image build system
  * gfxboot
