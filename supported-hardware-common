@@ -4,6 +4,10 @@
  * palo            # hppa boot loader, but needed on other architectures to build hppa CD images
  * ps3-kboot       # boot loader for Sony PlayStation 3
  * ethtool
+ * u-boot-omap3 [armel]                   # omap3 second stage bootloader
+ * u-boot-omap4 [armel]                   # omap4 second stage bootloader
+ * x-loader-omap [armel]                  # omap3 first stage bootloader
+ * x-loader-omap4 [armel]                 # omap4 first stage bootloader
 
 == Filesystems ==
 
