@@ -144,12 +144,11 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 = Partition Management (architecture-specific) =
 
  * fdisk-udeb
- * gptsync-udeb [amd64 i386 lpia]
+ * gptsync-udeb [amd64 i386]
  * mac-fdisk-udeb [powerpc]
  * pmac-fdisk-udeb [powerpc]
  * partman-efi [amd64 i386 ia64]
  * partman-newworld [powerpc]
- * partman-palo [hppa]
  * partman-prep [powerpc]
  * partman-uboot [armel]
 
@@ -159,12 +158,11 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * efi-reader [ia64]
  * elilo-installer [i386 ia64]
  * flash-kernel-installer [armel]
- * grub-installer [amd64 i386 lpia]
+ * grub-installer [amd64 i386]
  * lilo-installer [amd64 i386]
  * silo-installer [sparc]
  * kboot-installer [powerpc]
  * yaboot-installer [powerpc]
- * palo-installer [hppa]
 
 = Experimental stuff =
 
@@ -198,12 +196,6 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
  * Kernel-Version: 2.6.31-607-imx51 2.6.32-204-dove 2.6.33-500-omap 2.6.31-800-st1-5 2.6.35-6-iop32x 2.6.35-6-ixp4xx 2.6.35-6-orion5x 2.6.35-6-versatile
  * /^.*-firmware-.*-di/ [armel]
  * /^.*-modules-.*-di/ [armel]
-
-== hppa ==
-
- * Kernel-Version: 2.6.35-6-hppa32 2.6.35-6-hppa64
- * /^.*-firmware-.*-di/ [hppa]
- * /^.*-modules-.*-di/ [hppa]
 
 == i386 ==
 

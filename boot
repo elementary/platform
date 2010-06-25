@@ -13,8 +13,8 @@ restricted modules.
 
 == i386 ==
 
- * grub [amd64 i386 lpia]                 # lilo will be in supported
- * grub-pc [amd64 i386 lpia]
+ * grub [amd64 i386]                      # lilo will be in supported
+ * grub-pc [amd64 i386]
  * ${Kernel-Stem}-generic [i386]          # our chosen default install kernel
 
 == powerpc ==
@@ -36,16 +36,6 @@ restricted modules.
 
  * silo [sparc]
  * ${Kernel-Stem}-sparc64 [sparc]         # sparc64 UP kernel, works on all machines
-
-== hppa ==
-
- * palo [hppa]
- * ${Kernel-Stem}-hppa32 [hppa]           # hppa32 UP kernel
- * ${Kernel-Stem}-hppa64 [hppa]           # hppa64 UP kernel
-
-== lpia ==
-
- * ${Kernel-Stem}-lpia [lpia]             # lpia kernel, works on all machines
 
 == armel ==
 

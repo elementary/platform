@@ -17,7 +17,7 @@
  * autopkgtest
  * apport-retrace
  * apport-cli
- * libc6-prof [amd64 i386 lpia powerpc sparc hppa]
+ * libc6-prof [amd64 i386 powerpc sparc]
  * libc6.1-prof [ia64]
  * gfortran-multilib
  * libstdc++6-4.4-pic
