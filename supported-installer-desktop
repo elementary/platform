@@ -4,6 +4,7 @@
  * lupin-casper # ditto, installer-for-windows
  * livecd-rootfs # live CD build script
  * cdebconf # useful for testing, but not used by default yet
+ * jasper # used instead of casper for preinstalled armel images
 
 These will typically be included in installable live CD seeds:
 
