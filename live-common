@@ -10,6 +10,8 @@ Ubiquity needs full filesystem support for the partitioner.
 # use union=unionfs-fuse kernel parameter
 # * unionfs-fuse
 
+ * (bootchart) # scheduled for removal before maverick beta
+
 == Germinate workarounds ==
 
  * wamerican  # iamerican Depends: ispell Recommends: wordlist, but wamerican isn't spotted in time so germinate arbitrarily picks miscfiles instead
