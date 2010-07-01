@@ -4,6 +4,7 @@ Ubiquity needs full filesystem support for the partitioner.
  * jfsutils
  * hfsplus [powerpc]  # ColinWatson
  * reiserfsprogs
+ * btrfs-tools
  * ntfsprogs
 
 # workaround for a broken aufs (e. g. LP #587888); also needs cdimage change to
