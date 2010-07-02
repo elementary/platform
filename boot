@@ -42,6 +42,7 @@ restricted modules.
  * ${Kernel-Stem}-imx51 [armel]
  * ${Kernel-Stem}-dove [armel]
  * ${Kernel-Stem}-omap [armel]
+ * ${Kernel-Stem}-omap4 [armel]
 
 == Germinate workarounds ==
 
