@@ -159,7 +159,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * elilo-installer [i386 ia64]
  * flash-kernel-installer [armel]
  * grub-installer [amd64 i386]
- * lilo-installer [amd64 i386]
  * silo-installer [sparc]
  * kboot-installer [powerpc]
  * yaboot-installer [powerpc]
