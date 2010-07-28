@@ -55,6 +55,9 @@ Backup:
  * bacula-director-sqlite3
  * bacula-sd-sqlite3
 
+Proxy:
+ * haproxy #ClintByrum server-maverick-uds-cloud-loadbalancing
+
 Other:
 
  * sysvinit  # ScottJamesRemnant retain support for now
