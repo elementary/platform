@@ -11,7 +11,7 @@ Ubiquity needs full filesystem support for the partitioner.
 # use union=unionfs-fuse kernel parameter
 # * unionfs-fuse
 
- * (bootchart) # scheduled for removal before maverick beta
+ * (bootchart) [!armel] # scheduled for removal before maverick beta
 
 == Germinate workarounds ==
 
