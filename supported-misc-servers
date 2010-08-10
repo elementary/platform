@@ -59,6 +59,15 @@ Backup:
 Proxy:
  * haproxy #ClintByrum server-maverick-uds-cloud-loadbalancing
 
+Monitoring:
+ * nagios3
+ * nagios3-common
+ * nagios3-doc
+ * nagios-plugins-basic
+ * nagios-plugins-standard
+ * nagios-nrpe-server #ChuckShort - server lucid-canonical-application-support
+ * nagios-nrpe-plugins #ChuckShort - server lucid-canonical-applicaton-support
+
 Other:
 
  * sysvinit  # ScottJamesRemnant retain support for now
