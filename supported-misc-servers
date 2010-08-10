@@ -31,6 +31,7 @@ Web applications:
  * python-psycopg2
  * memcached #ClintByrum - server-maverick-uds-web20-workloads
  * libmemcached-dev #ClintByrum - server-maverick-uds-web20-workloads
+ * rabbitmq-server
 
 Printing:
 
