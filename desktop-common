@@ -105,7 +105,6 @@ Fonts:
 = Other =
 
  * anacron # generally appropriate for desktops
- * (bogofilter) # TODO not for Xubuntu
  * libxp6 # required for some third party apps. See #21953
  * ureadahead
  * (kerneloops-daemon) # watch for and allow reporting of kernel problems
