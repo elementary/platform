@@ -14,7 +14,6 @@ particular flavour of desktop environment (e.g. GNOME, KDE, or XFCE).
 Power management:
 
  * (acpi-support)
- * (libgl1-mesa-dri) # needed for composite/3D on free graphics drivers
 
 Bluetooth:
 TODO not for Xubuntu
@@ -108,7 +107,3 @@ Fonts:
  * ureadahead
  * (kerneloops-daemon) # watch for and allow reporting of kernel problems
  * (policykit-desktop-privileges) # passwordless disk/CPU speed/time operations for admins
-
-= Germinate workarounds =
-
- * libgl1-mesa-glx # depended upon by freeglut3
