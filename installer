@@ -186,36 +186,36 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == amd64 ==
 
- * Kernel-Version: 2.6.35-17-generic
+ * Kernel-Version: 2.6.35-19-generic
  * /^.*-firmware-.*-di/ [amd64]
  * /^.*-modules-.*-di/ [amd64]
 
 == armel ==
 
- * Kernel-Version: 2.6.32-204-dove 2.6.35-17-omap 2.6.34-901-omap4 2.6.31-800-st1-5 2.6.35-17-iop32x 2.6.35-17-ixp4xx 2.6.35-17-orion5x 2.6.35-17-versatile
+ * Kernel-Version: 2.6.32-204-dove 2.6.35-19-omap 2.6.34-901-omap4 2.6.31-800-st1-5 2.6.35-19-iop32x 2.6.35-19-ixp4xx 2.6.35-19-orion5x 2.6.35-19-versatile
  * /^.*-firmware-.*-di/ [armel]
  * /^.*-modules-.*-di/ [armel]
 
 == i386 ==
 
- * Kernel-Version: 2.6.35-17-generic 2.6.35-17-generic-pae
+ * Kernel-Version: 2.6.35-19-generic 2.6.35-19-generic-pae
  * /^.*-firmware-.*-di/ [i386]
  * /^.*-modules-.*-di/ [i386]
 
 == ia64 ==
 
- * Kernel-Version: 2.6.35-17-ia64
+ * Kernel-Version: 2.6.35-19-ia64
  * /^.*-firmware-.*-di/ [ia64]
  * /^.*-modules-.*-di/ [ia64]
 
 == powerpc ==
 
- * Kernel-Version: 2.6.35-17-powerpc 2.6.35-17-powerpc64-smp
+ * Kernel-Version: 2.6.35-19-powerpc 2.6.35-19-powerpc64-smp
  * /^.*-firmware-.*-di/ [powerpc]
  * /^.*-modules-.*-di/ [powerpc]
 
 == sparc ==
 
- * Kernel-Version: 2.6.35-17-sparc64
+ * Kernel-Version: 2.6.35-19-sparc64
  * /^.*-firmware-.*-di/ [sparc]
  * /^.*-modules-.*-di/ [sparc]
