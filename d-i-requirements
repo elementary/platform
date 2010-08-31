@@ -34,6 +34,7 @@ parameters. They should generally be made available on CDs.
 == Installer ==
 
  * grub # needed for dmraid et al
+ * grub-efi [amd64]
  * mkvmlinuz [powerpc] # for nobootloader
  * lupin-support [amd64 i386] # installer-for-windows
  * uboot-mkimage [armel] # needed on dove and omap for uboot
