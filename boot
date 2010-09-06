@@ -27,16 +27,6 @@ restricted modules.
 
  * ${Kernel-Stem}-generic [amd64]         # amd64 kernel, works on all machines though not optimised
 
-== ia64 ==
-
- * elilo [i386 ia64]                      # also needed on Intel-based Macs
- * ${Kernel-Stem}-ia64 [ia64]             # ia64 kernel, works on all machines
-
-== sparc ==
-
- * silo [sparc]
- * ${Kernel-Stem}-sparc64 [sparc]         # sparc64 UP kernel, works on all machines
-
 == armel ==
 
  * ${Kernel-Stem}-dove [armel]
