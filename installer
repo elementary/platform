@@ -53,8 +53,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * jfsutils-udeb
  * console-setup-udeb
  * console-setup-pc-ekmap
- * console-setup-sun4-ekmap [sparc]
- * console-setup-sun5-ekmap [sparc]
  * console-setup-fonts-udeb
  * libdevmapper1.02-udeb
  * libfribidi0-udeb
@@ -113,7 +111,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * rescue-mode  # main part of rescue mode, installed if rescue/enable=true
  * rootskel
  * save-logs
- * sparc-utils-udeb [sparc] # used for sbus detection
  * strace-udeb # handy for debugging
  * tzsetup-udeb # first-stage timezone question
  * udev-udeb
@@ -147,7 +144,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * gptsync-udeb [amd64 i386]
  * mac-fdisk-udeb [powerpc]
  * pmac-fdisk-udeb [powerpc]
- * partman-efi [amd64 i386 ia64]
+ * partman-efi [amd64 i386]
  * partman-newworld [powerpc]
  * partman-prep [powerpc]
  * partman-uboot [armel]
@@ -155,11 +152,9 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 = Bootloader Installers =
 
  * devio-udeb [armel]
- * efi-reader [ia64]
- * elilo-installer [i386 ia64]
+ * elilo-installer [i386]
  * flash-kernel-installer [armel]
  * grub-installer [amd64 i386]
- * silo-installer [sparc]
  * kboot-installer [powerpc]
  * yaboot-installer [powerpc]
 
@@ -202,20 +197,8 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
  * /^.*-firmware-.*-di/ [i386]
  * /^.*-modules-.*-di/ [i386]
 
-== ia64 ==
-
- * Kernel-Version: 2.6.35-20-ia64
- * /^.*-firmware-.*-di/ [ia64]
- * /^.*-modules-.*-di/ [ia64]
-
 == powerpc ==
 
  * Kernel-Version: 2.6.35-20-powerpc 2.6.35-20-powerpc64-smp
  * /^.*-firmware-.*-di/ [powerpc]
  * /^.*-modules-.*-di/ [powerpc]
-
-== sparc ==
-
- * Kernel-Version: 2.6.35-20-sparc64
- * /^.*-firmware-.*-di/ [sparc]
- * /^.*-modules-.*-di/ [sparc]

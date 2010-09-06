@@ -16,9 +16,7 @@
  * installation-guide-amd64 [amd64]
  * installation-guide-armel [armel]
  * installation-guide-i386 [i386]
- * installation-guide-ia64 [ia64]
  * installation-guide-powerpc [powerpc]
- * installation-guide-sparc [sparc]
 
  * lilo
  * lilo-installer [amd64 i386]
