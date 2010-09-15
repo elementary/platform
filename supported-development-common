@@ -63,6 +63,7 @@
  * libfile-rsyncp-perl
  * libnss-db
  * tdsodbc
+ * libdbi-drivers
 
 = Misc =
 
