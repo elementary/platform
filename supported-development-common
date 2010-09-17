@@ -57,7 +57,6 @@
 
 = Libraries =
 
- * libcrypt-blowfish-perl
  * libdate-manip-perl
  * libnet-ldap-perl
  * libfile-rsyncp-perl
