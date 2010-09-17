@@ -43,10 +43,16 @@
  * libgd-graph-perl
  * libtemplate-perl
 
+= Python2.x =
+
+ * idle
+ * idle-python2.7
+ * python2.7-examples
+
 = Python3 =
 
  * python3-doc
- * idle
+ * idle3
  * python3-all-dev
  * python3-all-dbg
  * python3-examples
