@@ -62,7 +62,10 @@
  * libfile-rsyncp-perl
  * libnss-db
  * tdsodbc
- * libdbi-drivers
+ * libdbd-sqlite3
+ * libdbd-mysql
+ * libdbd-pgsql
+ * libdbd-freetds
 
 = Misc =
 
