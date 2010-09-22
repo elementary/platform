@@ -105,3 +105,4 @@ Fonts:
  * libxp6 # required for some third party apps. See #21953
  * (kerneloops-daemon) # watch for and allow reporting of kernel problems
  * (policykit-desktop-privileges) # passwordless disk/CPU speed/time operations for admins
+ * ubuntu-extras-keyring # archive signing key for extras.ubuntu.com
