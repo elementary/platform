@@ -73,4 +73,3 @@ Other:
  * sysvinit  # ScottJamesRemnant retain support for now
  * samba-doc-pdf
  * ibmasm-utils
- * heartbeat # don't demote for maverick, FIXME in natty, #527142
