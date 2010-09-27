@@ -1,6 +1,6 @@
 == Kernel ==
 
- * /^linux-(backports-modules-(alsa|headers|net|nouveau|wireless)-lucid-|headers-)?(386|cell|dove|ec2|generic|omap|omap4|powerpc|ps3|server|virtual).*/
+ * /^linux-(backports-modules-(alsa|headers|net|wireless)-maverick-|headers-)?(386|cell|dove|ec2|generic|omap|omap4|powerpc|ps3|server|virtual).*/
  * /^linux-(image|headers)-versatile/
  * linux-doc
  * linux-source
