@@ -14,3 +14,4 @@ Not quite sure where these should go, but let's at least make sure they're seede
 
  * linux-image-2.6.31-800-st1-5 [armel]
  * linux-headers-2.6.31-800-st1-5 [armel]
+ * linux-ti-omap4-tools-* [armel]
