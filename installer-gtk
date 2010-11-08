@@ -2,14 +2,20 @@ These packages are used only by the installer's GTK frontend. We separate them o
 
  * cdebconf-gtk-entropy
  * cdebconf-gtk-terminal
+ * gtk2-engines-udeb
  * rootskel-gtk
  * ttf-cjk-compact-udeb
  * ttf-dejavu-udeb
  * ttf-farsiweb-udeb
  * ttf-freefont-udeb
+ * ttf-kannada-fonts-udeb
  * ttf-khmeros-udeb
  * ttf-malayalam-fonts-udeb
  * ttf-sil-abyssinica-udeb
  * ttf-tamil-fonts-udeb
+ * ttf-telugu-fonts-udeb
  * ttf-thai-tlwg-udeb
  * ttf-tmuni-udeb
+ * xserver-xorg-core-udeb
+ * xserver-xorg-input-evdev-udeb
+ * xserver-xorg-video-fbdev-udeb
