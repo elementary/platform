@@ -9,7 +9,7 @@ Ubiquity needs full filesystem support for the partitioner.
 
 # workaround for a broken aufs (e. g. LP #587888); also needs cdimage change to
 # use union=unionfs-fuse kernel parameter
-# * unionfs-fuse
+ * unionfs-fuse
 
 # * (bootchart) [!armel] # scheduled for removal before maverick beta
 
