@@ -27,7 +27,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * choose-mirror
  * clock-setup
  * debootstrap-udeb
- * dhcp3-client-udeb
  * di-utils
  * di-utils-mapdevfs
  * di-utils-reboot
@@ -48,6 +47,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * initrd-preseed
  * installation-locale
  * installation-report
+ * isc-dhcp-client-udeb
  * iso-3166-udeb
  * iso-scan # for USB boot
  * jfsutils-udeb
