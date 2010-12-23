@@ -64,4 +64,3 @@ These provide various networking services, all should be configured in a client-
 = Other =
 
  * python             # -minimal is essential, but upstream doesn't want python-minimal shipped alone
- * python2.7          # workaround until all "python2.6 | python2.7" dependencies get fixed
