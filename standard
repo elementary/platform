@@ -53,7 +53,6 @@ These provide various networking services, all should be configured in a client-
  * (pppoeconf)
  * (openssh-client) # ColinWatson
  * rsync          # would be just client but they are the same binary apparently
- * (w3m)          # we need some text-based html presenter
  * wget           # FabioMassimoDiNitto
 
 = Debugging and Diagnostics =
