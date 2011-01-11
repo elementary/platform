@@ -36,7 +36,6 @@ Web applications:
 Printing:
 
  * m2300w  # Driver for the Minolta magicolor 2300W/24000W color laser printers 
- * openprinting-ppds-extra          # Less common printer drivers we don't want in desktop
 
 Utilities:
 
