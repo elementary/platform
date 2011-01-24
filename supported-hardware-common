@@ -5,8 +5,8 @@
  * ethtool
  * u-boot-linaro-omap3-beagle [armel]                   # omap3 second stage bootloader
  * u-boot-linaro-omap4-panda [armel]      # omap4 second stage bootloader
- * x-loader-omap [armel]                  # omap3 first stage bootloader
- * x-loader-omap4 [armel]                 # omap4 first stage bootloader
+ * x-loader-omap3-beagle [armel]                  # omap3 first stage bootloader
+ * x-loader-omap4-panda [armel]                 # omap4 first stage bootloader
 
 == Filesystems ==
 
