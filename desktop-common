@@ -47,6 +47,7 @@ These tools are very commonly used by people who drop into a console shell to do
 Basic network services and Windows integration.
 
  * wireless-tools
+ * rfkill              # No longer using the copy from wireless-tools (LP: #715309)
  * wpasupplicant  # ScottJamesRemnant
  * (libnss-mdns)       # IPv4 link-local DNS support
  * smbclient           # to access files on other SAMBA and Windows servers
