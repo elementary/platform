@@ -1,7 +1,7 @@
 = Installer =
 
  # Used for netboot installations
- * Kernel-Version: 2.6.38-2-generic-pae 2.6.38-2-virtual
+ * Kernel-Version: 2.6.38-3-generic-pae 2.6.38-3-virtual
  * /^.*-firmware-.*-di/ [amd64 i386]
  * /^.*-modules-.*-di/ [amd64 i386]
 
