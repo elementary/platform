@@ -181,24 +181,24 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == amd64 ==
 
- * Kernel-Version: 2.6.38-4-generic
+ * Kernel-Version: 2.6.38-5-generic
  * /^.*-firmware-.*-di/ [amd64]
  * /^.*-modules-.*-di/ [amd64]
 
 == armel ==
 
- * Kernel-Version: 2.6.32-410-dove 2.6.38-4-omap 2.6.35-1101-omap4 2.6.31-800-st1-5 2.6.38-4-iop32x 2.6.37-10-ixp4xx 2.6.38-4-orion5x 2.6.38-4-versatile
+ * Kernel-Version: 2.6.32-410-dove 2.6.38-5-omap 2.6.35-1101-omap4 2.6.31-800-st1-5 2.6.38-5-iop32x 2.6.37-10-ixp4xx 2.6.38-5-orion5x 2.6.38-5-versatile
  * /^.*-firmware-.*-di/ [armel]
  * /^.*-modules-.*-di/ [armel]
 
 == i386 ==
 
- * Kernel-Version: 2.6.38-4-generic 2.6.38-4-generic-pae
+ * Kernel-Version: 2.6.38-5-generic 2.6.38-5-generic-pae
  * /^.*-firmware-.*-di/ [i386]
  * /^.*-modules-.*-di/ [i386]
 
 == powerpc ==
 
- * Kernel-Version: 2.6.38-4-powerpc 2.6.38-4-powerpc64-smp
+ * Kernel-Version: 2.6.38-5-powerpc 2.6.38-5-powerpc64-smp
  * /^.*-firmware-.*-di/ [powerpc]
  * /^.*-modules-.*-di/ [powerpc]
