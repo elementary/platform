@@ -51,7 +51,6 @@ Basic network services and Windows integration.
  * rfkill              # No longer using the copy from wireless-tools (LP: #715309)
  * wpasupplicant  # ScottJamesRemnant
  * (libnss-mdns)       # IPv4 link-local DNS support
- * smbclient           # to access files on other SAMBA and Windows servers
  * ca-certificates     # common SSL certificates
 
 These packages help with system integration
