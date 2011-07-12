@@ -4,7 +4,7 @@ Language pack sizes
 langpack-o-matic has a script 'langpacksize' that helps to determine
 which packages fit on the CDs. You can download the latest version from 
 
-  http://codebrowse.launchpad.net/~pitti/langpack-o-matic/main/files
+  http://bazaar.launchpad.net/~ubuntu-langpack/langpack-o-matic/main/view/head:/langpacksize
 
 This script prints a table of languages vs. categories and their
 single and cumulative sizes; by default, the numbers are bytes, but
@@ -27,23 +27,15 @@ language and all languages above it.
 The list is vertically ordered by the priority, i. e. they should be
 added from top to down.
 
-Please note that these sizes do not only include language-pack-*, but
-also the size of packages that provide input support for a particular
-language.
-
-
 Input support packages
 ======================
 
 When shipping a language on a CD, the required input support packages
-must be shipped as well:
+should be shipped as well.
 
-zh: scim-chewing scim-pinyin scim-tables-zh
-ja: scim-anthy
-ko: scim-hangul
-am ar bn gu hi kn ml ne pa ru ta te vi: scim-tables-additional
+To find out the necessary packages, run this command for the particular
+language code:
 
+  check-language-support -l ja --show-installed |xargs -n1 | grep ibus
 
-
-
-# the blank lines above are to not confuse vim because of the "vi:" line
+This displays the input methods for Japanese ("ja").
