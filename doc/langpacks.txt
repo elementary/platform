@@ -36,6 +36,6 @@ should be shipped as well.
 To find out the necessary packages, run this command for the particular
 language code:
 
-  check-language-support -l ja --show-installed |xargs -n1 | grep ibus
+  check-language-support -l ja --show-installed -p ibus
 
 This displays the input methods for Japanese ("ja").
