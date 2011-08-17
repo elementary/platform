@@ -187,7 +187,7 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == armel ==
 
- * Kernel-Version: 2.6.39-1001-linaro-omap 2.6.39-1001-linaro-vexpress 3.0.0-8-omap 3.0.0-1200-omap4
+ * Kernel-Version: 2.6.39-1001-linaro-omap 2.6.39-1001-linaro-vexpress 3.0.0-8-omap 3.0.0-1202-omap4
  * /^.*-firmware-.*-di/ [armel]
  * /^.*-modules-.*-di/ [armel]
 
