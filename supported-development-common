@@ -23,7 +23,7 @@
  * libstdc++6-4.4-pic
  * ant1.8-optional	# Java development, drop it if ant is updated to 1.8
  * ant1.8-doc
- * texinfo-doc-nonfree  # GFD'd documentation for texinfo
+ * texinfo-doc-nonfree  # GFDL'd documentation for texinfo
  * gcj-4.5-jdk		# keep these here, will be in main in natty
  * libgcj11-dbg
 
