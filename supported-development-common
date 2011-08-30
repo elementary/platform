@@ -37,7 +37,6 @@
  * debhelper         # ColinWatson
  * dh-make
  * dupload           # ColinWatson
- * linda             # python-based replacement for lintian
  * lintian
  * pbuilder          # ColinWatson
  * apt-listchanges
