@@ -1,7 +1,7 @@
 = Installer =
 
  # Used for netboot installations
- * Kernel-Version: 3.0.0-9-generic-pae 3.0.0-9-virtual
+ * Kernel-Version: 3.0.0-10-generic-pae 3.0.0-10-virtual
  * /^.*-firmware-.*-di/ [amd64 i386]
  * /^.*-modules-.*-di/ [amd64 i386]
 
