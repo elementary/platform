@@ -1,7 +1,7 @@
 Task-Section: user
 Task-Relevance: 9
 Task-Description: Minimal base system
-Task-Extended-Description: This task installs the core of an Ubuntu-based system.
+Task-Extended-Description: This task installs the core of an elementary-based system.
 Task-Test-new-install: install skip
 Task-Seeds: required
 
@@ -37,12 +37,10 @@ Programs and packages necessary for both the proper functionality of the system 
  * lsb-release
  * module-init-tools # required for kernel 2.6
  * netbase
- * rsyslog
  * sudo              # LaMontJones
  * ubuntu-keyring     # for authenticated package downloads
  * udev
  * ureadahead        # get things into cache as quickly as possible during boot
- * vim-tiny
  * whiptail          # for debconf's Dialog frontend
 
 == Networking ==
