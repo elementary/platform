@@ -53,9 +53,13 @@ These provide various networking services, all should be configured in a client-
  * ntpdate        # FabioMassimoDiNitto
  * iputils-ping
 
+= elementary =
+
+ * (preload)         # readahead daemon
+
 = Meta =
 
- * ubuntu-minimal     # Ubuntu-specific bits we want on every Ubuntu system
+ * elementary-minimal     # Ubuntu-specific bits we want on every Ubuntu system
 
 = Other =
 
