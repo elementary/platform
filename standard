@@ -69,10 +69,7 @@ These are used for debugging problems or examining the system.
 
 == Network ==
 
- * (iputils-tracepath)  # more secure sort of traceroute, will put compatibility symblink in for traceroute users
- * (mtr-tiny)           # LaMontJones
- * (tcpdump)
- * (ufw)                # Jamie Strandboge
+# No console utils in elementary OS, except ping
 
 = Other =
 
