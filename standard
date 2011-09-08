@@ -7,7 +7,7 @@ Task-Test-new-install: install skip
 
 = UNIX =
 
-== what's left of a Comfortable Unix System ==
+== All what's left of a Comfortable Unix System ==
 
  * at
  * busybox-static    # https://blueprints.launchpad.net/ubuntu/+spec/foundations-lucid-boot-recovery

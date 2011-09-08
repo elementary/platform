@@ -38,7 +38,6 @@ These tools are very commonly used by people who drop into a console shell to do
  * bc
  * dc
  * genisoimage
- * lftp
  * zip
  * unzip                # also used for .zip support in file-roller
  * libpam-ck-connector  # get ConsoleKit sessions for VTs
@@ -92,21 +91,11 @@ Packages used for X preconfiguration are just Recommends; removing them after in
 Fonts:
 
  * x-ttcidfont-conf
- * ttf-dejavu-core
  * ttf-freefont
- * (ttf-kacst-one)
- * (ttf-takao-pgothic)
- * (ttf-khmeros-core)
- * (ttf-indic-fonts-core)
- * (ttf-punjabi-fonts)
- * (ttf-thai-tlwg)
- * (ttf-lao)
- * (ttf-ubuntu-font-family)
 
 = Other =
 
  * anacron # generally appropriate for desktops
  * libxp6 # required for some third party apps. See #21953
- * (kerneloops-daemon) # watch for and allow reporting of kernel problems
  * (policykit-desktop-privileges) # passwordless disk/CPU speed/time operations for admins
  * ubuntu-extras-keyring # archive signing key for extras.ubuntu.com
