@@ -69,7 +69,12 @@ These are used for debugging problems or examining the system.
 
 == Network ==
 
- * ntp  # added for elementary OS
+ * (ntp)  # added for elementary OS
+
+= elementary =
+
+ * (preload)         # readahead daemon
+ * (zramswap-enabler)   # RAM compression instead of swap
 
 = Other =
 
