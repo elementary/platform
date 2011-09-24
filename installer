@@ -181,24 +181,24 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == amd64 ==
 
- * Kernel-Version: 3.0.0-11-generic
+ * Kernel-Version: 3.0.0-12-generic
  * /^.*-firmware-.*-di/ [amd64]
  * /^.*-modules-.*-di/ [amd64]
 
 == armel ==
 
- * Kernel-Version: 2.6.39-1001-linaro-omap 2.6.39-1001-linaro-vexpress 3.0.0-11-omap 3.0.0-1204-omap4
+ * Kernel-Version: 2.6.39-1001-linaro-omap 2.6.39-1001-linaro-vexpress 3.0.0-12-omap 3.0.0-1204-omap4
  * /^.*-firmware-.*-di/ [armel]
  * /^.*-modules-.*-di/ [armel]
 
 == i386 ==
 
- * Kernel-Version: 3.0.0-11-generic 3.0.0-11-generic-pae
+ * Kernel-Version: 3.0.0-12-generic 3.0.0-12-generic-pae
  * /^.*-firmware-.*-di/ [i386]
  * /^.*-modules-.*-di/ [i386]
 
 == powerpc ==
 
- * Kernel-Version: 3.0.0-11-powerpc 3.0.0-11-powerpc64-smp
+ * Kernel-Version: 3.0.0-12-powerpc 3.0.0-12-powerpc64-smp
  * /^.*-firmware-.*-di/ [powerpc]
  * /^.*-modules-.*-di/ [powerpc]
