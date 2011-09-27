@@ -71,3 +71,7 @@
 = Misc =
 
  * util-linux-locales  # contents provided in langpacks, just needs to be held in main
+
+= Germinate workarounds =
+
+ * python-pyrex # bzr Build-Depends: cython-dbg | python-pyrex; we want the latter for now
