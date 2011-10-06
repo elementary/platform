@@ -32,6 +32,8 @@ restricted modules.
  * ${Kernel-Stem}-dove [armel]
  * ${Kernel-Stem}-omap [armel]
  * ${Kernel-Stem}-omap4 [armel]
+ * ${Kernel-Stem}-linaro-vexpress [armel]
+ * ${Kernel-Stem}-linaro-omap [armel]
 
 == Germinate workarounds ==
 
