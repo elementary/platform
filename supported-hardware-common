@@ -7,6 +7,7 @@
  * u-boot-linaro-omap4-panda [armel]      # omap4 second stage bootloader
  * x-loader-omap3-beagle [armel]                  # omap3 first stage bootloader
  * x-loader-omap4-panda [armel]                 # omap4 first stage bootloader
+ * u-boot-linaro-mx53loco			# mx53 bootloader
 
 == Filesystems ==
 
