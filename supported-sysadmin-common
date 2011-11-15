@@ -22,7 +22,7 @@
  * autofs
  * awstats
  * acct
- * authbind                     # BIGGER SECURITAH REVIEW
+ * authbind
  * siege
  * bonnie++
  * aptitude-doc-en
