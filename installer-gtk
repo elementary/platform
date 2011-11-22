@@ -6,7 +6,7 @@ These packages are used only by the installer's GTK frontend. We separate them o
  * rootskel-gtk
  * ttf-cjk-compact-udeb
  * ttf-dejavu-udeb
- * ttf-farsiweb-udeb
+ * fonts-farsiweb-udeb
  * ttf-freefont-udeb
  * ttf-kannada-fonts-udeb
  * ttf-khmeros-udeb
