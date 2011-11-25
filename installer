@@ -119,6 +119,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * usbutils-udeb # for lsusb, so we can show descriptive names for devices
  * user-setup-udeb # first-stage username/password question
  * util-linux-udeb
+ * wget-udeb # HTTPS support
  * wireless-tools-udeb
  * xfsprogs-udeb
 
