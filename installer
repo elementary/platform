@@ -119,6 +119,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * usbutils-udeb # for lsusb, so we can show descriptive names for devices
  * user-setup-udeb # first-stage username/password question
  * util-linux-udeb
+ * wget-udeb # HTTPS support
  * wireless-tools-udeb
  * xfsprogs-udeb
 
@@ -181,24 +182,24 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == amd64 ==
 
- * Kernel-Version: 3.0.0-10-generic
+ * Kernel-Version: 3.2.0-2-generic
  * /^.*-firmware-.*-di/ [amd64]
  * /^.*-modules-.*-di/ [amd64]
 
 == armel ==
 
- * Kernel-Version: 2.6.39-1001-linaro-omap 2.6.39-1001-linaro-vexpress 3.0.0-10-omap 3.0.0-1204-omap4
+ * Kernel-Version: 3.0.0-1007-linaro-omap 3.0.0-1007-linaro-vexpress 3.2.0-2-omap 3.0.0-1401-omap4
  * /^.*-firmware-.*-di/ [armel]
  * /^.*-modules-.*-di/ [armel]
 
 == i386 ==
 
- * Kernel-Version: 3.0.0-10-generic 3.0.0-10-generic-pae
+ * Kernel-Version: 3.2.0-2-generic 3.2.0-2-generic-pae
  * /^.*-firmware-.*-di/ [i386]
  * /^.*-modules-.*-di/ [i386]
 
 == powerpc ==
 
- * Kernel-Version: 3.0.0-10-powerpc 3.0.0-10-powerpc64-smp
+ * Kernel-Version: 3.2.0-2-powerpc 3.2.0-2-powerpc64-smp
  * /^.*-firmware-.*-di/ [powerpc]
  * /^.*-modules-.*-di/ [powerpc]

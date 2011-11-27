@@ -32,6 +32,10 @@
  * openjdk-6-source
  * ubuntu-defaults-builder
 
+Allow building live CDs for older releases too.
+
+ * syslinux-themes-ubuntu-oneiric
+
 = Libraries =
 
  * tk8.5-dev

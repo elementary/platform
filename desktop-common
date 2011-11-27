@@ -92,6 +92,8 @@ Fonts:
 
  * x-ttcidfont-conf
  * ttf-freefont
+ttf-unifont accounts for more languages and it's smaller than all the stuff Ubuntu ships here
+ * (ttf-unifont)
 
 = Other =
 
