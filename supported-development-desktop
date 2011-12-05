@@ -39,10 +39,6 @@ Allow building live CDs for older releases too.
 = Libraries =
 
  * tk8.5-dev
- * libsdl1.2debian-all
- * libsdl1.2debian-alsa
- * libsdl1.2debian-esd
- * libsdl1.2debian-oss
  * libgl1-mesa-swx11-i686
  * libchart-perl
  * libgd-graph-perl

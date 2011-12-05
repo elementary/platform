@@ -23,7 +23,6 @@ x11-common 3y
 #
 #src:libsdl1.2 3y
 libsdl1.2debian 3y
-libsdl1.2debian-alsa 3y
 #src:pulseaudio 3y
 libpulse0 3y
 #src:libsndfile 3y
