@@ -171,7 +171,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
  * beep-udeb [armel]
  * oldsys-preseed [armel armhf]
- * redboot-tools-udeb [armel armhf]
 
 = Kernel Modules =
 

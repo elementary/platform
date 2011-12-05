@@ -11,8 +11,6 @@
 
  * ppp-udeb # experimental
 
- * redboot-imx51-babbage # used to create SD card images on armel iMX51 Babbage
-
  * installation-guide-amd64 [amd64]
  * installation-guide-armel [armel]
  * installation-guide-i386 [i386]
