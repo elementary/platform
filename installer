@@ -148,13 +148,13 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * partman-efi [amd64 i386]
  * partman-newworld [powerpc]
  * partman-prep [powerpc]
- * partman-uboot [armel]
+ * partman-uboot [armel armhf]
 
 = Bootloader Installers =
 
  * devio-udeb [armel]
  * elilo-installer [i386]
- * flash-kernel-installer [armel]
+ * flash-kernel-installer [armel armhf]
  * grub-installer [amd64 i386]
  * kboot-installer [powerpc]
  * yaboot-installer [powerpc]
@@ -170,8 +170,8 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 = Specialised hardware =
 
  * beep-udeb [armel]
- * oldsys-preseed [armel]
- * redboot-tools-udeb [armel]
+ * oldsys-preseed [armel armhf]
+ * redboot-tools-udeb [armel armhf]
 
 = Kernel Modules =
 
@@ -191,6 +191,12 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
  * Kernel-Version: 3.0.0-1007-linaro-omap 3.0.0-1007-linaro-vexpress 3.2.0-3-omap 3.0.0-1401-omap4
  * /^.*-firmware-.*-di/ [armel]
  * /^.*-modules-.*-di/ [armel]
+
+== armhf ==
+
+ * Kernel-Version: 3.2.0-3-omap
+ * /^.*-firmware-.*-di/ [armhf]
+ * /^.*-modules-.*-di/ [armhf]
 
 == i386 ==
 
