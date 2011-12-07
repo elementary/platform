@@ -9,9 +9,9 @@ These packages are used only by the installer's GTK frontend. We separate them o
  * fonts-farsiweb-udeb
  * ttf-freefont-udeb
  * ttf-kannada-fonts-udeb
- * ttf-khmeros-udeb
+ * fonts-khmeros-udeb
  * ttf-malayalam-fonts-udeb
- * ttf-sil-abyssinica-udeb
+ * fonts-sil-abyssinica-udeb
  * ttf-tamil-fonts-udeb
  * ttf-telugu-fonts-udeb
  * ttf-thai-tlwg-udeb
