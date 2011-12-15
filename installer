@@ -199,7 +199,7 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == i386 ==
 
- * Kernel-Version: 3.2.0-4-generic 3.2.0-4-generic-pae
+ * Kernel-Version: 3.2.0-4-generic-pae
  * /^.*-firmware-.*-di/ [i386]
  * /^.*-modules-.*-di/ [i386]
 
