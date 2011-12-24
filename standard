@@ -52,11 +52,11 @@ A base system should be a good platform for diagnostics about the hardware and n
 
 These are used for debugging problems or examining the system.
 
- * strace
- * dmidecode
- * lshw
- * lsof
- * ltrace
+ * (strace)
+ * (dmidecode)
+ * (lshw)
+ * (lsof)
+ * (ltrace)
 
 = Helpful Tools =
  
@@ -65,11 +65,11 @@ These are used for debugging problems or examining the system.
  * (update-manager-core)  # needed for server based release upgrades
  * (apparmor) # load AppArmor policies
  * (plymouth) # splash screen, and boot-time questions
- * (plymouth-theme-ubuntu-text)
+ * (plymouth-theme-ubuntu-text) # TODO: we don't have a custom fallback yet
 
 == Network ==
 
- * (ntp)  # added for elementary OS
+ * (ntp)  # added for elementary OS (usually it's installed when you manually enable time sync)
 
 = elementary performance tweaks =
 https://blueprints.launchpad.net/elementaryos/+spec/performance-optimization-luna
