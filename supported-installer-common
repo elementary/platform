@@ -1,7 +1,7 @@
 = Installer =
 
  # Used for netboot installations
- * Kernel-Version: 3.2.0-2-generic-pae 3.2.0-2-virtual
+ * Kernel-Version: 3.2.0-6-generic 3.2.0-6-virtual
  * /^.*-firmware-.*-di/ [amd64 i386]
  * /^.*-modules-.*-di/ [amd64 i386]
 
@@ -10,8 +10,6 @@
  * gfxboot-theme-ubuntu
 
  * ppp-udeb # experimental
-
- * redboot-imx51-babbage # used to create SD card images on armel iMX51 Babbage
 
  * installation-guide-amd64 [amd64]
  * installation-guide-armel [armel]

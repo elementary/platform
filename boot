@@ -15,7 +15,7 @@ restricted modules.
 
  * grub [amd64 i386]                      # lilo will be in supported
  * grub-pc [amd64 i386]
- * ${Kernel-Stem}-generic [i386]          # our chosen default install kernel
+ * ${Kernel-Stem}-generic-pae [i386]      # our chosen default install kernel
 
 == powerpc ==
 
@@ -27,11 +27,11 @@ restricted modules.
 
  * ${Kernel-Stem}-generic [amd64]         # amd64 kernel, works on all machines though not optimised
 
-== armel ==
+== armel / armhf ==
 
  * ${Kernel-Stem}-dove [armel]
- * ${Kernel-Stem}-omap [armel]
- * ${Kernel-Stem}-omap4 [armel]
+ * ${Kernel-Stem}-omap [armel armhf]
+ * ${Kernel-Stem}-omap4 [armel armhf]
  * ${Kernel-Stem}-linaro-vexpress [armel]
  * ${Kernel-Stem}-linaro-omap [armel]
 
