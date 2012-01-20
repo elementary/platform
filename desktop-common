@@ -75,7 +75,7 @@ Printing and printer configuration is a real weak spot in Debian, and in Linux i
  * (foo2zjs)			# support for printing to ZjStream-based printers
  * (splix)			# support for Samsung lasers
  * (pxljr)			# support for HP Color lasers
- * (c2esp)                      # support for Kodak injket printers
+ * (printer-driver-c2esp)       # support for Kodak injket printers
  * (ptouch-driver)              # support for Brother P-touch printers
  * (rastertosag-gdi)            # support for Rico Aficio SPxxxx printers
 
