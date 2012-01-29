@@ -91,7 +91,6 @@ Packages used for X preconfiguration are just Recommends; removing them after in
 
 Fonts:
 
- * x-ttcidfont-conf
  * ttf-dejavu-core
  * ttf-freefont
  * (fonts-kacst-one)
