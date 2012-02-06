@@ -98,7 +98,7 @@ Fonts:
  * (fonts-khmeros-core)
  * (ttf-indic-fonts-core)
  * (ttf-punjabi-fonts)
- * (ttf-thai-tlwg)
+ * (fonts-thai-tlwg)
  * (fonts-lao)
  * (ttf-ubuntu-font-family)
 

@@ -14,7 +14,7 @@ These packages are used only by the installer's GTK frontend. We separate them o
  * fonts-sil-abyssinica-udeb
  * ttf-tamil-fonts-udeb
  * ttf-telugu-fonts-udeb
- * ttf-thai-tlwg-udeb
+ * fonts-thai-tlwg-udeb
  * fonts-tibetan-machine-udeb
  * xserver-xorg-core-udeb
  * xserver-xorg-input-evdev-udeb
