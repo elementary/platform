@@ -71,7 +71,7 @@ Printing and printer configuration is a real weak spot in Debian, and in Linux i
  * pnm2ppa                      # several ppds require this
  * ghostscript-x
  * (hplip)     			# support for HP all-in-one printers
- * (min12xxw)			# support for KonicaMinolta PagePro 1200W, 1300W printers
+ * (printer-driver-min12xxw)	# support for KonicaMinolta PagePro 1200W, 1300W printers
  * (printer-driver-foo2zjs)	# support for printing to ZjStream-based printers
  * (printer-driver-splix)	# support for Samsung lasers
  * (printer-driver-pxljr)	# support for HP Color lasers
