@@ -72,12 +72,12 @@ Printing and printer configuration is a real weak spot in Debian, and in Linux i
  * ghostscript-x
  * (hplip)     			# support for HP all-in-one printers
  * (min12xxw)			# support for KonicaMinolta PagePro 1200W, 1300W printers
- * (foo2zjs)			# support for printing to ZjStream-based printers
- * (splix)			# support for Samsung lasers
- * (pxljr)			# support for HP Color lasers
+ * (printer-driver-foo2zjs)	# support for printing to ZjStream-based printers
+ * (printer-driver-splix)	# support for Samsung lasers
+ * (printer-driver-pxljr)	# support for HP Color lasers
  * (printer-driver-c2esp)       # support for Kodak injket printers
- * (ptouch-driver)              # support for Brother P-touch printers
- * (rastertosag-gdi)            # support for Rico Aficio SPxxxx printers
+ * (printer-driver-ptouch)      # support for Brother P-touch printers
+ * (printer-driver-sag-gdi)     # support for Rico Aficio SPxxxx printers
 
 = GUI infrastructure =
 
