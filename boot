@@ -34,6 +34,7 @@ restricted modules.
  * ${Kernel-Stem}-omap4 [armel armhf]
  * ${Kernel-Stem}-linaro-vexpress [armel]
  * ${Kernel-Stem}-linaro-omap [armel]
+ * ${Kernel-Stem}-armadaxp [armhf]
 
 == Germinate workarounds ==
 
