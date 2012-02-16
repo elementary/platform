@@ -68,7 +68,7 @@ Printing and printer configuration is a real weak spot in Debian, and in Linux i
  * foomatic-db-compressed-ppds  # the foomatic printer driver database
  * foomatic-filters             # converter from postscript to printer-specific formats
  * openprinting-ppds            # Most common drivers we want in desktop; less common are in o-p-extra
- * pnm2ppa                      # several ppds require this
+ * printer-driver-pnm2ppa       # several ppds require this
  * ghostscript-x
  * (hplip)     			# support for HP all-in-one printers
  * (printer-driver-min12xxw)	# support for KonicaMinolta PagePro 1200W, 1300W printers
