@@ -35,7 +35,7 @@ Web applications:
 
 Printing:
 
- * m2300w  # Driver for the Minolta magicolor 2300W/24000W color laser printers 
+ * printer-driver-m2300w  # Driver for the Minolta magicolor 2300W/24000W color laser printers 
 
 Utilities:
 
