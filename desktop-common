@@ -35,9 +35,6 @@ TODO not for Xubuntu
 
 These tools are very commonly used by people who drop into a console shell to do some work.
 
- * bc
- * dc
- * genisoimage
  * zip
  * unzip                # also used for .zip support in file-roller
  * libpam-ck-connector  # get ConsoleKit sessions for VTs
@@ -67,16 +64,16 @@ Printing and printer configuration is a real weak spot in Debian, and in Linux i
  * foomatic-db-compressed-ppds  # the foomatic printer driver database
  * foomatic-filters             # converter from postscript to printer-specific formats
  * openprinting-ppds            # Most common drivers we want in desktop; less common are in o-p-extra
- * pnm2ppa                      # several ppds require this
+ * printer-driver-pnm2ppa       # several ppds require this
  * ghostscript-x
  * (hplip)     			# support for HP all-in-one printers
- * (min12xxw)			# support for KonicaMinolta PagePro 1200W, 1300W printers
- * (foo2zjs)			# support for printing to ZjStream-based printers
- * (splix)			# support for Samsung lasers
- * (pxljr)			# support for HP Color lasers
- * (c2esp)                      # support for Kodak injket printers
- * (ptouch-driver)              # support for Brother P-touch printers
- * (rastertosag-gdi)            # support for Rico Aficio SPxxxx printers
+ * (printer-driver-min12xxw)	# support for KonicaMinolta PagePro 1200W, 1300W printers
+ * (printer-driver-foo2zjs)	# support for printing to ZjStream-based printers
+ * (printer-driver-splix)	# support for Samsung lasers
+ * (printer-driver-pxljr)	# support for HP Color lasers
+ * (printer-driver-c2esp)       # support for Kodak injket printers
+ * (printer-driver-ptouch)      # support for Brother P-touch printers
+ * (printer-driver-sag-gdi)     # support for Rico Aficio SPxxxx printers
 
 = GUI infrastructure =
 
@@ -90,7 +87,6 @@ Packages used for X preconfiguration are just Recommends; removing them after in
 
 Fonts:
 
- * x-ttcidfont-conf
  * ttf-freefont
 ttf-unifont accounts for more languages and it's smaller than all the stuff Ubuntu ships here
  * (ttf-unifont)
