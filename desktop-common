@@ -92,6 +92,7 @@ ttf-unifont accounts for more languages and it's smaller than all the stuff Ubun
  * (ttf-unifont)
  * (fonts-nanum)
  * (fonts-liberation)
+ * (cmap-adobe-japan2)
 
 = Other =
 
