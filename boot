@@ -20,7 +20,7 @@ restricted modules.
 == powerpc ==
 
  * yaboot [powerpc]
- * ${Kernel-Stem}-powerpc [powerpc]       # powerpc kernel, 32-bit machines
+ * ${Kernel-Stem}-powerpc-smp [powerpc]   # powerpc kernel, 32-bit machines
  * ${Kernel-Stem}-powerpc64-smp [powerpc] # powerpc kernel, 64-bit machines
 
 == amd64 ==
