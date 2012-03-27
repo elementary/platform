@@ -63,6 +63,7 @@ Proxy:
 Configuration Management:
 
  * puppet
+ * puppetmaster
  * facter
  * etckeeper 
 
@@ -81,6 +82,8 @@ Backup:
  * bacula
  * bacula-director-mysql
  * bacula-director-pgsql
+ * bacula-sd-mysql
+ * bacula-sd-pgsql
 
 Other:
 
