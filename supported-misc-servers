@@ -12,6 +12,7 @@ Email:
  * exim4-daemon-heavy
  * exim4-daemon-light
  * dovecot-postfix
+ * mailman
 
 Must also consider webmail and so on...
 
@@ -56,9 +57,17 @@ Backup:
  * bacula-sd-sqlite3
 
 Proxy:
+
  * haproxy #ClintByrum server-maverick-uds-cloud-loadbalancing
 
+Configuration Management:
+
+ * puppet
+ * facter
+ * etckeeper 
+
 Monitoring:
+
  * nagios3
  * nagios3-common
  * nagios3-doc
@@ -66,6 +75,12 @@ Monitoring:
  * nagios-plugins-standard
  * nagios-nrpe-server #ChuckShort - server lucid-canonical-application-support
  * nagios-nrpe-plugins #ChuckShort - server lucid-canonical-applicaton-support
+
+Backup:
+
+ * bacula
+ * bacula-director-mysql
+ * bacula-director-pgsql
 
 Other:
 
