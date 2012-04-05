@@ -55,6 +55,7 @@ Backup:
 
  * bacula-director-sqlite3
  * bacula-sd-sqlite3
+ * mtx
 
 Proxy:
 
