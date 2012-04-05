@@ -90,3 +90,29 @@ Other:
  * sysvinit  # ScottJamesRemnant retain support for now
  * samba-doc-pdf
  * ibmasm-utils
+ * rabbitmq-server
+ * nova-doc
+ * nova-api
+ * nova-network
+ * nova-objectstore
+ * nova-scheduler
+ * nova-volume
+ * nova-compute
+ * nova-compute-kvm
+ * nova-compute-lxc
+ * nova-vncproxy
+ * nova-cert
+ * euca2tools
+ * unzip
+ * python-nova
+ * nova-common
+ * python-swift
+ * swift-account
+ * swift-container
+ * swift-doc
+ * swift-object
+ * swift-proxy
+ * python-glance
+ * glance
+ * keystone
+ * python-keystoneclient
