@@ -12,6 +12,7 @@ Email:
  * exim4-daemon-heavy
  * exim4-daemon-light
  * dovecot-postfix
+ * mailman
 
 Must also consider webmail and so on...
 
@@ -54,11 +55,21 @@ Backup:
 
  * bacula-director-sqlite3
  * bacula-sd-sqlite3
+ * mtx
 
 Proxy:
+
  * haproxy #ClintByrum server-maverick-uds-cloud-loadbalancing
 
+Configuration Management:
+
+ * puppet
+ * puppetmaster
+ * facter
+ * etckeeper 
+
 Monitoring:
+
  * nagios3
  * nagios3-common
  * nagios3-doc
@@ -67,8 +78,42 @@ Monitoring:
  * nagios-nrpe-server #ChuckShort - server lucid-canonical-application-support
  * nagios-nrpe-plugins #ChuckShort - server lucid-canonical-applicaton-support
 
+Backup:
+
+ * bacula
+ * bacula-director-mysql
+ * bacula-director-pgsql
+ * bacula-sd-mysql
+ * bacula-sd-pgsql
+
 Other:
 
  * sysvinit  # ScottJamesRemnant retain support for now
  * samba-doc-pdf
  * ibmasm-utils
+ * rabbitmq-server
+ * nova-doc
+ * nova-api
+ * nova-network
+ * nova-objectstore
+ * nova-scheduler
+ * nova-volume
+ * nova-compute
+ * nova-compute-kvm
+ * nova-compute-lxc
+ * nova-vncproxy
+ * nova-cert
+ * euca2tools
+ * unzip
+ * python-nova
+ * nova-common
+ * python-swift
+ * swift-account
+ * swift-container
+ * swift-doc
+ * swift-object
+ * swift-proxy
+ * python-glance
+ * glance
+ * keystone
+ * python-keystoneclient

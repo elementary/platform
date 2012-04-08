@@ -18,3 +18,4 @@ Not quite sure where these should go, but let's at least make sure they're seede
  * linux-headers-2.6.31-800-st1-5 [armel]
  * linux-tools-omap4 [armel armhf]
  * linux-tools-armadaxp [armhf]
+ * linux-image-powerpc  # transitional package to -smp for 12.04 LTS
