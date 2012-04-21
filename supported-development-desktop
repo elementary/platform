@@ -60,3 +60,4 @@ Allow building live CDs for older releases too.
  * python3-setuptools
  * python3-bsddb3-dbg
  * python-bsddb3-doc
+ * python3-gi-cairo

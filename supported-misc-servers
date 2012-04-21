@@ -116,4 +116,8 @@ Other:
  * python-glance
  * glance
  * keystone
+ * python-keystone
+ * keystone-doc
  * python-keystoneclient
+ * horizon
+ * python-django-horizon
