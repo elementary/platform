@@ -120,3 +120,4 @@ Other:
  * keystone-doc
  * python-keystoneclient
  * openstack-dashboard
+ * python-django-openstack
