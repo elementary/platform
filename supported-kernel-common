@@ -16,4 +16,3 @@ Not quite sure where these should go, but let's at least make sure they're seede
 
  * linux-tools-omap4 [armel armhf]
  * linux-tools-armadaxp [armhf]
- * linux-image-powerpc  # transitional package to -smp for 12.04 LTS
