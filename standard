@@ -75,6 +75,8 @@ These are used for debugging problems or examining the system.
 https://blueprints.launchpad.net/elementaryos/+spec/performance-optimization-luna
 
  * (preload)         # readahead daemon
+ * (ulatencyd)       # prioritizes processes for resource allocation
+ * (ulatencyd-configs-elementary)
 
 = Other =
 
