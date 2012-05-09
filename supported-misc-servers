@@ -119,5 +119,5 @@ Other:
  * python-keystone
  * keystone-doc
  * python-keystoneclient
- * horizon
- * python-django-horizon
+ * openstack-dashboard
+ * python-django-openstack
