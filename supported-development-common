@@ -3,11 +3,14 @@
 == Development Tools ==
 
  * bison
+ * bison-doc
  * debconf-english   # for minimal buildd chroots, without i18n cruft
  * flex
  * patchutils
  * gdb
+ * gdb-doc
  * autoconf
+ * autoconf-doc
  * automake
  * autotools-dev
  * libtool
@@ -26,6 +29,9 @@
  * texinfo-doc-nonfree  # GFDL'd documentation for texinfo
  * gcj-4.7-jdk		
  * libgcj12-dbg
+ * diveintopython
+ * diveintopython-zh
+ * make-doc
 
 == Revision Control ==
 

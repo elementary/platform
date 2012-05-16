@@ -1,5 +1,10 @@
 == Kernel ==
 
- * linux-ports-doc
- * linux-ports-source
- * fglrx-kernel-source
+== Restricted Drivers ==
+ * fglrx
+ * fglrx-dev
+ * fglrx-amdcccle
+ * nvidia-current
+ * nvidia-current-dev
+ * nvidia-settings
+
