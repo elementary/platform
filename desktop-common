@@ -10,7 +10,7 @@ particular flavour of desktop environment (e.g. GNOME, KDE, or XFCE).
  * alsa-utils           # basic audio support and mixer level handling
  * (pcmciautils)        # PCMCIA support for >= 2.6.13-rc1 kernels
  * inputattach          # needed for serial mice
- * nvidia-common [i386 amd64]  # Make it harder to remove detection support, LP#704597 
+ * ubuntu-drivers-common # Make it harder to remove detection support, LP#704597 
 
 Power management:
 
