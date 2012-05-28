@@ -14,5 +14,5 @@
 
 Not quite sure where these should go, but let's at least make sure they're seeded for main.
 
- * linux-tools-omap4 [armel armhf]
+ * linux-tools-omap4 [armhf]
  * linux-tools-armadaxp [armhf]
