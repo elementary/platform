@@ -22,6 +22,11 @@
  * emacs23-nox
  * emacs-goodies-el
 
+And some useful Emacs-related tools:
+
+ * auctex
+ * bbdb
+
 == Documentation ==
 
  * monodoc-webkit-manual
