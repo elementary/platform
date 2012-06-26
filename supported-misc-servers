@@ -115,6 +115,7 @@ Other:
  * swift-object
  * swift-proxy
  * python-glance
+ * python-glanceclient
  * glance
  * keystone
  * python-keystone
