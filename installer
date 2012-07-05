@@ -11,7 +11,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * binutils-static-udeb # for restricted modules
  * biosdevname-udeb [amd64 i386]
  * bogl-bterm-udeb
- * bootstrap-base
  * brltty-udeb
  * bterm-unifont
  * busybox-udeb
