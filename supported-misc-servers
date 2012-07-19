@@ -123,3 +123,7 @@ Other:
  * python-keystoneclient
  * openstack-dashboard
  * python-django-openstack
+
+Cloud:
+
+ * walinuxagent # BenHoward - windows azure enablement
