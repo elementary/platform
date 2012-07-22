@@ -46,7 +46,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * hw-detect
  * initrd-preseed
  * installation-locale
- * installation-report
  * isc-dhcp-client-udeb
  * iso-3166-udeb
  * iso-scan # for USB boot
