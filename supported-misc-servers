@@ -37,7 +37,7 @@ Web applications:
 
 Printing:
 
- * printer-driver-m2300w  # Driver for the Minolta magicolor 2300W/24000W color laser printers 
+ * printer-driver-m2300w  # Driver for the Minolta magicolor 2300W/24000W color laser printers
 
 Utilities:
 
@@ -67,7 +67,7 @@ Configuration Management:
  * puppet
  * puppetmaster
  * facter
- * etckeeper 
+ * etckeeper
 
 Monitoring:
 
@@ -123,6 +123,7 @@ Other:
  * python-keystoneclient
  * openstack-dashboard
  * python-django-openstack
+ * python-requests
 
 Cloud:
 
