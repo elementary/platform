@@ -121,6 +121,8 @@ Other:
  * python-keystone
  * keystone-doc
  * python-keystoneclient
+ * python-cinderclient
+ * python-swiftclient
  * openstack-dashboard
  * python-django-openstack
  * python-requests

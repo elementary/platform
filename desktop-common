@@ -90,7 +90,7 @@ Packages used for X preconfiguration are just Recommends; removing them after in
 Fonts:
 
  * ttf-dejavu-core
- * fonts-freefont
+ * fonts-freefont-ttf
  * (fonts-kacst-one)
  * (fonts-takao-pgothic)
  * (fonts-khmeros-core)
