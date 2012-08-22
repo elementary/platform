@@ -126,6 +126,7 @@ Other:
  * openstack-dashboard
  * python-django-openstack
  * python-requests
+ * openvswitch
 
 Cloud:
 
