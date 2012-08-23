@@ -127,6 +127,10 @@ Other:
  * python-django-openstack
  * python-requests
  * openvswitch
+ * python-cinder
+ * cinder-volume
+ * cinder-api
+ * cinder-scheduler
 
 Cloud:
 
