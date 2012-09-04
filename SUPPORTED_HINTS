@@ -17,16 +17,9 @@
 # seed in the future and/or put into the appropriate existing
 # seeds
 #
-linux-backports-modules-alsa-2.6.32-21-server 5y
-linux-backports-modules-alsa-lucid-server 5y
-linux-backports-modules-headers-lucid-server 5y
-linux-backports-modules-wireless-2.6.32-21-server 5y
-linux-backports-modules-wireless-lucid-server 5y
-linux-headers-2.6.32-21-preempt 5y
-linux-headers-2.6.32-21-server 5y
-linux-headers-lbm-2.6.32-21-server 5y
-linux-image-2.6.32-21-server 5y
-linux-image-server 5y
+src:linux 5y
+src:linux-backports-modules-3.2.0 5y
+src:linux-meta 5y
 lynx 5y
 netpbm 5y
 pdksh 5y
