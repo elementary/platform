@@ -116,6 +116,7 @@ Other:
  * swift-proxy
  * python-glance
  * python-glanceclient
+ * python-quantumclient
  * glance
  * keystone
  * python-keystone
