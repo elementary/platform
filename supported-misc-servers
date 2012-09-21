@@ -87,6 +87,12 @@ Backup:
  * bacula-sd-mysql
  * bacula-sd-pgsql
 
+Storage:
+  
+ * ceph
+ * radosgw
+ * python-ceph
+
 Other:
 
  * sysvinit  # ScottJamesRemnant retain support for now
