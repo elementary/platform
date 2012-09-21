@@ -138,6 +138,21 @@ Other:
  * cinder-volume
  * cinder-api
  * cinder-scheduler
+ * quantum-server
+ * quantum-common
+ * quantum-plugin-cisco
+ * quantum-plugin-nec
+ * quantum-plugin-metaplugin
+ * quantum-plugin-nicira
+ * quantum-l3-agent
+ * quantum-dhcp-agent
+ * python-quantum
+ * quantum-plugin-openvswitch
+ * quantum-plugin-openvswitch-agent
+ * quantum-plugin-linuxbridge
+ * quantum-plugin-linuxbridge-agent
+ * quantum-plugin-ryu
+ * quantum-plugin-ryu-agent
 
 Cloud:
 
