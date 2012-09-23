@@ -16,3 +16,9 @@
 
  * ocfs2console
 
+== Restricted drivers ==
+
+ * fglrx-amdcccle-updates
+ * fglrx-updates-dev
+ * nvidia-current-updates-dev
+ * pvr-omap4-dev
