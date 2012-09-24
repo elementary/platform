@@ -21,5 +21,8 @@
  * fglrx-amdcccle-updates
  * fglrx-updates-dev
  * nvidia-current-updates-dev
+ * /^nvidia-[0-9]+-dev/
+ * /^nvidia-[0-9]+-updates-dev/
+ * /^nvidia-settings-experimental-[0-9]+/
  * pvr-omap4-dev
  * dri2-utils # from libdri2, pulled in from pvr-omap4
