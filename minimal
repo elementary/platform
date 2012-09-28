@@ -65,4 +65,4 @@ These provide various networking services, all should be configured in a client-
 
 = Other =
 
- * python             # -minimal is essential, but upstream doesn't want python-minimal shipped alone
+ * python3            # -minimal is essential, but upstream doesn't want python-minimal shipped alone

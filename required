@@ -30,7 +30,7 @@ These are packages which have "Essential: yes" in their control file.
  * ncurses-base
  * ncurses-bin
  * perl-base
- * python-minimal
+ * python3-minimal
  * sed
  * tar            # LaMontJones
  * util-linux     # LaMontJones
