@@ -111,3 +111,4 @@ Fonts:
  * (kerneloops-daemon) # watch for and allow reporting of kernel problems
  * (policykit-desktop-privileges) # passwordless disk/CPU speed/time operations for admins
  * ubuntu-extras-keyring # archive signing key for extras.ubuntu.com
+ * libpam-xdg-support # cross desktop compatibility
