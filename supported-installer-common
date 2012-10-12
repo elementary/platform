@@ -22,5 +22,6 @@
  * grub-efi-amd64 [amd64 i386]
  * grub-efi-ia32 [amd64 i386]
  * grub-efi-amd64-signed [amd64]
+ * sbsigntool
 
  * live-installer
