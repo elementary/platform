@@ -25,6 +25,7 @@ These are packages which have "Essential: yes" in their control file.
  * grep
  * gzip
  * hostname
+ * libc-bin
  * login
  * mount          # LaMontJones
  * ncurses-base
