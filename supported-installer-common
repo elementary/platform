@@ -5,6 +5,10 @@
  * /^.*-firmware-.*-di/ [amd64 i386]
  * /^.*-modules-.*-di/ [amd64 i386]
 
+ * Kernel-Version: 3.2.0-34-generic-pae
+ * /^.*-firmware-.*-di/ [i386]
+ * /^.*-modules-.*-di/ [i386]
+
  * debian-installer # also has side-effect of pulling in installer image build system
  * gfxboot
  * gfxboot-theme-ubuntu

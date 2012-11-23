@@ -180,7 +180,7 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == amd64 ==
 
- * Kernel-Version: 3.2.0-34-generic
+ * Kernel-Version: 3.5.0-19-generic
  * /^.*-firmware-.*-di/ [amd64]
  * /^.*-modules-.*-di/ [amd64]
 
@@ -198,7 +198,7 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == i386 ==
 
- * Kernel-Version: 3.2.0-34-generic-pae
+ * Kernel-Version: 3.5.0-19-generic
  * /^.*-firmware-.*-di/ [i386]
  * /^.*-modules-.*-di/ [i386]
 

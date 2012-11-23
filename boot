@@ -15,7 +15,7 @@ restricted modules.
 
  * grub [amd64 i386]                      # lilo will be in supported
  * grub-pc [amd64 i386]
- * ${Kernel-Stem}-generic-pae [i386]      # our chosen default install kernel
+ * ${Kernel-Stem}-generic-lts-quantal [i386]  # our chosen default install kernel
 
 == powerpc ==
 
@@ -25,7 +25,7 @@ restricted modules.
 
 == amd64 ==
 
- * ${Kernel-Stem}-generic [amd64]         # amd64 kernel, works on all machines though not optimised
+ * ${Kernel-Stem}-generic-lts-quantal [amd64]  # amd64 kernel, works on all machines though not optimised
 
 == armel / armhf ==
 
