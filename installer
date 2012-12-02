@@ -189,7 +189,7 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == armhf ==
 
- * Kernel-Version: 3.7.0-4-omap 3.5.0-213-omap4 3.5.0-1603-armadaxp
+ * Kernel-Version: 3.7.0-4-omap 3.5.0-215-omap4 3.5.0-1604-armadaxp
  * /^.*-firmware-.*-di/ [armhf]
  * /^.*-modules-.*-di/ [armhf]
 
@@ -201,6 +201,6 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == powerpc ==
 
- * Kernel-Version: 3.7.0-1-powerpc-smp 3.7.0-1-powerpc64-smp 3.7.0-1-powerpc-e500 3.7.0-1-powerpc-e500mc
+ * Kernel-Version: 3.7.0-2-powerpc-smp 3.7.0-2-powerpc64-smp 3.7.0-2-powerpc-e500 3.7.0-2-powerpc-e500mc
  * /^.*-firmware-.*-di/ [powerpc]
  * /^.*-modules-.*-di/ [powerpc]
