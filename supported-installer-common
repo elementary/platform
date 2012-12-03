@@ -1,9 +1,13 @@
 = Installer =
 
  # Used for netboot installations
- * Kernel-Version: 3.2.0-23-generic 3.2.0-23-virtual
+ * Kernel-Version: 3.2.0-34-generic 3.2.0-34-virtual
  * /^.*-firmware-.*-di/ [amd64 i386]
  * /^.*-modules-.*-di/ [amd64 i386]
+
+ * Kernel-Version: 3.2.0-34-generic-pae
+ * /^.*-firmware-.*-di/ [i386]
+ * /^.*-modules-.*-di/ [i386]
 
  * debian-installer # also has side-effect of pulling in installer image build system
  * gfxboot
@@ -21,5 +25,7 @@
  * grub-efi [amd64 i386]
  * grub-efi-amd64 [amd64 i386]
  * grub-efi-ia32 [amd64 i386]
+ * grub-efi-amd64-signed [amd64]
+ * sbsigntool
 
  * live-installer

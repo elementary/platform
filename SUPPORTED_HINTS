@@ -1,0 +1,25 @@
+# this file can be used to fine tune the support times and is used
+# by launchpad via cron.germinate and maintenance-check.py
+#
+# It supports the following format:
+#   src:srcpkgname support-time
+#   binary-pkg-name support-time
+#   binary-pkg-name/arch support-time
+#
+# Examples:
+# src:xorg unsupported
+# zsh/armel 3y
+# hal 18m
+#
+#
+# upgraded support for selected server packages that are not
+# part of any seed, there should be a supported-server-extra
+# seed in the future and/or put into the appropriate existing
+# seeds
+#
+src:linux 5y
+src:linux-backports-modules-3.2.0 5y
+src:linux-meta 5y
+lynx 5y
+netpbm 5y
+pdksh 5y
