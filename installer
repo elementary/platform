@@ -55,6 +55,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * console-setup-fonts-udeb
  * libdevmapper1.02-udeb
  * libfribidi0-udeb
+ * libkmod2-udeb
  * libnss-dns-udeb
  * libnss-files-udeb
  * load-cdrom
@@ -68,7 +69,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * mdadm-udeb
  * mii-diag-udeb
  * mkreiserfs-udeb
- * module-init-tools-udeb
  * nano-udeb
  * net-retriever
  * netcfg
