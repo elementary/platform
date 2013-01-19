@@ -176,26 +176,26 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == amd64 ==
 
- * Kernel-Version: 3.8.0-0-generic
+ * Kernel-Version: 3.8.0-1-generic
  * /^.*-firmware-.*-di/ [amd64]
  * /^.*-modules-.*-di/ [amd64]
  * kernel-signed-image-${Kernel-Version}-di [amd64]
 
 == armel ==
 
- * Kernel-Version: 3.0.0-1007-linaro-omap 3.0.0-1007-linaro-vexpress 3.8.0-0-omap
+ * Kernel-Version: 3.0.0-1007-linaro-omap 3.0.0-1007-linaro-vexpress 3.8.0-1-omap
  * /^.*-firmware-.*-di/ [armel]
  * /^.*-modules-.*-di/ [armel]
 
 == armhf ==
 
- * Kernel-Version: 3.8.0-0-omap 3.5.0-216-omap4 3.5.0-1606-armadaxp
+ * Kernel-Version: 3.8.0-1-omap 3.5.0-216-omap4 3.5.0-1606-armadaxp
  * /^.*-firmware-.*-di/ [armhf]
  * /^.*-modules-.*-di/ [armhf]
 
 == i386 ==
 
- * Kernel-Version: 3.8.0-0-generic
+ * Kernel-Version: 3.8.0-1-generic
  * /^.*-firmware-.*-di/ [i386]
  * /^.*-modules-.*-di/ [i386]
 
