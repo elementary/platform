@@ -201,6 +201,6 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == powerpc ==
 
- * Kernel-Version: 3.8.0-0-powerpc-smp 3.8.0-0-powerpc64-smp 3.8.0-0-powerpc-e500 3.8.0-0-powerpc-e500mc
+ * Kernel-Version: 3.8.0-1-powerpc-smp 3.8.0-1-powerpc64-smp 3.8.0-1-powerpc-e500 3.8.0-1-powerpc-e500mc
  * /^.*-firmware-.*-di/ [powerpc]
  * /^.*-modules-.*-di/ [powerpc]
