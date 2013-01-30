@@ -37,6 +37,7 @@ Programs and packages necessary for both the proper functionality of the system 
  * lsb-release
  * module-init-tools # required for kernel 2.6
  * netbase
+ * python3           # explicitly seeded, despite lsb-release also pulling it it
  * rsyslog
  * sudo              # LaMontJones
  * ubuntu-keyring     # for authenticated package downloads
@@ -63,6 +64,3 @@ These provide various networking services, all should be configured in a client-
 
  * ubuntu-minimal     # Ubuntu-specific bits we want on every Ubuntu system
 
-= Other =
-
- * python3            # -minimal is essential, but upstream doesn't want python-minimal shipped alone
