@@ -27,6 +27,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * choose-mirror
  * clock-setup
  * debootstrap-udeb
+ * driver-injection-disk-detect
  * di-utils
  * di-utils-mapdevfs
  * di-utils-reboot
