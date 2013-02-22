@@ -133,6 +133,7 @@ Other:
  * openstack-dashboard
  * python-django-openstack
  * python-requests
+ * python-oslo-config
  * openvswitch
  * python-cinder
  * cinder-volume
