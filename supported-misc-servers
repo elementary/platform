@@ -92,6 +92,7 @@ Storage:
  * ceph
  * radosgw
  * python-ceph
+ * clvm
 
 Other:
 
