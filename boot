@@ -29,6 +29,7 @@ restricted modules.
 
 == armel / armhf ==
 
+ * ${Kernel-Stem}-generic [armhf]         # multiplatform kernel, will eventually replace others
  * ${Kernel-Stem}-dove [armel]
  * ${Kernel-Stem}-omap [armel armhf]
  * ${Kernel-Stem}-omap4 [armel armhf]
