@@ -25,6 +25,7 @@
  * nvidia-settings-updates
  * /^nvidia-[0-9]+-dev/
  * /^nvidia-[0-9]+-updates-dev/
+ * /^nvidia-experimental-[0-9]+/
  * /^nvidia-experimental-[0-9]+-dev/
  * /^nvidia-settings-experimental-[0-9]+/
  * pvr-omap4-dev
