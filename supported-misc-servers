@@ -155,6 +155,9 @@ Other:
  * quantum-plugin-linuxbridge-agent
  * quantum-plugin-ryu
  * quantum-plugin-ryu-agent
+ * cinder-backup
+ * quantum-lbaas-agent
+ * quantum-plugin-midonet
 
 Cloud:
 
