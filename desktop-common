@@ -39,7 +39,6 @@ These tools are very commonly used by people who drop into a console shell to do
  * genisoimage
  * zip
  * unzip                # also used for .zip support in file-roller
- * libpam-ck-connector  # get ConsoleKit sessions for VTs
 
 = Network Services =
 
@@ -111,4 +110,4 @@ Fonts:
  * (kerneloops-daemon) # watch for and allow reporting of kernel problems
  * (policykit-desktop-privileges) # passwordless disk/CPU speed/time operations for admins
  * ubuntu-extras-keyring # archive signing key for extras.ubuntu.com
- * libpam-xdg-support # cross desktop compatibility
+ * libpam-systemd # logind, cross desktop compatibility
