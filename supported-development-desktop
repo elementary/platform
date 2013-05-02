@@ -46,6 +46,8 @@ Allow building live CDs for older releases too.
 
  * syslinux-themes-ubuntu-oneiric
  * syslinux-themes-ubuntu-precise
+ * syslinux-themes-ubuntu-quantal
+ * syslinux-themes-ubuntu-raring
 
 = Libraries =
 
