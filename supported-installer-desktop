@@ -8,11 +8,6 @@
  * jasper # used instead of casper for preinstalled armel images
  * ti-omap4-ppa # split out from jasper into its own package
 
-These will typically be included in installable live CD seeds:
-
- * ubiquity-frontend-gtk
- * ubiquity-ubuntu-artwork
-
 = LTSP =
 
  * ltsp-server
