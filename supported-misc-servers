@@ -136,6 +136,7 @@ Other:
  * python-django-openstack
  * python-requests
  * python-oslo-config
+ * python-oslo.sphinx
  * openvswitch
  * python-cinder
  * cinder-volume
