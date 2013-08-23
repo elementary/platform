@@ -77,7 +77,7 @@ Monitoring:
  * nagios-plugins-basic
  * nagios-plugins-standard
  * nagios-nrpe-server #ChuckShort - server lucid-canonical-application-support
- * nagios-nrpe-plugins #ChuckShort - server lucid-canonical-applicaton-support
+ * nagios-nrpe-plugin #ChuckShort - server lucid-canonical-application-support
 
 Backup:
 
