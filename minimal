@@ -51,7 +51,7 @@ Programs and packages necessary for both the proper functionality of the system 
 These provide various networking services, all should be configured in a client-only state with the server de-activated unless the user requires it.
 
  * isc-dhcp-client   # LaMontJones
- * iproute
+ * iproute2
  * ifupdown
  * net-tools
  * ntpdate        # FabioMassimoDiNitto
