@@ -28,7 +28,7 @@
  * ant1.8-optional	# Java development, drop it if ant is updated to 1.8
  * ant1.8-doc
  * texinfo-doc-nonfree  # GFDL'd documentation for texinfo
- * gcj-4.7-jdk		
+ * gcj-4.8-jdk		
  * diveintopython
  * diveintopython-zh
  * make-doc
