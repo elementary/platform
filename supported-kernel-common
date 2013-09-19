@@ -9,6 +9,9 @@
  * linux-doc
  * linux-source
  * linux-tools
+ * linux-tools-generic
+ * linux-tools-virtual
+ * linux-tools-generic-lpae
  * /^linux-image-debug.*(?<!-rt)$/
  * kexec-tools
 
