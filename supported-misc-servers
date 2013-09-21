@@ -159,6 +159,7 @@ Other:
  * quantum-l3-agent			# needed until 14.04
  * neutron-dhcp-agent
  * quantum-dhcp-agent			# needed until 14.04
+ * quantum-metadata-agent		# needed until 14.04
  * python-neutron
  * python-quantum			# needed until 14.04
  * neutron-plugin-openvswitch
