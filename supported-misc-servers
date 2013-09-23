@@ -133,6 +133,12 @@ Other:
  * python-keystoneclient
  * python-cinderclient
  * python-swiftclient
+ * python-ceilometer
+ * ceilometer-common
+ * ceilometer-collector
+ * ceilometer-api
+ * ceilometer-agent-compute
+ * ceilometer-agent-central
  * openstack-dashboard
  * python-django-openstack
  * python-requests
