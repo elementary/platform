@@ -32,7 +32,6 @@
  * diveintopython
  * diveintopython-zh
  * make-doc
- * !libc++-dev          # Avoid pulling in libc++-dev to resolve libstdc++-dev
 
 == Revision Control ==
 
