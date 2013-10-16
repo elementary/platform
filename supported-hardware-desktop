@@ -23,10 +23,14 @@
  * nvidia-current-updates
  * nvidia-current-updates-dev
  * nvidia-settings-updates
+ * /^nvidia-[0-9]+/
+ * /^nvidia-[0-9]+-updates/
  * /^nvidia-[0-9]+-dev/
  * /^nvidia-[0-9]+-updates-dev/
  * /^nvidia-experimental-[0-9]+/
  * /^nvidia-experimental-[0-9]+-dev/
  * /^nvidia-settings-experimental-[0-9]+/
+ * /^nvidia-settings-[0-9]+-updates/
+ * /^nvidia-settings-[0-9]+/
  * pvr-omap4-dev
  * dri2-utils # from libdri2, pulled in from pvr-omap4
