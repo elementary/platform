@@ -186,6 +186,8 @@ Other:
  * neutron-plugin-midonet
  * quantum-plugin-midonet		# needed until 14.04
  * openssh-blacklist-extra
+ * lxc
+ * lxc-tests
 
 Cloud:
 
