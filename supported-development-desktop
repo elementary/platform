@@ -19,9 +19,6 @@
 
  * vim          # Needs to stay off server CDs because it pulls in Gnome
  * emacs
- * emacs23
- * emacs23-el
- * emacs23-nox
  * emacs24
  * emacs24-el
  * emacs24-nox

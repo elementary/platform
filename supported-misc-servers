@@ -77,7 +77,7 @@ Monitoring:
  * nagios-plugins-basic
  * nagios-plugins-standard
  * nagios-nrpe-server #ChuckShort - server lucid-canonical-application-support
- * nagios-nrpe-plugins #ChuckShort - server lucid-canonical-applicaton-support
+ * nagios-nrpe-plugin #ChuckShort - server lucid-canonical-application-support
 
 Backup:
 
@@ -124,7 +124,8 @@ Other:
  * swift-proxy
  * python-glance
  * python-glanceclient
- * python-quantumclient
+ * python-neutronclient
+ * python-quantumclient		# needed until 14.04
  * glance
  * keystone
  * python-keystone
@@ -132,6 +133,12 @@ Other:
  * python-keystoneclient
  * python-cinderclient
  * python-swiftclient
+ * python-ceilometer
+ * ceilometer-common
+ * ceilometer-collector
+ * ceilometer-api
+ * ceilometer-agent-compute
+ * ceilometer-agent-central
  * openstack-dashboard
  * python-django-openstack
  * python-requests
@@ -142,25 +149,45 @@ Other:
  * cinder-volume
  * cinder-api
  * cinder-scheduler
- * quantum-server
- * quantum-common
- * quantum-plugin-cisco
- * quantum-plugin-nec
- * quantum-plugin-metaplugin
- * quantum-plugin-nicira
- * quantum-l3-agent
- * quantum-dhcp-agent
- * python-quantum
- * quantum-plugin-openvswitch
- * quantum-plugin-openvswitch-agent
- * quantum-plugin-linuxbridge
- * quantum-plugin-linuxbridge-agent
- * quantum-plugin-ryu
- * quantum-plugin-ryu-agent
+ * neutron-server
+ * quantum-server			# needed until 14.04
+ * neutron-common
+ * quantum-common			# needed until 14.04
+ * neutron-plugin-cisco
+ * quantum-plugin-cisco			# needed until 14.04
+ * neutron-plugin-nec
+ * quantum-plugin-nec			# needed until 14.04
+ * neutron-plugin-metaplugin
+ * quantum-plugin-metaplugin		# needed until 14.04
+ * neutron-plugin-nicira
+ * quantum-plugin-nicira		# needed until 14.04
+ * neutron-l3-agent
+ * quantum-l3-agent			# needed until 14.04
+ * neutron-dhcp-agent
+ * quantum-dhcp-agent			# needed until 14.04
+ * quantum-metadata-agent		# needed until 14.04
+ * python-neutron
+ * python-quantum			# needed until 14.04
+ * neutron-plugin-openvswitch
+ * quantum-plugin-openvswitch		# needed until 14.04
+ * neutron-plugin-openvswitch-agent
+ * quantum-plugin-openvswitch-agent	# needed until 14.04
+ * neutron-plugin-linuxbridge
+ * quantum-plugin-linuxbridge		# needed until 14.04
+ * neutron-plugin-linuxbridge-agent
+ * quantum-plugin-linuxbridge-agent	# needed until 14.04
+ * neutron-plugin-ryu
+ * quantum-plugin-ryu			# needed until 14.04
+ * neutron-plugin-ryu-agent
+ * quantum-plugin-ryu-agent		# needed until 14.04
  * cinder-backup
- * quantum-lbaas-agent
- * quantum-plugin-midonet
+ * neutron-lbaas-agent
+ * quantum-lbaas-agent			# needed until 14.04
+ * neutron-plugin-midonet
+ * quantum-plugin-midonet		# needed until 14.04
  * openssh-blacklist-extra
+ * lxc
+ * lxc-tests
 
 Cloud:
 
