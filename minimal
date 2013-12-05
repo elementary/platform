@@ -35,7 +35,7 @@ Programs and packages necessary for both the proper functionality of the system 
  * initramfs-tools   # needed for the Ubuntu kernel
  * less
  * lsb-release
- * module-init-tools # required for kernel 2.6
+ * kmod
  * netbase
  * python3           # explicitly seeded, despite lsb-release also pulling it it
  * rsyslog
