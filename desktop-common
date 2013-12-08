@@ -63,6 +63,7 @@ Printing and printer configuration is a real weak spot in Debian, and in Linux i
  * (cups-bsd)                 # gives us lpc, lpq, lpr, lprm
  * (cups-client)              # gives us cancel, cupstestppd, lp, lpoptions, lppasswd, lpstat, cupsaddsmb, accept, lpadmin, lpinfo, lpmove
  * foomatic-db-compressed-ppds  # the foomatic printer driver database
+ * (cups-filters)
  * openprinting-ppds            # Most common drivers we want in desktop; less common are in o-p-extra
  * printer-driver-pnm2ppa       # several ppds require this
  * ghostscript-x
