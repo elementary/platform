@@ -23,6 +23,11 @@ restricted modules.
  * ${Kernel-Stem}-powerpc-smp [powerpc]   # powerpc kernel, 32-bit machines
  * ${Kernel-Stem}-powerpc64-smp [powerpc] # powerpc kernel, 64-bit machines
 
+== ppc64el ==
+
+ * grub-ieee1275 [ppc64el]
+ * ${Kernel-Stem}-generic [ppc64el]       # default install kernel for ppc64el
+
 == amd64 ==
 
  * ${Kernel-Stem}-generic [amd64]         # amd64 kernel, works on all machines though not optimised
