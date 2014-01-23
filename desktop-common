@@ -103,6 +103,10 @@ Fonts:
  * (fonts-sil-abyssinica)
  * (fonts-lklug-sinhala)
 
+= Debugging and Diagnostics =
+
+ * memtest86+
+
 = Other =
 
  * anacron # generally appropriate for desktops
