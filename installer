@@ -190,7 +190,7 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == armhf ==
 
- * Kernel-Version: 3.13.0-5-generic 3.5.0-233-omap4
+ * Kernel-Version: 3.13.0-5-generic
  * /^.*-firmware-.*-di/ [armhf]
  * /^.*-modules-.*-di/ [armhf]
 
