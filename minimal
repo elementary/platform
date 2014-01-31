@@ -18,7 +18,7 @@ Recommends are followed when processing this seed even though debootstrap doesn'
  * mac-fdisk [powerpc]
  * pmac-fdisk [powerpc]
  * powerpc-utils [powerpc ppc64el] # ColinWatson
- * powerpc-ibm-utils [powerpc ppc6el] # AdamConrad
+ * powerpc-ibm-utils [powerpc ppc64el] # AdamConrad
 
 == Comfortable Unix System ==
 
