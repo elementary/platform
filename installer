@@ -177,26 +177,26 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == amd64 ==
 
- * Kernel-Version: 3.13.0-5-generic
+ * Kernel-Version: 3.13.0-6-generic
  * /^.*-firmware-.*-di/ [amd64]
  * /^.*-modules-.*-di/ [amd64]
  * kernel-signed-image-${Kernel-Version}-di [amd64]
 
 == armel ==
 
- * Kernel-Version: 3.13.0-5-generic
+ * Kernel-Version: 3.13.0-6-generic
  * /^.*-firmware-.*-di/ [armel]
  * /^.*-modules-.*-di/ [armel]
 
 == armhf ==
 
- * Kernel-Version: 3.13.0-5-generic
+ * Kernel-Version: 3.13.0-6-generic
  * /^.*-firmware-.*-di/ [armhf]
  * /^.*-modules-.*-di/ [armhf]
 
 == i386 ==
 
- * Kernel-Version: 3.13.0-5-generic
+ * Kernel-Version: 3.13.0-6-generic
  * /^.*-firmware-.*-di/ [i386]
  * /^.*-modules-.*-di/ [i386]
 
@@ -208,6 +208,6 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == ppc64el ==
 
- * Kernel-Version: 3.13.0-5-generic
+ * Kernel-Version: 3.13.0-6-generic
  * /^.*-firmware-.*-di/ [ppc64el]
  * /^.*-modules-.*-di/ [ppc64el]
