@@ -1,6 +1,6 @@
 == Kernel ==
 
- * /^linux-(backports-modules-(headers|net|cw-3.3)-precise-|headers-)?(386|cell|dove|ec2|generic|linaro-omap|linaro-vexpress|omap|omap4|armadaxp|highbank|powerpc|powerpc-smp|powerpc64-smp|ps3|server|virtual).*/
+ * /^linux-(backports-modules-(headers|net|cw-3.3)-precise-|headers-)?(386|cell|dove|ec2|generic|linaro-omap|linaro-vexpress|omap|armadaxp|highbank|powerpc|powerpc-smp|powerpc64-smp|ps3|server|virtual).*/
  * /^linux-(image|headers)-versatile/
  * linux-image-extra-virtual
  * linux-image-generic-pae # Needed for smooth upgrades from 12.04 to 14.04
@@ -22,5 +22,4 @@
 
 Not quite sure where these should go, but let's at least make sure they're seeded for main.
 
- * linux-tools-omap4 [armhf]
  * linux-tools-armadaxp [armhf]

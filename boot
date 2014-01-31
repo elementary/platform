@@ -37,7 +37,6 @@ restricted modules.
  * ${Kernel-Stem}-generic [armhf]         # multiplatform kernel, will eventually replace others
  * ${Kernel-Stem}-dove [armel]
  * ${Kernel-Stem}-omap [armel armhf]
- * ${Kernel-Stem}-omap4 [armel armhf]
  * ${Kernel-Stem}-linaro-vexpress [armel]
  * ${Kernel-Stem}-linaro-omap [armel]
  * ${Kernel-Stem}-armadaxp [armhf]
