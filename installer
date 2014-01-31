@@ -139,8 +139,8 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
  * fdisk-udeb
  * gptsync-udeb [amd64 i386]
- * mac-fdisk-udeb [powerpc]
- * pmac-fdisk-udeb [powerpc]
+ * mac-fdisk-udeb [powerpc ppc64el]
+ * pmac-fdisk-udeb [powerpc ppc64el]
  * partman-efi [amd64 i386]
  * partman-newworld [powerpc]
  * partman-prep [powerpc ppc64el]
