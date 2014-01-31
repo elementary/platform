@@ -143,7 +143,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * pmac-fdisk-udeb [powerpc]
  * partman-efi [amd64 i386]
  * partman-newworld [powerpc]
- * partman-prep [powerpc]
+ * partman-prep [powerpc ppc64el]
  * partman-uboot [armel armhf]
 
 = Bootloader Installers =
@@ -151,7 +151,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * devio-udeb [armel]
  * elilo-installer [i386]
  * flash-kernel-installer [armel armhf]
- * grub-installer [amd64 i386]
+ * grub-installer [amd64 i386 ppc64el]
  * kboot-installer [powerpc]
  * yaboot-installer [powerpc]
 
@@ -205,3 +205,9 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
  * Kernel-Version: 3.11.0-3-powerpc-smp 3.11.0-3-powerpc64-smp 3.11.0-3-powerpc-e500 3.11.0-3-powerpc-e500mc
  * /^.*-firmware-.*-di/ [powerpc]
  * /^.*-modules-.*-di/ [powerpc]
+
+== ppc64el ==
+
+ * Kernel-Version: 3.13.0-5-generic
+ * /^.*-firmware-.*-di/ [ppc64el]
+ * /^.*-modules-.*-di/ [ppc64el]
