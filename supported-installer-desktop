@@ -6,7 +6,6 @@
  * live-build # new live CD build scripts
  * cdebconf # useful for testing, but not used by default yet
  * jasper # used instead of casper for preinstalled armel images
- * ti-omap4-ppa # split out from jasper into its own package
 
 = LTSP =
 

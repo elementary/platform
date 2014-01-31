@@ -32,5 +32,3 @@
  * /^nvidia-settings-experimental-[0-9]+/
  * /^nvidia-settings-[0-9]+-updates/
  * /^nvidia-settings-[0-9]+/
- * pvr-omap4-dev
- * dri2-utils # from libdri2, pulled in from pvr-omap4
