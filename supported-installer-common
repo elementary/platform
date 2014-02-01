@@ -24,9 +24,9 @@
 
 = Kernel udeb metapackages =
 
- * linux-udebs-generic [amd64 i386 armhf]
+ * linux-udebs-generic [amd64 i386 armhf arm64 ppc64el]
  * linux-udebs-generic-lpae [armhf]
- * linux-ppc-udebs-powerpc-e500 [powerpc]
- * linux-ppc-udebs-powerpc-e500mc [powerpc]
- * linux-ppc-udebs-powerpc-smp [powerpc]
- * linux-ppc-udebs-powerpc64-smp [powerpc]
+ * linux-udebs-powerpc-e500 [powerpc]
+ * linux-udebs-powerpc-e500mc [powerpc]
+ * linux-udebs-powerpc-smp [powerpc]
+ * linux-udebs-powerpc64-smp [powerpc]
