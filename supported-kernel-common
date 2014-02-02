@@ -3,8 +3,6 @@
  * /^linux-(backports-modules-(headers|net|cw-3.3)-precise-|headers-)?(386|cell|dove|ec2|generic|linaro-omap|linaro-vexpress|omap|armadaxp|highbank|powerpc|powerpc-smp|powerpc64-smp|ps3|server|virtual|lowlatency).*/
  * /^linux-(image|headers)-versatile/
  * linux-image-extra-virtual
- * linux-image-generic-pae # Needed for smooth upgrades from 12.04 to 14.04
- * linux-lowlatency-pae # Needed for smooth upgrades from 12.04 to 14.04
  * linux-crashdump
  * linux-doc
  * linux-source
@@ -19,6 +17,37 @@
  * linux-tools-powerpc64-emb
  * /^linux-image-debug.*(?<!-rt)$/
  * kexec-tools
+
+=== Smooth upgrades; remove after 14.04 ===
+
+ * linux-image-generic-pae
+ * linux-lowlatency-pae
+ * linux-image-lowlatency-pae
+ * linux-image-generic-lpae-lts-saucy
+ * linux-image-generic-lpae-lts-trusty
+ * linux-image-generic-lts-quantal
+ * linux-image-generic-lts-raring
+ * linux-image-generic-lts-saucy
+ * linux-image-generic-lts-trusty
+ * linux-signed-generic-lts-quantal
+ * linux-signed-generic-lts-quantal-eol-upgrade
+ * linux-signed-generic-lts-raring
+ * linux-signed-generic-lts-raring-eol-upgrade
+ * linux-signed-generic-lts-saucy
+ * linux-signed-generic-lts-saucy-eol-upgrade
+ * linux-signed-generic-lts-trusty
+ * linux-signed-image-generic-lts-quantal
+ * linux-signed-image-generic-lts-raring
+ * linux-signed-image-generic-lts-saucy
+ * linux-signed-image-generic-lts-trusty
+ * linux-tools-generic-lpae-lts-saucy
+ * linux-tools-generic-lpae-lts-trusty
+ * linux-tools-generic-lts-saucy
+ * linux-tools-generic-lts-trusty
+ * linux-tools-lts-quantal
+ * linux-tools-lts-raring
+ * linux-tools-lts-saucy
+ * linux-tools-lts-trusty
 
 === Extra flavours ===
 
