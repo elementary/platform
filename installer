@@ -2,6 +2,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
 = Common Packages =
 
+ * debian-installer-udebs # Depends on all the udebs that d-i pulls in
  * anna
  * apt-cdrom-setup
  * apt-mirror-setup
@@ -177,37 +178,28 @@ Make sure to leave the Kernel-Version: lines and separated architectures in here
 
 == amd64 ==
 
- * Kernel-Version: 3.13.0-6-generic
- * /^.*-firmware-.*-di/ [amd64]
- * /^.*-modules-.*-di/ [amd64]
- * kernel-signed-image-${Kernel-Version}-di [amd64]
+ * linux-udebs-generic [amd64]
 
 == armel ==
 
- * Kernel-Version: 3.13.0-6-generic
- * /^.*-firmware-.*-di/ [armel]
- * /^.*-modules-.*-di/ [armel]
+ * linux-udebs-generic [armel]
 
 == armhf ==
 
- * Kernel-Version: 3.13.0-6-generic
- * /^.*-firmware-.*-di/ [armhf]
- * /^.*-modules-.*-di/ [armhf]
+ * linux-udebs-generic [armhf]
+ * linux-udebs-generic-lpae [armhf]
 
 == i386 ==
 
- * Kernel-Version: 3.13.0-6-generic
- * /^.*-firmware-.*-di/ [i386]
- * /^.*-modules-.*-di/ [i386]
+ * linux-udebs-generic [i386]
 
 == powerpc ==
 
- * Kernel-Version: 3.13.0-6-powerpc-smp 3.13.0-6-powerpc64-smp 3.13.0-6-powerpc-e500 3.13.0-6-powerpc-e500mc
- * /^.*-firmware-.*-di/ [powerpc]
- * /^.*-modules-.*-di/ [powerpc]
+ * linux-udebs-powerpc-smp [powerpc]
+ * linux-udebs-powerpc64-smp [powerpc]
+ * linux-udebs-powerpc-e500 [powerpc]
+ * linux-udebs-powerpc-e500mc [powerpc]
 
 == ppc64el ==
 
- * Kernel-Version: 3.13.0-6-generic
- * /^.*-firmware-.*-di/ [ppc64el]
- * /^.*-modules-.*-di/ [ppc64el]
+ * linux-udebs-generic [ppc64el]
