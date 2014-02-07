@@ -171,8 +171,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
 = Kernel Modules =
 
-Make sure to leave the Kernel-Version: lines and separated architectures in here! germinate needs them.
-
  * nic-firmware
  * scsi-firmware
 
