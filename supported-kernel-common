@@ -10,6 +10,9 @@
  * linux-tools-virtual
  * linux-tools-generic-lpae
  * linux-tools-lowlatency
+ * linux-cloud-tools-generic
+ * linux-cloud-tools-virtual
+ * linux-cloud-tools-lowlatency
  * linux-tools-powerpc-smp
  * linux-tools-powerpc-e500
  * linux-tools-powerpc-e500mc
