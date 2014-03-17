@@ -20,6 +20,7 @@
  * linux-tools-powerpc64-emb
  * /^linux-image-debug.*(?<!-rt)$/
  * kexec-tools
+ * thermald
 
 === Smooth upgrades; remove after 14.04 ===
 
