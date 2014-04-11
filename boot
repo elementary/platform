@@ -42,6 +42,11 @@ restricted modules.
  * ${Kernel-Stem}-armadaxp [armhf]
  * ${Kernel-Stem}-highbank [armhf]
 
+== arm64 ==
+
+ * grub-efi-arm64 [arm64]
+ * ${Kernel-Stem}-generic [arm64]
+
 == Germinate workarounds ==
 
 Stop grub-common -> base-files -> awk from selecting mawk. (Since the boot seed doesn't inherit from required for arcane reasons, this is the only way we can make this work reliably ...)
