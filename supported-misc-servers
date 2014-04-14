@@ -190,6 +190,12 @@ Other:
  * quantum-lbaas-agent			# needed until 14.04
  * neutron-plugin-midonet
  * quantum-plugin-midonet		# needed until 14.04
+ * python-heat
+ * heat-common
+ * heat-engine
+ * heat-api
+ * heat-api-cfn
+ * heat-api-cloudwatch
  * openssh-blacklist-extra
  * lxc
  * lxc-tests
