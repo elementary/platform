@@ -19,8 +19,30 @@ Must also consider webmail and so on...
 
 VPN:
 
- * racoon # ipsec vpn
-
+ * strongswan # ipsec vpn - jpds/14.04 (LP: #1266066)
+ * strongswan-ike
+ * strongswan-plugin-dhcp
+ * strongswan-plugin-eap-md5
+ * strongswan-plugin-eap-mschapv2
+ * strongswan-plugin-eap-peap
+ * strongswan-plugin-eap-radius
+ * strongswan-plugin-eap-tls
+ * strongswan-plugin-eap-tnc
+ * strongswan-plugin-eap-ttls
+ * strongswan-plugin-gmp
+ * strongswan-plugin-ldap
+ * strongswan-plugin-mysql
+ * strongswan-plugin-openssl
+ * strongswan-plugin-pkcs11
+ * strongswan-plugin-radattr
+ * strongswan-plugin-sql
+ * strongswan-plugin-unbound
+ * strongswan-pt-tls-client
+ * strongswan-tnc-base
+ * strongswan-tnc-client
+ * strongswan-tnc-pdp
+ * strongswan-tnc-server
+ 
 Web applications:
 
  * zope3-sandbox
