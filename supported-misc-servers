@@ -12,7 +12,7 @@ Email:
  * exim4-daemon-heavy
  * exim4-daemon-light
  * exim4-doc-html
- * dovecot-postfix
+ * mail-stack-delivery
  * mailman
 
 Must also consider webmail and so on...
