@@ -16,8 +16,6 @@ gnome-libs
 #elinks
 # could be removed by getting rid of CHILL, which nothing uses
 gcc-2.95
-# tcl8.3 and tcl8.4 is more than enough, consider dropping tcl8.3 too
-tcl8.0
 # no one actually uses this anymore
 #zephyr
 # mdz, 2004-06-15: only pulled in by vim
