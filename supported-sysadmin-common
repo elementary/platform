@@ -8,7 +8,6 @@
  * cu                   # super-basic serial access
  * john                 # detects weak passwords, might be needed in desktop
  * libpam-cracklib      # enables weak password checking during password change, should it be in desktop?
- * chkrootkit           # forensic detection of rootkit
  * xinetd               # JamesTroup, from hoglet
  * mknbi                # for creating etherboot images for LTSP
 
