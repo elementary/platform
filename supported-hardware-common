@@ -3,6 +3,7 @@
  * powertop
  * ps3-kboot       # boot loader for Sony PlayStation 3
  * ethtool
+ * efivar          # Tools to manage UEFI variables
 
 == Filesystems ==
 
