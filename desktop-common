@@ -75,6 +75,7 @@ Printing and printer configuration is a real weak spot in Debian, and in Linux i
  * (printer-driver-c2esp)       # support for Kodak injket printers
  * (printer-driver-ptouch)      # support for Brother P-touch printers
  * (printer-driver-sag-gdi)     # support for Rico Aficio SPxxxx printers
+ * (printer-driver-brlaser)     # support for some Brother laser printers
 
 = GUI infrastructure =
 
