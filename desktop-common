@@ -103,6 +103,7 @@ Fonts:
  * (fonts-tibetan-machine)
  * (fonts-sil-abyssinica)
  * (fonts-lklug-sinhala)
+ * (ttf-ancient-fonts-symbola)
 
 = Debugging and Diagnostics =
 
