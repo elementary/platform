@@ -46,6 +46,8 @@ Allow building live CDs for older releases too.
  * syslinux-themes-ubuntu-quantal
  * syslinux-themes-ubuntu-raring
  * syslinux-themes-ubuntu-saucy
+ * syslinux-themes-ubuntu-trusty
+ * syslinux-themes-ubuntu-utopic
 
 = Libraries =
 
