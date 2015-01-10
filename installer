@@ -176,27 +176,27 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
 == amd64 ==
 
- * linux-udebs-generic-lts-utopic [amd64]
+ * linux-lts-utopic-udebs-generic [amd64]
 
 == armel ==
 
- * linux-udebs-generic-lts-utopic [armel]
+ * linux-lts-utopic-udebs-generic [armel]
 
 == armhf ==
 
- * linux-udebs-generic-lts-utopic [armhf]
- * linux-udebs-generic-lpae-lts-utopic [armhf]
+ * linux-lts-utopic-udebs-generic [armhf]
+ * linux-lts-utopic-udebs-generic-lpae [armhf]
 
 == i386 ==
 
- * linux-udebs-generic-lts-utopic [i386]
+ * linux-lts-utopic-udebs-generic [i386]
 
 == powerpc ==
 
- * linux-udebs-powerpc-smp-lts-utopic [powerpc]
- * linux-udebs-powerpc64-smp-lts-utopic [powerpc]
- * linux-udebs-powerpc-e500mc-lts-utopic [powerpc]
+ * linux-lts-utopic-udebs-powerpc-smp [powerpc]
+ * linux-lts-utopic-udebs-powerpc64-smp [powerpc]
+ * linux-lts-utopic-udebs-powerpc-e500mc [powerpc]
 
 == ppc64el ==
 
- * linux-udebs-generic-lts-utopic [ppc64el]
+ * linux-lts-utopic-udebs-generic [ppc64el]
