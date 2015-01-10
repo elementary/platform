@@ -3,6 +3,7 @@
  * /^linux-(backports-modules-(headers|net|cw-3.3)-precise-|headers-)?(386|cell|dove|ec2|generic|linaro-omap|linaro-vexpress|omap|armadaxp|highbank|powerpc|powerpc-smp|powerpc64-smp|ps3|server|virtual|lowlatency).*/
  * /^linux-(image|headers)-versatile/
  * linux-image-extra-virtual
+ * linux-generic-lts-utopic
  * linux-crashdump
  * linux-doc
  * linux-source
