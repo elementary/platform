@@ -12,15 +12,37 @@ Email:
  * exim4-daemon-heavy
  * exim4-daemon-light
  * exim4-doc-html
- * dovecot-postfix
+ * mail-stack-delivery
  * mailman
 
 Must also consider webmail and so on...
 
 VPN:
 
- * racoon # ipsec vpn
-
+ * strongswan # ipsec vpn - jpds/14.04 (LP: #1266066)
+ * strongswan-ike
+ * strongswan-plugin-dhcp
+ * strongswan-plugin-eap-md5
+ * strongswan-plugin-eap-mschapv2
+ * strongswan-plugin-eap-peap
+ * strongswan-plugin-eap-radius
+ * strongswan-plugin-eap-tls
+ * strongswan-plugin-eap-tnc
+ * strongswan-plugin-eap-ttls
+ * strongswan-plugin-gmp
+ * strongswan-plugin-ldap
+ * strongswan-plugin-mysql
+ * strongswan-plugin-openssl
+ * strongswan-plugin-pkcs11
+ * strongswan-plugin-radattr
+ * strongswan-plugin-sql
+ * strongswan-plugin-unbound
+ * strongswan-pt-tls-client
+ * strongswan-tnc-base
+ * strongswan-tnc-client
+ * strongswan-tnc-pdp
+ * strongswan-tnc-server
+ 
 Web applications:
 
  * zope3-sandbox
@@ -47,6 +69,11 @@ Utilities:
  * rrdtool
  * john
  * libmemcached-tools #ClintByrum - server-maverick-uds-web20-workloads
+ * nut # ChuckShort - ServerPackageReview
+ * nut-cgi
+ * nut-snmp
+ * powernap
+ * powernap-server
 
 Radius server:
 
@@ -185,6 +212,12 @@ Other:
  * quantum-lbaas-agent			# needed until 14.04
  * neutron-plugin-midonet
  * quantum-plugin-midonet		# needed until 14.04
+ * python-heat
+ * heat-common
+ * heat-engine
+ * heat-api
+ * heat-api-cfn
+ * heat-api-cloudwatch
  * openssh-blacklist-extra
  * lxc
  * lxc-tests
@@ -192,3 +225,8 @@ Other:
 Cloud:
 
  * walinuxagent # BenHoward - windows azure enablement
+ * euca2ools
+
+IPv6 tools:
+
+ * quagga                 # RobertCollins
