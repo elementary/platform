@@ -37,7 +37,7 @@ These are packages which have "Essential: yes" in their control file.
 
 Our init system:
 
- * upstart
+ * init
 
 In some sense, debconf isn't truly required, but it makes our life a lot easier to have it installed in the first pass.
 
