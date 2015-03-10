@@ -235,6 +235,7 @@ Other:
  * openssh-blacklist-extra
  * lxc
  * lxc-tests
+ * lua-lxc
 
 Cloud:
 
