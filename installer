@@ -52,9 +52,9 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * iso-3166-udeb
  * iso-scan # for USB boot
  * jfsutils-udeb
- * console-setup-udeb
- * console-setup-pc-ekmap
- * console-setup-fonts-udeb
+ * console-setup-linux-charmaps-udeb
+ * console-setup-linux-fonts-udeb
+ * console-setup-pc-ekbd
  * libdevmapper1.02-udeb
  * libfribidi0-udeb
  * libkmod2-udeb
