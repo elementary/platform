@@ -28,7 +28,6 @@ parameters. They should generally be made available on CDs.
 == Hardware & Network Access ==
 
  * mouseemu	# needed on Macs with single-button mice
- * biosdevname [amd64 i386]
 
 == Installer ==
 
