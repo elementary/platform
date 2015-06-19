@@ -2,7 +2,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
 = Common Packages =
 
- * debian-installer-udebs # Depends on all the udebs that d-i pulls in
  * anna
  * apt-cdrom-setup
  * apt-mirror-setup
