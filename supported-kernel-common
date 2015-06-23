@@ -4,7 +4,7 @@
  * /^linux-(image|headers)-versatile/
  * linux-image-extra-virtual
  * linux-generic
- * linux-generic-lts-utopic
+ * linux-generic-lts-vivid
  * linux-crashdump
  * linux-doc
  * linux-source
