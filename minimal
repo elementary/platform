@@ -15,8 +15,6 @@ Recommends are followed when processing this seed even though debootstrap doesn'
 
 == ppc32, ppc64 ==
 
- * mac-fdisk [powerpc ppc64el]
- * pmac-fdisk [powerpc ppc64el]
  * powerpc-utils [powerpc ppc64el] # ColinWatson
  * powerpc-ibm-utils [powerpc ppc64el] # AdamConrad
 
