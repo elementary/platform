@@ -15,26 +15,26 @@ restricted modules.
 
  * grub [amd64 i386]                      # lilo will be in supported
  * grub-pc [amd64 i386]
- * ${Kernel-Stem}-generic-lts-utopic [i386]          # our chosen default install kernel
+ * ${Kernel-Stem}-generic-lts-vivid [i386]          # our chosen default install kernel
 
 == powerpc ==
 
  * yaboot [powerpc]
- * ${Kernel-Stem}-powerpc-smp-lts-utopic [powerpc]   # powerpc kernel, 32-bit machines
- * ${Kernel-Stem}-powerpc64-smp-lts-utopic [powerpc] # powerpc kernel, 64-bit machines
+ * ${Kernel-Stem}-powerpc-smp-lts-vivid [powerpc]   # powerpc kernel, 32-bit machines
+ * ${Kernel-Stem}-powerpc64-smp-lts-vivid [powerpc] # powerpc kernel, 64-bit machines
 
 == ppc64el ==
 
  * grub-ieee1275 [ppc64el]
- * ${Kernel-Stem}-generic-lts-utopic [ppc64el]       # default install kernel for ppc64el
+ * ${Kernel-Stem}-generic-lts-vivid [ppc64el]       # default install kernel for ppc64el
 
 == amd64 ==
 
- * ${Kernel-Stem}-generic-lts-utopic [amd64]         # amd64 kernel, works on all machines though not optimised
+ * ${Kernel-Stem}-generic-lts-vivid [amd64]         # amd64 kernel, works on all machines though not optimised
 
 == armel / armhf ==
 
- * ${Kernel-Stem}-generic-lts-utopic [armhf]         # multiplatform kernel, will eventually replace others
+ * ${Kernel-Stem}-generic-lts-vivid [armhf]         # multiplatform kernel, will eventually replace others
  * ${Kernel-Stem}-dove [armel]
  * ${Kernel-Stem}-omap [armel armhf]
  * ${Kernel-Stem}-linaro-vexpress [armel]
@@ -45,7 +45,7 @@ restricted modules.
 == arm64 ==
 
  * grub-efi-arm64 [arm64]
- * ${Kernel-Stem}-generic-lts-utopic [arm64]
+ * ${Kernel-Stem}-generic-lts-vivid [arm64]
 
 == Germinate workarounds ==
 
