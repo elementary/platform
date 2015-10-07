@@ -244,6 +244,7 @@ Cloud:
  * hv-kvp-daemon-init
  * cloud-utils
  * joyent-mdata-client
+ * juju-core
 
 IPv6 tools:
 
