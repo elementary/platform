@@ -236,6 +236,9 @@ Other:
  * lxc
  * lxc-tests
  * lua-lxc
+ * lxd
+ * lxd-client
+ * lxd-tools
 
 Cloud:
 
