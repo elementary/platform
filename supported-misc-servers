@@ -248,6 +248,7 @@ Cloud:
  * cloud-utils
  * joyent-mdata-client
  * juju-core
+ * juju-local
 
 IPv6 tools:
 
