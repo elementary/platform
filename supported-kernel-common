@@ -18,6 +18,8 @@
  * linux-tools-powerpc-e500mc
  * linux-tools-powerpc64-smp
  * linux-tools-powerpc64-emb
+ * linux-signed-generic
+ * linux-signed-lowlatency
  * /^linux-image-debug.*(?<!-rt)$/
  * kexec-tools
  * thermald
