@@ -105,9 +105,6 @@ Proxy:
 
 Configuration Management:
 
- * puppet
- * puppetmaster
- * facter
  * etckeeper
 
 Monitoring:
