@@ -104,10 +104,6 @@ Fonts:
  * (fonts-lklug-sinhala)
  * (ttf-ancient-fonts-symbola)
 
-= Debugging and Diagnostics =
-
- * memtest86+
-
 = Other =
 
  * anacron # generally appropriate for desktops
