@@ -157,10 +157,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
  * network-console
 
-= Thin client computing =
-
- * ltsp-client-builder
-
 = Specialised hardware =
 
  * beep-udeb [armel]
