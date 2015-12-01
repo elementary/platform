@@ -150,6 +150,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * elilo-installer [i386]
  * flash-kernel-installer [armel armhf]
  * grub-installer [amd64 i386 ppc64el]
+ * zipl-installer [s390x]
  * kboot-installer [powerpc]
  * yaboot-installer [powerpc]
 
