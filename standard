@@ -78,7 +78,6 @@ These are used for debugging problems or examining the system.
  
  * (friendly-recovery)    # give a nice menu in recovery mode
  * (command-not-found)
- * (update-manager-core)  # needed for server based release upgrades
  * (apparmor) # load AppArmor policies
  * (plymouth) # splash screen, and boot-time questions
 
