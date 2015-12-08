@@ -143,6 +143,9 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * partman-newworld [powerpc]
  * partman-prep [powerpc ppc64el]
  * partman-uboot [armel armhf]
+ * sysconfig-hardware [s390x]
+ * s390-dasd [s390x]
+ * s390-netdevice [s390x]
 
 = Bootloader Installers =
 
