@@ -44,6 +44,7 @@ restricted modules.
 == s380x ==
 
  * ${Kernel-Stem}-generic [s390x]
+ * s390-tools [s390x]
 
 == Germinate workarounds ==
 
