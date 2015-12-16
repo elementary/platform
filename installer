@@ -198,3 +198,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 == ppc64el ==
 
  * linux-udebs-generic [ppc64el]
+
+== s390x ==
+
+ * linux-udebs-generic [s390x]
