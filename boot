@@ -45,6 +45,7 @@ restricted modules.
 
  * ${Kernel-Stem}-generic [s390x]
  * s390-tools [s390x]
+ * sysconfig-hardware [s390x]
 
 == Germinate workarounds ==
 
