@@ -41,6 +41,12 @@ restricted modules.
  * grub-efi-arm64 [arm64]
  * ${Kernel-Stem}-generic [arm64]
 
+== s380x ==
+
+ * ${Kernel-Stem}-generic [s390x]
+ * s390-tools [s390x]
+ * sysconfig-hardware [s390x]
+
 == Germinate workarounds ==
 
 Stop grub-common -> base-files -> awk from selecting mawk. (Since the boot seed doesn't inherit from required for arcane reasons, this is the only way we can make this work reliably ...)

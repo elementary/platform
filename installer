@@ -143,6 +143,9 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * partman-newworld [powerpc]
  * partman-prep [powerpc ppc64el]
  * partman-uboot [armel armhf]
+ * sysconfig-hardware [s390x]
+ * s390-dasd [s390x]
+ * s390-netdevice [s390x]
 
 = Bootloader Installers =
 
@@ -150,6 +153,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * elilo-installer [i386]
  * flash-kernel-installer [armel armhf]
  * grub-installer [amd64 i386 ppc64el]
+ * zipl-installer [s390x]
  * kboot-installer [powerpc]
  * yaboot-installer [powerpc]
 
@@ -194,3 +198,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 == ppc64el ==
 
  * linux-udebs-generic [ppc64el]
+
+== s390x ==
+
+ * linux-udebs-generic [s390x]
