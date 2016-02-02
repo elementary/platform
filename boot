@@ -41,7 +41,7 @@ restricted modules.
  * grub-efi-arm64 [arm64]
  * ${Kernel-Stem}-generic [arm64]
 
-== s380x ==
+== s390x ==
 
  * ${Kernel-Stem}-generic [s390x]
  * s390-tools [s390x]
