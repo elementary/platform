@@ -35,8 +35,8 @@ And some useful Emacs-related tools:
 
 == Development Tools ==
 
- * openjdk-7-demo
- * openjdk-7-source
+ * openjdk-8-demo
+ * openjdk-8-source
  * ubuntu-defaults-builder
 
 Allow building live CDs for older releases too.
