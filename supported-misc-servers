@@ -95,8 +95,6 @@ Authentication:
 
 Backup:
 
- * bacula-director-sqlite3
- * bacula-sd-sqlite3
  * mtx
 
 Proxy:
@@ -118,14 +116,6 @@ Monitoring:
  * nagios-plugins-standard # transitional package: remove in Xenial+1
  * nagios-nrpe-server #ChuckShort - server lucid-canonical-application-support
  * nagios-nrpe-plugin #ChuckShort - server lucid-canonical-application-support
-
-Backup:
-
- * bacula
- * bacula-director-mysql
- * bacula-director-pgsql
- * bacula-sd-mysql
- * bacula-sd-pgsql
 
 Storage:
   
