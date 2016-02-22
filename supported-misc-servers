@@ -224,6 +224,8 @@ Other:
  * lxc
  * lxc-tests
  * lua-lxc
+ * python3-lxc
+ * lxc2
  * lxd
  * lxd-client
  * lxd-tools
