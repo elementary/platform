@@ -146,6 +146,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * sysconfig-hardware [s390x]
  * s390-dasd [s390x]
  * s390-netdevice [s390x]
+ * s390-zfcp [s390x]
 
 = Bootloader Installers =
 
