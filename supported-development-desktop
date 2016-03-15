@@ -54,7 +54,6 @@ Allow building live CDs for older releases too.
 
 = Libraries =
 
- * tk8.5-dev
  * libgl1-mesa-swx11-i686
  * libchart-perl
  * libgd-graph-perl
@@ -71,7 +70,6 @@ Allow building live CDs for older releases too.
 
  * python3-doc
  * idle3
- * idle-python3.4
  * idle-python3.5
  * python3-all-dev
  * python3-all-dbg
@@ -80,5 +78,4 @@ Allow building live CDs for older releases too.
  * python3-bsddb3-dbg
  * python-bsddb3-doc
  * python3-gi-cairo
- * libpython3.4-testsuite
  * libpython3.5-testsuite
