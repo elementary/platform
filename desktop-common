@@ -108,6 +108,11 @@ Fonts:
 
  * memtest86+
 
+= Firmware updating support =
+
+ * (fwupdate)
+ * (fwupdate-amd64-signed) [amd64] 
+
 = Other =
 
  * anacron # generally appropriate for desktops
