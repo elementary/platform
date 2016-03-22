@@ -118,7 +118,7 @@ Monitoring:
  * nagios-nrpe-plugin #ChuckShort - server lucid-canonical-application-support
 
 Storage:
-  
+
  * ceph
  * radosgw
  * python-ceph
@@ -129,7 +129,21 @@ Other:
  * samba-doc-pdf
  * ibmasm-utils
  * rabbitmq-server
- * nova-doc
+ * euca2tools
+ * unzip
+ * openvswitch
+ * openssh-blacklist-extra
+ * lxc
+ * lxc-tests
+ * lua-lxc
+ * python3-lxc
+ * lxc2
+ * lxd
+ * lxd-client
+ * lxd-tools
+
+OpenStack:
+
  * nova-api
  * nova-network
  * nova-objectstore
@@ -142,64 +156,47 @@ Other:
  * nova-vncproxy
  * nova-cert
  * nova-scheduler # James Page LP: #1180084
- * euca2tools
- * unzip
- * python-nova
- * nova-common
- * python-swift
+
  * swift-account
  * swift-container
  * swift-doc
  * swift-object
  * swift-proxy
- * python-glance
- * python-glanceclient
- * python-neutronclient
+
  * glance
+
  * keystone
- * python-keystone
- * keystone-doc
+
  * python-keystoneclient
  * python-cinderclient
  * python-swiftclient
- * python-ceilometer
- * ceilometer-common
+ * python-glanceclient
+ * python-neutronclient
+
  * ceilometer-collector
  * ceilometer-api
  * ceilometer-agent-compute
  * ceilometer-agent-central
+
  * openstack-dashboard
- * python-django-openstack
- * python-requests
- * python-oslo-config
- * python-oslo.sphinx
- * openvswitch
- * python-cinder
+
  * cinder-volume
  * cinder-api
  * cinder-scheduler
+ * cinder-backup
+
  * neutron-server
  * neutron-l3-agent
  * neutron-dhcp-agent
  * neutron-openvswitch-agent
  * neutron-linuxbridge-agent
  * neutron-lbaas-agent
- * cinder-backup
- * python-heat
- * heat-common
+ * neutron-metadata-agent
+
  * heat-engine
  * heat-api
  * heat-api-cfn
  * heat-api-cloudwatch
- * openssh-blacklist-extra
- * lxc
- * lxc-tests
- * lua-lxc
- * python3-lxc
- * lxc2
- * lxd
- * lxd-client
- * lxd-tools
 
 Cloud:
 
