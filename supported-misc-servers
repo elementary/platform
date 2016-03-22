@@ -179,23 +179,12 @@ Other:
  * cinder-api
  * cinder-scheduler
  * neutron-server
- * neutron-common
- * neutron-plugin-cisco
- * neutron-plugin-nec
- * neutron-plugin-metaplugin
- * neutron-plugin-nicira
  * neutron-l3-agent
  * neutron-dhcp-agent
- * python-neutron
- * neutron-plugin-openvswitch
- * neutron-plugin-openvswitch-agent
- * neutron-plugin-linuxbridge
- * neutron-plugin-linuxbridge-agent
- * neutron-plugin-ryu
- * neutron-plugin-ryu-agent
- * cinder-backup
+ * neutron-openvswitch-agent
+ * neutron-linuxbridge-agent
  * neutron-lbaas-agent
- * neutron-plugin-midonet
+ * cinder-backup
  * python-heat
  * heat-common
  * heat-engine
