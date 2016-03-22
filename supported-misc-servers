@@ -155,7 +155,6 @@ Other:
  * python-glance
  * python-glanceclient
  * python-neutronclient
- * python-quantumclient		# needed until 14.04
  * glance
  * keystone
  * python-keystone
@@ -180,41 +179,23 @@ Other:
  * cinder-api
  * cinder-scheduler
  * neutron-server
- * quantum-server			# needed until 14.04
  * neutron-common
- * quantum-common			# needed until 14.04
  * neutron-plugin-cisco
- * quantum-plugin-cisco			# needed until 14.04
  * neutron-plugin-nec
- * quantum-plugin-nec			# needed until 14.04
  * neutron-plugin-metaplugin
- * quantum-plugin-metaplugin		# needed until 14.04
  * neutron-plugin-nicira
- * quantum-plugin-nicira		# needed until 14.04
  * neutron-l3-agent
- * quantum-l3-agent			# needed until 14.04
  * neutron-dhcp-agent
- * quantum-dhcp-agent			# needed until 14.04
- * quantum-metadata-agent		# needed until 14.04
  * python-neutron
- * python-quantum			# needed until 14.04
  * neutron-plugin-openvswitch
- * quantum-plugin-openvswitch		# needed until 14.04
  * neutron-plugin-openvswitch-agent
- * quantum-plugin-openvswitch-agent	# needed until 14.04
  * neutron-plugin-linuxbridge
- * quantum-plugin-linuxbridge		# needed until 14.04
  * neutron-plugin-linuxbridge-agent
- * quantum-plugin-linuxbridge-agent	# needed until 14.04
  * neutron-plugin-ryu
- * quantum-plugin-ryu			# needed until 14.04
  * neutron-plugin-ryu-agent
- * quantum-plugin-ryu-agent		# needed until 14.04
  * cinder-backup
  * neutron-lbaas-agent
- * quantum-lbaas-agent			# needed until 14.04
  * neutron-plugin-midonet
- * quantum-plugin-midonet		# needed until 14.04
  * python-heat
  * heat-common
  * heat-engine
