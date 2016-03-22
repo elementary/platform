@@ -141,6 +141,7 @@ Other:
  * nova-vncproxy
  * nova-cert
  * nova-scheduler # James Page LP: #1180084
+ * nova-lxd # James Page LP: #1540597
  * euca2tools
  * unzip
  * python-nova
