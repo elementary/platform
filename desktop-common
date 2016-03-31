@@ -109,6 +109,7 @@ Fonts:
 
 = Firmware updating support =
 
+ * (fwupd)
  * (fwupdate)
 
 = Other =
