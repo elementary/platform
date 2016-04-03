@@ -117,4 +117,3 @@ Fonts:
  * anacron # generally appropriate for desktops
  * (kerneloops-daemon) # watch for and allow reporting of kernel problems
  * (policykit-desktop-privileges) # passwordless disk/CPU speed/time operations for admins
- * libpam-systemd # logind, cross desktop compatibility
