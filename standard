@@ -12,6 +12,7 @@ Task-Test-new-install: install skip
 # in "required" we have init, to have systemd (most Ubuntu products) or upstart
 # (Ubuntu Touch). Select systemd by default.
  * systemd-sysv
+ * libpam-systemd               # proper logind sessions, LP: #1561658
 
 == Comfortable Unix System ==
 
