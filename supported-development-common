@@ -24,11 +24,11 @@
  * libc6-prof [amd64 i386 powerpc sparc]
  * libc6.1-prof [ia64]
  * gfortran-multilib
- * libstdc++-4.9-pic
+ * libstdc++-5-pic
  * ant1.8-optional	# Java development, drop it if ant is updated to 1.8
  * ant1.8-doc
  * texinfo-doc-nonfree  # GFDL'd documentation for texinfo
- * gcj-4.9-jdk		
+ * gcj-5-jdk		
  * diveintopython
  * diveintopython-zh
  * make-doc
