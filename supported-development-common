@@ -2,7 +2,6 @@
 
 == Development Tools ==
 
- * binutils-gold
  * bison
  * bison-doc
  * debconf-english   # for minimal buildd chroots, without i18n cruft
