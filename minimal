@@ -17,11 +17,6 @@ Recommends are followed when processing this seed even though debootstrap doesn'
 
  * powerpc-utils [powerpc ppc64el] # ColinWatson
 
-== s390x ==
-
- * sysconfig-hardware [s390x] # DimitriJohnLedkov
- * s390-tools [s390x] # DimitriJohnLedkov
-
 == Comfortable Unix System ==
 
 Programs and packages necessary for both the proper functionality of the system and that any user would expect to find on a modern Unix-like system.
