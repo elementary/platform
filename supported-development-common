@@ -72,7 +72,6 @@
  * libdbd-mysql
  * libdbd-pgsql
  * libdbd-freetds
- * python-launchpadlib
  * python3-launchpadlib
 
 = Misc =
