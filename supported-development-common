@@ -32,6 +32,7 @@
  * diveintopython-zh
  * make-doc
  * cmake
+ * device-tree-compiler
 
 == Revision Control ==
 
@@ -53,6 +54,9 @@
  * hello
  * hello-debhelper
  * dselect            # old-school package management
+ * dh-autoreconf
+ * dh-exec
+ * dh-di
 
 == Seed Management ==
 
