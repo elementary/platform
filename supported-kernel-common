@@ -129,3 +129,6 @@
 Not quite sure where these should go, but let's at least make sure they're seeded for main.
 
  * linux-tools-armadaxp [armhf]
+
+=== Build-dependencies supported by the team ===
+ * kernel-wedge
