@@ -59,6 +59,7 @@
  * dh-autoreconf
  * dh-exec
  * dh-di
+ * dh-golang
 
 == Seed Management ==
 
