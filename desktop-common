@@ -107,6 +107,9 @@ Fonts:
 
  * memtest86+
 
+New method of installing and updating software
+ * (snapd)
+
 = Firmware updating support =
 
  * (fwupd)
