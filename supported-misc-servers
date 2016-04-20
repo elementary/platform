@@ -179,6 +179,12 @@ OpenStack:
  * ceilometer-agent-compute
  * ceilometer-agent-central
 
+ * aodh-api
+ * aodh-evaluator
+ * aodh-expirer
+ * aodh-listener
+ * aodh-notifier
+
  * openstack-dashboard
 
  * cinder-volume
@@ -193,6 +199,7 @@ OpenStack:
  * neutron-linuxbridge-agent
  * neutron-lbaas-agent
  * neutron-metadata-agent
+ * neutron-vpn-agent
 
  * heat-engine
  * heat-api
