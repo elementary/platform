@@ -57,8 +57,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * libdevmapper1.02-udeb
  * libfribidi0-udeb
  * libkmod2-udeb
- * libnss-dns-udeb
- * libnss-files-udeb
  * load-cdrom
  * load-iso # for USB boot
  * localechooser # replaces languagechooser and countrychooser
