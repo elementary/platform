@@ -193,7 +193,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
  * linux-udebs-powerpc-smp [powerpc]
  * linux-udebs-powerpc64-smp [powerpc]
- * linux-udebs-powerpc-e500 [powerpc]
  * linux-udebs-powerpc-e500mc [powerpc]
 
 == ppc64el ==
