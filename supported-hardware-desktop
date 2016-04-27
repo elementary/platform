@@ -9,7 +9,6 @@
 
 == Filesystems ==
 
- * cloop-utils # for LiveCD
  * hfsplus
 
 == Cluster ==
