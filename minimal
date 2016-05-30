@@ -60,5 +60,6 @@ These provide various networking services, all should be configured in a client-
 
 = Meta =
 
+ * init               # ensure we have an init system (but minimal chroots)
  * ubuntu-minimal     # Ubuntu-specific bits we want on every Ubuntu system
 
