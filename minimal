@@ -38,6 +38,7 @@ Programs and packages necessary for both the proper functionality of the system 
  * python3           # explicitly seeded, despite lsb-release also pulling it it
  * rsyslog
  * sudo              # LaMontJones
+ * sysvinit-utils    # until "pidof" moves into procps, Debian #810018
  * ubuntu-keyring     # for authenticated package downloads
  * udev
  * ureadahead        # get things into cache as quickly as possible during boot
