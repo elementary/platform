@@ -51,4 +51,5 @@ Other packages necessary to get started:
  * mawk
  * passwd
  * procps
+ * sysvinit-utils     # until "pidof" moves into procps, Debian #810018
  * tzdata
