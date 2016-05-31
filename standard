@@ -79,6 +79,7 @@ These are used for debugging problems or examining the system.
  * (apparmor) # load AppArmor policies
  * (plymouth) # splash screen, and boot-time questions
  * (plymouth-theme-ubuntu-text)
+ * (ureadahead)           # get things into cache as quickly as possible during boot
 
 == Network ==
 
