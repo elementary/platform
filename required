@@ -32,6 +32,7 @@ These are packages which have "Essential: yes" in their control file.
  * ncurses-bin
  * perl-base
  * sed
+ * sysv-rc        # support packages with only SysV init scripts and no systemd unit
  * tar            # LaMontJones
  * util-linux     # LaMontJones
 
