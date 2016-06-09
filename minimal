@@ -16,7 +16,6 @@ Recommends are followed when processing this seed even though debootstrap doesn'
 == ppc32, ppc64 ==
 
  * powerpc-utils [powerpc ppc64el] # ColinWatson
- * powerpc-ibm-utils [powerpc ppc64el] # AdamConrad
 
 == Comfortable Unix System ==
 

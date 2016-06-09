@@ -13,7 +13,6 @@ restricted modules.
 
 == i386 ==
 
- * grub [amd64 i386]                      # lilo will be in supported
  * grub-pc [amd64 i386]
  * ${Kernel-Stem}-generic [i386]          # our chosen default install kernel
 
@@ -41,7 +40,7 @@ restricted modules.
  * grub-efi-arm64 [arm64]
  * ${Kernel-Stem}-generic [arm64]
 
-== s380x ==
+== s390x ==
 
  * ${Kernel-Stem}-generic [s390x]
  * s390-tools [s390x]

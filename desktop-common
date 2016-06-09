@@ -93,7 +93,6 @@ Fonts:
  * (fonts-kacst-one)
  * (fonts-takao-pgothic)
  * (fonts-khmeros-core)
- * (ttf-indic-fonts-core)
  * (fonts-guru)
  * (fonts-thai-tlwg)
  * (fonts-lao)
@@ -104,9 +103,9 @@ Fonts:
  * (fonts-lklug-sinhala)
  * (ttf-ancient-fonts-symbola)
 
+=======
 = Other =
 
  * anacron # generally appropriate for desktops
  * (kerneloops-daemon) # watch for and allow reporting of kernel problems
  * (policykit-desktop-privileges) # passwordless disk/CPU speed/time operations for admins
- * libpam-systemd # logind, cross desktop compatibility

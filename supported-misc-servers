@@ -95,8 +95,6 @@ Authentication:
 
 Backup:
 
- * bacula-director-sqlite3
- * bacula-sd-sqlite3
  * mtx
 
 Proxy:
@@ -119,16 +117,8 @@ Monitoring:
  * nagios-nrpe-server #ChuckShort - server lucid-canonical-application-support
  * nagios-nrpe-plugin #ChuckShort - server lucid-canonical-application-support
 
-Backup:
-
- * bacula
- * bacula-director-mysql
- * bacula-director-pgsql
- * bacula-sd-mysql
- * bacula-sd-pgsql
-
 Storage:
-  
+
  * ceph
  * radosgw
  * python-ceph
@@ -139,7 +129,22 @@ Other:
  * samba-doc-pdf
  * ibmasm-utils
  * rabbitmq-server
- * nova-doc
+ * euca2tools
+ * unzip
+ * openvswitch
+ * openvswitch-switch-dpdk
+ * openssh-blacklist-extra
+ * lxc
+ * lxc-tests
+ * lua-lxc
+ * python3-lxc
+ * lxc2
+ * lxd
+ * lxd-client
+ * lxd-tools
+
+OpenStack:
+
  * nova-api
  * nova-network
  * nova-objectstore
@@ -148,95 +153,52 @@ Other:
  * nova-compute
  * nova-compute-kvm
  * nova-compute-lxc
+ * nova-compute-lxd # James Page LP: #1540597
  * nova-vncproxy
  * nova-cert
  * nova-scheduler # James Page LP: #1180084
- * euca2tools
- * unzip
- * python-nova
- * nova-common
- * python-swift
+
  * swift-account
  * swift-container
  * swift-doc
  * swift-object
  * swift-proxy
- * python-glance
- * python-glanceclient
- * python-neutronclient
- * python-quantumclient		# needed until 14.04
+
  * glance
+
  * keystone
- * python-keystone
- * keystone-doc
+
  * python-keystoneclient
  * python-cinderclient
  * python-swiftclient
- * python-ceilometer
- * ceilometer-common
+ * python-glanceclient
+ * python-neutronclient
+
  * ceilometer-collector
  * ceilometer-api
  * ceilometer-agent-compute
  * ceilometer-agent-central
+
  * openstack-dashboard
- * python-django-openstack
- * python-requests
- * python-oslo-config
- * python-oslo.sphinx
- * openvswitch
- * python-cinder
+
  * cinder-volume
  * cinder-api
  * cinder-scheduler
- * neutron-server
- * quantum-server			# needed until 14.04
- * neutron-common
- * quantum-common			# needed until 14.04
- * neutron-plugin-cisco
- * quantum-plugin-cisco			# needed until 14.04
- * neutron-plugin-nec
- * quantum-plugin-nec			# needed until 14.04
- * neutron-plugin-metaplugin
- * quantum-plugin-metaplugin		# needed until 14.04
- * neutron-plugin-nicira
- * quantum-plugin-nicira		# needed until 14.04
- * neutron-l3-agent
- * quantum-l3-agent			# needed until 14.04
- * neutron-dhcp-agent
- * quantum-dhcp-agent			# needed until 14.04
- * quantum-metadata-agent		# needed until 14.04
- * python-neutron
- * python-quantum			# needed until 14.04
- * neutron-plugin-openvswitch
- * quantum-plugin-openvswitch		# needed until 14.04
- * neutron-plugin-openvswitch-agent
- * quantum-plugin-openvswitch-agent	# needed until 14.04
- * neutron-plugin-linuxbridge
- * quantum-plugin-linuxbridge		# needed until 14.04
- * neutron-plugin-linuxbridge-agent
- * quantum-plugin-linuxbridge-agent	# needed until 14.04
- * neutron-plugin-ryu
- * quantum-plugin-ryu			# needed until 14.04
- * neutron-plugin-ryu-agent
- * quantum-plugin-ryu-agent		# needed until 14.04
  * cinder-backup
+
+ * neutron-server
+ * neutron-l3-agent
+ * neutron-dhcp-agent
+ * neutron-openvswitch-agent
+ * neutron-linuxbridge-agent
  * neutron-lbaas-agent
- * quantum-lbaas-agent			# needed until 14.04
- * neutron-plugin-midonet
- * quantum-plugin-midonet		# needed until 14.04
- * python-heat
- * heat-common
+ * neutron-metadata-agent
+ * neutron-vpn-agent
+
  * heat-engine
  * heat-api
  * heat-api-cfn
  * heat-api-cloudwatch
- * openssh-blacklist-extra
- * lxc
- * lxc-tests
- * lua-lxc
- * lxd
- * lxd-client
- * lxd-tools
 
 Cloud:
 
@@ -245,8 +207,7 @@ Cloud:
  * hv-kvp-daemon-init
  * cloud-utils
  * joyent-mdata-client
- * juju-core
- * juju-local
+ * juju
 
 IPv6 tools:
 

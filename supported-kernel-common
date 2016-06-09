@@ -14,7 +14,6 @@
  * linux-cloud-tools-virtual
  * linux-cloud-tools-lowlatency
  * linux-tools-powerpc-smp
- * linux-tools-powerpc-e500
  * linux-tools-powerpc-e500mc
  * linux-tools-powerpc64-smp
  * linux-tools-powerpc64-emb
@@ -24,39 +23,111 @@
  * kexec-tools
  * thermald
 
-=== Smooth upgrades; remove after 14.04 ===
+=== Smooth upgrades; remove after 16.04 ===
 
- * linux-image-generic-pae
- * linux-lowlatency-pae
- * linux-image-lowlatency-pae
- * linux-image-generic-lpae-lts-saucy
- * linux-image-generic-lpae-lts-trusty
- * linux-image-generic-lts-quantal
- * linux-image-generic-lts-raring
- * linux-image-generic-lts-saucy
- * linux-image-generic-lts-trusty
- * linux-signed-generic-lts-quantal
- * linux-signed-generic-lts-quantal-eol-upgrade
- * linux-signed-generic-lts-raring
- * linux-signed-generic-lts-raring-eol-upgrade
- * linux-signed-generic-lts-saucy
- * linux-signed-generic-lts-saucy-eol-upgrade
- * linux-signed-generic-lts-trusty
- * linux-signed-image-generic-lts-quantal
- * linux-signed-image-generic-lts-raring
- * linux-signed-image-generic-lts-saucy
- * linux-signed-image-generic-lts-trusty
- * linux-tools-generic-lpae-lts-saucy
- * linux-tools-generic-lpae-lts-trusty
- * linux-tools-generic-lts-saucy
- * linux-tools-generic-lts-trusty
- * linux-tools-lts-quantal
- * linux-tools-lts-raring
- * linux-tools-lts-saucy
- * linux-tools-lts-trusty
+ * linux-cloud-tools-generic-lts-utopic
+ * linux-cloud-tools-generic-lts-vivid
+ * linux-cloud-tools-generic-lts-wily
+ * linux-cloud-tools-generic-lts-xenial
+ * linux-cloud-tools-lowlatency-lts-utopic
+ * linux-cloud-tools-lowlatency-lts-vivid
+ * linux-cloud-tools-lowlatency-lts-wily
+ * linux-cloud-tools-lowlatency-lts-xenial
+ * linux-cloud-tools-virtual-lts-utopic
+ * linux-cloud-tools-virtual-lts-vivid
+ * linux-cloud-tools-virtual-lts-wily
+ * linux-cloud-tools-virtual-lts-xenial
+ * linux-hwe-generic-trusty
+ * linux-hwe-virtual-trusty
+ * linux-image-extra-virtual-lts-utopic
+ * linux-image-extra-virtual-lts-vivid
+ * linux-image-extra-virtual-lts-wily
+ * linux-image-extra-virtual-lts-xenial
+ * linux-image-generic-lpae-lts-utopic
+ * linux-image-generic-lpae-lts-vivid
+ * linux-image-generic-lpae-lts-wily
+ * linux-image-generic-lpae-lts-xenial
+ * linux-image-generic-lts-utopic
+ * linux-image-generic-lts-vivid
+ * linux-image-generic-lts-wily
+ * linux-image-generic-lts-xenial
+ * linux-image-hwe-generic-trusty
+ * linux-image-hwe-virtual-trusty
+ * linux-image-lowlatency-lts-utopic
+ * linux-image-lowlatency-lts-vivid
+ * linux-image-lowlatency-lts-wily
+ * linux-image-lowlatency-lts-xenial
+ * linux-image-powerpc-e500mc-lts-utopic
+ * linux-image-powerpc-e500mc-lts-vivid
+ * linux-image-powerpc-e500mc-lts-wily
+ * linux-image-powerpc-e500mc-lts-xenial
+ * linux-image-powerpc-smp-lts-utopic
+ * linux-image-powerpc-smp-lts-vivid
+ * linux-image-powerpc-smp-lts-wily
+ * linux-image-powerpc-smp-lts-xenial
+ * linux-image-powerpc64-emb-lts-utopic
+ * linux-image-powerpc64-emb-lts-vivid
+ * linux-image-powerpc64-emb-lts-wily
+ * linux-image-powerpc64-emb-lts-xenial
+ * linux-image-powerpc64-smp-lts-utopic
+ * linux-image-powerpc64-smp-lts-vivid
+ * linux-image-powerpc64-smp-lts-wily
+ * linux-image-powerpc64-smp-lts-xenial
+ * linux-image-virtual-lts-utopic
+ * linux-image-virtual-lts-vivid
+ * linux-image-virtual-lts-wily
+ * linux-image-virtual-lts-xenial
+ * linux-signed-generic-lts-utopic
+ * linux-signed-generic-lts-vivid
+ * linux-signed-generic-lts-wily
+ * linux-signed-generic-lts-xenial
+ * linux-signed-image-generic-lts-utopic
+ * linux-signed-image-generic-lts-vivid
+ * linux-signed-image-generic-lts-wily
+ * linux-signed-image-generic-lts-xenial
+ * linux-signed-image-lowlatency-lts-wily
+ * linux-signed-image-lowlatency-lts-xenial
+ * linux-signed-lowlatency-lts-wily
+ * linux-signed-lowlatency-lts-xenial
+ * linux-tools-generic-lpae-lts-utopic
+ * linux-tools-generic-lpae-lts-vivid
+ * linux-tools-generic-lpae-lts-wily
+ * linux-tools-generic-lpae-lts-xenial
+ * linux-tools-generic-lts-utopic
+ * linux-tools-generic-lts-vivid
+ * linux-tools-generic-lts-wily
+ * linux-tools-generic-lts-xenial
+ * linux-tools-lowlatency-lts-utopic
+ * linux-tools-lowlatency-lts-vivid
+ * linux-tools-lowlatency-lts-wily
+ * linux-tools-lowlatency-lts-xenial
+ * linux-tools-lts-utopic
+ * linux-tools-powerpc-e500mc-lts-utopic
+ * linux-tools-powerpc-e500mc-lts-vivid
+ * linux-tools-powerpc-e500mc-lts-wily
+ * linux-tools-powerpc-e500mc-lts-xenial
+ * linux-tools-powerpc-smp-lts-utopic
+ * linux-tools-powerpc-smp-lts-vivid
+ * linux-tools-powerpc-smp-lts-wily
+ * linux-tools-powerpc-smp-lts-xenial
+ * linux-tools-powerpc64-emb-lts-utopic
+ * linux-tools-powerpc64-emb-lts-vivid
+ * linux-tools-powerpc64-emb-lts-wily
+ * linux-tools-powerpc64-emb-lts-xenial
+ * linux-tools-powerpc64-smp-lts-utopic
+ * linux-tools-powerpc64-smp-lts-vivid
+ * linux-tools-powerpc64-smp-lts-wily
+ * linux-tools-powerpc64-smp-lts-xenial
+ * linux-tools-virtual-lts-utopic
+ * linux-tools-virtual-lts-vivid
+ * linux-tools-virtual-lts-wily
+ * linux-tools-virtual-lts-xenial
 
 === Extra flavours ===
 
 Not quite sure where these should go, but let's at least make sure they're seeded for main.
 
  * linux-tools-armadaxp [armhf]
+
+=== Build-dependencies supported by the team ===
+ * kernel-wedge

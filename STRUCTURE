@@ -1,4 +1,5 @@
 feature follow-recommends
+feature no-follow-build-depends
 required:
 minimal: required
 boot:
