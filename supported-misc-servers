@@ -156,6 +156,7 @@ OpenStack:
  * nova-vncproxy
  * nova-cert
  * nova-scheduler # James Page LP: #1180084
+ * nova-conductor
 
  * swift-account
  * swift-container
