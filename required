@@ -32,7 +32,8 @@ These are packages which have "Essential: yes" in their control file.
  * ncurses-bin
  * perl-base
  * sed
- * sysv-rc        # support packages with only SysV init scripts and no systemd unit
+ * sysvinit-utils # pidof tool (Debian #810018) and init-d-script for SysV init scripts
+ * insserv        # support packages with only SysV init scripts and no systemd unit
  * tar            # LaMontJones
  * util-linux     # LaMontJones
 
