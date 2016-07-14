@@ -44,7 +44,6 @@ Other packages necessary to get started:
 
  * dash               # Much faster default shell
  * locales
- * makedev
  * mawk
  * passwd
  * procps
