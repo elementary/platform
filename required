@@ -17,6 +17,7 @@ These are packages which have "Essential: yes" in their control file.
  * bash
  * bsdutils       # LaMontJones
  * coreutils
+ * dash           # Much faster default shell
  * debianutils
  * diffutils
  * dpkg
@@ -25,6 +26,7 @@ These are packages which have "Essential: yes" in their control file.
  * grep
  * gzip
  * hostname
+ * init-system-helpers
  * libc-bin
  * login
  * mount          # LaMontJones
@@ -32,7 +34,6 @@ These are packages which have "Essential: yes" in their control file.
  * ncurses-bin
  * perl-base
  * sed
- * sysvinit-utils # pidof tool (Debian #810018) and init-d-script for SysV init scripts
  * tar            # LaMontJones
  * util-linux     # LaMontJones
 
@@ -42,9 +43,9 @@ In some sense, debconf isn't truly required, but it makes our life a lot easier 
 
 Other packages necessary to get started:
 
- * dash               # Much faster default shell
  * locales
  * mawk
  * passwd
  * procps
+ * sysvinit-utils # pidof tool (Debian #810018) and init-d-script for SysV init scripts
  * tzdata
