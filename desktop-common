@@ -107,7 +107,9 @@ Fonts:
 
  * memtest86+
 
-New method of installing and updating software
+= Common Packaging Framework Stuff =
+
+ * (packagekit)
  * (snapd)
 
 = Firmware updating support =
