@@ -200,6 +200,16 @@ OpenStack:
  * heat-api-cfn
  * heat-api-cloudwatch
 
+ * aodh-api # https://bugs.launchpad.net/bugs/1546728
+ * aodh-evaluator
+ * aodh-notifier
+ * aodh-listener
+ * aodh-expirer
+
+ * barbican-api # https://bugs.launchpad.net/bugs/1543754
+ * barbican-worker
+ * barbican-keystone-listener
+
 Cloud:
 
  * walinuxagent # BenHoward - windows azure enablement
