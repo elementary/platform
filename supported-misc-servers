@@ -215,6 +215,8 @@ OpenStack:
  * designate-sink
  * designate-pool-manager
  * designate-mdns
+ * designate-producer
+ * designate-worker
 
 Cloud:
 
