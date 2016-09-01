@@ -210,6 +210,12 @@ OpenStack:
  * barbican-worker
  * barbican-keystone-listener
 
+ * designate # https://bugs.launchpad.net/bugs/1543748
+ * designate-zone-manager
+ * designate-sink
+ * designate-pool-manager
+ * designate-mdns
+
 Cloud:
 
  * walinuxagent # BenHoward - windows azure enablement
