@@ -193,7 +193,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 == powerpc ==
 
  * linux-udebs-powerpc-smp [powerpc]
- * linux-udebs-powerpc64-smp [powerpc]
+ * linux-udebs-generic [powerpc]
 
 == ppc64el ==
 
