@@ -62,6 +62,7 @@ These are used for debugging problems or examining the system.
 
  * strace
  * dmidecode
+ * ppc64-diag [powerc ppc64el]	# LP: #1417608
  * lshw
  * lsof
  * ltrace
