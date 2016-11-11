@@ -221,7 +221,6 @@ OpenStack:
 Cloud:
 
  * walinuxagent # BenHoward - windows azure enablement
- * euca2ools
  * hv-kvp-daemon-init
  * cloud-utils
  * joyent-mdata-client
