@@ -26,7 +26,6 @@
  * gfortran-multilib
  * libstdc++-5-pic
  * texinfo-doc-nonfree  # GFDL'd documentation for texinfo
- * gcj-5-jdk		
  * diveintopython
  * diveintopython-zh
  * make-doc
