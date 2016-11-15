@@ -3,10 +3,10 @@
 Database:
 
  * mdbtools				# OOo2 supports the JET format
- * postgresql-plperl-9.3
- * postgresql-plpython-9.3
- * postgresql-plpython3-9.3
- * postgresql-pltcl-9.3
+ * postgresql-plperl-9.5
+ * postgresql-plpython-9.5
+ * postgresql-plpython3-9.5
+ * postgresql-pltcl-9.5
 
 Email:
 
