@@ -7,7 +7,6 @@ standard: minimal
 desktop-common: standard
 d-i-requirements: minimal
 installer:
-installer-gtk: installer
 build-essential: required
 language-packs: desktop-common
 live-common: standard
