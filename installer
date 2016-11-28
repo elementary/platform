@@ -95,6 +95,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * partman-multipath
  * partman-partitioning
  * partman-reiserfs
+ * partman-swapfile # LP: #1645289
  * partman-target
  * partman-xfs
  * pciutils-udeb # for lspci, so we can show descriptive names for devices
