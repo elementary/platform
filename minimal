@@ -50,7 +50,6 @@ These provide various networking services, all should be configured in a client-
  * isc-dhcp-client   # LaMontJones
  * iproute2
  * ifupdown
- * net-tools
  * resolvconf
 
  * iputils-ping
