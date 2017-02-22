@@ -76,8 +76,10 @@ Utilities:
  * logcheck		  # great security tool for any server
  * logcheck-database	  # useful for above
  * rrdtool
+ * iotop
  * john
  * libmemcached-tools #ClintByrum - server-maverick-uds-web20-workloads
+ * nicstat
  * nut # ChuckShort - ServerPackageReview
  * nut-cgi
  * nut-snmp
