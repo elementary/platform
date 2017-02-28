@@ -31,6 +31,7 @@ Programs and packages necessary for both the proper functionality of the system 
  * eject             # very popular, useful, small
  * initramfs-tools   # needed for the Ubuntu kernel
  * less
+ * locales
  * lsb-release
  * kmod
  * netbase

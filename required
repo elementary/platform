@@ -43,7 +43,6 @@ In some sense, debconf isn't truly required, but it makes our life a lot easier 
 
 Other packages necessary to get started:
 
- * locales
  * mawk
  * passwd
  * procps
