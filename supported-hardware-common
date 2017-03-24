@@ -7,6 +7,7 @@
 == Filesystems ==
 
  * xfsdump # only useful when machine is setup and working, and only for xfs people
+ * hfsutils
  * squashfs-tools
  * reiser4progs
  * zfsutils-linux # currently no support in the installer; move to appropriate seed if this changes
