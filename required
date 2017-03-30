@@ -47,4 +47,3 @@ Other packages necessary to get started:
  * passwd
  * procps
  * sysvinit-utils # pidof tool (Debian #810018) and init-d-script for SysV init scripts
- * tzdata

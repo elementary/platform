@@ -39,6 +39,7 @@ Programs and packages necessary for both the proper functionality of the system 
  * (rsyslog)
  * sudo              # LaMontJones
  * sysvinit-utils    # until "pidof" moves into procps, Debian #810018
+ * tzdata
  * ubuntu-keyring     # for authenticated package downloads
  * udev
  * vim-tiny
