@@ -5,7 +5,3 @@
 == Cluster ==
 
  * system-config-cluster
-
-= Database =
-
- * mdbtools-gmdb
