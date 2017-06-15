@@ -51,7 +51,7 @@ These provide various networking services, all should be configured in a client-
 
  * isc-dhcp-client   # LaMontJones
  * iproute2
- * ifupdown
+ * nplan          # foundations-aa-migrating-to-neplan (replaces ifupdown)
  * resolvconf
 
  * iputils-ping
