@@ -36,9 +36,6 @@ And some useful Emacs-related tools:
 
  * openjdk-8-demo
  * openjdk-8-source
- * ubuntu-defaults-builder
-
-Allow building live CDs for older releases too.
 
  * syslinux-themes-ubuntu-oneiric
  * syslinux-themes-ubuntu-precise
