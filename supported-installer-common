@@ -15,7 +15,7 @@
  * installation-guide-ppc64el [ppc64el]
  * installation-guide-s390x [s390x]
 
- * isolinux
+ * isolinux [amd64 i386]
  * lilo
  * lilo-installer [amd64 i386]
  * grub-efi [amd64 i386]
