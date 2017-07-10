@@ -219,7 +219,7 @@ OpenStack:
  * designate-producer
  * designate-worker
 
-Virtualization:
+KVM Virtualization Stack:
 # held via virt-host tasks before
 
  * qemu-system-x86 [i386 amd64]
