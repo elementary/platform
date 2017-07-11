@@ -219,6 +219,16 @@ OpenStack:
  * designate-producer
  * designate-worker
 
+KVM Virtualization Stack:
+# held via virt-host tasks before
+
+ * qemu-system-x86 [i386 amd64]
+ * qemu-system-ppc [powerpc ppc64el]
+ * qemu-system-aarch64 [arm64]
+ * qemu-system-s390x [s390x]
+ * qemu-kvm
+ * libvirt-daemon-system
+
 Cloud:
 
  * walinuxagent # BenHoward - windows azure enablement
