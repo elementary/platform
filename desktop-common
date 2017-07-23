@@ -100,14 +100,9 @@ Fonts:
  * (fonts-noto-core)             # Noto Sans and Noto Serif are default in /etc/fonts/conf.d/60-latin.conf.
  * (fonts-ubuntu)                # desktop default via an override in the ubuntu-settings package
 
-= Debugging and Diagnostics =
-
- * (memtest86+)
-
 = Common Packaging Framework Stuff =
 
  * (packagekit)
- * (snapd)
 
 = Firmware updating support =
 
