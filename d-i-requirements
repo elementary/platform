@@ -40,3 +40,4 @@ parameters. They should generally be made available on CDs.
  * uboot-envtools [armel armhf] # needed on omap for uboot
  * installation-report
  * fwupdate-signed
+ * opal-prd [ppc64el]
