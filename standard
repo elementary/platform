@@ -51,7 +51,6 @@ These provide various networking services, all should be configured in a client-
  * (openssh-client) # ColinWatson
  * rsync          # would be just client but they are the same binary apparently
  * wget           # FabioMassimoDiNitto
- * (libnss-resolve) # foundations-y-local-resolver
 
 = Debugging and Diagnostics =
 
