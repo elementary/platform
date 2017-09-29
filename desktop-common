@@ -102,6 +102,8 @@ Fonts:
  * (fonts-sil-abyssinica)
  * (fonts-lklug-sinhala)
  * (ttf-ancient-fonts-symbola)
+ * (fonts-knda)
+ * (fonts-telu)
 
 = Debugging and Diagnostics =
 
