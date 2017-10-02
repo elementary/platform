@@ -93,7 +93,6 @@ Fonts:
  * (fonts-kacst-one)
  * (fonts-takao-pgothic)
  * (fonts-khmeros-core)
- * (fonts-guru)
  * (fonts-thai-tlwg)
  * (fonts-lao)
  * (ttf-ubuntu-font-family)
@@ -102,8 +101,10 @@ Fonts:
  * (fonts-sil-abyssinica)
  * (fonts-lklug-sinhala)
  * (ttf-ancient-fonts-symbola)
- * (fonts-knda)
- * (fonts-telu)
+ * (fonts-indic)
+ * (fonts-liberation)
+ * (fonts-nanum)
+ * (fonts-noto-cjk)
 
 = Debugging and Diagnostics =
 
