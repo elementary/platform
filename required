@@ -34,7 +34,6 @@ These are packages which have "Essential: yes" in their control file.
  * ncurses-bin
  * perl-base
  * sed
- * sensible-utils # used to be pulled in by debianutils, tons of undeclared deps
  * tar            # LaMontJones
  * util-linux     # LaMontJones
 
@@ -47,4 +46,5 @@ Other packages necessary to get started:
  * mawk
  * passwd
  * procps
+ * sensible-utils # used to be pulled in by debianutils, tons of undeclared deps
  * sysvinit-utils # pidof tool (Debian #810018) and init-d-script for SysV init scripts
