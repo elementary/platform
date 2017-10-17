@@ -34,6 +34,7 @@ These are packages which have "Essential: yes" in their control file.
  * ncurses-bin
  * perl-base
  * sed
+ * sensible-utils # used to be pulled in by debianutils, tons of undeclared deps
  * tar            # LaMontJones
  * util-linux     # LaMontJones
 
