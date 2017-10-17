@@ -37,6 +37,7 @@ Programs and packages necessary for both the proper functionality of the system 
  * netbase
  * python3           # explicitly seeded, despite lsb-release also pulling it it
  * (rsyslog)
+ * sensible-utils    # used to be pulled in by debianutils, tons of undeclared deps
  * sudo              # LaMontJones
  * sysvinit-utils    # until "pidof" moves into procps, Debian #810018
  * tzdata
