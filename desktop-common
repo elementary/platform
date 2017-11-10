@@ -91,7 +91,6 @@ Fonts:
  * fonts-dejavu-core
  * fonts-freefont-ttf
  * (fonts-kacst-one)
- * (fonts-takao-pgothic)
  * (fonts-khmeros-core)
  * (fonts-thai-tlwg)
  * (fonts-lao)
@@ -103,7 +102,6 @@ Fonts:
  * (ttf-ancient-fonts-symbola)
  * (fonts-indic)
  * (fonts-liberation)
- * (fonts-nanum)
  * (fonts-noto-cjk)
 
 = Debugging and Diagnostics =
