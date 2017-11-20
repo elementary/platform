@@ -10,6 +10,7 @@ installer:
 build-essential: required
 language-packs: desktop-common
 live-common: standard
+supported-cloud: standard
 supported-development-common: standard
 supported-development-desktop: standard
 supported-kernel-common: standard
@@ -23,6 +24,6 @@ supported-network-common: standard
 supported-network-client: standard
 supported-sysadmin-common: standard
 supported-sysadmin-desktop: standard
-supported-server: supported-misc-servers supported-hardware-common supported-installer-common supported-network-common supported-sysadmin-common build-essential supported-development-common supported-kernel-common
+supported-server: supported-misc-servers supported-hardware-common supported-installer-common supported-network-common supported-sysadmin-common build-essential supported-development-common supported-kernel-common supported-cloud
 supported-desktop: supported-hardware-desktop supported-installer-desktop supported-sysadmin-desktop supported-hardware-common supported-installer-common supported-network-common supported-network-client supported-sysadmin-common build-essential supported-development-common supported-development-desktop supported-kernel-common supported-kernel-desktop
 supported-common: supported-server supported-desktop 
