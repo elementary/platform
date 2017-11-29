@@ -26,8 +26,6 @@
  * gfortran-multilib
  * libstdc++-5-pic
  * texinfo-doc-nonfree  # GFDL'd documentation for texinfo
- * diveintopython
- * diveintopython-zh
  * make-doc
  * cmake
  * device-tree-compiler
