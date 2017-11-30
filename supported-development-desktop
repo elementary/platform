@@ -44,18 +44,10 @@ And some useful Emacs-related tools:
  * libgd-graph-perl
  * libtemplate-perl
 
-= Python2.x =
-
- * idle
- * idle-python2.7
- * python2.7-examples
- * libpython2.7-testsuite
-
 = Python3 =
 
  * python3-doc
- * idle3
- * idle-python3.5
+ * idle
  * python3-all-dev
  * python3-all-dbg
  * python3-examples
@@ -63,4 +55,4 @@ And some useful Emacs-related tools:
  * python3-bsddb3-dbg
  * python-bsddb3-doc
  * python3-gi-cairo
- * libpython3.5-testsuite
+ * libpython3.6-testsuite
