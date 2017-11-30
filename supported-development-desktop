@@ -7,8 +7,6 @@
 
 == Revision Control ==
 
- * subversion
- * subversion-tools
  * python3-svn
  * git-core
  * gitk
