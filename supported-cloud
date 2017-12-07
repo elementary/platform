@@ -14,7 +14,7 @@
 
  * grub-efi-amd64-signed [amd64]
  * grub-efi-amd64 [amd64]
- * shim-signed [amd64
+ * shim-signed [amd64]
 
  * grub-efi-arm64 [arm64]
  * grub-efi-arm64-bin [arm64]
