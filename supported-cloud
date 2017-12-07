@@ -1,3 +1,23 @@
 = Per-cloud-image packages =
 
+ * cifs-utils
+ * cloud-guest-utils
  * hibagent
+ * libnss-myhostname
+ * linux-aws
+ * linux-cloud-tools-virtual
+ * linux-generic
+ * ntp
+ * walinuxagent
+
+= Architecture specific packages =
+
+ * grub-efi-amd64-signed [amd64]
+ * grub-efi-amd64 [amd64]
+ * shim-signed [amd64
+
+ * grub-efi-arm64 [arm64]
+ * grub-efi-arm64-bin [arm64]
+
+ * s390-tools [s390x]
+ * sysconfig-hardware [s390x]
