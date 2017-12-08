@@ -82,8 +82,6 @@
 
 = Germinate workarounds =
 
- * python-pyrex # bzr Build-Depends: cython-dbg | python-pyrex; we want the latter for now
-
 # Packages should be recorded in their reverse-built-dependencies using
 # 'Built-Using' due to code copied into target objects at build time.
 = Built-using workarounds =
