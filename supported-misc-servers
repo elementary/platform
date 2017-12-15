@@ -65,7 +65,6 @@ Printing:
 
 Utilities:
 
- * graphviz
  * logcheck		  # great security tool for any server
  * logcheck-database	  # useful for above
  * rrdtool
