@@ -5,11 +5,6 @@
  * valgrind
  * indent
 
-== Revision Control ==
-
- * git-core
- * gitk
-
 == Advanced editors ==
 
  * vim          # Needs to stay off server CDs because it pulls in Gnome
