@@ -54,7 +54,6 @@ Web applications:
 
  * zope3-sandbox
  * python-moinmoin      # moin (>= 1.5)
- * python-tickcount #ChuckShort - server-lucid-canonical-application-support
  * memcached #ClintByrum - server-maverick-uds-web20-workloads
  * libmemcached-dev #ClintByrum - server-maverick-uds-web20-workloads
  * rabbitmq-server
