@@ -26,7 +26,6 @@ And some useful Emacs-related tools:
 
 = Libraries =
 
- * libgl1-mesa-swx11-i686
  * libchart-perl
  * libgd-graph-perl
  * libtemplate-perl
