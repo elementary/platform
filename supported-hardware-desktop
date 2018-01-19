@@ -1,7 +1,5 @@
 = Hardware =
 
- * i855-crt        # crack to enable video out on i855 chipsets
- * mdetect         # formerly used by X for mouse autodetection
  * irda-utils
  * wacom-tools
  * wvdial
@@ -10,7 +8,3 @@
 == Filesystems ==
 
  * hfsplus
-
-== Cluster ==
-
- * ocfs2console
