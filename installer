@@ -8,7 +8,6 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * apt-setup-udeb # first-stage apt configuration question
  * archdetect
  * base-installer
- * binutils-static-udeb # for restricted modules
  * bogl-bterm-udeb
  * brltty-udeb
  * bterm-unifont
