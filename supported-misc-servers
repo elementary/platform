@@ -58,10 +58,6 @@ Web applications:
  * libmemcached-dev #ClintByrum - server-maverick-uds-web20-workloads
  * rabbitmq-server
 
-Printing:
-
- * printer-driver-m2300w  # Driver for the Minolta magicolor 2300W/24000W color laser printers
-
 Utilities:
 
  * htop    # used quite often in favor of top

@@ -75,6 +75,7 @@ Printing and printer configuration is a real weak spot in Debian, and in Linux i
  * (printer-driver-ptouch)      # support for Brother P-touch printers
  * (printer-driver-sag-gdi)     # support for Rico Aficio SPxxxx printers
  * (printer-driver-brlaser)     # support for some Brother laser printers
+ * (printer-driver-m2300w)      # support for the Minolta magicolor 2300W/24000W color laser printers
 
 = GUI infrastructure =
 
