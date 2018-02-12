@@ -217,7 +217,6 @@ KVM Virtualization Stack:
 
 Cloud:
 
- * hv-kvp-daemon-init
  * cloud-utils
  * joyent-mdata-client
  * juju
