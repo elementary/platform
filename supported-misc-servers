@@ -120,7 +120,6 @@ Other:
  * unzip
  * openvswitch
  * openvswitch-switch-dpdk
- * openssh-blacklist-extra
  * lxc
  * lxc-tests
  * lua-lxc
