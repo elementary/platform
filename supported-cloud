@@ -4,10 +4,13 @@
  * cloud-guest-utils
  * hibagent
  * linux-aws
+ * linux-kvm
+ * linux-gke
  * linux-cloud-tools-virtual
  * linux-generic
  * ntp
  * walinuxagent
+ * xe-guest-utilities # for XEN-virt-like cloud images, examples in the wild are Rackspace and Softlayer. LP: #1746680 
 
 = Architecture specific packages =
 
