@@ -8,7 +8,7 @@
  * linux-gke
  * linux-cloud-tools-virtual
  * linux-generic
- * ntp
+ * chrony # ntpd replaced by chrony >=18.04 (LP: #1744072)
  * walinuxagent
  * xe-guest-utilities # for XEN-virt-like cloud images, examples in the wild are Rackspace and Softlayer. LP: #1746680 
 
