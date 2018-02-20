@@ -87,6 +87,7 @@ Packages used for X preconfiguration are just Recommends; removing them after in
  * xorg                          # this includes xserver-xorg->xserver-xorg-{input|video}-* (no need to add specific drivers manually)
  * !linux-image-*                # xorg transitively depends on this, but this would pull in grub-pc; we handle that separately
  * xkb-data                      # XKB data now lives here
+ * spice-vdagent                 # Better when run as a Spice VM, like with GNOME Boxes LP: #1200296
 
 Fonts:
 
