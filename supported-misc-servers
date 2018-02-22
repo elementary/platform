@@ -205,6 +205,8 @@ OpenStack:
  * designate-producer
  * designate-worker
 
+ * libapache2-mod-auth-mellon # https://bugs.launchpad.net/bugs/1610286
+
 KVM Virtualization Stack:
 # held via virt-host tasks before
 
