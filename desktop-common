@@ -97,7 +97,6 @@ Fonts:
  * (fonts-khmeros-core)
  * (fonts-thai-tlwg)
  * (fonts-lao)
- * (ttf-ubuntu-font-family)
  * (fonts-sil-padauk)
  * (fonts-tibetan-machine)
  * (fonts-sil-abyssinica)
@@ -105,6 +104,7 @@ Fonts:
  * (fonts-indic)
  * (fonts-liberation)
  * (fonts-noto-cjk)
+ * (fonts-ubuntu)
 
 = Debugging and Diagnostics =
 
