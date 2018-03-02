@@ -4,8 +4,10 @@
  * cloud-guest-utils
  * hibagent
  * linux-aws
- * linux-kvm
+ * linux-azure
  * linux-gke
+ * linux-hwe
+ * linux-kvm
  * linux-cloud-tools-virtual
  * linux-generic
  * chrony # ntpd replaced by chrony >=18.04 (LP: #1744072)
