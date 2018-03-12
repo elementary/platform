@@ -6,6 +6,7 @@ Ubiquity needs full filesystem support for the partitioner.
  * reiserfsprogs
  * btrfs-tools
  * ntfs-3g
+ * lvm2
 
 # workaround for a broken aufs/overlayfs (e. g. LP #587888); also needs
 # cdimage change to use union=unionfs-fuse kernel parameter
