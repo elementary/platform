@@ -18,7 +18,6 @@ parameters. They should generally be made available on CDs.
  * dmsetup
  * dmraid
  * cryptsetup
- * ecryptfs-utils
 
 == For language support in the installer ==
 
