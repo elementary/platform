@@ -224,3 +224,7 @@ Cloud:
 IPv6 tools:
 
  * quagga                 # RobertCollins
+
+Language Interpreters:
+
+ * ruby
