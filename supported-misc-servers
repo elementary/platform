@@ -119,14 +119,8 @@ Other:
  * unzip
  * openvswitch
  * openvswitch-switch-dpdk
- * lxc
- * lxc-tests
- * lua-lxc
- * python3-lxc
- * lxc2
  * lxd
  * lxd-client
- * lxd-tools
 
 OpenStack:
 
