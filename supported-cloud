@@ -6,10 +6,15 @@
  * linux-aws
  * linux-tools-aws
  * linux-azure
+ * linux-gcp
  * linux-gke
  * linux-hwe
  * linux-kvm
+ * linux-tools-gcp
+ * linux-tools-gke
  * linux-tools-kvm
+ * linux-cloud-tools-gcp
+ * linux-cloud-tools-gke
  * linux-cloud-tools-virtual
  * linux-generic
  * chrony # ntpd replaced by chrony >=18.04 (LP: #1744072)
