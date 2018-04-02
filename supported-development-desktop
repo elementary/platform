@@ -19,11 +19,6 @@ And some useful Emacs-related tools:
  * auctex
  * bbdb
 
-== Development Tools ==
-
- * openjdk-8-demo
- * openjdk-8-source
-
 = Libraries =
 
  * libchart-perl
