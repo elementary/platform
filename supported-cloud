@@ -21,6 +21,8 @@
  * walinuxagent
  * xe-guest-utilities # for XEN-virt-like cloud images, examples in the wild are Rackspace and Softlayer. LP: #1746680
  * rax-nova-agent
+ * socat # LP: #1756870
+ * pv  # LP: #1746891
 
 = Architecture specific packages =
 
