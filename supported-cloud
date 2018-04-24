@@ -3,20 +3,19 @@
  * cifs-utils
  * cloud-guest-utils
  * hibagent
- * linux-aws
- * linux-tools-aws
- * linux-azure
- * linux-gcp
- * linux-gke
- * linux-hwe
- * linux-kvm
- * linux-tools-gcp
- * linux-tools-gke
- * linux-tools-kvm
- * linux-cloud-tools-gcp
- * linux-cloud-tools-gke
- * linux-cloud-tools-virtual
- * linux-generic
+ * %linux-aws
+ * %linux-meta-aws
+ * %linux-azure
+ * %linux-signed-azure
+ * %linux-meta-azure
+ * %linux-gke
+ * %linux-meta-gke
+ * %linux-hwe
+ * %linux-meta-hwe
+ * %linux-kvm
+ * %linux-meta-kvm
+ * %linux-gcp
+ * %linux-meta-gcp
  * chrony # ntpd replaced by chrony >=18.04 (LP: #1744072)
  * walinuxagent
  * xe-guest-utilities # for XEN-virt-like cloud images, examples in the wild are Rackspace and Softlayer. LP: #1746680
