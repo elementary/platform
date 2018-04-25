@@ -226,6 +226,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * /^.*-firmware-.*-di/ [ppc64el]
  * /^.*-modules-.*-di/ [ppc64el]
  * kernel-image-${Kernel-Version}-di [ppc64el]
+ * kernel-signed-image-${Kernel-Version}-di [ppc64el]
  * linux-udebs-generic [ppc64el]
 
 == s390x ==
