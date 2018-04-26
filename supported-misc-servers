@@ -93,18 +93,6 @@ Configuration Management:
 
  * etckeeper
 
-Monitoring:
-
- * nagios3
- * nagios3-common
- * nagios3-doc
- * monitoring-plugins-basic
- * monitoring-plugins-standard
- * nagios-plugins-basic    # transitional package: remove in Xenial+1
- * nagios-plugins-standard # transitional package: remove in Xenial+1
- * nagios-nrpe-server #ChuckShort - server lucid-canonical-application-support
- * nagios-nrpe-plugin #ChuckShort - server lucid-canonical-application-support
-
 Storage:
 
  * ceph
