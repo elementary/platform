@@ -171,68 +171,34 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
 == amd64 ==
 
- * Kernel-Version: 4.15.0-20-generic
- * /^.*-firmware-.*-di/ [amd64]
- * /^.*-modules-.*-di/ [amd64]
- * kernel-image-${Kernel-Version}-di [amd64]
- * kernel-signed-image-${Kernel-Version}-di [amd64]
  * linux-udebs-generic [amd64]
 
 == arm64 ==
 
- * Kernel-Version: 4.15.0-20-generic
- * /^.*-firmware-.*-di/ [arm64]
- * /^.*-modules-.*-di/ [arm64]
- * kernel-image-${Kernel-Version}-di [arm64]
  * linux-udebs-generic [arm64]
 
 == armel ==
 
- * Kernel-Version: 4.15.0-20-generic
- * /^.*-firmware-.*-di/ [armel]
- * /^.*-modules-.*-di/ [armel]
- * kernel-image-${Kernel-Version}-di [armel]
  * linux-udebs-generic [armel]
 
 == armhf ==
 
- * Kernel-Version: 4.15.0-20-generic 4.15.0-20-generic-lpae
- * /^.*-firmware-.*-di/ [armhf]
- * /^.*-modules-.*-di/ [armhf]
- * kernel-image-${Kernel-Version}-di [armhf]
  * linux-udebs-generic [armhf]
  * linux-udebs-generic-lpae [armhf]
 
 == i386 ==
 
- * Kernel-Version: 4.15.0-20-generic
- * /^.*-firmware-.*-di/ [i386]
- * /^.*-modules-.*-di/ [i386]
- * kernel-image-${Kernel-Version}-di [i386]
  * linux-udebs-generic [i386]
 
 == powerpc ==
 
- * Kernel-Version: 4.15.0-20-powerpc-smp 4.15.0-20-generic
- * /^.*-firmware-.*-di/ [powerpc]
- * /^.*-modules-.*-di/ [powerpc]
- * kernel-image-${Kernel-Version}-di [powerpc]
  * linux-udebs-powerpc-smp [powerpc]
  * linux-udebs-generic [powerpc]
 
 == ppc64el ==
 
- * Kernel-Version: 4.15.0-20-generic
- * /^.*-firmware-.*-di/ [ppc64el]
- * /^.*-modules-.*-di/ [ppc64el]
- * kernel-image-${Kernel-Version}-di [ppc64el]
- * kernel-signed-image-${Kernel-Version}-di [ppc64el]
  * linux-udebs-generic [ppc64el]
 
 == s390x ==
 
- * Kernel-Version: 4.15.0-20-generic
- * /^.*-firmware-.*-di/ [s390x]
- * /^.*-modules-.*-di/ [s390x]
- * kernel-image-${Kernel-Version}-di [s390x]
  * linux-udebs-generic [s390x]
