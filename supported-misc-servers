@@ -3,7 +3,6 @@
 Database:
 
  * postgresql-plperl-10
- * postgresql-plpython-10
  * postgresql-plpython3-10
  * postgresql-pltcl-10
 
@@ -53,7 +52,6 @@ Web servers:
 Web applications:
 
  * zope3-sandbox
- * python-moinmoin      # moin (>= 1.5)
  * memcached #ClintByrum - server-maverick-uds-web20-workloads
  * libmemcached-dev #ClintByrum - server-maverick-uds-web20-workloads
  * rabbitmq-server
@@ -136,11 +134,12 @@ OpenStack:
 
  * keystone
 
- * python-keystoneclient
- * python-cinderclient
- * python-swiftclient
- * python-glanceclient
- * python-neutronclient
+ * python3-openstackclient
+ * python3-keystoneclient
+ * python3-cinderclient
+ * python3-swiftclient
+ * python3-glanceclient
+ * python3-neutronclient
 
  * ceilometer-collector
  * ceilometer-api
