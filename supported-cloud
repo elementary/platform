@@ -34,3 +34,5 @@
 
  * s390-tools [s390x]
  * sysconfig-hardware [s390x]
+
+ * grub-legacy-ec2
