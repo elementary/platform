@@ -162,6 +162,8 @@ OpenStack:
  * neutron-metadata-agent
  * neutron-vpn-agent
 
+ * python-neutron-vpnaas # https://bugs.launchpad.net/bugs/1482765
+
  * heat-engine
  * heat-api
  * heat-api-cfn
