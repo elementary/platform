@@ -2,6 +2,10 @@ This seed provides the basic components that should be installed on an
 Ubuntu-family desktop system. It is expected to be supplemented with a
 particular flavour of desktop environment (e.g. GNOME, KDE, or XFCE).
 
+Before packages are added here, they must follow the procedure to
+ensure that all parties are aware of the addition:
+https://wiki.ubuntu.com/SeedManagement/AddingPackagesToDesktopCommon
+
 = Hardware and Architecture Support =
 
 == Architecture-independent ==
