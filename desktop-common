@@ -92,11 +92,9 @@ Packages used for X preconfiguration are just Recommends; removing them after in
 Fonts:
 
  * fonts-dejavu-core
- * fonts-freefont-ttf
  * (fonts-kacst-one)
  * (fonts-sil-padauk)
  * (fonts-sil-abyssinica)
- * (fonts-liberation)
  * (fonts-noto-cjk)
  * (fonts-ubuntu)
 
