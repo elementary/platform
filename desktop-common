@@ -96,13 +96,8 @@ Fonts:
                                  # connection with distupgrades. LP: #2034986
  * fonts-freefont-ttf
  * (fonts-kacst-one)
- * (fonts-khmeros-core)
- * (fonts-thai-tlwg)
- * (fonts-lao)
  * (fonts-sil-padauk)
- * (fonts-tibetan-machine)
  * (fonts-sil-abyssinica)
- * (fonts-lklug-sinhala)
  * (fonts-liberation)
  * (fonts-noto-cjk)
  * (fonts-noto-color-emoji)
