@@ -102,12 +102,6 @@ Fonts:
 
  * (packagekit)
 
-= Firmware updating support =
-
- * (fwupd)
- * (fwupdate)
- * (fwupdate-signed)
-
 = Other =
 
  * anacron # generally appropriate for desktops
