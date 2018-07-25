@@ -96,7 +96,6 @@ Fonts:
                                  # connection with distupgrades. LP: #2034986
  * (fonts-kacst-one)
  * (fonts-sil-padauk)
- * (fonts-sil-abyssinica)
  * (fonts-noto-cjk)
  * (fonts-noto-color-emoji)
  * (fonts-noto-core)             # Noto Sans and Noto Serif are default in /etc/fonts/conf.d/60-latin.conf.
