@@ -2,4 +2,124 @@
 
 Language packs are used to deliver translations and other language-specific facilities. They're seeded elsewhere to get them onto CD images, but this seed collects the basic ones together so that we can easily identify them for the purposes of constructing package sets.
 
- * /^language-pack-[^-]+$/
+Bulgarian:
+ * (language-pack-gnome-bg)
+ * (language-pack-bg)
+ * (wbulgarian)
+
+Catalan:
+ * (language-pack-gnome-ca)
+ * (language-pack-ca)
+ * (wcatalan)
+
+Chinese (Simplified):
+ * (fonts-arphic-uming)
+ * (fonts-arphic-ukai)
+ * (language-pack-gnome-zh-hans)
+ * (language-pack-zh-hans)
+
+Chinese (Traditional):
+ * (fonts-arphic-uming)
+ * (fonts-arphic-ukai)
+ * (language-pack-gnome-zh-hant)
+ * (language-pack-zh-hant)
+
+Czech:
+ * (language-pack-gnome-cs)
+ * (language-pack-cs)
+
+Danish:
+ * (language-pack-gnome-da)
+ * (language-pack-da)
+ * (wdanish)
+
+Dutch:
+ * (language-pack-gnome-nl)
+ * (language-pack-nl)
+ * (wdutch)
+
+English:
+ * (language-pack-gnome-en)
+ * (language-pack-en)
+ * (wamerican)
+ * (wbritish)
+
+French:
+ * (language-pack-gnome-fr)
+ * (language-pack-fr)
+ * (wfrench)
+
+German:
+ * (language-pack-gnome-de)
+ * (language-pack-de)
+ * (wngerman)
+ * (wogerman)
+
+Hungarian:
+ * (language-pack-gnome-hu)
+ * (language-pack-hu)
+
+Indonesian:
+ * (language-pack-gnome-id)
+ * (language-pack-id)
+
+Italian:
+ * (language-pack-gnome-it)
+ * (language-pack-it)
+ * (witalian)
+
+Japanese:
+ * (language-pack-gnome-ja)
+ * (language-pack-ja)
+
+Korean:
+ * (language-pack-gnome-ko)
+ * (language-pack-ko)
+
+Norwegian:
+ * (language-pack-gnome-nb)
+ * (language-pack-nb)
+ * (wnorwegian)
+
+Polish:
+ * (language-pack-gnome-pl)
+ * (language-pack-pl)
+ * (wpolish)
+
+Portuguese:
+ * (language-pack-gnome-pt)
+ * (language-pack-pt)
+ * (wbrazilian)
+ * (wportuguese)
+
+Russian:
+ * (language-pack-gnome-ru)
+ * (language-pack-ru)
+
+Spanish:
+ * (language-pack-gnome-es)
+ * (language-pack-es)
+ * (wspanish)
+
+Swedish:
+ * (language-pack-gnome-sv)
+ * (language-pack-sv)
+ * (wswedish)
+ * (wswiss)
+
+Thai:
+ * (language-pack-gnome-th)
+ * (language-pack-th)
+
+Turkish:
+ * (language-pack-gnome-tr)
+ * (language-pack-tr)
+
+Ukrainian:
+ * (language-pack-gnome-uk)
+ * (language-pack-uk)
+ * (wukrainian)
+
+Vietnamese:
+ * (language-pack-gnome-vi)
+ * (language-pack-vi)
