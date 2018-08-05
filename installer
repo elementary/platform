@@ -176,6 +176,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 == arm64 ==
 
  * linux-udebs-generic [arm64]
+ * linux-udebs-snapdragon [arm64]
 
 == armel ==
 
