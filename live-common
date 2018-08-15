@@ -15,8 +15,6 @@ Ubiquity needs full filesystem support for the partitioner.
 
 # * (bootchart) [!armel] # scheduled for removal before maverick beta
 
- * fwupdate-signed #signed efi firmware updating executable, remove in ubiquity if !efi
-
  * mokutil [amd64] # Needed for EFI install with third-party drivers
 
 == Germinate workarounds ==

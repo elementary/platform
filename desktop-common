@@ -118,8 +118,7 @@ Fonts:
 = Firmware updating support =
 
  * (fwupd)
- * (fwupdate)
- * (fwupdate-signed)
+ * (fwupd-signed)
 
 = Other =
 
