@@ -110,6 +110,8 @@ Other:
 
 OpenStack:
 
+ * ubuntu-cloud-keyring # keyring for the Ubuntu Cloud Archive
+
  * nova-api
  * nova-network
  * nova-objectstore
