@@ -144,6 +144,8 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
  * s390-dasd [s390x]
  * s390-netdevice [s390x]
  * s390-zfcp [s390x]
+ * s390-tools-udeb [s390x]
+ * s390-tools-zkey-udeb [s390x]
 
 = Bootloader Installers =
 
