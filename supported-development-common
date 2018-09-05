@@ -78,6 +78,7 @@
 = Misc =
 
  * util-linux-locales  # contents provided in langpacks, just needs to be held in main
+ * ubuntu-dbgsym-keyring # keyring for the ddebs
 
 = Germinate workarounds =
 
