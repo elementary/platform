@@ -142,6 +142,7 @@ OpenStack:
  * python3-swiftclient
  * python3-glanceclient
  * python3-neutronclient
+ * python3-osc-placement # https://bugs.launchpad.net/bugs/1790921
 
  * ceilometer-collector
  * ceilometer-api
