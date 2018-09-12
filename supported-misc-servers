@@ -105,8 +105,6 @@ Other:
  * unzip
  * openvswitch
  * openvswitch-switch-dpdk
- * lxd
- * lxd-client
 
 OpenStack:
 
