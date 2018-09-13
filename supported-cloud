@@ -17,6 +17,7 @@
  * %linux-gcp
  * %linux-meta-gcp
  * chrony # ntpd replaced by chrony >=18.04 (LP: #1744072)
+ * gce-compute-image-packages # Google Compute Engine
  * walinuxagent
  * xe-guest-utilities # for XEN-virt-like cloud images, examples in the wild are Rackspace and Softlayer. LP: #1746680
  * rax-nova-agent
