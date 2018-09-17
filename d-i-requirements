@@ -4,7 +4,6 @@ parameters. They should generally be made available on CDs.
 == Package management ==
 
  * tasksel           # used by installer to install desktop etc.
- * aptitude          # better text-mode package manager
 
 == Filesystems ==
 
