@@ -23,7 +23,6 @@
  * authbind
  * siege
  * bonnie++
- * aptitude-doc-en
  * sqlite3		# CLI utility, libs in main. nijaba
  * policyrcd-script-zg2 # helps with chroot administration
  * pastebinit
