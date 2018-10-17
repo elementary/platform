@@ -6,6 +6,7 @@
  * %linux-oem
  * %linux-meta-oem
  * %linux-signed-oem
+ * %linux-meta-snapdragon
  * kexec-tools
  * thermald
  * kernel-wedge
