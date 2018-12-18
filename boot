@@ -15,6 +15,7 @@ restricted modules.
 
  * grub-pc [amd64 i386]
  * ${Kernel-Stem}-generic [i386]          # our chosen default install kernel
+ * ${Kernel-Stem}-generic-hwe-18.04 [i386]
 
 == powerpc ==
 
@@ -26,23 +27,28 @@ restricted modules.
 
  * grub-ieee1275 [ppc64el]
  * ${Kernel-Stem}-generic [ppc64el]       # default install kernel for ppc64el
+ * ${Kernel-Stem}-generic-hwe-18.04 [ppc64el]
 
 == amd64 ==
 
  * ${Kernel-Stem}-generic [amd64]         # amd64 kernel, works on all machines though not optimised
+ * ${Kernel-Stem}-generic-hwe-18.04 [amd64]
 
 == armel / armhf ==
 
  * ${Kernel-Stem}-generic [armhf]         # multiplatform kernel, will eventually replace others
+ * ${Kernel-Stem}-generic-hwe-18.04 [armhf]
 
 == arm64 ==
 
  * grub-efi-arm64 [arm64]
  * ${Kernel-Stem}-generic [arm64]
+ * ${Kernel-Stem}-generic-hwe-18.04 [arm64]
 
 == s390x ==
 
  * ${Kernel-Stem}-generic [s390x]
+ * ${Kernel-Stem}-generic-hwe-18.04 [s390x]
  * s390-tools [s390x]
  * sysconfig-hardware [s390x]
 
