@@ -41,7 +41,6 @@
  * dh-make
  * dupload           # ColinWatson
  * lintian
- * pbuilder          # ColinWatson
  * apt-listchanges
  * dput
  * pkgstriptranslations # for removing gettext data on the buildds
