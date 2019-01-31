@@ -38,6 +38,7 @@
 == Package Maintainance ==
 
  * debhelper         # ColinWatson
+ * devscripts
  * dh-make
  * dupload           # ColinWatson
  * lintian
