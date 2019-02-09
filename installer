@@ -171,7 +171,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
 == amd64 ==
 
- * Kernel-Version: 4.15.0-44-generic 4.18.0-14-generic
+ * Kernel-Version: 4.15.0-45-generic 4.18.0-15-generic
  * /^.*-firmware-.*-di/ [amd64]
  * /^.*-modules-.*-di/ [amd64]
  * kernel-image-${Kernel-Version}-di [amd64]
@@ -181,7 +181,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
 == arm64 ==
 
- * Kernel-Version: 4.15.0-44-generic 4.18.0-14-generic
+ * Kernel-Version: 4.15.0-45-generic 4.18.0-15-generic
  * /^.*-firmware-.*-di/ [arm64]
  * /^.*-modules-.*-di/ [arm64]
  * kernel-image-${Kernel-Version}-di [arm64]
@@ -190,7 +190,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
 == armel ==
 
- * Kernel-Version: 4.15.0-44-generic 4.18.0-14-generic
+ * Kernel-Version: 4.15.0-45-generic 4.18.0-15-generic
  * /^.*-firmware-.*-di/ [armel]
  * /^.*-modules-.*-di/ [armel]
  * kernel-image-${Kernel-Version}-di [armel]
@@ -199,7 +199,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
 == armhf ==
 
- * Kernel-Version: 4.15.0-44-generic 4.15.0-44-generic-lpae 4.18.0-14-generic 4.18.0-14-generic-lpae
+ * Kernel-Version: 4.15.0-45-generic 4.15.0-45-generic-lpae 4.18.0-15-generic 4.18.0-15-generic-lpae
  * /^.*-firmware-.*-di/ [armhf]
  * /^.*-modules-.*-di/ [armhf]
  * kernel-image-${Kernel-Version}-di [armhf]
@@ -210,7 +210,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
 == i386 ==
 
- * Kernel-Version: 4.15.0-44-generic 4.18.0-14-generic
+ * Kernel-Version: 4.15.0-45-generic 4.18.0-15-generic
  * /^.*-firmware-.*-di/ [i386]
  * /^.*-modules-.*-di/ [i386]
  * kernel-image-${Kernel-Version}-di [i386]
@@ -219,7 +219,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
 == powerpc ==
 
- * Kernel-Version: 4.15.0-44-powerpc-smp 4.15.0-44-generic
+ * Kernel-Version: 4.15.0-45-powerpc-smp 4.15.0-45-generic
  * /^.*-firmware-.*-di/ [powerpc]
  * /^.*-modules-.*-di/ [powerpc]
  * kernel-image-${Kernel-Version}-di [powerpc]
@@ -228,7 +228,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
 == ppc64el ==
 
- * Kernel-Version: 4.15.0-44-generic 4.18.0-14-generic
+ * Kernel-Version: 4.15.0-45-generic 4.18.0-15-generic
  * /^.*-firmware-.*-di/ [ppc64el]
  * /^.*-modules-.*-di/ [ppc64el]
  * kernel-image-${Kernel-Version}-di [ppc64el]
@@ -238,7 +238,7 @@ This list was originally constructed based on a [http://people.debian.org/~cjwat
 
 == s390x ==
 
- * Kernel-Version: 4.15.0-44-generic 4.18.0-14-generic
+ * Kernel-Version: 4.15.0-45-generic 4.18.0-15-generic
  * /^.*-firmware-.*-di/ [s390x]
  * /^.*-modules-.*-di/ [s390x]
  * kernel-image-${Kernel-Version}-di [s390x]
