@@ -20,7 +20,7 @@
  * autofs
  * awstats
  * acct
- * authbind
+ * authbind # still in use in launchpad, https://lists.ubuntu.com/archives/ubuntu-devel/2019-February/040591.html
  * siege
  * bonnie++
  * sqlite3		# CLI utility, libs in main. nijaba
