@@ -16,6 +16,9 @@
  * %linux-meta-kvm
  * %linux-gcp
  * %linux-meta-gcp
+ * %linux-oracle
+ * %linux-signed-oracle
+ * %linux-meta-oracle
  * chrony # ntpd replaced by chrony >=18.04 (LP: #1744072)
  * gce-compute-image-packages # Google Compute Engine
  * walinuxagent
