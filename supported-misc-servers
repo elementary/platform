@@ -155,13 +155,6 @@ OpenStack:
  * cinder-scheduler
  * cinder-backup
 
- * masakari-api # https://bugs.launchpad.net/bugs/1815991
- * masakari-engine # https://bugs.launchpad.net/bugs/1815991
- * masakari-host-monitor # https://bugs.launchpad.net/bugs/1815991
- * masakari-instance-monitor # https://bugs.launchpad.net/bugs/1815991
- * masakari-introspective-instance-monitor # https://bugs.launchpad.net/bugs/1815991
- * masakari-process-monitor # https://bugs.launchpad.net/bugs/1815991
-
  * neutron-server
  * neutron-l3-agent
  * neutron-dhcp-agent
