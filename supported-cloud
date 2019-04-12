@@ -26,6 +26,7 @@
  * rax-nova-agent
  * socat # LP: #1756870
  * pv  # LP: #1746891
+ * lxd-installer # installed by livecd-rootfs in minimized cloud images
 
 = Architecture specific packages =
 
