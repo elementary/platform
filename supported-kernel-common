@@ -3,6 +3,7 @@
  * %linux
  * %linux-meta
  * %linux-signed
+ * %linux-restricted-modules
  * %linux-oem
  * %linux-meta-oem
  * %linux-signed-oem
