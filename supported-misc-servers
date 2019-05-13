@@ -125,11 +125,13 @@ OpenStack:
  * nova-scheduler # James Page LP: #1180084
  * nova-conductor
 
- * swift-account
- * swift-container
- * swift-doc
- * swift-object
- * swift-proxy
+ ## Demote swift until ported to python3
+ ## To be promoted before release, or as an SRU
+ # * swift-account
+ # * swift-container
+ # * swift-doc
+ # * swift-object
+ # * swift-proxy
 
  * glance
 
