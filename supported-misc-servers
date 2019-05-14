@@ -21,7 +21,6 @@ Must also consider webmail and so on...
 VPN:
 
  * strongswan # ipsec vpn - jpds/14.04 (LP: #1266066)
- * strongswan-ike
 
 Web servers:
 
