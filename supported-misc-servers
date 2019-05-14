@@ -14,7 +14,7 @@ Email:
  * exim4-daemon-heavy
  * exim4-daemon-light
  * exim4-doc-html
- * mail-stack-delivery
+ * dovecot-core
 
 Must also consider webmail and so on...
 
