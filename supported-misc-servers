@@ -22,10 +22,6 @@ VPN:
 
  * strongswan # ipsec vpn - jpds/14.04 (LP: #1266066)
  * strongswan-ike
- * strongswan-tnc-base
- * strongswan-tnc-client
- * strongswan-tnc-pdp
- * strongswan-tnc-server
 
 Web servers:
 
