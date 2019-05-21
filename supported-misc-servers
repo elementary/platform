@@ -138,9 +138,8 @@ OpenStack:
  * neutron-linuxbridge-agent
  * neutron-lbaas-agent
  * neutron-metadata-agent
- * neutron-vpn-agent
 
- * python-neutron-vpnaas # https://bugs.launchpad.net/bugs/1482765
+ * python3-neutron-vpnaas # https://bugs.launchpad.net/bugs/1482765
 
  * heat-engine
  * heat-api
