@@ -28,7 +28,6 @@ Task-Test-new-install: install skip
  * pciutils
  * usbutils
  * time
- * (mlocate)
  * (bash-completion)
 
 == Filesystems ==
