@@ -101,10 +101,12 @@ OpenStack:
  * nova-scheduler # James Page LP: #1180084
  * nova-conductor
 
+ * swift
  * swift-account
  * swift-container
  * swift-doc
  * swift-object
+ * swift-object-expirer
  * swift-proxy
 
  * glance
