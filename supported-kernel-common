@@ -4,9 +4,15 @@
  * %linux-meta
  * %linux-signed
  * %linux-restricted-modules
+ * %linux-hwe
+ * %linux-meta-hwe
+ * %linux-signed-hwe
  * %linux-oem
  * %linux-meta-oem
  * %linux-signed-oem
+ * %linux-oem-osp1
+ * %linux-meta-oem-osp1
+ * %linux-signed-oem-osp1
  * %linux-meta-snapdragon
  * kexec-tools
  * thermald

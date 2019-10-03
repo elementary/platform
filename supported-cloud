@@ -10,8 +10,6 @@
  * %linux-meta-azure
  * %linux-gke
  * %linux-meta-gke
- * %linux-hwe
- * %linux-meta-hwe
  * %linux-kvm
  * %linux-meta-kvm
  * %linux-gcp
@@ -19,12 +17,6 @@
  * %linux-oracle
  * %linux-signed-oracle
  * %linux-meta-oracle
- * %linux-oem # deskto/server/laptop OEM images
- * %linux-meta-oem
- * %linux-signed-oem
- * %linux-oem-osp1 # desktop/server/laptop OEM images
- * %linux-meta-oem-osp1
- * %linux-signed-oem-osp1
  * chrony # ntpd replaced by chrony >=18.04 (LP: #1744072)
  * ec2-hibinit-agent # EC2
  * gce-compute-image-packages # Google Compute Engine
