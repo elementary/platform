@@ -13,6 +13,7 @@
  * %linux-oem-osp1
  * %linux-meta-oem-osp1
  * %linux-signed-oem-osp1
+ * %linux-snapdragon
  * %linux-meta-snapdragon
  * kexec-tools
  * thermald
