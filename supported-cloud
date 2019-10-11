@@ -4,18 +4,22 @@
  * cloud-guest-utils
  * hibagent
  * %linux-aws
+ * %linux-restricted-modules-aws
  * %linux-meta-aws
  * %linux-azure
  * %linux-signed-azure
+ * %linux-restricted-modules-azure
  * %linux-meta-azure
  * %linux-gke
  * %linux-meta-gke
  * %linux-kvm
  * %linux-meta-kvm
  * %linux-gcp
+ * %linux-restricted-modules-gcp
  * %linux-meta-gcp
  * %linux-oracle
  * %linux-signed-oracle
+ * %linux-restricted-modules-oracle
  * %linux-meta-oracle
  * chrony # ntpd replaced by chrony >=18.04 (LP: #1744072)
  * ec2-hibinit-agent # EC2
