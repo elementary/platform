@@ -10,8 +10,6 @@
  * %linux-signed-azure
  * %linux-restricted-modules-azure
  * %linux-meta-azure
- * %linux-gke
- * %linux-meta-gke
  * %linux-kvm
  * %linux-meta-kvm
  * %linux-gcp
