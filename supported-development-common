@@ -58,10 +58,6 @@
 
  * germinate         # quis custodiet ipsos custodes?
 
-== Snap ==
-
- * ubuntu-core-libs  # Default libraries for Ubuntu Core
-
 = Shells =
 
  * zsh
