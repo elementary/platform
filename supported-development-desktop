@@ -8,15 +8,6 @@
 == Advanced editors ==
 
  * vim          # Needs to stay off server CDs because it pulls in Gnome
- * emacs
- * emacs25
- * emacs25-el
- * emacs25-nox
-
-And some useful Emacs-related tools:
-
- * auctex
- * bbdb
 
 = Libraries =
 
