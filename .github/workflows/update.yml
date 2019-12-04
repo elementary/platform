@@ -1,0 +1,16 @@
+name: Update Metapackages
+
+on:
+  push:
+    branches:
+      - bionic
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container:
+      image: debian:stable-slim
+
+    steps:
+    - name: Update metapackages
+      run: ./update_metapackages.sh bionic
