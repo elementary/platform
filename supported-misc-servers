@@ -16,6 +16,10 @@ Email:
  * exim4-doc-html
  * dovecot-core
 
+Select the dummy MTA we want on i386
+
+ * lsb-invalid-mta [i386]
+
 Must also consider webmail and so on...
 
 VPN:
