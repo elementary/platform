@@ -39,6 +39,7 @@ Web applications:
 
 Utilities:
 
+ * gpsd    # optional to enhance chrony with HW based time data
  * htop    # used quite often in favor of top
  * logcheck		  # great security tool for any server
  * logcheck-database	  # useful for above
