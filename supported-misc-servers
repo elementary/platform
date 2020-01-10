@@ -84,8 +84,14 @@ Other:
  * samba-doc-pdf
  * rabbitmq-server
  * unzip
- * openvswitch
+
+Networking:
+
+ * openvswitch-switch
  * openvswitch-switch-dpdk
+
+ * ovn-central
+ * ovn-host
 
 OpenStack:
 
