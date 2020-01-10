@@ -75,6 +75,7 @@ Configuration Management:
 Storage:
 
  * ceph
+ * ceph-mds
  * radosgw
 
 Other:
