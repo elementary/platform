@@ -1,0 +1,48 @@
+name: Update Metapackages
+
+on:
+  push:
+    branches:
+      - focal
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container:
+      image: debian:stable-slim
+
+    steps:
+    # We need git to checkout the metapackages repository with git so keep it above
+    - name: Install dependencies
+      shell: bash
+      run: |
+        apt-get update
+        apt-get install -y git devscripts debootstrap germinate
+
+    - name: Checkout platform
+      uses: actions/checkout@v2
+
+    - name: Checkout metapackages
+      uses: actions/checkout@v2
+      with:
+        repository: elementary/metapackages
+        path: metapackages
+        token: "${{ secrets.GIT_USER_TOKEN }}"
+        ref: focal
+
+    - name: Update metapackages
+      shell: bash
+      env:
+        BRANCH: focal
+      run: |
+        cd metapackages
+        ./update
+        if git diff --quiet ; then
+            echo "Everything is up-to-date, nothing to commit"
+        else
+            echo "Committing new changes"
+            git add .
+            git commit -m "Automatic update via elementary platform"
+            git push origin "$BRANCH"
+            echo "Push complete"
+        fi
