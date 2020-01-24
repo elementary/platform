@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     container:
-      image: debian:stable-slim
+      image: ubuntu:rolling
 
     steps:
     # We need git to checkout the metapackages repository with git so keep it above
@@ -40,6 +40,8 @@ jobs:
         if git diff --quiet ; then
             echo "Everything is up-to-date, nothing to commit"
         else
+            git config --global user.email "builds@elementary.io"
+            git config --global user.name "elementaryBot"
             echo "Committing new changes"
             git add .
             git commit -m "Automatic update via elementary platform"
