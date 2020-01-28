@@ -1,15 +1,16 @@
 == Kernel ==
 
- * %linux
- * %linux-meta
- * %linux-signed
- * %linux-restricted-modules
+ * %linux-5.4
+ * %linux-meta-5.4
+ * %linux-signed-5.4
+ * %linux-restricted-modules-5.4
  * %linux-hwe
  * %linux-meta-hwe
  * %linux-signed-hwe
- * %linux-oem
- * %linux-meta-oem
- * %linux-signed-oem
+ * %linux-oem-5.4
+ * %linux-meta-oem-5.4
+ * %linux-signed-oem-5.4
+ * %linux-restricted-modules-oem-5.4
  * %linux-snapdragon
  * %linux-meta-snapdragon
  * kexec-tools
