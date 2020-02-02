@@ -51,6 +51,7 @@ Utilities:
  * nut # UPS management
  * nut-cgi
  * nut-snmp
+ * ndctl   # for management of nvdimm devices (LP: #1853506)
 
 Radius server:
 
