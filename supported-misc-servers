@@ -79,6 +79,7 @@ Storage:
  * ceph
  * ceph-mds
  * radosgw
+ * nfs-ganesha-ceph
 
 Other:
 
