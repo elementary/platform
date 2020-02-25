@@ -100,6 +100,10 @@ OpenStack:
 
  * ubuntu-cloud-keyring # keyring for the Ubuntu Cloud Archive
 
+ * masakari-host-monitor
+ * masakari-api
+ * masakari-engine
+
  * nova-api
  * nova-network
  * nova-objectstore
