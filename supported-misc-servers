@@ -210,3 +210,8 @@ IPv6 tools:
 Language Interpreters:
 
  * ruby
+
+Python transitional symlinks:
+
+ * python-dev-is-python3
+ * python-is-python3
