@@ -115,7 +115,7 @@ OpenStack:
  * nova-compute-kvm
  * nova-compute-lxc
  * nova-compute-lxd # James Page LP: #1540597
- * nova-vncproxy
+ * nova-spiceproxy
  * nova-cert
  * nova-scheduler # James Page LP: #1180084
  * nova-conductor
