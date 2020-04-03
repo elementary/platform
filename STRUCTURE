@@ -16,6 +16,7 @@ supported-development-desktop: standard
 supported-kernel-common: standard
 supported-kernel-desktop: standard
 supported-maas: standard
+community-maas: supported-maas standard
 supported-misc-servers: standard
 supported-hardware-common: standard
 supported-hardware-desktop: standard

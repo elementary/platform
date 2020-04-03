@@ -1,16 +1,10 @@
-= MAAS as a snap (sparkiegeek) =
+= MAAS as a snap (~maas-maintainers) =
 
 Staged Packages:
 
- * amtterm                 # AMT
- * libsoap-lite-perl       # Dependencies for AMT
- * libxml-parser-perl      # Dependencies for AMT
- * libxml-parser-lite-perl # Dependencies for AMT
- * wsmancli                # AMT
  * snmp                    # APC
  * wget                    # DLI
  * freeipmi-tools          # IPMI
- * ipmitool                # Moonshot
  * libvirt-clients         # Virsh
  * archdetect-deb
  * avahi-utils
