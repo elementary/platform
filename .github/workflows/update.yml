@@ -1,0 +1,50 @@
+name: Update Metapackages
+
+on:
+  push:
+    branches:
+      - bionic
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container:
+      image: ubuntu:rolling
+
+    steps:
+    # We need git to checkout the metapackages repository with git so keep it above
+    - name: Install dependencies
+      shell: bash
+      run: |
+        apt-get update
+        apt-get install -y git devscripts debootstrap germinate
+
+    - name: Checkout platform
+      uses: actions/checkout@v2
+
+    - name: Checkout metapackages
+      uses: actions/checkout@v2
+      with:
+        repository: elementary/metapackages
+        path: metapackages
+        token: "${{ secrets.GIT_USER_TOKEN }}"
+        ref: bionic
+
+    - name: Update metapackages
+      shell: bash
+      env:
+        BRANCH: bionic
+      run: |
+        cd metapackages
+        ./update
+        if git diff --quiet ; then
+            echo "Everything is up-to-date, nothing to commit"
+        else
+            git config --global user.email "builds@elementary.io"
+            git config --global user.name "elementaryBot"
+            echo "Committing new changes"
+            git add .
+            git commit -m "Automatic update via elementary platform"
+            git push origin "$BRANCH"
+            echo "Push complete"
+        fi
