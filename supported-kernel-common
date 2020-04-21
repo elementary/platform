@@ -13,8 +13,8 @@
  * %linux-restricted-modules-oem-5.6
  * %linux-riscv
  * %linux-meta-riscv
- * %linux-snapdragon
- * %linux-meta-snapdragon
+ * %linux-raspi
+ * %linux-meta-raspi
  * kexec-tools
  * thermald
  * kernel-wedge

@@ -43,7 +43,7 @@ These are commonly used filesystem support packages, here because someone settin
 
 These provide various networking services, all should be configured in a client-only state with the server de-activated unless the user requires it.
 
- * dnsutils       # LaMontJones
+ * bind9-dnsutils       # LaMontJones
  * ftp
  * iptables       # FabioMassimoDiNitto
  * (telnet)
