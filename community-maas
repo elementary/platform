@@ -1,5 +1,7 @@
 = MAAS as a snap (~maas-maintainers), universe packages =
 
+ * Feature: no-follow-recommends
+
 Staged Packages:
 
  * amtterm                 # AMT
