@@ -190,6 +190,8 @@ OpenStack:
 
  * placement-api # https://launchpad.net/bugs/1805691
 
+ * python3-heat-dashboard # https://bugs.launchpad.net/bugs/1750576
+
 KVM Virtualization Stack:
 # held via virt-host tasks before
 
