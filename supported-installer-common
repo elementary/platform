@@ -7,14 +7,6 @@
 
  * ppp-udeb # experimental
 
- * installation-guide-amd64 [amd64]
- * installation-guide-armhf [armhf]
- * installation-guide-i386 [i386]
- * installation-guide-powerpc [powerpc]
- * installation-guide-arm64 [arm64]
- * installation-guide-ppc64el [ppc64el]
- * installation-guide-s390x [s390x]
-
  * isolinux [amd64 i386]
  * lilo
  * lilo-installer [amd64 i386]
