@@ -1,7 +1,5 @@
 = Installer =
 
- * debian-installer # also has side-effect of pulling in installer image build system
- * debian-installer-udebs
  * gfxboot
  * gfxboot-theme-ubuntu
 

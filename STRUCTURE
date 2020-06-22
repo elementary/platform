@@ -20,7 +20,7 @@ community-maas: supported-maas standard
 supported-misc-servers: standard
 supported-hardware-common: standard
 supported-hardware-desktop: standard
-supported-installer-common: standard installer
+supported-installer-common: standard
 supported-installer-desktop: standard
 supported-network-common: standard
 supported-network-client: standard
