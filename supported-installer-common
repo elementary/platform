@@ -1,7 +1,5 @@
 = Installer =
 
- * ppp-udeb # experimental
-
  * grub-efi [amd64 i386]
  * grub-efi-amd64 [amd64 i386]
  * grub-efi-ia32 [amd64 i386]
@@ -11,6 +9,3 @@
  * grub-uboot [armhf]
  * grub-xen [amd64 i386]
  * sbsigntool
-
- * live-installer
-
