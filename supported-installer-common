@@ -1,5 +1,6 @@
 = Installer =
 
+ * debian-installer # just an html page explaining it is gone
  * grub-efi [amd64 i386]
  * grub-efi-amd64 [amd64 i386]
  * grub-efi-ia32 [amd64 i386]
