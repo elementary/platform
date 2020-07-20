@@ -199,6 +199,8 @@ OpenStack:
  * octavia-housekeeping
  * octavia-worker
 
+ * python3-ovn-octavia-provider # https://bugs.launchpad.net/bugs/1864666
+
 KVM Virtualization Stack:
 # held via virt-host tasks before
 
