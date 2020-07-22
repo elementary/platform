@@ -61,6 +61,8 @@ Authentication:
 
  * sssd
  * sssd-tools
+ * adcli
+ * realmd
 
 Backup:
 
