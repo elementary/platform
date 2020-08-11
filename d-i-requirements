@@ -1,27 +1,14 @@
 These packages may be installed dynamically by d-i based on installation
 parameters. They should generally be made available on CDs.
 
-== Package management ==
-
- * tasksel           # used by installer to install desktop etc.
-
 == Filesystems ==
 
  * xfsprogs
- * jfsutils
- * hfsplus [powerpc]  # ColinWatson
- * reiserfsprogs
  * btrfs-tools
  * lvm2
  * mdadm
  * dmsetup
- * dmraid
  * cryptsetup
-
-== For language support in the installer ==
-
- * console-terminus
- * unifont
 
 == Hardware & Network Access ==
 
@@ -31,12 +18,8 @@ parameters. They should generally be made available on CDs.
 
  * grub-efi [amd64]
  * grub-efi-amd64-signed [amd64]
+ * grub-efi-arm64-signed [arm64]
  * shim-signed [amd64 arm64]
  * shim-canonical-unsigned [amd64 arm64]
- * mkvmlinuz [powerpc] # for nobootloader
- * lupin-support [amd64 i386] # installer-for-windows
- * uboot-mkimage [armel armhf] # needed on dove and omap for uboot
- * uboot-envtools [armel armhf] # needed on omap for uboot
- * installation-report
  * fwupd-signed
  * opal-prd [ppc64el]
