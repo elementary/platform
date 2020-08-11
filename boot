@@ -16,12 +16,6 @@ restricted modules.
  * grub-pc [amd64 i386]
  * ${Kernel-Stem}-generic [i386]          # our chosen default install kernel
 
-== powerpc ==
-
- * yaboot [powerpc]
- * ${Kernel-Stem}-powerpc-smp [powerpc]   # powerpc kernel, 32-bit machines
- * ${Kernel-Stem}-generic [powerpc]       # powerpc kernel, 64-bit machines
-
 == ppc64el ==
 
  * grub-ieee1275 [ppc64el]
@@ -44,7 +38,6 @@ restricted modules.
 
  * ${Kernel-Stem}-generic [s390x]
  * s390-tools [s390x]
- * sysconfig-hardware [s390x]
 
 == Germinate workarounds ==
 
