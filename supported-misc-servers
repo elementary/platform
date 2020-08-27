@@ -68,9 +68,13 @@ Backup:
 
  * mtx
 
-Proxy:
+High Availability:
 
  * haproxy #ClintByrum server-maverick-uds-cloud-loadbalancing
+ * ipvsadm
+ * keepalived
+ * pacemaker
+ * multipath-tools-boot
 
 Configuration Management:
 
