@@ -264,6 +264,8 @@ KVM Virtualization Stack:
  * qemu-system-s390x [s390x]
  * qemu-kvm
  * libvirt-daemon-system
+ * libvirt-clients
+ * python3-libvirt
 
 Other Virtualization:
 
