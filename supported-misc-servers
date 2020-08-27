@@ -103,6 +103,9 @@ Authentication:
  * realmd
  * slapd
  * ldap-utils
+ * libpam-krb5
+ * libpam-mount
+ * libpam-p11
 
 Backup:
 
