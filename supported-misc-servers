@@ -145,6 +145,7 @@ FTP:
 Networking:
 
  * isc-dhcp-server
+ * radvd
 
  * openvswitch-switch
  * openvswitch-switch-dpdk
