@@ -125,6 +125,8 @@ Other:
  * unzip
  * containerd # for OCF support (LP: #1819761)
  * runc # for OCF support (LP: #1817336)
+ * clamav
+ * clamav-daemon
 
 Networking:
 
