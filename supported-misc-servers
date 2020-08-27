@@ -2,9 +2,9 @@
 
 Database:
 
- * postgresql-plperl-10
- * postgresql-plpython3-10
- * postgresql-pltcl-10
+ * postgresql-plperl-*
+ * postgresql-plpython3-*
+ * postgresql-pltcl-*
 
 Email:
 
