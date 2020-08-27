@@ -15,6 +15,15 @@ Email:
  * exim4-daemon-light
  * exim4-doc-html
  * dovecot-core
+ * postfix
+ * postfix-cdb
+ * postfix-doc
+ * postfix-ldap
+ * postfix-mysql
+ * postfix-pcre
+ * postfix-pgsql
+ * amavisd-new
+ * spamassassin
 
 Select the dummy MTA we want on i386
 
