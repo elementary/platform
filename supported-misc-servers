@@ -32,6 +32,7 @@ Web servers:
  * libapache2-mod-auth-pgsql # not in lamp task, but relevant
  * libapache2-mod-auth-plain # not in lamp task, but relevant
  * libapache2-mod-perl2      # not in lamp task, might consider demotion for 22.04?
+ * libapache2-mod-php
 
 Web applications:
 
@@ -39,6 +40,24 @@ Web applications:
  * memcached #ClintByrum - server-maverick-uds-web20-workloads
  * libmemcached-dev #ClintByrum - server-maverick-uds-web20-workloads
  * rabbitmq-server
+ * php
+ * php-pear
+ * php-cgi
+ * php-cli
+ * php-curl
+ * php-gd
+ * php-gmp
+ * php-ldap
+ * php-mysql
+ * php-odbc
+ * php-pgsql
+ * php-pspell
+ * php-recode
+ * php-snmp
+ * php-sqlite3
+ * php-tidy
+ * php-xmlrpc
+ * php-xml
 
 Proxy:
 
