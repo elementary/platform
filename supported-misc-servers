@@ -262,6 +262,10 @@ KVM Virtualization Stack:
  * qemu-kvm
  * libvirt-daemon-system
 
+Other Virtualization:
+
+ * open-vm-tools
+
 Cloud:
 
  * cloud-utils
