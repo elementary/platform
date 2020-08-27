@@ -19,3 +19,8 @@ Log parsing and status gathering:
  * logwatch
  * lsscsi
  * sysstat
+
+Systems management:
+
+ * freeipmi-tools
+ * openipmi
