@@ -29,6 +29,9 @@ VPN:
 Web servers:
 
  * nginx
+ * libapache2-mod-auth-pgsql # not in lamp task, but relevant
+ * libapache2-mod-auth-plain # not in lamp task, but relevant
+ * libapache2-mod-perl2      # not in lamp task, might consider demotion for 22.04?
 
 Web applications:
 
