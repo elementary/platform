@@ -283,3 +283,17 @@ Python transitional symlinks:
 
  * python-dev-is-python3
  * python-is-python3
+
+ppp stack:
+
+# This stack is no more very relevant, but was in the early days of internet
+# dialin. This stack is a candidate for demotion, but OTOH received no
+# bugs/CVEs over the last years and therefore can stay as-is for now.
+# ppp itself is still recommended by network-manager and thereby has quite
+# an install base.
+
+ * pptpd
+ * pptp-linux
+ * libatm1
+ * ppp
+ * pppconfig
