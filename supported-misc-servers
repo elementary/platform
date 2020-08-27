@@ -67,6 +67,8 @@ Authentication:
  * sssd-tools
  * adcli
  * realmd
+ * slapd
+ * ldap-utils
 
 Backup:
 
