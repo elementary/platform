@@ -114,6 +114,8 @@ High Availability:
  * keepalived
  * pacemaker
  * multipath-tools-boot
+ * nbd-server
+ * drbd-utils
 
 Configuration Management:
 
