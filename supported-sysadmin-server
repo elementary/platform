@@ -1,9 +1,21 @@
 = System Administration Tools =
 
+Hardware related tools:
+
  * numactl   # LP: #1700826
+
+Network related:
+
  * iptraf-ng
  * dnstracer
  * wakeonlan
  * iputils-arping
+
+Log parsing and status gathering:
+
  * checksecurity
  * aide
+ * smartmontools
+ * logwatch
+ * lsscsi
+ * sysstat
