@@ -138,6 +138,8 @@ FTP:
 
 Networking:
 
+ * isc-dhcp-server
+
  * openvswitch-switch
  * openvswitch-switch-dpdk
 
