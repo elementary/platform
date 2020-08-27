@@ -9,3 +9,4 @@
  * radosgw
  * nfs-ganesha-ceph
  * targetcli-fb             # targetcli-fb promotion to main (LP: #1854362)
+ * libaio1
