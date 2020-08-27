@@ -11,3 +11,5 @@
  * targetcli-fb             # targetcli-fb promotion to main (LP: #1854362)
  * libaio1
  * open-iscsi
+ * nfs-kernel-server
+ * nfs-common
