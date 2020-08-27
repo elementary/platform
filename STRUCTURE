@@ -26,6 +26,7 @@ supported-installer-desktop: standard
 supported-network-common: standard
 supported-network-client: standard
 supported-sysadmin-common: standard
-supported-server: supported-misc-servers supported-hardware-common supported-hardware-server supported-installer-common supported-network-common supported-sysadmin-common build-essential supported-development-common supported-kernel-common supported-cloud supported-maas
+supported-sysadmin-server: standard
+supported-server: supported-misc-servers supported-hardware-common supported-hardware-server supported-installer-common supported-network-common supported-sysadmin-common supported-sysadmin-server build-essential supported-development-common supported-kernel-common supported-cloud supported-maas
 supported-desktop: supported-hardware-desktop supported-installer-desktop supported-hardware-common supported-installer-common supported-network-common supported-network-client supported-sysadmin-common build-essential supported-development-common supported-development-desktop supported-kernel-common supported-kernel-desktop
 supported-common: supported-server supported-desktop 
