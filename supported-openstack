@@ -19,16 +19,13 @@ OpenStack:
  * masakari-engine
 
  * nova-api
- * nova-network
- * nova-objectstore
+ * nova-common
  * nova-scheduler
  * nova-volume
  * nova-compute
  * nova-compute-kvm
  * nova-compute-lxc
- * nova-compute-lxd # James Page LP: #1540597
  * nova-spiceproxy
- * nova-cert
  * nova-scheduler # James Page LP: #1180084
  * nova-conductor
 
@@ -52,8 +49,6 @@ OpenStack:
  * python3-neutronclient
  * python3-osc-placement # https://bugs.launchpad.net/bugs/1790921
 
- * ceilometer-collector
- * ceilometer-api
  * ceilometer-agent-compute
  * ceilometer-agent-central
 
@@ -69,7 +64,6 @@ OpenStack:
  * neutron-dhcp-agent
  * neutron-openvswitch-agent
  * neutron-linuxbridge-agent
- * neutron-lbaas-agent
  * neutron-metadata-agent
  * neutron-ovn-metadata-agent
 
@@ -78,7 +72,6 @@ OpenStack:
  * heat-engine
  * heat-api
  * heat-api-cfn
- * heat-api-cloudwatch
 
  * aodh-api # https://bugs.launchpad.net/bugs/1546728
  * aodh-evaluator
