@@ -4,7 +4,7 @@ Ubiquity needs full filesystem support for the partitioner.
  * jfsutils
  * hfsplus [powerpc]  # ColinWatson
  * reiserfsprogs
- * btrfs-tools
+ * btrfs-progs
  * ntfs-3g
  * lvm2
  * dmraid
