@@ -38,12 +38,6 @@ stunnel
 # mdz, 2004-06-15
 apache
 
-# gstreamer1.0-packagekit Recommends 'gnome-software | apper | packagekit-installer',
-# with packagekit-installer provided by ubuntu-desktop
-# the issue is that the feature is provided by snap-store and
-# we don't have a way to tell apt or germinate about that snap
-gnome-software
-
 ## Packages which haven't shown up yet; make sure they don't sneak in
 
 # mdz, 2004-06-14: many, many bugs and unmaintained (both debian and upstream)
