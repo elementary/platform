@@ -6,6 +6,10 @@ Database:
  * postgresql-plpython3-*
  * postgresql-pltcl-*
 
+ # the mysql-server is also seeded via lamp-server task
+ * mysql-server
+ * mysql-client
+
 Email:
 
  * fetchmail
