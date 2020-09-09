@@ -1,5 +1,9 @@
 = System Administration Tools =
 
+Select the dummy MTA we want on i386
+
+ * lsb-invalid-mta [i386]
+
 Hardware related tools:
 
  * numactl   # LP: #1700826
