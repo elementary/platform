@@ -142,6 +142,7 @@ FTP:
  * vsftpd
  * tftpd-hpa
  * tftp-hpa
+ * lftp
 
 Networking:
 
