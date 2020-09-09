@@ -10,6 +10,7 @@ installer:
 build-essential: required
 language-packs: desktop-common
 live-common: standard
+raspi-common: standard
 supported-cloud: standard
 supported-development-common: standard
 supported-development-desktop: standard
