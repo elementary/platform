@@ -3,7 +3,7 @@ Ubuntu-family system (server or desktop) running on Raspberry Pi.
 
 = Hardware and Architecture Support =
 
- * cloud-guest-utils        # growpart (resize partitions)
+ * cloud-initramfs-growroot
  * flash-kernel
  * libraspberrypi0
  * libraspberrypi-bin
@@ -11,3 +11,4 @@ Ubuntu-family system (server or desktop) running on Raspberry Pi.
  * pi-bluetooth
  * rpi-eeprom
  * wpasupplicant
+
