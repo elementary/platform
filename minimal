@@ -24,7 +24,6 @@ Programs and packages necessary for both the proper functionality of the system 
  * adduser
  * apt
  * apt-utils         # apt-extracttemplates is required for debconf preconfiguration
- * bzip2
  * console-setup     # https://blueprints.launchpad.net/ubuntu/+spec/sane-installer-keyboard
  * debconf-i18n      # buildd chroots don't need this, but other systems generally do
  * kbd
