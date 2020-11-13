@@ -31,6 +31,7 @@
  * lxd-installer # installed by livecd-rootfs in minimized cloud images
  * sysfsutils
  * cloud-initramfs-rooturl # maas images initrd uses this
+ * nvme-cli # GKE (LP: #1889688)
 
 = Architecture specific packages =
 
