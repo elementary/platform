@@ -46,3 +46,9 @@
  * sysconfig-hardware [s390x]
 
  * grub-legacy-ec2
+
+ * u-boot-menu
+ * u-boot-qemu
+ * u-boot-sifive
+ * u-boot-rpi
+ * opensbi
