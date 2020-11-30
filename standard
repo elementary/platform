@@ -46,6 +46,7 @@ These provide various networking services, all should be configured in a client-
  * bind9-dnsutils       # LaMontJones
  * ftp
  * iptables       # FabioMassimoDiNitto
+ * nftables       # xnox, nft is the new iptables
  * (telnet)
  * (openssh-client) # ColinWatson
  * rsync          # would be just client but they are the same binary apparently
