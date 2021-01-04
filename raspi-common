@@ -7,8 +7,6 @@ Ubuntu-family system (server or desktop) running on Raspberry Pi.
  * flash-kernel
  * libraspberrypi0
  * libraspberrypi-bin
- * linux-firmware-raspi2
- * pi-bluetooth
  * rpi-eeprom
  * wpasupplicant
 
