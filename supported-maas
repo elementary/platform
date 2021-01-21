@@ -5,7 +5,14 @@ Staged Packages:
  * snmp                    # APC
  * wget                    # DLI
  * freeipmi-tools          # IPMI
+ * ipmitool                # IPMI
  * libvirt-clients         # Virsh
+ * pxelinux                # Booting legacy x86, PowerNV, Windows
+ * syslinux-common         # Booting legacy x86, PowerNV, Windows
+ * shim-signed             # Booting UEFI secure boot AMD64
+ * grub-efi-amd64-signed   # Booting UEFI AMD64
+ * grub-efi-arm64-bin      # Booting UEFI ARM64
+ * grub-ieee1275-bin       # Booting PPC64
  * archdetect-deb
  * avahi-utils
  * bind9
