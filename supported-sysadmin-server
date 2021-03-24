@@ -22,6 +22,7 @@ Log parsing and status gathering:
  * smartmontools
  * logwatch
  * lsscsi
+ * rsyslog-gnutls   # LP: #388605 - encrypt data sent by rsyslog for compliance
  * sysstat
 
 Systems management:
