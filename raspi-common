@@ -9,4 +9,5 @@ Ubuntu-family system (server or desktop) running on Raspberry Pi.
  * libraspberrypi-bin
  * rpi-eeprom
  * wpasupplicant
+ * ubuntu-raspi-settings
 
