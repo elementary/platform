@@ -21,7 +21,7 @@ Task-Test-new-install: install skip
  * logrotate
  * man-db            # ColinWatson
  * (manpages)        # ColinWatson
- * mime-support      # establishes framework for dealing with MIME
+ * media-types       # establishes framework for dealing with MIME
  * (nano)            # we need a text editor less scary than vi
  * parted
  * psmisc            # utilities for /proc such as killall, pstree, fuser
