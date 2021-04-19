@@ -28,6 +28,7 @@ Task-Test-new-install: install skip
  * pciutils
  * usbutils
  * time
+ * xz-utils          # previously pulled in by mime-support
  * (bash-completion)
 
 == Filesystems ==
