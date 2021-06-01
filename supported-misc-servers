@@ -86,6 +86,7 @@ Utilities:
  * nut-cgi
  * nut-snmp
  * ndctl   # for management of nvdimm devices (LP: #1853506)
+ * prips  # LP: #1930207; needed for Google images.
  * snmp
  * snmpd
 
