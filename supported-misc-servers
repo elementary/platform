@@ -105,6 +105,7 @@ Authentication:
  * libpam-krb5
  * libpam-mount
  * libpam-p11
+ * python-aws-requests-auth  # LP: #1915445; needed for Google images.
 
 Backup:
 
