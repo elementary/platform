@@ -8,4 +8,3 @@
  * cd-boot-images-arm64 # the live CD bootloaders
  * cd-boot-images-ppc64el # the live CD bootloaders
  * cdebconf # useful for testing, but not used by default yet
- * jasper # used instead of casper for preinstalled armel images
