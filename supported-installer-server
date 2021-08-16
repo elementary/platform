@@ -1,3 +1,1 @@
-= Installer =
-
- * probert # needed by subiquity
+Empty installer-server seed, in case any other seeds still reference it.
