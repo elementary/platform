@@ -98,10 +98,4 @@ OpenStack:
  * python3-heat-dashboard # https://bugs.launchpad.net/bugs/1750576
  * python3-octavia-dashboard # https://bugs.launchpad.net/bugs/1801094
 
- * octavia-api # https://bugs.launchpad.net/bugs/1888309
- * octavia-driver-agent
- * octavia-health-manager
- * octavia-housekeeping
- * octavia-worker
-
  * python3-ovn-octavia-provider # https://bugs.launchpad.net/bugs/1864666
