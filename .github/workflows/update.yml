@@ -3,7 +3,7 @@ name: Update Metapackages
 on:
   push:
     branches:
-      - focal
+      - jammy
 
 jobs:
   build:
@@ -28,12 +28,12 @@ jobs:
         repository: elementary/metapackages
         path: metapackages
         token: "${{ secrets.GIT_USER_TOKEN }}"
-        ref: focal
+        ref: jammy
 
     - name: Update metapackages
       shell: bash
       env:
-        BRANCH: focal
+        BRANCH: jammy
       run: |
         cd metapackages
         ./update
