@@ -15,7 +15,6 @@
  * autotools-dev
  * libtool
  * pkg-config
- * ccache            # C/C++ development, package development
  * exuberant-ctags   # ColinWatson
  * linux32		# without it, biarch buildds can go wonky
  * autopkgtest
