@@ -172,7 +172,7 @@ Cloud:
 
 IPv6 tools:
 
- * quagga                 # RobertCollins
+ * frr                 # MIR LP: #1951834, replaces quagga
 
 Language Interpreters:
 
