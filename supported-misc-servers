@@ -35,6 +35,7 @@ VPN:
 
  * strongswan # ipsec vpn - jpds/14.04 (LP: #1266066)
  * openvpn
+ * wireguard-tools # (MIR LP: #1950317)
 
 Web servers:
 
