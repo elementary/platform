@@ -23,7 +23,7 @@
  * libc6-prof [amd64 i386 powerpc sparc]
  * libc6.1-prof [ia64]
  * gfortran-multilib
- * libstdc++-10-pic
+ * libstdc++-11-pic
  * texinfo-doc-nonfree  # GFDL'd documentation for texinfo
  * make-doc
  * cmake
