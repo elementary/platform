@@ -4,13 +4,16 @@
  * %linux-meta
  * %linux-signed
  * %linux-restricted-modules
+ * %linux-lowlatency
+ * %linux-meta-lowlatency
+ * %linux-signed-lowlatency
  * %linux-hwe
  * %linux-meta-hwe
  * %linux-signed-hwe
- * %linux-oem-5.6
- * %linux-meta-oem-5.6
- * %linux-signed-oem-5.6
- * %linux-restricted-modules-oem-5.6
+ * %linux-oem
+ * %linux-meta-oem
+ * %linux-signed-oem
+ * %linux-restricted-modules-oem
  * %linux-riscv
  * %linux-meta-riscv
  * %linux-raspi
