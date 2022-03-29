@@ -19,6 +19,10 @@
  * %linux-meta-riscv
  * %linux-raspi
  * %linux-meta-raspi
+ * %linux-intel-iotg
+ * %linux-meta-intel-iotg
+ * %linux-signed-intel-iotg
+ * %linux-restricted-modules-intel-iotg
  * kexec-tools
  * thermald
  * kernel-wedge
