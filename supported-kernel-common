@@ -8,6 +8,7 @@
  * %linux-meta-lowlatency
  * %linux-signed-lowlatency
  * %linux-restricted-modules-lowlatency
+ * %linux-restricted-signatures-lowlatency
  * %linux-hwe
  * %linux-meta-hwe
  * %linux-signed-hwe
@@ -15,6 +16,7 @@
  * %linux-meta-oem
  * %linux-signed-oem
  * %linux-restricted-modules-oem
+ * %linux-restricted-signatures-oem
  * %linux-riscv
  * %linux-meta-riscv
  * %linux-raspi
@@ -23,6 +25,7 @@
  * %linux-meta-intel-iotg
  * %linux-signed-intel-iotg
  * %linux-restricted-modules-intel-iotg
+ * %linux-restricted-signatures-intel-iotg
  * kexec-tools
  * thermald
  * kernel-wedge

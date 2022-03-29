@@ -5,15 +5,18 @@
  * hibagent
  * %linux-aws
  * %linux-restricted-modules-aws
+ * %linux-restricted-signatures-aws
  * %linux-meta-aws
  * %linux-azure
  * %linux-signed-azure
  * %linux-restricted-modules-azure
+ * %linux-restricted-signatures-azure
  * %linux-meta-azure
  * %linux-kvm
  * %linux-meta-kvm
  * %linux-gcp
  * %linux-restricted-modules-gcp
+ * %linux-restricted-signatures-gcp
  * %linux-meta-gcp
  * %linux-gke
  * %linux-meta-gke
@@ -21,6 +24,7 @@
  * %linux-oracle
  * %linux-signed-oracle
  * %linux-restricted-modules-oracle
+ * %linux-restricted-signatures-oracle
  * %linux-meta-oracle
  * chrony # ntpd replaced by chrony >=18.04 (LP: #1744072)
  * ec2-hibinit-agent # EC2
