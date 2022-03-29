@@ -12,11 +12,11 @@
  * %linux-hwe
  * %linux-meta-hwe
  * %linux-signed-hwe
- * %linux-oem
- * %linux-meta-oem
- * %linux-signed-oem
- * %linux-restricted-modules-oem
- * %linux-restricted-signatures-oem
+ * %linux-oem-5.17
+ * %linux-meta-oem-5.17
+ * %linux-signed-oem-5.17
+ * %linux-restricted-modules-oem-5.17
+ * %linux-restricted-signatures-oem-5.17
  * %linux-riscv
  * %linux-meta-riscv
  * %linux-raspi
