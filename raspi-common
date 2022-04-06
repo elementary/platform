@@ -3,7 +3,6 @@ Ubuntu-family system (server or desktop) running on Raspberry Pi.
 
 = Hardware and Architecture Support =
 
- * cloud-initramfs-growroot
  * flash-kernel
  * libraspberrypi0
  * libraspberrypi-bin
