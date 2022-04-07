@@ -64,7 +64,6 @@ These are used for debugging problems or examining the system.
  * ppc64-diag [powerpc ppc64el]	# LP: #1417608
  * lshw
  * lsof
- * ltrace
 
 = Helpful Tools =
  
