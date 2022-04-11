@@ -21,6 +21,9 @@
  * %linux-gke
  * %linux-meta-gke
  * %linux-signed-gke
+ * %linux-ibm
+ * %linux-meta-ibm
+ * %linux-signed-ibm
  * %linux-oracle
  * %linux-signed-oracle
  * %linux-restricted-modules-oracle
