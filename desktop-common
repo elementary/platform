@@ -17,10 +17,6 @@ https://wiki.ubuntu.com/SeedManagement/AddingPackagesToDesktopCommon
  * ubuntu-drivers-common # Make it harder to remove detection support, LP#704597
  * libu2f-udev          # needed to get U2F and yubikeys to work properly
 
-Power management:
-
- * (acpi-support)
-
 Bluetooth:
 TODO not for Xubuntu
 
