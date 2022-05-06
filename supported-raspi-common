@@ -7,5 +7,5 @@ metapackages which are in main, but nethertheless need to be supported. They
 may be included into images by other means, e.g. by direct installation from
 livecd-rootfs.
 
- * linux-firmware-raspi2
+ * linux-firmware-raspi
  * pi-bluetooth
