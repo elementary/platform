@@ -81,7 +81,6 @@ Utilities:
  * iotop
  * john
  * libmemcached-tools #ClintByrum - server-maverick-uds-web20-workloads
- * nicstat
  * nut # UPS management
  * nut-cgi
  * nut-snmp
