@@ -10,3 +10,5 @@
  * grub-uboot [armhf]
  * grub-xen [amd64 i386]
  * sbsigntool
+
+ * ntfs-3g # no longer in the minimal image but bundled in subiquity snap
