@@ -19,6 +19,10 @@
  * %linux-restricted-signatures-oem-5.17
  * %linux-riscv
  * %linux-meta-riscv
+ * %linux-allwinner
+ * %linux-meta-allwinner
+ * %linux-starfive
+ * %linux-meta-starfive
  * %linux-raspi
  * %linux-meta-raspi
  * %linux-intel-iotg
