@@ -23,6 +23,10 @@
  * %linux-meta-allwinner
  * %linux-starfive
  * %linux-meta-starfive
+ * %linux-allwinner-5.17
+ * %linux-meta-allwinner-5.17
+ * %linux-starfive-5.17
+ * %linux-meta-starfive-5.17
  * %linux-raspi
  * %linux-meta-raspi
  * %linux-intel-iotg
