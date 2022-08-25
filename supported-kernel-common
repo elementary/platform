@@ -43,6 +43,7 @@
  * /^nvidia-fabricmanager-dev-[0-9]+/
  * /^nvidia-fabricmanager-[0-9]+/
  * /^cuda-drivers-fabricmanager-[0-9]+/
+ * /^libnvidia-nscq-[0-9]+/
  * kexec-tools
  * thermald
  * kernel-wedge
