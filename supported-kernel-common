@@ -34,6 +34,15 @@
  * %linux-signed-intel-iotg
  * %linux-restricted-modules-intel-iotg
  * %linux-restricted-signatures-intel-iotg
+ * /^linux-image-[0-9]+/
+ * /^linux-image-unsigned-[0-9]+/
+ * /^linux-headers-[0-9]+/
+ * /^linux-buildinfo-[0-9]+/
+ * /^linux-*tools-[0-9]+*/
+ * /^linux-modules-nvidia-[0-9]+/
+ * /^nvidia-fabricmanager-dev-[0-9]+/
+ * /^nvidia-fabricmanager-[0-9]+/
+ * /^cuda-drivers-fabricmanager-[0-9]+/
  * kexec-tools
  * thermald
  * kernel-wedge
