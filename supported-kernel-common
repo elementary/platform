@@ -38,7 +38,7 @@
  * /^linux-image-unsigned-[0-9]+/
  * /^linux-headers-[0-9]+/
  * /^linux-buildinfo-[0-9]+/
- * /^linux-*tools-[0-9]+*/
+ * /^linux-tools-[0-9]+/
  * /^linux-modules-nvidia-[0-9]+/
  * /^nvidia-fabricmanager-dev-[0-9]+/
  * /^nvidia-fabricmanager-[0-9]+/
