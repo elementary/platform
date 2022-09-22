@@ -58,6 +58,6 @@
 
  * u-boot-menu
  * u-boot-qemu
- * u-boot-sifive
- * u-boot-rpi
+ * u-boot-sifive [riscv64]
+ * u-boot-rpi [arm64 armhf]
  * opensbi
