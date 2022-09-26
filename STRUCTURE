@@ -5,7 +5,6 @@ minimal: required
 boot:
 standard: minimal
 desktop-common: standard
-d-i-requirements: minimal
 installer:
 build-essential: required
 language-packs: desktop-common
