@@ -14,7 +14,7 @@
  * automake
  * autotools-dev
  * libtool
- * pkg-config
+ * pkgconf
  * exuberant-ctags   # ColinWatson
  * linux32		# without it, biarch buildds can go wonky
  * autopkgtest
