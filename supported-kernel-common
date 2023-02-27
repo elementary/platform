@@ -18,7 +18,6 @@
  * %linux-meta-allwinner
  * %linux-starfive
  * %linux-meta-starfive
- * %linux-meta-starfive-5.17
  * %linux-raspi
  * %linux-meta-raspi
  * %linux-intel-iotg
@@ -38,3 +37,10 @@
  * kexec-tools
  * thermald
  * kernel-wedge
+
+== Proprietary drivers ==
+
+ * broadcom-sta-common
+ * bcmwl-kernel-source
+ * broadcom-sta-source
+ * !module-assistant
