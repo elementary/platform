@@ -9,6 +9,7 @@
  * grub-efi-arm [armhf]
  * grub-uboot [armhf]
  * grub-xen [amd64 i386]
+ * mini-iso-tools   # support package for ubuntu-mini-iso
  * sbsigntool
 
  * ntfs-3g # no longer in the minimal image but bundled in subiquity snap
