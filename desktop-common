@@ -125,3 +125,22 @@ Fonts:
  * (kerneloops-daemon) # watch for and allow reporting of kernel problems
  * (policykit-desktop-privileges) # passwordless disk/CPU speed/time operations for admins
  * language-selector-common # helps installer to work out which language-support packages to install
+
+== Blacklist ==
+
+inetutils-telnet was introduced through MIR (LP: #2008789), but only the
+-telnet package got reviewed and the other binaries from src:inetutils should
+stay out of main. Related to:
+https://git.launchpad.net/~ubuntu-core-dev/ubuntu-seeds/+git/platform/commit/?h=lunar&id=349619d
+
+ * !inetutils-ftp
+ * !inetutils-ftpd
+ * !inetutils-inetd
+ * !inetutils-ping
+ * !inetutils-syslogd
+ * !inetutils-talk
+ * !inetutils-talkd
+ * !inetutils-telnetd
+ * !inetutils-tools
+ * !inetutils-traceroute
+ * !telnetd
