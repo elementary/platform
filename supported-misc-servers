@@ -144,8 +144,8 @@ FTP:
 Networking:
 
  * isc-dhcp-server
- # keep both dhcp servers until we can demote isc-dhcp for 24.04 (LP: #2002861)
- * isc-kea
+ # keep both dhcp servers until we can demote isc-dhcp in 23.10 (LP: #2002861)
+ * kea
  * radvd
 
  * openvswitch-switch
