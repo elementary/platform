@@ -21,6 +21,7 @@ Bluetooth:
 TODO not for Xubuntu
 
  * (bluez) # base for bluetooth support
+ * (bluez-cups)  # allow connecting to bluetooth printers from CUPS
 
 == armel ==
 
@@ -57,15 +58,24 @@ These packages help with system integration
 
 Printing and printer configuration is a real weak spot in Debian, and in Linux in general. We will need to stay at the front of the curve here.
 
+ * (cups)                     # our preferred printer management infrastructure
+ * (cups-bsd)                 # gives us lpc, lpq, lpr, lprm
+ * (cups-client)              # gives us cancel, cupstestppd, lp, lpoptions, lppasswd, lpstat, cupsaddsmb, accept, lpadmin, lpinfo, lpmove
+ * foomatic-db-compressed-ppds  # the foomatic printer driver database
+ * (cups-filters)
+ * openprinting-ppds            # Most common drivers we want in desktop; less common are in o-p-extra
+ * printer-driver-pnm2ppa       # several ppds require this
  * ghostscript-x
- * snap:cups
- * snap:ipp-usb
- * snap:ps-printer-app
- * snap:ghostscript-printer-app
- * snap:gutenprint-printer-app
- * snap:hplip-printer-app
- * snap:lprint
- * snap:hp-printer-app
+ * (hplip)     			# support for HP all-in-one printers
+ * (printer-driver-min12xxw)	# support for KonicaMinolta PagePro 1200W, 1300W printers
+ * (printer-driver-foo2zjs)	# support for printing to ZjStream-based printers
+ * (printer-driver-splix)	# support for Samsung lasers
+ * (printer-driver-pxljr)	# support for HP Color lasers
+ * (printer-driver-c2esp)       # support for Kodak injket printers
+ * (printer-driver-ptouch)      # support for Brother P-touch printers
+ * (printer-driver-sag-gdi)     # support for Rico Aficio SPxxxx printers
+ * (printer-driver-brlaser)     # support for some Brother laser printers
+ * (printer-driver-m2300w)      # support for the Minolta magicolor 2300W/24000W color laser printers
 
 = GUI infrastructure =
 
