@@ -80,17 +80,9 @@ Fonts:
 
  * fonts-dejavu-core
  * fonts-freefont-ttf
- * (fonts-kacst-one)
- * (fonts-khmeros-core)
- * (fonts-thai-tlwg)
- * (fonts-lao)
- * (fonts-sil-padauk)
- * (fonts-tibetan-machine)
- * (fonts-sil-abyssinica)
- * (fonts-lklug-sinhala)
- * (fonts-indic)
  * (fonts-liberation)
  * (fonts-noto-cjk)
+ * (fonts-noto-core)
  * (fonts-ubuntu)
 
 = Debugging and Diagnostics =
