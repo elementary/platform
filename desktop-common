@@ -78,12 +78,12 @@ Packages used for X preconfiguration are just Recommends; removing them after in
 
 Fonts:
 
- * fonts-dejavu-core
- * fonts-freefont-ttf
+ * (fonts-dejavu-mono)           # DejaVu Sans Mono is the default monospace font in /etc/fonts/conf.d/60-latin.conf
  * (fonts-liberation)
  * (fonts-noto-cjk)
- * (fonts-noto-core)
- * (fonts-ubuntu)
+ * (fonts-noto-color-emoji)
+ * (fonts-noto-core)             # Noto Sans and Noto Serif are default in /etc/fonts/conf.d/60-latin.conf
+ * (fonts-ubuntu)                # desktop default via an override in the ubuntu-settings package
 
 = Debugging and Diagnostics =
 
