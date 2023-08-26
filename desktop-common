@@ -90,6 +90,9 @@ Packages used for X preconfiguration are just Recommends; removing them after in
 
 Fonts:
 
+ * fontconfig                    # Even if the below font packages are only "Recommends:", the alternative "Depends:" list
+                                 # in fontconfig-config makes sure that at least one base font package is installed.
+
  * (fonts-dejavu-mono)           # DejaVu Sans Mono is the default monospace font in /etc/fonts/conf.d/60-latin.conf
  * (fonts-liberation)
  * (fonts-noto-cjk)
