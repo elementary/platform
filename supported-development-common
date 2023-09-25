@@ -52,6 +52,7 @@
  * dh-exec
  * dh-di
  * dh-golang
+ * dh-cargo
 
 == Seed Management ==
 
