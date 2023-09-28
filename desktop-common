@@ -90,14 +90,14 @@ Packages used for X preconfiguration are just Recommends; removing them after in
 
 Fonts:
 
- * fontconfig                    # Even if the below font packages are only "Recommends:", the alternative "Depends:" list
-                                 # in fontconfig-config makes sure that at least one base font package is installed.
-
- * (fonts-dejavu-mono)           # DejaVu Sans Mono is the default monospace font in /etc/fonts/conf.d/60-latin.conf
+ * fontconfig
+ * fonts-dejavu-core             # DejaVu Sans Mono is the default monospace font in /etc/fonts/conf.d/60-latin.conf.
+                                 # The reason for the hard dependency is to make sure that DejaVu Sans is available in
+                                 # connection with distupgrades. LP: #2034986
  * (fonts-liberation)
  * (fonts-noto-cjk)
  * (fonts-noto-color-emoji)
- * (fonts-noto-core)             # Noto Sans and Noto Serif are default in /etc/fonts/conf.d/60-latin.conf
+ * (fonts-noto-core)             # Noto Sans and Noto Serif are default in /etc/fonts/conf.d/60-latin.conf.
  * (fonts-ubuntu)                # desktop default via an override in the ubuntu-settings package
 
 = Debugging and Diagnostics =
