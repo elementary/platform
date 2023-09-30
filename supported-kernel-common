@@ -20,6 +20,8 @@
  * %linux-meta-starfive
  * %linux-raspi
  * %linux-meta-raspi
+ * %linux-laptop
+ * %linux-meta-laptop
  * %linux-intel-iotg
  * %linux-meta-intel-iotg
  * %linux-signed-intel-iotg
