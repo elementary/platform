@@ -3,7 +3,7 @@ name: Update Metapackages
 on:
   push:
     branches:
-      - noble
+      - resolute
 
 jobs:
   build:
@@ -28,12 +28,12 @@ jobs:
         repository: elementary/metapackages
         path: metapackages
         token: "${{ secrets.GIT_USER_TOKEN }}"
-        ref: noble
+        ref: resolute
 
     - name: Update metapackages
       shell: bash
       env:
-        BRANCH: noble
+        BRANCH: resolute
       run: |
         cd metapackages
         ./update
