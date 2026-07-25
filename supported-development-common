@@ -23,7 +23,7 @@
  * libc6-prof [amd64 i386 powerpc sparc]
  * libc6.1-prof [ia64]
  * gfortran-multilib
- * libstdc++-11-pic
+ * libstdc++-15-pic
  * texinfo-doc-nonfree  # GFDL'd documentation for texinfo
  * make-doc
  * cmake
@@ -42,7 +42,7 @@
  * dupload           # ColinWatson
  * lintian
  * apt-listchanges
- * dput
+ * dput-ng
  * pkgstriptranslations # for removing gettext data on the buildds
  * pkg-create-dbgsym # automatic creation of debug symbols
  * hello

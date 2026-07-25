@@ -16,7 +16,6 @@ Task-Test-new-install: install skip
  * file
  * hdparm            # speed up CD-ROM and disk access, used by installer
  * info
- * (irqbalance)      # optimize IRQ:CPU affinities on multicore systems
  * libpam-systemd    # proper logind sessions, LP: #1561658
  * logrotate
  * man-db            # ColinWatson
@@ -64,13 +63,19 @@ These are used for debugging problems or examining the system.
  * ppc64-diag [powerpc ppc64el]	# LP: #1417608
  * lshw
  * lsof
+ * (sysstat)
+ * (numactl)
+ * (ethtool)
+ * (trace-cmd) # LP: #2051850
 
 = Helpful Tools =
  
  * (friendly-recovery)    # give a nice menu in recovery mode
  * (command-not-found)
+ * (update-manager-core)  # needed for server based release upgrades
  * (apparmor) # load AppArmor policies
  * (plymouth) # splash screen, and boot-time questions
+ * (plymouth-theme-ubuntu-text)
 
 == Network ==
 
@@ -81,14 +86,8 @@ These are used for debugging problems or examining the system.
 
 = Other =
 
- * elementary-standard # metapackage for everything here
+ * ubuntu-standard # metapackage for everything here
  * (apt) # James Westby, enables access to private PPAs among other things
- * language-selector-common # helps installer to work out which language-support packages to install
- * (elementary-os-overlay) # provides apt pinning
- * (cryptsetup) # was getting autoremoved after install possibly causing broken system
- * (lvm2) # was getting autoremoved after install causing broken system
- * (btrfs-tools)
- * (jfsutils)
 
 == Blacklist ==
 

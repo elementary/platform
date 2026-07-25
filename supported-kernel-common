@@ -1,6 +1,8 @@
 == Kernel ==
 
  * %linux
+ * %linux-main-modules
+ * %linux-main-signed
  * %linux-meta
  * %linux-signed
  * %linux-restricted-modules
@@ -12,13 +14,29 @@
  * %linux-hwe
  * %linux-meta-hwe
  * %linux-signed-hwe
+ * %linux-nvidia-bos
+ * %linux-main-modules-nvidia-bos
+ * %linux-main-signed-nvidia-bos
+ * %linux-meta-nvidia-bos
+ * %linux-signed-nvidia-bos
+ * %linux-restricted-modules-nvidia-bos
+ * %linux-restricted-signatures-nvidia-bos
+ * %linux-realtime
+ * %linux-main-modules-realtime
+ * %linux-main-signed-realtime
+ * %linux-meta-realtime
+ * %linux-signed-realtime
  * %linux-riscv
+ * %linux-main-modules-riscv
+ * %linux-main-signed-riscv
  * %linux-meta-riscv
  * %linux-allwinner
  * %linux-meta-allwinner
  * %linux-starfive
  * %linux-meta-starfive
  * %linux-raspi
+ * %linux-main-modules-raspi
+ * %linux-main-signed-raspi
  * %linux-meta-raspi
  * %linux-laptop
  * %linux-meta-laptop
@@ -35,10 +53,13 @@
  * /^linux-cloud-tools-[0-9]+/
  * /^linux-modules-nvidia-[0-9]+/
  * /^linux-modules-extra-[0-9]+/
+ * /^linux-objects-nvidia-[0-9]+/
  * /^linux-source-[0-9]+/
+ * /^nvidia-firmware-[0-9]+/
  * kexec-tools
+ * linux-firmware-minimal
  * thermald
- * kernel-wedge
+ * ubuntu-realtime
 
 == Proprietary drivers ==
 

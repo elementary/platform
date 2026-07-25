@@ -13,4 +13,3 @@
  * open-iscsi
  * nfs-kernel-server
  * nfs-common
- * glusterfs-server # (MIR LP: #1950321)

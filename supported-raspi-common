@@ -1,5 +1,11 @@
 These are packages which are supported for Raspberry Pi platforms.
 
+locales-all is included within the image definition of pre-installed desktop
+images to enable translations within gnome-initial-setup (e.g. the +raspi
+images). See LP: #2118539 for more details.
+
+ * locales-all
+
 == non-free packages ==
 
 Hardware support packages which are non-free, and so cannot be depended on by
@@ -8,4 +14,3 @@ may be included into images by other means, e.g. by direct installation from
 livecd-rootfs.
 
  * linux-firmware-raspi
- * pi-bluetooth

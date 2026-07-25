@@ -7,7 +7,6 @@ Ubiquity needs full filesystem support for the partitioner.
  * btrfs-progs
  * ntfs-3g
  * lvm2
- * dmraid
 
 # workaround for a broken aufs/overlayfs (e. g. LP #587888); also needs
 # cdimage change to use union=unionfs-fuse kernel parameter
@@ -21,3 +20,7 @@ Ubiquity needs full filesystem support for the partitioner.
 
  * wamerican  # iamerican Depends: ispell Recommends: wordlist, but wamerican isn't spotted in time so germinate arbitrarily picks miscfiles instead
 
+== ARM64 Devices ==
+
+ * ubuntu-x13s-settings-nogrub [arm64]
+ * ubuntu-x1e-settings-nogrub [arm64]  # MIR: https://bugs.launchpad.net/ubuntu/+bug/2095536
