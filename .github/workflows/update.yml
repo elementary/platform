@@ -20,10 +20,10 @@ jobs:
         apt-get install -y git devscripts debootstrap germinate
 
     - name: Checkout platform
-      uses: actions/checkout@v4
+      uses: actions/checkout@v7
 
     - name: Checkout metapackages
-      uses: actions/checkout@v4
+      uses: actions/checkout@v7
       with:
         repository: elementary/metapackages
         path: metapackages
