@@ -40,7 +40,6 @@ Programs and packages necessary for both the proper functionality of the system 
  * sudo-rs           # LP: #2113928
  * sysvinit-utils    # until "pidof" moves into procps, Debian #810018
  * tzdata
- * ubuntu-pro-client # needs to be on the system by default for the offerings of Ubuntu Pro like ESM
  * ubuntu-keyring     # for authenticated package downloads
  * udev
  * vim-tiny
