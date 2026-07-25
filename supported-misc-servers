@@ -10,6 +10,12 @@ Database:
  * mysql-server
  * mysql-client
 
+ * mariadb-server
+ * mariadb-client
+
+ * valkey-server
+ * valkey-sentinel
+
 Email:
 
  * fetchmail
@@ -78,7 +84,7 @@ Utilities:
  * logcheck		  # great security tool for any server
  * logcheck-database	  # useful for above
  * rrdtool
- * iotop
+ * iotop-c
  * john
  * libmemcached-tools #ClintByrum - server-maverick-uds-web20-workloads
  * nut # UPS management
@@ -118,6 +124,7 @@ High Availability:
  * pacemaker
  * multipath-tools-boot
  * nbd-server
+ * nbd-client
  * drbd-utils
 
 Configuration Management:
@@ -130,7 +137,9 @@ Other:
  * rabbitmq-server
  * unzip
  * containerd # for OCF support (LP: #1819761)
+ * containerd-stable # Stable version of containerd (LP: #2121802)
  * runc # for OCF support (LP: #1817336)
+ * runc-stable # Stable version of runc (LP: #2121802)
  * clamav
  * clamav-daemon
 
@@ -143,8 +152,6 @@ FTP:
 
 Networking:
 
- * isc-dhcp-server
- # keep both dhcp servers until we can demote isc-dhcp in 23.10 (LP: #2002861)
  * kea
  * radvd
 
@@ -153,15 +160,93 @@ Networking:
 
 KVM Virtualization Stack:
 # held via virt-host tasks before
+# Due to the Provides/Depends of -hwe components on the base ones
+# we need to:
+#  1) explicitly list all -hwe components
+#  2) explicitly list base components that might be removed because of
+#     Provides by -hwe components
 
  * qemu-system-x86 [i386 amd64]
+ * qemu-system-x86-hwe [i386 amd64]
  * qemu-system-ppc [powerpc ppc64el]
+ * qemu-system-ppc-hwe [powerpc ppc64el]
  * qemu-system-aarch64 [arm64]
+ * qemu-system-aarch64-hwe [arm64]
  * qemu-system-s390x [s390x]
- * qemu-kvm
+ * qemu-system-s390x-hwe [s390x]
  * libvirt-daemon-system
+ * libvirt-daemon-system-hwe
  * libvirt-clients
+ * libvirt-clients-hwe
  * python3-libvirt
+
+ * libvirt-common
+ * libvirt-common-hwe
+ * libvirt-daemon
+ * libvirt-daemon-hwe
+ * libvirt-daemon-common
+ * libvirt-daemon-common-hwe
+ * libvirt-daemon-config-network
+ * libvirt-daemon-config-network-hwe
+ * libvirt-daemon-config-nwfilter
+ * libvirt-daemon-config-nwfilter-hwe
+ * libvirt-daemon-driver-interface
+ * libvirt-daemon-driver-interface-hwe
+ * libvirt-daemon-driver-network
+ * libvirt-daemon-driver-network-hwe
+ * libvirt-daemon-driver-nodedev
+ * libvirt-daemon-driver-nodedev-hwe
+ * libvirt-daemon-driver-nwfilter
+ * libvirt-daemon-driver-nwfilter-hwe
+ * libvirt-daemon-driver-qemu
+ * libvirt-daemon-driver-qemu-hwe
+ * libvirt-daemon-driver-secret
+ * libvirt-daemon-driver-secret-hwe
+ * libvirt-daemon-driver-storage
+ * libvirt-daemon-driver-storage-hwe
+ * libvirt-daemon-driver-storage-disk
+ * libvirt-daemon-driver-storage-disk-hwe
+ * libvirt-daemon-driver-storage-iscsi
+ * libvirt-daemon-driver-storage-iscsi-hwe
+ * libvirt-daemon-driver-storage-logical
+ * libvirt-daemon-driver-storage-logical-hwe
+ * libvirt-daemon-driver-storage-mpath
+ * libvirt-daemon-driver-storage-mpath-hwe
+ * libvirt-daemon-driver-storage-scsi
+ * libvirt-daemon-driver-storage-scsi-hwe
+ * libvirt-daemon-lock
+ * libvirt-daemon-lock-hwe
+ * libvirt-daemon-log
+ * libvirt-daemon-log-hwe
+ * libvirt-daemon-plugin-lockd
+ * libvirt-daemon-plugin-lockd-hwe
+ * libvirt-l10n
+ * libvirt-l10n-hwe
+ * ovmf
+ * ovmf-hwe
+ * ovmf-amdsev
+ * ovmf-amdsev-hwe
+ * ovmf-generic
+ * ovmf-generic-hwe
+ * ovmf-inteltdx
+ * ovmf-inteltdx-hwe
+ * qemu-block-extra
+ * qemu-block-extra-hwe
+ * qemu-system-data
+ * qemu-system-data-hwe
+ * qemu-system-gui
+ * qemu-system-gui-hwe
+ * qemu-system-modules-opengl
+ * qemu-system-modules-opengl-hwe
+ * qemu-system-modules-spice
+ * qemu-system-modules-spice-hwe
+ * qemu-utils
+ * qemu-utils-hwe
+ * seabios
+ * seabios-hwe
+
+ # only in -hwe
+ * ubuntu-helper-virt-hwe
 
 Other Virtualization:
 
@@ -170,7 +255,6 @@ Other Virtualization:
 Cloud:
 
  * cloud-utils
- * joyent-mdata-client
 
 IPv6 tools:
 

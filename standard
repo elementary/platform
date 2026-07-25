@@ -16,7 +16,6 @@ Task-Test-new-install: install skip
  * file
  * hdparm            # speed up CD-ROM and disk access, used by installer
  * info
- * (irqbalance)      # optimize IRQ:CPU affinities on multicore systems
  * libpam-systemd    # proper logind sessions, LP: #1561658
  * logrotate
  * man-db            # ColinWatson
@@ -64,6 +63,10 @@ These are used for debugging problems or examining the system.
  * ppc64-diag [powerpc ppc64el]	# LP: #1417608
  * lshw
  * lsof
+ * (sysstat)
+ * (numactl)
+ * (ethtool)
+ * (trace-cmd) # LP: #2051850
 
 = Helpful Tools =
  

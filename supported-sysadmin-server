@@ -7,6 +7,7 @@ Select the dummy MTA we want on i386
 Hardware related tools:
 
  * numactl   # LP: #1700826
+ * irqbalance # optimize IRQ:CPU affinities on multicore systems; MIR LP: #488835; discussion to no more default enable LP: #1833322
 
 Network related:
 
@@ -29,3 +30,7 @@ Systems management:
 
  * freeipmi-tools
  * openipmi
+ * screen # LP: #2111927 - terminal multiplexer, formerly ubuntu-server seed
+ * wget	# LP:# 211927 - Fetch data from the command line, formerly ubuntu-server seed
+
+

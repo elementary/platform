@@ -35,7 +35,6 @@ These are packages which have "Essential: yes" in their control file.
  * perl-base
  * sed
  * tar            # LaMontJones
- * (usrmerge)     # xnox Default since Disco. Will be mandatory in 22.10. Only recommend, such that it is installed on upgrades, can be removed afterwards.
  * util-linux     # LaMontJones
 
 In some sense, debconf isn't truly required, but it makes our life a lot easier to have it installed in the first pass.

@@ -5,7 +5,6 @@ Staged Packages:
  * snmp                    # APC
  * wget                    # DLI
  * freeipmi-tools          # IPMI
- * ipmitool                # IPMI
  * libvirt-clients         # Virsh
  * pxelinux                # Booting legacy x86, PowerNV, Windows
  * syslinux-common         # Booting legacy x86, PowerNV, Windows
@@ -18,8 +17,6 @@ Staged Packages:
  * bind9
  * gpgv
  * iproute2
- * isc-dhcp-client
- * isc-dhcp-server
  * libatm1
  * libpq5
  * libxtables12
@@ -50,7 +47,6 @@ Staged Packages:
  * python3-tempita
  * python3-twisted
  * python3-zope.interface
- * python3-seamicroclient
  * python3-txtftp
  * python3-yaml
  * python3-simplestreams

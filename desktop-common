@@ -15,7 +15,6 @@ https://wiki.ubuntu.com/SeedManagement/AddingPackagesToDesktopCommon
  * (pcmciautils)        # PCMCIA support for >= 2.6.13-rc1 kernels
  * inputattach          # needed for serial mice
  * ubuntu-drivers-common # Make it harder to remove detection support, LP#704597
- * libu2f-udev          # needed to get U2F and yubikeys to work properly
 
 Bluetooth:
 TODO not for Xubuntu
@@ -43,7 +42,7 @@ These tools are very commonly used by people who drop into a console shell to do
 
 Basic network services and Windows integration.
 
- * wireless-tools
+ * iw                  # Replace deprecated wireless-tools (LP: #2068612)
  * rfkill              # No longer using the copy from wireless-tools (LP: #715309)
  * wpasupplicant  # ScottJamesRemnant
  * (libnss-mdns)       # IPv4 link-local DNS support
@@ -65,7 +64,7 @@ Printing and printer configuration is a real weak spot in Debian, and in Linux i
  * (cups-filters)
  * openprinting-ppds            # Most common drivers we want in desktop; less common are in o-p-extra
  * printer-driver-pnm2ppa       # several ppds require this
- * ghostscript-x
+ * ghostscript
  * (hplip)     			# support for HP all-in-one printers
  * (printer-driver-min12xxw)	# support for KonicaMinolta PagePro 1200W, 1300W printers
  * (printer-driver-foo2zjs)	# support for printing to ZjStream-based printers
@@ -83,7 +82,6 @@ Packages used for X preconfiguration are just Recommends; removing them after in
 
  * (laptop-detect)
 
- * xorg                          # this includes xserver-xorg->xserver-xorg-{input|video}-* (no need to add specific drivers manually)
  * !linux-image-*                # xorg transitively depends on this, but this would pull in grub-pc; we handle that separately
  * xkb-data                      # XKB data now lives here
  * spice-vdagent                 # Better when run as a Spice VM, like with GNOME Boxes LP: #1200296
@@ -94,8 +92,6 @@ Fonts:
  * fonts-dejavu-core             # DejaVu Sans Mono is the default monospace font in /etc/fonts/conf.d/60-latin.conf.
                                  # The reason for the hard dependency is to make sure that DejaVu Sans is available in
                                  # connection with distupgrades. LP: #2034986
- * (fonts-kacst-one)
- * (fonts-sil-padauk)
  * (fonts-noto-cjk)
  * (fonts-noto-color-emoji)
  * (fonts-noto-core)             # Noto Sans and Noto Serif are default in /etc/fonts/conf.d/60-latin.conf.

@@ -2,45 +2,67 @@
 
  * cifs-utils
  * cloud-guest-utils
- * hibagent
+ * cloud-init-azure
  * %linux-aws
+ * %linux-main-modules-aws
+ * %linux-main-signed-aws
+ * %linux-meta-aws
+ * %linux-signed-aws
  * %linux-restricted-modules-aws
  * %linux-restricted-signatures-aws
- * %linux-meta-aws
  * %linux-azure
+ * %linux-main-modules-azure
+ * %linux-main-signed-azure
+ * %linux-meta-azure
  * %linux-signed-azure
  * %linux-restricted-modules-azure
  * %linux-restricted-signatures-azure
- * %linux-meta-azure
+ * %linux-azure-fde
+ * %linux-main-modules-azure-fde
+ * %linux-main-signed-azure-fde
+ * %linux-meta-azure-fde
+ * %linux-signed-azure-fde
+ * %linux-restricted-modules-azure-fde
+ * %linux-restricted-signatures-azure-fde
  * %linux-kvm
  * %linux-meta-kvm
  * %linux-gcp
+ * %linux-main-modules-gcp
+ * %linux-main-signed-gcp
+ * %linux-meta-gcp
+ * %linux-signed-gcp
  * %linux-restricted-modules-gcp
  * %linux-restricted-signatures-gcp
- * %linux-meta-gcp
  * %linux-gke
  * %linux-meta-gke
  * %linux-signed-gke
  * %linux-ibm
+ * %linux-main-modules-ibm
+ * %linux-main-signed-ibm
  * %linux-meta-ibm
  * %linux-signed-ibm
  * %linux-oracle
+ * %linux-main-modules-oracle
+ * %linux-main-signed-oracle
+ * %linux-meta-oracle
  * %linux-signed-oracle
  * %linux-restricted-modules-oracle
  * %linux-restricted-signatures-oracle
- * %linux-meta-oracle
  * chrony # ntpd replaced by chrony >=18.04 (LP: #1744072)
  * ec2-hibinit-agent # EC2
  * ec2-instance-connect # EC2
  * gce-compute-image-packages # Google Compute Engine
  * google-osconfig-agent # Google Compute Engine
  * walinuxagent
+ * azure-proxy-agent # Microsoft Azure (LP: #2112359)
+ * azure-vm-utils # Microsoft Azure (LP: #2093322)
  * socat # LP: #1756870
  * pv  # LP: #1746891
  * lxd-installer # installed by livecd-rootfs in minimized cloud images
  * sysfsutils
  * cloud-initramfs-rooturl # maas images initrd uses this
  * nvme-cli # GKE (LP: #1889688)
+ * nullboot # as supported by foundations and used on Azure CVM
 
 = Architecture specific packages =
 
@@ -59,5 +81,6 @@
  * u-boot-menu
  * u-boot-qemu
  * u-boot-sifive [riscv64]
+ * u-boot-microchip [riscv64]
  * u-boot-rpi [arm64 armhf]
  * opensbi
