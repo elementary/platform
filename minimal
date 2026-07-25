@@ -28,6 +28,7 @@ Programs and packages necessary for both the proper functionality of the system 
  * debconf-i18n      # buildd chroots don't need this, but other systems generally do
  * kbd
  * eject             # very popular, useful, small
+ * flatpak
  * less
  * locales
  * lsb-release
@@ -59,5 +60,5 @@ These provide various networking services, all should be configured in a client-
 = Meta =
 
  * init               # ensure we have an init system (but minimal chroots)
- * ubuntu-minimal     # Ubuntu-specific bits we want on every Ubuntu system
+ * elementary-minimal     # elementary-specific bits we want on every elementary system
 
