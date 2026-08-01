@@ -91,6 +91,7 @@ These are used for debugging problems or examining the system.
  * (cryptsetup) # was getting autoremoved after install possibly causing broken system
  * (lvm2) # was getting autoremoved after install causing broken system
  * (btrfs-tools)
+ * (btrfs-progs)
  * (jfsutils)
 
 == Blacklist ==
